@@ -2,7 +2,7 @@
 layout: page
 title: Agenda & Speakers
 description: Check out the speaker lineup and who is speaking at Community Summit TLV.
-image: assets/images/pic10.jpg
+image: assets/images/pic07.jpg
 
 ---
 
