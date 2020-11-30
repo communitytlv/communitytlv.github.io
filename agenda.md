@@ -30,7 +30,7 @@ image: assets/images/pic07.jpg
 <div class="box" style="background-color: #2a2f4a;" >
 	<div>09:40 AM - 10:20 AM IST</div>
 
-	<div><h3><span style="color: turquoise">Keynote</span>
+	<div><h3><span style="color: turquoise; text-transform: uppercase;">Keynote</span>
 	| DataOps - Why is it so hard?!<span style="color: turquoise; text-transform: uppercase;"> // Einat Orr</span></h3></div>
     <a href="#open-modal-2"><img src="assets/images/speakers/einat.png" alt="Einat Orr - Treeverse" width="200" style="float: left; padding-right: 10px;" /></a>
         <ul class="icons">EINAT ORR <br/> TREEVERSE <br/>
