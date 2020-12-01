@@ -12,7 +12,7 @@ show_tile: false
 
 <div class="row">
 	<span style="text-transform: uppercase;"><h3></h3>
-		<p><a href="https://appsflyer.com" target="_blank"><img src="assets/images/sponsor-logos/AF-ENG-SQ.png" width="150"></a>&nbsp;&nbsp;<a href="https://terasky.com" target="_blank"><img src="assets/images/sponsor-logos/terasky-SQ.png" width="150"></a>&nbsp;&nbsp;<a href="https://snyk.io" target="_blank"><img src="assets/images/sponsor-logos/snyk-SQ.png" width="150"></a>&nbsp;&nbsp;<a href="https://www.nextinsurance.com/" target="_blank"><img src="assets/images/sponsor-logos/next-SQ.png" width="150"></a>&nbsp;&nbsp;<a href="https://monday.com/" target="_blank"><img src="assets/images/sponsor-logos/monday-SQ.png" width="150"></a>&nbsp;&nbsp;<a href="https://elastic.co/" target="_blank"><img src="assets/images/sponsor-logos/elastic-SQ.png" width="150"></a>&nbsp;&nbsp;<a href="https://aws.amazon.com/events/aws-israel/" target="_blank"><img src="assets/images/sponsor-logos/aws-SQ.png" width="150"></a>&nbsp;&nbsp;<a href="https://www.aerospike.com/" target="_blank"><img src="assets/images/sponsor-logos/aerospike-SQ.png" width="150"></a><br/><a href="https://bigpanda.io/" target="_blank"><img src="assets/images/sponsor-logos/bigpanda-SQ.png" width="150"></a>&nbsp;&nbsp;<a href="https://couchbase.com/" target="_blank"><img src="assets/images/sponsor-logos/couchbase-SQ.png" width="150"></a>&nbsp;&nbsp;<a href="https://vonage.com/" target="_blank"><img src="assets/images/sponsor-logos/vonage-SQ.png" width="150"></a>&nbsp;&nbsp;<a href="https://www.site24x7.com" target="_blank"><img src="assets/images/sponsor-logos/site24-SQ.png" width="150"></a></p></span>
+		<p><a href="https://appsflyer.com" target="_blank"><img src="assets/images/sponsor-logos/AF-ENG-SQ.png" width="150"></a>&nbsp;&nbsp;<a href="https://terasky.com" target="_blank"><img src="assets/images/sponsor-logos/terasky-SQ.png" width="150"></a>&nbsp;&nbsp;<a href="https://snyk.io" target="_blank"><img src="assets/images/sponsor-logos/snyk-SQ.png" width="150"></a>&nbsp;&nbsp;<a href="https://www.nextinsurance.com/" target="_blank"><img src="assets/images/sponsor-logos/next-SQ.png" width="150"></a>&nbsp;&nbsp;<a href="https://monday.com/" target="_blank"><img src="assets/images/sponsor-logos/monday-SQ.png" width="150"></a>&nbsp;&nbsp;<a href="https://elastic.co/" target="_blank"><img src="assets/images/sponsor-logos/elastic-SQ.png" width="150"></a>&nbsp;&nbsp;<a href="https://aws.amazon.com/events/aws-israel/" target="_blank"><img src="assets/images/sponsor-logos/aws-SQ.png" width="150"></a>&nbsp;&nbsp;<a href="https://www.aerospike.com/" target="_blank"><img src="assets/images/sponsor-logos/aerospike-SQ.png" width="150"></a>&nbsp;&nbsp;<a href="https://bigpanda.io/" target="_blank"><img src="assets/images/sponsor-logos/bigpanda-SQ.png" width="150"></a>&nbsp;&nbsp;<a href="https://couchbase.com/" target="_blank"><img src="assets/images/sponsor-logos/couchbase-SQ.png" width="150"></a>&nbsp;&nbsp;<a href="https://vonage.com/" target="_blank"><img src="assets/images/sponsor-logos/vonage-SQ.png" width="150"></a>&nbsp;&nbsp;<a href="https://www.site24x7.com" target="_blank"><img src="assets/images/sponsor-logos/site24-SQ.png" width="150"></a>&nbsp;&nbsp;<a href="https://www.mysql.com" target="_blank"><img src="assets/images/sponsor-logos/mysql-SQ.png" width="150"></a>&nbsp;&nbsp;<a href="https://www.similarweb.com" target="_blank"><img src="assets/images/sponsor-logos/similarweb-SQ.png" width="150"></a>&nbsp;&nbsp;<a href="https://www.yotpo.com" target="_blank"><img src="assets/images/sponsor-logos/yotpo-SQ.png" width="150"></a></p></span>
 </div>
 
  <ul class="actions">
@@ -103,7 +103,29 @@ show_tile: false
                
         </div>
 
+    
+
+        <div class="2u">
+        <p align="center"><img src="assets/images/devseccon-SQ.png" alt="DevSecCon" width="200" />
+       <br/><strong>KEYNOTE</strong></p>
+
+         <a href="#open-modal-5"><img src="assets/images/speakers/noam.png" alt="Noam Rotem - Hyperguest" width="200" /></a>
+       <ul class="icons">NOAM ROTEM <br/> HYPERGUEST <br/>
+        <li><a href="https://www.linkedin.com/in/noamr/"  target="_blank" class="icon fa-linkedin"></a></li>
+        </ul>
         
+        <div id="open-modal-5" class="modal-window">
+        <div><a href="#5" title="Close" class="modal-close">X</a>
+        <h4 style="text-transform: uppercase;">Good code, bad OPSEC - Data horror stories from a hacker's perspective</h4>
+        <div><small>For the past few years, together with Ran Locar, we're running a side project to find sensitive data exposed by governments and large corporations. Although the code is usually OK from a security POV, in many cases the OPSEC is so bad it makes the effort invested in developing good code - redundant. In this talk we'll cover a few cases unearthed by our project, explore the failures, and discuss ways to prevent such catastrophes from happening on your systems.</small></div>
+        <br/>
+         <details><summary><strong>Noam's's Bio</strong></summary>
+        Noam Rotem is a CTO of a young VC backed start-up. in the past 25 years he built several large systems that are still being used by millions of people around the world. In his spare time, he hosts the popular podcast 'Cyber Cyber' covering various aspects of the cyber security scene, and is a renowned security researcher featured in some of the world's biggest media outlets.
+        </details>
+        </div>
+        </div>  
+
+   	</div>
 
 		<div class="2u">
         <p align="center"><img src="assets/images/devopsdays-SQ.png" alt="DevOpsDays" width="200" />
@@ -659,6 +681,27 @@ show_tile: false
          <br/>
         <details><summary><strong>Yaniv's Bio</strong></summary>
         Chloé Messdaghi is the VP of Strategy at Point3 Security. She is an InfoSec Advocate & Activist who strongly believes that information security is a humanitarian issue. Besides her passion to keep people safe and empowered online & offline, she is driven to fight for hacker rights as a Cofounder of Hacking is NOT a Crime. She is also the founder of WeAreHackerz (formerly known as WomenHackerz) & the President and cofounder of Women of Security (WoSEC), podcaster for ITSP Magazine's The Uncommon Journey, and runs the Hacker Book Club.</details>
+        </div>
+        </div> 
+        
+        </div>
+
+
+
+          <div class="2u">
+         <a href="#open-modal-28"><img src="assets/images/speakers/oded.png" alt="Oded Hareven - Akeyless" width="200"  /></a>
+        <ul class="icons">ODED HAREVEN <br/> AKEYLESS <br/>
+        <li><a href="https://www.linkedin.com/in/odedhareven/"  target="_blank" class="icon fa-linkedin"></a></li>
+        </ul>
+        
+         <div id="open-modal-28" class="modal-window">
+        <div><a href="#28" title="Close" class="modal-close">X</a>
+        <h4 style="text-transform: uppercase;">Stopping the hassle of SSH keys by using SSH Certificates</h4>
+        <div>IGNITE</div>
+        <div><small>SSH Keys are known to be a major operational burden, either because of the constant provisioning to target hosts or due to SSH keys that went lost (not to mention employees that took their private keys with them after they left the company…) In this session you’ll learn how to eliminate the need for ssh-keys by using ssh-certificates which in order to profoundly improve efficiency and significantly increase your workloads security posture with just-in-time access and audit.</small></div>
+         <br/>
+        <details><summary><strong>Oded's Bio</strong></summary>
+        Oded Hareven, a veteran of the Israeli Defense Forces Cyber-Security elite unit, has held various senior product and project management positions in the enterprise security and Identity and Access Management realm. Currently is the CEO and co-founder of Akeyless.io, a breakthrough SaaS Secrets Management platform made for an infinite scale.</details>
         </div>
         </div> 
         
