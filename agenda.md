@@ -30,8 +30,8 @@ image: assets/images/pic07.jpg
 <div class="box" style="background-color: #2a2f4a;" >
 	<div>09:40 AM - 10:20 AM IST</div>
 
-	<div><h3><span style="color: turquoise; text-transform: uppercase;">Keynote</span>
-	| DataOps - Why is it so hard?!<span style="color: turquoise; text-transform: uppercase;"> // Einat Orr</span></h3></div>
+	<div><h3 style="text-transform: uppercase;"><span style="color: turquoise;">Keynote</span>
+	| DataOps - Why is it so hard?!<span style="color: turquoise; "> // Einat Orr</span></h3></div>
     <a href="#open-modal-2"><img src="assets/images/speakers/einat.png" alt="Einat Orr - Treeverse" width="200" style="float: left; padding-right: 10px;" /></a>
         <ul class="icons">EINAT ORR <br/> TREEVERSE <br/>
         <li><a href="https://twitter.com/EinatOrr" target="_blank" class="icon fa-twitter"></a></li>
@@ -57,7 +57,7 @@ image: assets/images/pic07.jpg
 </div>
 
 <div class="box" style="background-color: #2a2f4a;" >
-	<div>09:40 AM - 10:20 AM IST</div>
+	<div>10:30 AM - 11:10 AM IST</div>
 	<div><h3><span style="color: #8d82c4; text-transform: uppercase;">DevOpsDays Ignites</span></h3></div>
 	<div>
     <div class="box">
@@ -100,9 +100,9 @@ From this point onwards, you can treat it as a CICD project since it's basically
         </div> 
         <h4 style="text-transform: uppercase;">Waste-Oriented, Hunch-Based Web Architecture
 		<span style="color: #8d82c4;">// Michael Zion</span></h4>
-		<p>"The software engineering field lacks hunch-based decisions.<br>
+		<p>The software engineering field lacks hunch-based decisions.<br>
          It's oriented towards making things right, rather than going YOLO and enjoying life. <br>
-        In my talk I'm suggesting an alternate approach, where production is important, but not as much as the feelings of the person changing production."</p>
+        In my talk I'm suggesting an alternate approach, where production is important, but not as much as the feelings of the person changing production.</p>
 	    </div>
 
 
@@ -123,8 +123,8 @@ From this point onwards, you can treat it as a CICD project since it's basically
                      
         <h4 style="text-transform: uppercase;">Obviously a major malfunction... Lessons 35 years after the Challenger Disaster
 		<span style="color: #8d82c4;">// Robert Barron</span></h4>
-		<p>"The Space Shuttle was the most advanced machine ever designed. It was a triumph and a marvel of the modern world.<br>
-        And on January 1986, shuttle Challenger disintegrated seconds after launch.This session will discuss how and why the disaster occurred and what lessons modern DevOps and SREs can learn."</p>
+		<p>The Space Shuttle was the most advanced machine ever designed. It was a triumph and a marvel of the modern world.<br>
+        And on January 1986, shuttle Challenger disintegrated seconds after launch.This session will discuss how and why the disaster occurred and what lessons modern DevOps and SREs can learn.</p>
 	    </div>
 
 
@@ -168,7 +168,7 @@ From this point onwards, you can treat it as a CICD project since it's basically
                
         <h4 style="text-transform: uppercase;">Checking the pulse on DevOps and Observability
 		<span style="color: #8d82c4;">// Dotan Horovits</span></h4>
-		<p>"What are the biggest obstacles to Observability? Is Observability just the DevOps' responsibility? How many companies actually use tracing? Which open source SW is gaining popularity? <br>We went and asked this and much more to nearly 1000 engineers across the globe, to check the pulse on DevOps."</p>
+		<p>What are the biggest obstacles to Observability? Is Observability just the DevOps' responsibility? How many companies actually use tracing? Which open source SW is gaining popularity? <br>We went and asked this and much more to nearly 1000 engineers across the globe, to check the pulse on DevOps.</p>
 	    </div>
 	
     
@@ -264,7 +264,7 @@ From this point onwards, you can treat it as a CICD project since it's basically
 <div><h3><span style="color: turquoise">Keynote</span>
 	| THE WORLD HAS CHANGED - HAVE OUR DESIGNS?<span style="color: turquoise"> // Avishai Ish-Shalom</span></h3></div>
     <a href="#open-modal-1"><img src="assets/images/speakers/avishai.png" alt="Avishai Ish-Shalom" width="200" style="float: left; padding-right: 10px;" /></a>
-        <ul class="icons"> SCYLLADB <br/>
+        <ul class="icons"> AVISHAI ISH-SHALOM <br/> SCYLLADB <br/>
          <li><a href="https://twitter.com/nukemberg" target="_blank" class="icon fa-twitter"></a></li>
         <li><a href="https://www.linkedin.com/in/nukemberg/"  target="_blank" class="icon fa-linkedin"></a></li>
         <li><a href="https://github.com/nukemberg" target="_blank" class="icon fa-github"></a></li></ul>
