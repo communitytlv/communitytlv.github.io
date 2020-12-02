@@ -722,7 +722,7 @@ From this point onwards, you can treat it as a CICD project since it's basically
 
 <div class="box">
      <a href="#open-modal-36"><img src="assets/images/speakers/anna.png" alt="ANNA TSIBULSKAYA" width="100" style="float: left; padding-right: 10px;"  /></a>
-     <ul class="icons">ANNA TSIBULSKAYA <br/> FORTER <br/>
+     <ul class="icons">ANNA TSIBULSKAYA <br/> MICROSOFT <br/>
         <li><a href="https://twitter.com/a_tsibulskaya" target="_blank" class="icon fa-twitter"></a></li>
         <li><a href="https://www.linkedin.com/in/anna-tsibulskaya-28429363/"  target="_blank" class="icon fa-linkedin"></a></li>
         <li><a href="https://github.com/atsibulskaya" target="_blank" class="icon fa-github"></a></li>
