@@ -450,7 +450,7 @@ From this point onwards, you can treat it as a CICD project since it's basically
     <div><h4 style="text-transform: uppercase;">SPONSOR TALKS</h4></div>
      <div><h5><span style="color: turquoise; text-transform: uppercase;">ELASTIC: What Is Great About Modern Monolithic Applications?, Philipp Krenn, Developer Advocate</span></h5></div>
     <p>You only have ONE repository, build artifact, deployment step, process, and version that you can run locally but still scale horizontally. Sounds too good to be true and you think it must be a theoretical example? Far from it…You might even be running such a monolith yourself. Though there are of course some tradeoffs that we are covering as well.</p>
-    <div><h5><span style="color: turquoise; text-transform: uppercase;">VONAGE: Conversing with machines: tips for creating meaningful voice interactions, Philipp Krenn, Noam Mor, Conversation Design Lead, Vonage </span></h5></div>
+    <div><h5><span style="color: turquoise; text-transform: uppercase;">VONAGE: Conversing with machines: tips for creating meaningful voice interactions, Noam Mor, Conversation Design Lead </span></h5></div>
     <p>Voice is one of the first capabilities we acquire as newborns, and one of the last we lose before we leave this world. Voice communication is the fastest, most natural and efficient way to convey an idea, so why is it so hard for machines to understand the human language? <br/>During this five minute talk, I'll share several tips that will help drive engagement when designing virtual assistant conversations, without ever compromising on experience..</p>
     </div>
 
