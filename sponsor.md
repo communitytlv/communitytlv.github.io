@@ -84,6 +84,11 @@ Snyk’s unique combination of developer-first tooling and best in class securit
 </p>
 <hr/>
 
+<p><a href="https://www.scylladb.com/" target="_blank"><img src="assets/images/sponsor-logos/scylla-SQ.png" width="150" alt="Site24x" style="float: right; padding-left: 20px;" /></a> 
+ <a href="https://www.scylladb.com/" target="_blank"><strong>Scylla</strong></a>  is the real-time big data database, with throughput of 1,000,000 OPS per node, scale-out to 100s of nodes and 99P latency of <1 msec. Scylla helps teams gain impressive performance improvements, reduce hardware costs and lessen administration.</p>
+ <h4> <a href="https://www.scylladb.com/company/careers/" target="_blank">We're hiring!</a></h4>
+<hr/>
+
 </div>
 	</div>
 </section>
