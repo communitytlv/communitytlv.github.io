@@ -421,7 +421,7 @@ show_tile: false
         <div id="open-modal-16" class="modal-window">
         <div><a href="#16" title="Close" class="modal-close">X</a>
         <h4 style="text-transform: uppercase;">Crash Course: Open Source Licenses</h4>
-        <div>IGNITE</div>
+        <div><strong>SPOTLIGHT IGNITE</strong></div>
         <div><small>Open Source is an integral part of virtually all modern software development. However, it is often too easy to not realize that some Open Source packages may come with strings attached to them - in the form of their license. In fact, some packages that might seem to be Open Source, may technically not be ones at all.<br/>In the talk, some of the most commonly found licenses and their implications on end users will be discussed: - GPL-style licenses, including Affero GPL - BSD-style licenses - Source-available licenses.<br/>If you’ve never heard about these licenses, or if you did hear about them but never really bothered to understand how they may affect you - attending this talk may be a good idea.</small></div>
          <br/>
         <details><summary><strong>Zeev's Bio</strong></summary>
@@ -431,27 +431,7 @@ show_tile: false
         
         </div>
 
-         <div class="2u">
-        <a href="#open-modal-17"><img src="assets/images/speakers/shai.png" alt="Shai Katz - Soluto" width="200" /></a>
-        <ul class="icons">SHAI KATZ <br/> SOLUTO <br/>
-        <li><a href="https://twitter.com/KatzShai" target="_blank" class="icon fa-twitter"></a></li>
-        <li><a href="https://www.linkedin.com/in/shai-katz-62488762"  target="_blank" class="icon fa-linkedin"></a></li>
-        <li><a href="https://github.com/shaikatz" target="_blank" class="icon fa-github"></a></li>
-        </ul>
-        
-        <div id="open-modal-17" class="modal-window">
-        <div><a href="#17" title="Close" class="modal-close">X</a>
-        <h4 style="text-transform: uppercase;">From Istio to Linkerd - The Perfect Mesh</h4>
-        <div>IGNITE</div>
-        <div><small>In Soluto we’ve started our journey to service mesh 2 years ago - Our clusters grew, hundreds of microservices were deployed and we strived to get better observability into them - as production incidents started to happen, we were entitled for the task to give the developers the best tooling we can, to make their services great again.<br/>In this talk, I’m going to walk you through our experience, from the bumps in the road we had with Istio to the smooth ride of using Linkerd - How we integrated service mesh successfully in our production clusters.<br/>The path to successfully running a service mesh in production is filled with landmines, I will describe as many of them as I can and supply you with a minesweeper so you can detect them easily.<br/>At the end of this talk, I want you to go to your boss and tell him, we’re going to have a service mesh, it’s not a dream - it’s a reality.</small></div>
-         <br/>
-        <details><summary><strong>Shai's Bio</strong></summary>
-        I’m Shai, enjoying the tech world for the last 7 years, both as a developer and later as part of a brilliant DevOps team. I’m super excited to research new tools and solutions to make our developers more efficient, and our systems more resilient. I’ve gathered a lot of experience in the last couple of years, and I’m always looking for sharing it with others and to challenge myself.</details>
-        </div>
-        </div>           
-        
-        </div>
-       
+               
 
      </div>
 
