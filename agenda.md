@@ -226,7 +226,8 @@ From this point onwards, you can treat it as a CICD project since it's basically
 	<div><h3><span style="color: turquoise; text-transform: uppercase;">BREAK</span></h3></div>
     <div class="box">
     <div><h4 style="text-transform: uppercase;">SPONSOR TALKS</h4></div>
-    <div><h5><span style="color: turquoise">APPSFLYER</span></h5></div>
+    <div><h5><span style="color: turquoise">APPSFLYER: Death by balloons</span></h5></div>
+    <p>Short story about how doing something innocent and safe at scale can go horribly wrong.</p>
     <hr/>
     <div><h5><span style="color: turquoise">AWS: This talk will save you more than 50% of your AWS bill // Boaz Ziniman</span></h5></div>
     <p>Cloud computing changed the way we consume and pay for computing resources. Paying for what you use, and only for that, is key to get the best ROI out of your cloud investment. This session will focus on one solution that can lower your AWS bill on idle computing.</p>
@@ -334,28 +335,7 @@ From this point onwards, you can treat it as a CICD project since it's basically
 
 	</div>
 
- <div class="box">
-     <a href="#open-modal-17"><img src="assets/images/speakers/shai.png" alt="SHAI KATZ - SOLUTO" width="100" style="float: left; padding-right: 10px;"  /></a>
-         <ul class="icons">SHAI KATZ <br/> SOLUTO <br/>
-       <li><a href="https://twitter.com/KatzShai" target="_blank" class="icon fa-twitter"></a></li>
-        <li><a href="https://www.linkedin.com/in/shai-katz-62488762"  target="_blank" class="icon fa-linkedin"></a></li>
-        <li><a href="https://github.com/shaikatz" target="_blank" class="icon fa-github"></a></li>
-        </ul>
-        
-        <div id="open-modal-17" class="modal-window">
-        <div><a href="#17" title="Close" class="modal-close">X</a>
-        <div style="text-transform: uppercase;">Shai's Bio</div>
-        <div><small>I’m Shai, enjoying the tech world for the last 7 years, both as a developer and later as part of a brilliant DevOps team. I’m super excited to research new tools and solutions to make our developers more efficient, and our systems more resilient. I’ve gathered a lot of experience in the last couple of years, and I’m always looking for sharing it with others and to challenge myself.</small></div>
-        </div>
-        </div>  
-
-        <h4 style="text-transform: uppercase;">From Istio to Linkerd - The Perfect Mesh
-		<span style="color: #8d82c4;">// SHAI KATZ</span></h4>
-		<p>In Soluto we’ve started our journey to service mesh 2 years ago - Our clusters grew, hundreds of microservices were deployed and we strived to get better observability into them - as production incidents started to happen, we were entitled for the task to give the developers the best tooling we can, to make their services great again.<br/>In this talk, I’m going to walk you through our experience, from the bumps in the road we had with Istio to the smooth ride of using Linkerd - How we integrated service mesh successfully in our production clusters.<br/>The path to successfully running a service mesh in production is filled with landmines, I will describe as many of them as I can and supply you with a minesweeper so you can detect them easily.<br/>At the end of this talk, I want you to go to your boss and tell him, we’re going to have a service mesh, it’s not a dream - it’s a reality.</p>
-
-	</div>
-
-     <div class="box">
+      <div class="box">
      <a href="#open-modal-18"><img src="assets/images/speakers/nir.png" alt="NIR YECHIEL - RED HAT" width="100" style="float: left; padding-right: 10px;"  /></a>
          <ul class="icons">NIR YECHIEL<br/> RED HAT <br/>
          <li><a href="https://twitter.com/nyechiel" target="_blank" class="icon fa-twitter"></a></li>
@@ -418,7 +398,26 @@ From this point onwards, you can treat it as a CICD project since it's basically
 		<p>How do you avoid DDoSing other systems or running out of resources when developing serverless applications? Serverless cloud based applications bring new challenges with their architecture and scaling capabilities. In a perfect world, this should be an advantage only, but we all know by now, that the world ain’t perfect. Integrating serverless with non-serveless systems is a challenge you should take into account and plan accordingly. This session will focus on why rate limiting is so important in serverless systems and how you should design a better system that acts as a better neighbors.</p>
 	</div>
 
+    <div class="box">
+     <h3><span style="color: #8d82c4; text-transform: uppercase;">SPOTLIGHT IGNITE</span></h3>
+     <a href="#open-modal-16"><img src="assets/images/speakers/zeev.png" alt="Zeev Suraski - Strattic" width="100" style="float: left; padding-right: 10px;"  /></a>
+         <ul class="icons">ZEEV SURASKI <br/> STRATTIC <br/><li><a href="https://twitter.com/zeevs" target="_blank" class="icon fa-twitter"></a></li>
+        <li><a href="https://www.linkedin.com/in/zeevsuraski"  target="_blank" class="icon fa-linkedin"></a></li>
+        <li><a href="https://github.com/zsuraski" target="_blank" class="icon fa-github"></a></li>
+        </ul>
+        
+        <div id="open-modal-16" class="modal-window">
+        <div><a href="#16" title="Close" class="modal-close">X</a>
+        <div style="text-transform: uppercase;">Zeev's Bio</div>
+        <div><small>Zeev Suraski is one of the creators of the PHP programming language, which powers much of the Internet to this date. Zeev was co-founder & CTO of Zend Technologies, that was acquired by Rogue Wave Software. Today, he’s the CTO for Strattic - a next-gen static & serverless hosting service for WordPress web sites. Zeev is a photography enthusiast, spicy food addict and a gadget geek.</small></div>
+        </div>
+        </div>  
 
+        <h4 style="text-transform: uppercase;">Crash Course: Open Source Licenses
+		<span style="color: #8d82c4;">// Zeev Suraski</span></h4>
+		<p>Open Source is an integral part of virtually all modern software development. However, it is often too easy to not realize that some Open Source packages may come with strings attached to them - in the form of their license. In fact, some packages that might seem to be Open Source, may technically not be ones at all.<br/>In the talk, some of the most commonly found licenses and their implications on end users will be discussed: - GPL-style licenses, including Affero GPL - BSD-style licenses - Source-available licenses.<br/>If you’ve never heard about these licenses, or if you did hear about them but never really bothered to understand how they may affect you - attending this talk may be a good idea.</p>
+
+	</div>
 
 		<div class="box">
         <div><img src="assets/images/devrel-il-SQ.png" alt="DEVREL IL" width="100" style="float: left; padding-right: 10px;" />
@@ -453,6 +452,8 @@ From this point onwards, you can treat it as a CICD project since it's basically
     <p>You only have ONE repository, build artifact, deployment step, process, and version that you can run locally but still scale horizontally. Sounds too good to be true and you think it must be a theoretical example? Far from it…You might even be running such a monolith yourself. Though there are of course some tradeoffs that we are covering as well.</p>
     <div><h5><span style="color: turquoise; text-transform: uppercase;">VONAGE: Conversing with machines: tips for creating meaningful voice interactions // Noam Mor, Conversation Design Lead </span></h5></div>
     <p>Voice is one of the first capabilities we acquire as newborns, and one of the last we lose before we leave this world. Voice communication is the fastest, most natural and efficient way to convey an idea, so why is it so hard for machines to understand the human language? <br/>During this five minute talk, I'll share several tips that will help drive engagement when designing virtual assistant conversations, without ever compromising on experience..</p>
+     <div><h5><span style="color: turquoise; text-transform: uppercase;">TERASKY: How to choose your enterprise-grade Kubernetes? // Lev Andelman, CTO</span></h5></div>
+    <p>Kubernetes comes in many sizes and flavors - choosing a future safe solution for your organization might be challenging. In this short talk I'd like to share our experience with Enterprise Kubernetes market leaders.</p>
     </div>
 
     <div class="box">
