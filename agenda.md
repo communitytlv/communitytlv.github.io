@@ -56,9 +56,8 @@ image: assets/images/pic07.jpg
     <p>In this session, we’ll learn why Couchbase is an ideal data platform for modern applications, how it delivers scalability, performance, and agility, and why it is a great source of truth.</p>
     </div>
 </div>
-
 <div class="box" style="background-color: #2a2f4a;" >
-	<div>10:30 AM - 11:10 AM IST</div>
+	<div><a href="#devopsdays" id="#devopsdays">10:30 AM - 11:10 AM IST</a></div>
 	<div><h3><span style="color: #8d82c4; text-transform: uppercase;">DevOpsDays Ignites</span></h3></div>
 	<div>
     <div class="box">
@@ -226,7 +225,7 @@ From this point onwards, you can treat it as a CICD project since it's basically
 	<div><h3><span style="color: turquoise; text-transform: uppercase;">BREAK</span></h3></div>
     <div class="box">
     <div><h4 style="text-transform: uppercase;">SPONSOR TALKS</h4></div>
-    <div><h5><span style="color: turquoise">APPSFLYER: Death by balloons</span></h5></div>
+    <div><h5><span style="color: turquoise">APPSFLYER: Death by balloons // Gil Zellner & Elad Leev</span></h5></div>
     <p>Short story about how doing something innocent and safe at scale can go horribly wrong.</p>
     <hr/>
     <div><h5><span style="color: turquoise">AWS: This talk will save you more than 50% of your AWS bill // Boaz Ziniman</span></h5></div>
@@ -262,7 +261,7 @@ From this point onwards, you can treat it as a CICD project since it's basically
         <br/><h3><span style="color: #8d82c4; text-transform: uppercase;">CLOUD NATIVE & OSS MINI-TRACK</span></h3><div>
 
 <div class="box" style="background-color: #2a2f4a;" >
-	<div>11:30 AM - 12:10 PM IST</div>
+	<div><a href="#cloudnative" id="#cloudnative">11:30 AM - 12:10 PM IST</a></div>
 <div><h3><span style="color: turquoise">Keynote</span>
 	| THE WORLD HAS CHANGED - HAVE OUR DESIGNS?<span style="color: turquoise"> // Avishai Ish-Shalom</span></h3></div>
     <a href="#open-modal-1"><img src="assets/images/speakers/avishai.png" alt="Avishai Ish-Shalom" width="200" style="float: left; padding-right: 10px;" /></a>
@@ -315,27 +314,7 @@ From this point onwards, you can treat it as a CICD project since it's basically
 		<p>We live in a data driven world, and the data needs to be stored somewhere on some storage. This makes the storage a critical resource that may break your application and even lose all your data! Ignoring it just won’t work. You have to choose the right kind of storage for your workload: block, file or object. You need to use it wisely or you will lose performance and scale. You need to consider cost efficiency or pay a large bill in the end of the month You must make sure your data is secure by using best practices, access control and encryption. Don’t forget about Data protection as losing your data is a huge disaster!</p>
 	</div>
 
-    <div class="box">
-     <a href="#open-modal-16"><img src="assets/images/speakers/zeev.png" alt="Zeev Suraski - Strattic" width="100" style="float: left; padding-right: 10px;"  /></a>
-         <ul class="icons">ZEEV SURASKI <br/> STRATTIC <br/><li><a href="https://twitter.com/zeevs" target="_blank" class="icon fa-twitter"></a></li>
-        <li><a href="https://www.linkedin.com/in/zeevsuraski"  target="_blank" class="icon fa-linkedin"></a></li>
-        <li><a href="https://github.com/zsuraski" target="_blank" class="icon fa-github"></a></li>
-        </ul>
-        
-        <div id="open-modal-16" class="modal-window">
-        <div><a href="#16" title="Close" class="modal-close">X</a>
-        <div style="text-transform: uppercase;">Zeev's Bio</div>
-        <div><small>Zeev Suraski is one of the creators of the PHP programming language, which powers much of the Internet to this date. Zeev was co-founder & CTO of Zend Technologies, that was acquired by Rogue Wave Software. Today, he’s the CTO for Strattic - a next-gen static & serverless hosting service for WordPress web sites. Zeev is a photography enthusiast, spicy food addict and a gadget geek.</small></div>
-        </div>
-        </div>  
-
-        <h4 style="text-transform: uppercase;">Crash Course: Open Source Licenses
-		<span style="color: #8d82c4;">// Zeev Suraski</span></h4>
-		<p>Open Source is an integral part of virtually all modern software development. However, it is often too easy to not realize that some Open Source packages may come with strings attached to them - in the form of their license. In fact, some packages that might seem to be Open Source, may technically not be ones at all.<br/>In the talk, some of the most commonly found licenses and their implications on end users will be discussed: - GPL-style licenses, including Affero GPL - BSD-style licenses - Source-available licenses.<br/>If you’ve never heard about these licenses, or if you did hear about them but never really bothered to understand how they may affect you - attending this talk may be a good idea.</p>
-
-	</div>
-
-      <div class="box">
+       <div class="box">
      <a href="#open-modal-18"><img src="assets/images/speakers/nir.png" alt="NIR YECHIEL - RED HAT" width="100" style="float: left; padding-right: 10px;"  /></a>
          <ul class="icons">NIR YECHIEL<br/> RED HAT <br/>
          <li><a href="https://twitter.com/nyechiel" target="_blank" class="icon fa-twitter"></a></li>
@@ -515,7 +494,7 @@ From this point onwards, you can treat it as a CICD project since it's basically
 </div>
 
 <div class="box" style="background-color: #2a2f4a;" >
-<div>14:50 - 15:30 IST</div>
+<div><a href="#devseccon" id="#devseccon">14:50 - 15:30 IST</a></div>
 <div><h3><span style="color: #8d82c4; text-transform: uppercase;">DevSecCon TLV Ignites</span></h3></div>
 	  
       <div class="box">
@@ -683,7 +662,7 @@ From this point onwards, you can treat it as a CICD project since it's basically
 </div>
 
 <div class="box" style="background-color: #2a2f4a;" >
-<div>16:40 - 17:20 IST</div>
+<div><a href="#statscraft" id="#statscraft">16:40 - 17:20 IST</a></div>
 <div><h3><span style="color: #8d82c4; text-transform: uppercase;">StatsCraft Ignites</span></h3></div>
 	  
       <div class="box">
