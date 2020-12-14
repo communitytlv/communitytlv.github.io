@@ -69,6 +69,7 @@
 	}
 	.tabs input[type="radio"]:checked + label {
 		background: #1db71d;
+		font-weight: 900;
 		
 	}
 	.tabs input[type="radio"]:checked + label + .tab {
