@@ -51,7 +51,7 @@
 		padding: 1rem 2rem;
 		margin-right: 0.2rem;
 		cursor: pointer;
-	  background: #90CAF9;
+	  background: #a7d2a7;
 	  font-weight: bold;
 	  transition: background ease 0.2s;
 	}
@@ -68,7 +68,7 @@
 
 	}
 	.tabs input[type="radio"]:checked + label {
-		background: #2a2f4a;
+		background: #1db71d;
 		
 	}
 	.tabs input[type="radio"]:checked + label + .tab {

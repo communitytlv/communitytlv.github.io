@@ -429,10 +429,18 @@ From this point onwards, you can treat it as a CICD project since it's basically
     <div><h4 style="text-transform: uppercase;">SPONSOR TALKS</h4></div>
      <div><h5><span style="color: turquoise; text-transform: uppercase;">ELASTIC: What Is Great About Modern Monolithic Applications? // Philipp Krenn, Developer Advocate</span></h5></div>
     <p>You only have ONE repository, build artifact, deployment step, process, and version that you can run locally but still scale horizontally. Sounds too good to be true and you think it must be a theoretical example? Far from it…You might even be running such a monolith yourself. Though there are of course some tradeoffs that we are covering as well.</p>
+    <hr/>
     <div><h5><span style="color: turquoise; text-transform: uppercase;">VONAGE: Conversing with machines: tips for creating meaningful voice interactions // Noam Mor, Conversation Design Lead </span></h5></div>
     <p>Voice is one of the first capabilities we acquire as newborns, and one of the last we lose before we leave this world. Voice communication is the fastest, most natural and efficient way to convey an idea, so why is it so hard for machines to understand the human language? <br/>During this five minute talk, I'll share several tips that will help drive engagement when designing virtual assistant conversations, without ever compromising on experience..</p>
+    <hr/>
      <div><h5><span style="color: turquoise; text-transform: uppercase;">TERASKY: How to choose your enterprise-grade Kubernetes? // Lev Andelman, CTO</span></h5></div>
     <p>Kubernetes comes in many sizes and flavors - choosing a future safe solution for your organization might be challenging. In this short talk I'd like to share our experience with Enterprise Kubernetes market leaders.</p>
+    <hr/>
+     <div><h5><span style="color: turquoise; text-transform: uppercase;">SITE24X7: ALL IN ONE MONITORING // Elango Vimal, Senior Presales Engineer</span></h5></div>
+    <p></p>
+    <hr/>
+     <div><h5><span style="color: turquoise; text-transform: uppercase;">MYSQL: The hottest MySQL topics in 2020 // Vittorio Cioe, Sr.Presales Consultant, Oracle MySQL</span></h5></div>
+    <p>Speaking about MySQL... How to.... Security? High Availability? Operations? Cloud? Get a gasp of the hottest MySQL topics of 2020 in a time as short as 5 minutes to be up to date with what is going on in the MySQL world!</p>
     </div>
 
     <div class="box">
