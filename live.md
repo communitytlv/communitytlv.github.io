@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: post-noimg
 title: Join the Live Event
 description: Community Summit TLV | Live Chat and Event Stream
+image: assets/images/pic08-3.jpg
 permalink: /live
 
 
