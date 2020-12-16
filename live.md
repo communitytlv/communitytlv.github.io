@@ -2,7 +2,8 @@
 layout: post
 title: Join the Live Event
 description: Community Summit TLV | Live Chat and Event Stream
-permalink: /live-2
+image: assets/images/pic08-3.jpg
+permalink: /live
 
 
 ---
