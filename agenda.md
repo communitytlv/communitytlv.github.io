@@ -444,7 +444,9 @@ From this point onwards, you can treat it as a CICD project since it's basically
     <hr/>
     <div><h5><span style="color: turquoise; text-transform: uppercase;">SimilarWeb: First steps to developer autonomy // Or Tzabary, Head of Production Engineering</span></h5></div>
     <p>A story on how we identified visibility issues throughout the application deployment lifecycle, made an impact by delivering a solution that we later released to Open Source.</p>
-
+    <hr/>
+    <div><h5><span style="color: turquoise; text-transform: uppercase;">Scylla - A fast, Scalable and Boring Database // Avishai Ish-Shalom, Developer Advocate</span></h5></div>
+    <p>What is this Scylla thing we've been hearing about? why write yet another database?  Well, there are a lot of great databases out there, but none quite like this one. Scylla is a database built for modern hardware, achieving extreme performance and at the same time being operator friendly and scalable. Did I mention it's open source as well?</p>
     </div>
 
     <div class="box">
