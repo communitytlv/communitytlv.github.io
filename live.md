@@ -38,6 +38,8 @@ permalink: /live
 
                         <!-- TWITCH BACKUP <span class="image fit" style="text-align: center; position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;"><iframe src="https://player.twitch.tv/tlvcommunity" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></span> -->
 
+                            <div><h5 style="text-align: center; text-transform: uppercase;"><i class="fa fa-calendar"></i> Find the full agenda <a href="/agenda.html" target="_blank"> here</a>.</h5></div>
+
                     </div>
                 </div>
 
@@ -54,6 +56,9 @@ permalink: /live
             </div>
         </div>
     </div>
+
+
+
     </div>
 
 
