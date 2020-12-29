@@ -12,7 +12,6 @@ permalink: /live
 
 <br/>
 <br/>
-<br/>
 
 
 <div id="main" class="alt">
@@ -32,11 +31,7 @@ permalink: /live
                 <div class="tab">
                     <h4>Live Stream - Main Track</h4>
                     <div class="box">
-                        <p><span class="image fit" style="text-align: center; position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;"><iframe src="https://www.youtube.com/embed/XZ7KhOPCiKU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></span></p>
-
-                        <!-- BACKUP STREAM <p><span class="image fit" style="text-align: center; position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;"><iframe src="https://www.youtube.com/embed/ZL7ZOaIGn34" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></span></p> -->
-
-                        <!-- TWITCH BACKUP <span class="image fit" style="text-align: center; position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;"><iframe src="https://player.twitch.tv/tlvcommunity" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></span> -->
+                        <p><span class="image fit" style="text-align: center; position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;"><iframe src="https://www.youtube.com/embed/vUYj4mz2H34" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></span></p>
 
                             <div><h5 style="text-align: center; text-transform: uppercase;"><i class="fa fa-calendar"></i> Find the full agenda <a href="/agenda.html" target="_blank"> here</a>.</h5></div>
 
@@ -49,9 +44,8 @@ permalink: /live
         <div class="tab">
             <h4>Live Stream - Sponsor Track</h4>
             <div class="box">
-                <p><span class="image fit" style="text-align: center; position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/dWV-OCg8eOg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span></p>
+                <p><span class="image fit" style="text-align: center; position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/CSsXy7715pE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span></p>
 
-                    <!-- BACKUP STREAM <p><span class="image fit" style="text-align: center; position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;"><iframe src="https://www.youtube.com/embed/Mn8Y62ePaDE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></span></p> -->
 
             </div>
         </div>
