@@ -29,7 +29,7 @@ permalink: /live
         <input type="radio" name="tabs" id="tabone" checked="checked">
         <label for="tabone">Main Track</label>
                 <div class="tab">
-                    <h4>Live Stream - Main Track</h4>
+                    <h4>Watch All Event Videos</h4>
                     <div class="box">
                         <p><span class="image fit" style="text-align: center; position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;"><iframe src="https://www.youtube.com/embed/videoseries?list=PL8tivQAdoavOgOaqBjMX725nwkqntp9EM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></span></p>
 
@@ -42,7 +42,7 @@ permalink: /live
         <input type="radio" name="tabs" id="tabtwo">
         <label for="tabtwo">Sponsor Track</label>
         <div class="tab">
-            <h4>Live Stream - Sponsor Track</h4>
+            <h4>Sponsor Track Videos Only</h4>
             <div class="box">
                 <p><span class="image fit" style="text-align: center; position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/videoseries?list=PL8tivQAdoavNzrbSbosZyfHYZpHSYzZPo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span></p>
 
