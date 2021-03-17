@@ -58,12 +58,12 @@ permalink: /live
 
 <hr class="major">
 
- {% include march-meetup.html %}
+ {% include april-meetup.html %}
 
 <div class="inner">
 			<h2 style="text-transform: uppercase;">Register to Join Us</h2>
 <ul class="actions">
-<li><a href="http://bit.ly/tlv-community-march-meetup-web" target="_blank" class="button next">RSVP</a></li>
+<li><a href="http://bit.ly/tlv-community-april-meetup-web" target="_blank" class="button next">RSVP</a></li>
                 </ul>
 </div>
 
