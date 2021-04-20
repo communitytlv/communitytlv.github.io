@@ -60,6 +60,9 @@ permalink: /live
 
  {% include april-meetup.html %}
 
+  {% include may-meetup.html %}
+
+
 <div class="inner">
 			<h2 style="text-transform: uppercase;">Register to Join Us</h2>
 <ul class="actions">
