@@ -56,20 +56,55 @@ permalink: /live
     </div>
 </div>
 
+
+
 <hr class="major">
 
- {% include april-meetup.html %}
 
   {% include may-meetup.html %}
 
 
-<div class="inner">
-			<h2 style="text-transform: uppercase;">Register to Join Us</h2>
-<ul class="actions">
-<li><a href="http://bit.ly/tlv-community-april-meetup-web" target="_blank" class="button next">RSVP</a></li>
-                </ul>
+<div class="row">
+    <div class="inner">
+        <h2 style="text-transform: uppercase;">Register to Join Us</h2>
+            <ul class="actions">
+                <li><a href="http://bit.ly/tlv-community-may-meetup" target="_blank" class="button next">RSVP</a></li></ul>
+    </div>
 </div>
 
+<hr class="major">
+
+  <div class="row">
+    <img src="assets/images/communitytlv-events.png" alt="Community TLV Events" width="180" />
+    <br />
+    <h3><i class="fa fa-film"></i> <span style="color: turquoise; text-transform: uppercase;">Previous Events </span></h3>
+    </div>
+<p></p>
+<p></p>
+
+<div class="inner" style="padding: 20 20 20 20;">
+
+  <div class="row">
+  <details><summary><strong>APRIL MEETUP - Kubernetes, Microservices, Production, Scale with Aerospike & Playtika</strong></summary>
+ {% include april-meetup.html %}
+ </details>
+</div>
+
+
+<div class="row">
+<details><summary><strong>MARCH MEETUP - Community Blitz Q1</strong></summary>
+
+ {% include march-meetup.html %}
+
+ </details>
+ </div>
+
+</div>
+
+
+<hr class="major">
+<p></p>
+<p></p>
 
 
 <!-- End Test -->
@@ -89,7 +124,7 @@ permalink: /live
     </div> 
  </div>-->
 
-    <div class="box"> 
+    <div class="box" style="padding: 20px 20px 20px 20px;"> 
         <p><a href="#discord" id="#discord"><h3>Getting Started with Discord</h3></a></p>
         <p>We recommend you join our Discord server to connect with friends from the community, and to receive updates from the event organizers.</p>
             <ul>
