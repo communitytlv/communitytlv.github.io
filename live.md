@@ -61,7 +61,7 @@ permalink: /live
 <hr class="major">
 
 
-  {% include may-meetup.html %}
+  {% include /meetups/may-meetup.html %}
 
 
 <div class="row">
@@ -86,7 +86,7 @@ permalink: /live
 
   <div class="row">
   <details><summary><strong>APRIL MEETUP - Kubernetes, Microservices, Production, Scale with Aerospike & Playtika</strong></summary>
- {% include april-meetup.html %}
+ {% include /meetups/april-meetup.html %}
  </details>
 </div>
 
@@ -94,7 +94,7 @@ permalink: /live
 <div class="row">
 <details><summary><strong>MARCH MEETUP - Community Blitz Q1</strong></summary>
 
- {% include march-meetup.html %}
+ {% include /meetups/march-meetup.html %}
 
  </details>
  </div>
