@@ -66,21 +66,21 @@ nav-menu: true
 	</section>
 		<section>
 		<a href="#" class="image">
-			<img src="{% link assets/images/pic15.jpg %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/pic08-2.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>DEVSECCON TEL AVIV</h3>
+					<h3>DEVREL IL</h3>
 				</header>
-				<p><a href="https://devseccon.com" target="_blank">DevSecCon Tel Aviv</a> DevSecCon brings together DevOps and Security in a unique conference run by practitioners, for practitioners. An event focused on inspiring talks and interactive workshops about DevSecOps – the practice of building security into development processes. Learn from key industry experts, and meet with your peers and learn how DevOps and Security can work together to make continuously secure development a reality.</p>
-				<p><a href="https://twitter.com/devseccon" target="_blank"><span class="icon alt fa-twitter"></span></a>&nbsp;<a href="https://www.facebook.com/devseccon" target="_blank"><span class="icon alt fa-facebook"></span></a>&nbsp;<a href="https://www.linkedin.com/company/9480834" target="_blank"><span class="icon alt fa-linkedin"></span></a></p>
+				<p><a href="https://www.meetup.com/DevRel/" target="_blank">DevRel IL</a> is the foremost group in Israel focused on knowledge sharing in the Developer Relations community in Israel.</p>
+				<p><a href="https://twitter.com/devrel_IL" target="_blank"><span class="icon alt fa-twitter"></span></a>&nbsp;<a href="https://www.facebook.com/groups/DevRel.IL" target="_blank"><span class="icon alt fa-facebook"></span></a></p>
 			</div>
 		</div>
 	</section>
 </section>
 
-<!-- Three -->
+<!-- Three 
 <section id="three" class="spotlights">
 		<section>
 		<a href="#" class="image">
@@ -96,6 +96,30 @@ nav-menu: true
 			</div>
 		</div>
 		</section>	  
-</section>
+</section>-->
+
+
+   <!-- Main -->
+    <div id="main" class="alt">
+
+	<div class="inner">
+		<header class="major">
+		<h3>Community Bulletin Board</h3>
+		</header>
+
+      <!-- One -->
+      <section id="one">
+		<div class="inner">
+
+		{% for post in site.categories.announcement %}
+		<li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+		{% endfor %}
+		</div>
+
+      </section>
+
+    </div>
+
+
 </div>
 	
