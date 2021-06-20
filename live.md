@@ -61,14 +61,14 @@ permalink: /live
 <hr class="major">
 
 
-  {% include /meetups/may-meetup.html %}
+  {% include /meetups/june-meetup.html %}
 
 
 <div class="row">
     <div class="inner">
         <h2 style="text-transform: uppercase;">Register to Join Us</h2>
             <ul class="actions">
-                <li><a href="http://bit.ly/tlv-community-may-meetup" target="_blank" class="button next">RSVP</a></li></ul>
+                <li><a href="http://bit.ly/tlv-community-q2-blitz" target="_blank" class="button next">RSVP</a></li></ul>
     </div>
 </div>
 
@@ -84,6 +84,12 @@ permalink: /live
 
 <div class="inner" style="padding: 20 20 20 20;">
 
+
+    <div class="row">
+  <details><summary><strong>MAY MEETUP - Behind the Scenes of Scaling Up with Oribi</strong></summary>
+ {% include /meetups/may-meetup.html %}
+ </details>
+</div>
   <div class="row">
   <details><summary><strong>APRIL MEETUP - Kubernetes, Microservices, Production, Scale with Aerospike & Playtika</strong></summary>
  {% include /meetups/april-meetup.html %}
