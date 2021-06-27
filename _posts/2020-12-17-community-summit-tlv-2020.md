@@ -3,7 +3,8 @@ layout: post
 title: Community Summit TLV 2020
 description: Community Summit TLV 2020 | Previous Events
 permalink: /community-summit-tlv-2020
-
+tag: event
+categories: event
 
 ---
 
