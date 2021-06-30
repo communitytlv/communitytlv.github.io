@@ -33,7 +33,7 @@ nav-menu: true
        <div class="box" style="width: 100%;">
 
         <h2>Sponsor the Event</h2>
-        <h3 style="text-transform: uppercase; color: #c0d44f;">Community Pillar: $6,500 (USD) - 14 Available</h3>
+        <h3 style="text-transform: uppercase; color: #c0d44f;">Community Pillar: $6,500 (USD) - ~14-16 Available</h3>
         <i class="fa fa-cog" style="color: red;"></i> &nbsp;&nbsp;Booth space 2X2M, including backwall graphics & carpet, counter and chairs<br/>
         <i class="fa fa-cog" style="color: orange;"></i>&nbsp;&nbsp;TV / Monitor <br/>
         <i class="fa fa-cog" style="color: #c0d44f;"></i>&nbsp;&nbsp;Badge Scanner<br/>
@@ -69,8 +69,6 @@ nav-menu: true
         <li><span style="text-transform: uppercase; color: #c0d44f; font-weight: 700;">Meeting / Interview Room Rental</span> - $2500 USD -  2 Available</li>
         </ul>
         </div>
-</div>
-
 
 <div class="box" style="width: 100%; text-align: center;">
  <h2 style="text-transform: uppercase;">Previous Event Speakers</h2>
@@ -141,11 +139,11 @@ nav-menu: true
 
        <div class="2u">
        <span class="image fit"><img src="/assets/images/speakers/shlomi.png" alt="" /></span>
-       <ul class="icons">SHLOMI NOACH| PLANETSCALE </ul></div>
+       <ul class="icons">SHLOMI NOACH | PLANETSCALE </ul></div>
 
        <div class="2u">
        <span class="image fit"><img src="/assets/images/speakers/heidi.png" alt="" /></span>
-       <ul class="icons">HEIDI WATERHOUSE| LAUNCH DARKLY </ul></div>
+       <ul class="icons">HEIDI WATERHOUSE | LAUNCH DARKLY </ul></div>
 
         <div class="2u">
         <span class="image fit"><img src="/assets/images/speakers/brian.png" alt="" /></span>
@@ -156,8 +154,15 @@ nav-menu: true
 
 
             <div class="inner">
-           <h2>Call for Papers is open through August 25, 2021</h2>
+           <h2>Call for Papers is open through August 30, 2021</h2>
             <br/>
+            <h4 style="text-align: left; font-weight: 700">CFP Review Timeline:</h4>
+            <ul style="text-align: left;">
+            <li><strong>CFP Close:</strong> August 31, 2021</li>
+            <li><strong>CFP Review:</strong>  September 2021</li>
+            <li><strong>Speaker Notifications:</strong>  Early October</li>
+            <li><strong>Announce Lineup:</strong>  Mid-October 2021</li>            
+            </ul>
             <ul class="actions"><li><a href="#" target="_blank" class="button next">Apply to Speak</a></li></ul>
             </div>
 
@@ -172,6 +177,11 @@ nav-menu: true
 
         <h1 style="text-transform: uppercase;">EVENT ORGANIZER</h1>
         <a href="https://cidersecurity.io" target="_blank"><img src="/assets/images/sponsor-logos/cider.png" width="350px"></a>
+
+        <hr class="major">
+
+         <h2 style="text-transform: uppercase;">MEDIA PARTNER</h2>
+        <a href="https://daily.dev" target="_blank"><img src="/assets/images/sponsor-logos/dailydev.png" width="250px"></a>
 
         <hr class="major">
 
@@ -192,6 +202,7 @@ nav-menu: true
         </div>
  </div>
 
+</div>
 
 </div>
 </div>
