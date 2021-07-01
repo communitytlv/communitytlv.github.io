@@ -1,7 +1,7 @@
 ---
-title: _DevOpsDays Tel Aviv 2021 | November 24-25, 2021
+title: DevOpsDays Tel Aviv 2021 <br/> November 24-25, 2021
 layout: landing
-description: Smolarz Auditorium, Tel Aviv University
+description: <strong>Smolarz Auditorium, Tel Aviv University</strong>
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -36,11 +36,11 @@ nav-menu: true
 
         <h2>Sponsor the Event</h2>
         <h3 style="text-transform: uppercase; color: #c0d44f;">Community Pillar: $6,500 (USD) - ~14-16 Available</h3>
-        <i class="fa fa-cog" style="color: red;"></i> &nbsp;&nbsp;Booth space 2X2M, including backwall graphics & carpet, counter and chairs<br/>
+        <i class="fa fa-cog" style="color: red;"></i>&nbsp;&nbsp;Booth space 2X2M, including backwall graphics & carpet, counter and chairs<br/>
         <i class="fa fa-cog" style="color: orange;"></i>&nbsp;&nbsp;TV / Monitor <br/>
         <i class="fa fa-cog" style="color: #c0d44f;"></i>&nbsp;&nbsp;Badge Scanner<br/>
         <i class="fa fa-cog" style="color: #19d819;"></i>&nbsp;&nbsp;Logo on all signage, website & communications<br/>
-        <i class="fa fa-cog" style="color: turquoise;"></i> &nbsp;&nbsp;Social media promotion<br/>
+        <i class="fa fa-cog" style="color: turquoise;"></i>&nbsp;&nbsp;Social media promotion<br/>
         <i class="fa fa-cog" style="color: #a472d4;"></i>&nbsp;&nbsp;8 Event Tickets <br/>
         <i class="fa fa-cog" style="color: #d95374;"></i>&nbsp;&nbsp;Eligibility for Add-ons (On a first come first served basis)<br/>
 
