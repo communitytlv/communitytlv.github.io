@@ -17,9 +17,9 @@ nav-menu: true
             <iframe width="100%" height="500" src="https://www.youtube.com/embed/i6w-rAmg84w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             <br/>
             <br/>
-            <p style="text-align: left; font-weight: 700;">DevOpsDays Tel Aviv is coming back for its <span style="color: #d95374;">EIGHTH time</span> to bring some of the longest-running DevOps community events in Tel Aviv together into ONE AWESOME, in-person event.</p>   
+            <p style="text-align: left; font-weight: 700;">DevOpsDays Tel Aviv is coming back for its <span style="color: #d95374;">EIGHTH time</span> to bring some of the longest-running DevOps community events in Tel Aviv together into ONE AWESOME {in-person} event.</p>   
 
-            <p style="text-align: left; ">Join leading industry speakers along with DevOps, SRE, platform, production and operations engineers for two full days of sessions focusing on best practices in modern  engineering - from the infrastructure and operations to the systems and processes. DevOpsDays is a volunteer-led event, by the community for the community, with talks contributed by some of the best from our local community as well as the global DevOps community, with a variety of talks from beginner through advanced.</p>
+            <p style="text-align: left; ">Join leading industry speakers along with DevOps, SRE, platform, production and operations engineers for two full days of sessions focusing on best practices in modern  engineering - from the infrastructure and operations to the systems and processes. DevOpsDays is a volunteer-led event, by the community for the community, with talks contributed by some of the best from our local community as well as the global DevOps community, with a variety of talks from beginner through advanced levels, so literally anyone can join and enjoy the sessions.</p>
 
             <p style="text-align: center; font-weight: 700; color: #c0d44f;">Join us for a single-track DevOpsDays with a dedicated track for Cloud Native & OSS Day and Statscraft each day. </p>
 
