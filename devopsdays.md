@@ -70,7 +70,7 @@ nav-menu: true
         <li><span style="text-transform: uppercase; color: #a472d4; font-weight: 700;">Breakfast / Lunch / Coffee Sponsor</span> - $2000 per day / $3000 for both days</li>
         <li><span style="text-transform: uppercase; color: #d95374; font-weight: 700;">Technical Workshop</span> - Subject to content moderation & description with syllabus submission -$4000 USD -  2 Available</li>
         <li><span style="text-transform: uppercase; color: #c0d44f; font-weight: 700;">Meeting / Interview Room Rental</span> - $2500 USD -  2 Available</li>
-         <li> <span style="text-transform: uppercase; color: #c0d44f; font-weight: 700;">ON-CALL LOUNGE</span> - Full branding & use of the on-call lounge - $2500 USD - 1 Available</li>
+         <li> <span style="text-transform: uppercase; color: orange; font-weight: 700;">ON-CALL LOUNGE</span> - Full branding & use of the on-call lounge - $2500 USD - 1 Available</li>
         </ul>
         </div>
 
