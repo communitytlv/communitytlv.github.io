@@ -154,8 +154,8 @@ nav-menu: true
         <span class="image fit"><img src="/assets/images/speakers/brian.png" alt="" /></span>
         <ul class="icons">BRIAN MURPHY | SEATGEEK </ul></div>
      </div>
+</div>
 
-<hr class="major">
 
 
 <div class="inner">
@@ -170,6 +170,8 @@ nav-menu: true
             </ul>
             <ul class="actions"><li><a href="https://www.papercall.io/devopsdays-tlv-2021" target="_blank" class="button next">Apply to Speak</a></li></ul>
 </div>
+
+
 
 
          
@@ -216,7 +218,6 @@ nav-menu: true
 
 </div>
 
-</div>
 </div>
 
 
