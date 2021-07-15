@@ -184,9 +184,8 @@ nav-menu: true
 
         <hr class="major">
         
-        <h2 style="text-transform: uppercase;">BIG THANKS TO OUR 2021 COMMUNITY PILLARS</h2>
-        <p style="text-transform: uppercase;">YOU MAKE THE EVENT AND COMMUNITY POSSIBLE</p>
-        <a href="https://www.ermetic.com" target="_blank"><img src="/assets/images/sponsor-logos/ermetic-SQ.png" width="180px"></a>&nbsp;<a href="https://www.orbit.love" target="_blank"><img src="/assets/images/sponsor-logos/orbit-SQ.png" width="180px"></a>&nbsp;<a href="https://www.livcycle.io" target="_blank"><img src="/assets/images/sponsor-logos/livecycle-SQ.png" width="180px"></a>
+        {% include /sponsors/devopsdays-2021-logos.html %}
+
 
 
         <br/>
