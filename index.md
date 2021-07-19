@@ -21,7 +21,8 @@ show_tile: false
         <hr class="major">
         <h2 style="text-transform: uppercase;">COMMUNITY PILLAR</h2>
 
-        <a href="https://www.ermetic.com" target="_blank"><img src="/assets/images/sponsor-logos/ermetic-SQ.png" width="180px"></a>&nbsp;<a href="https://www.orbit.love" target="_blank"><img src="/assets/images/sponsor-logos/orbit-SQ.png" width="180px"></a>&nbsp;<a href="https://www.livecycle.io" target="_blank"><img src="/assets/images/sponsor-logos/livecycle-SQ.png" width="180px"></a>
+           {% include /sponsors/devopsdays-2021-logos.html %}
+
 
         <hr class="major">
 
