@@ -24,7 +24,7 @@
 
 <!-- Header -->
 <header id="header">
-	<a href="http://localhost:4000//" class="logo"><strong>Developer Community TLV</strong> <span>by the Community for the Community</span></a>
+	<a href="http://localhost:4002//" class="logo"><strong>Developer Community TLV</strong> <span>by the Community for the Community</span></a>
 	<nav>
 		<a href="#menu">Menu</a>
 	</nav>
@@ -41,7 +41,7 @@
 		    
 		
 		    
-		        <li><a href="http://localhost:4000//">Home</a></li>
+		        <li><a href="http://localhost:4002//">Home</a></li>
 	    	
 		
 		    
@@ -62,15 +62,11 @@
 		    
 		
 		    
-		        <li><a href="http://localhost:4000/about.html">About Community TLV</a></li>
+		        <li><a href="http://localhost:4002/about.html">About Community TLV</a></li>
 		    
 		
 		    
-		        <li><a href="http://localhost:4000/devopsdays.html">DevOpsDays Tel Aviv 2021 <br/> November 24-25, 2021</a></li>
-		    
-		
-		    
-		
+		        <li><a href="http://localhost:4002/devopsdays.html">DevOpsDays Tel Aviv 2021 <br/> November 24-25, 2021</a></li>
 		    
 		
 		    
@@ -78,7 +74,11 @@
 		    
 		
 		    
-		        <li><a href="http://localhost:4000/team.html">Team</a></li>
+		
+		    
+		
+		    
+		        <li><a href="http://localhost:4002/team.html">Team</a></li>
 		    
 		
 	</ul>
@@ -260,13 +260,61 @@
   gtag('config', 'UA-178543233-1');
 </script>
 
-<script src="http://localhost:4000/assets/js/jquery.min.js"></script>
-<script src="http://localhost:4000/assets/js/jquery.scrolly.min.js"></script>
-<script src="http://localhost:4000/assets/js/jquery.scrollex.min.js"></script>
-<script src="http://localhost:4000/assets/js/skel.min.js"></script>
-<script src="http://localhost:4000/assets/js/util.js"></script>
-<!--[if lte IE 8]><script src="http://localhost:4000/assets/js/ie/respond.min.js"></script><![endif]-->
-<script src="http://localhost:4000/assets/js/main.js"></script>
+
+<style>
+    #cookie-notice {padding: 0.5rem 1rem; display: none; text-align: center; position: fixed; bottom: 0; width: calc(100% - 2rem); background: #222; color: rgba(255,255,255,0.8);}
+    #cookie-notice a {display: inline-block; cursor: pointer; margin-left: 0.5rem;}
+    @media (max-width: 767px) {
+        #cookie-notice span {display: block; padding-top: 3px; margin-bottom: 1rem;}
+        #cookie-notice a {position: relative; bottom: 4px;}
+    }
+</style>
+<div id="cookie-notice"><span>We would like to use third party cookies and scripts to improve the functionality of this website.</span><a id="cookie-notice-accept" class="btn btn-primary btn-sm">Approve</a><a href="/privacy" class="btn btn-primary btn-sm">More info</a></div>
+<script>
+    function createCookie(name,value,days) {
+        var expires = "";
+        if (days) {
+            var date = new Date();
+            date.setTime(date.getTime() + (days*24*60*60*1000));
+            expires = "; expires=" + date.toUTCString();
+        }
+        document.cookie = name + "=" + value + expires + "; path=/";
+    }
+    function readCookie(name) {
+        var nameEQ = name + "=";
+        var ca = document.cookie.split(';');
+        for(var i=0;i < ca.length;i++) {
+            var c = ca[i];
+            while (c.charAt(0)==' ') c = c.substring(1,c.length);
+            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+        }
+        return null;
+    }
+    function eraseCookie(name) {
+        createCookie(name,"",-1);
+    }
+
+    if(readCookie('cookie-notice-dismissed')=='true') {
+    } else {
+        document.getElementById('cookie-notice').style.display = 'block';
+    }
+    document.getElementById('cookie-notice-accept').addEventListener("click",function() {
+        createCookie('cookie-notice-dismissed','true',31);
+        document.getElementById('cookie-notice').style.display = 'none';
+        location.reload();
+    });
+
+</script>
+
+
+
+<script src="http://localhost:4002/assets/js/jquery.min.js"></script>
+<script src="http://localhost:4002/assets/js/jquery.scrolly.min.js"></script>
+<script src="http://localhost:4002/assets/js/jquery.scrollex.min.js"></script>
+<script src="http://localhost:4002/assets/js/skel.min.js"></script>
+<script src="http://localhost:4002/assets/js/util.js"></script>
+<!--[if lte IE 8]><script src="http://localhost:4002/assets/js/ie/respond.min.js"></script><![endif]-->
+<script src="http://localhost:4002/assets/js/main.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/@widgetbot/html-embed"></script>
 
 
