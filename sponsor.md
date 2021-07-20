@@ -10,6 +10,12 @@ image: assets/images/pic08.jpg
 <!-- One -->
 <section id="one">
 	<div class="inner">
+
+	<header class="major">
+			<h2>SPONSOR DEVOPSDAYS TEL AVIV 2021</h2>
+	</header>
+
+	 <ul class="actions" style="text-transform: uppercase; color: turquoise; text-align: left;"><li><a href="/devopsdays" class="button next">LEARN MORE</a></li></ul> 
 		<header class="major">
 			<h2>SPONSOR THE COMMUNITY</h2>
 		</header>
@@ -39,14 +45,9 @@ image: assets/images/pic08.jpg
 <!-- One -->
 <section id="one">
 	<div class="inner">
-			<h2><span class="icon fa-star" style="color: turquoise;"></span> COMMUNITY SUMMIT TLV 2020 EVENT SPONSORS <span class="icon fa-star" style="color: turquoise;"></span></h2>
+			<h2> Big Thanks to Our Sponsors!</h2>
 <!-- Content -->
-<h3 id="content">BIG THANKS TO OUR EVENT SPONSORS WHO MAKE THE EVENT AND COMMUNITY POSSIBLE</h3>
-<hr class="major" />
-<div class="box">
-<img src="/assets/images/sponsor-logos/FACEBOOK-SQ.png" width="120px">&nbsp;&nbsp;<img src="/assets/images/sponsor-logos/aws-SQ.png" width="120px">&nbsp;&nbsp;<img src="/assets/images/sponsor-logos/microsoft-SQ.png" width="120px">&nbsp;&nbsp;<img src="/assets/images/sponsor-logos/googlecloud-SQ.png" width="120px">&nbsp;&nbsp;<img src="/assets/images/sponsor-logos/newrelic-SQ.png" width="120px">&nbsp;&nbsp;<img src="/assets/images/sponsor-logos/monday-SQ.png" width="120px">&nbsp;&nbsp;<img src="/assets/images/sponsor-logos/elastic-SQ.png" width="120px">&nbsp;&nbsp;<img src="/assets/images/sponsor-logos/AF-ENG-SQ.png" width="120px">&nbsp;&nbsp;<img src="/assets/images/sponsor-logos/next-SQ.png" width="120px">&nbsp;&nbsp;<img src="/assets/images/sponsor-logos/synopsys-SQ.png" width="120px">&nbsp;&nbsp;<img src="/assets/images/sponsor-logos/digitalocean-SQ.png" width="120px">&nbsp;&nbsp;<img src="/assets/images/sponsor-logos/aerospike-SQ.png" width="120px">&nbsp;&nbsp;<img src="/assets/images/sponsor-logos/similarweb-SQ.png" width="120px">&nbsp;&nbsp;<img src="/assets/images/sponsor-logos/bigpanda-SQ.png" width="120px">&nbsp;&nbsp;<img src="/assets/images/sponsor-logos/logz-SQ.png" width="120px">&nbsp;&nbsp;<img src="/assets/images/sponsor-logos/couchbase-SQ.png" width="120px">&nbsp;&nbsp;<img src="/assets/images/sponsor-logos/jfrog-SQ.png" width="120px">&nbsp;&nbsp;<img src="/assets/images/sponsor-logos/minute-media-SQ.png" width="120px">&nbsp;&nbsp;<img src="/assets/images/sponsor-logos/mysql-SQ.png" width="120px">&nbsp;&nbsp;<img src="/assets/images/sponsor-logos/vonage-SQ.png" width="120px">&nbsp;&nbsp;<img src="/assets/images/sponsor-logos/yotpo-SQ.png" width="120px">&nbsp;&nbsp;<img src="/assets/images/sponsor-logos/wix-SQ.png" width="120px">&nbsp;&nbsp;<img src="/assets/images/sponsor-logos/ziprecruiter-SQ.png" width="120px">&nbsp;&nbsp;<img src="/assets/images/sponsor-logos/namogoo-SQ.png" width="120px">&nbsp;&nbsp;<img src="/assets/images/sponsor-logos/gitlab-SQ.png" width="120px">&nbsp;&nbsp;<img src="/assets/images/sponsor-logos/fiverr-SQ.png" width="120px">&nbsp;&nbsp;<img src="/assets/images/sponsor-logos/scylla-SQ.png" width="120px">&nbsp;&nbsp;<img src="/assets/images/sponsor-logos/terasky-SQ.png" width="120px">&nbsp;&nbsp;
-
-</div>
+        {% include /sponsors/previous-sponsors.html %}
 	</div>
 </section>
 

@@ -179,35 +179,15 @@ nav-menu: true
 
 <div class="row">
      <div class="box" style="width: 100%; text-align: center;">
-        <h1 style="text-transform: uppercase;">EVENT ORGANIZER</h1>
-        <a href="https://cidersecurity.io" target="_blank"><img src="/assets/images/sponsor-logos/cider.png" width="350px"></a>
-
-        <hr class="major">
+       
         
-        {% include /sponsors/devopsdays-2021-logos.html %}
+        {% include /sponsors/previous-sponsors.html %}
 
 
 
-        <br/>
-        <br/>
+<hr class="major">
 
-
-         <h2 style="text-transform: uppercase;">MEDIA PARTNERS</h2>
-        <a href="https://daily.dev" target="_blank"><img src="/assets/images/sponsor-logos/dailydev.png" width="250px"></a>
-
-        <a href="https://open.spotify.com/show/6zOz0Te3pMfukT5WfMeXYl" target="_blank"><img src="/assets/images/sponsor-logos/barvazgumi.png" width="120px"></a>
-
-        <hr class="major">
-
-
-        <h2 style="text-transform: uppercase;">Previous Event Sponsors</h2>
-
-        <img src="/assets/images/sponsor-logos/FACEBOOK-SQ.png" width="120px">&nbsp;&nbsp;<img src="/assets/images/sponsor-logos/aws-SQ.png" width="120px">&nbsp;&nbsp;<img src="/assets/images/sponsor-logos/microsoft-SQ.png" width="120px">&nbsp;&nbsp;<img src="/assets/images/sponsor-logos/googlecloud-SQ.png" width="120px">&nbsp;&nbsp;<img src="/assets/images/sponsor-logos/newrelic-SQ.png" width="120px">&nbsp;&nbsp;<img src="/assets/images/sponsor-logos/monday-SQ.png" width="120px">&nbsp;&nbsp;<img src="/assets/images/sponsor-logos/elastic-SQ.png" width="120px">&nbsp;&nbsp;<img src="/assets/images/sponsor-logos/AF-ENG-SQ.png" width="120px">&nbsp;&nbsp;<img src="/assets/images/sponsor-logos/next-SQ.png" width="120px">&nbsp;&nbsp;<img src="/assets/images/sponsor-logos/synopsys-SQ.png" width="120px">&nbsp;&nbsp;<img src="/assets/images/sponsor-logos/digitalocean-SQ.png" width="120px">&nbsp;&nbsp;<img src="/assets/images/sponsor-logos/aerospike-SQ.png" width="120px">&nbsp;&nbsp;<img src="/assets/images/sponsor-logos/similarweb-SQ.png" width="120px">&nbsp;&nbsp;<img src="/assets/images/sponsor-logos/bigpanda-SQ.png" width="120px">&nbsp;&nbsp;<img src="/assets/images/sponsor-logos/logz-SQ.png" width="120px">&nbsp;&nbsp;<img src="/assets/images/sponsor-logos/couchbase-SQ.png" width="120px">&nbsp;&nbsp;<img src="/assets/images/sponsor-logos/jfrog-SQ.png" width="120px">&nbsp;&nbsp;<img src="/assets/images/sponsor-logos/minute-media-SQ.png" width="120px">&nbsp;&nbsp;<img src="/assets/images/sponsor-logos/mysql-SQ.png" width="120px">&nbsp;&nbsp;<img src="/assets/images/sponsor-logos/vonage-SQ.png" width="120px">&nbsp;&nbsp;<img src="/assets/images/sponsor-logos/yotpo-SQ.png" width="120px">&nbsp;&nbsp;<img src="/assets/images/sponsor-logos/wix-SQ.png" width="120px">&nbsp;&nbsp;<img src="/assets/images/sponsor-logos/ziprecruiter-SQ.png" width="120px">&nbsp;&nbsp;<img src="/assets/images/sponsor-logos/namogoo-SQ.png" width="120px">&nbsp;&nbsp;<img src="/assets/images/sponsor-logos/gitlab-SQ.png" width="120px">&nbsp;&nbsp;<img src="/assets/images/sponsor-logos/fiverr-SQ.png" width="120px">&nbsp;&nbsp;<img src="/assets/images/sponsor-logos/scylla-SQ.png" width="120px">&nbsp;&nbsp;<img src="/assets/images/sponsor-logos/terasky-SQ.png" width="120px">&nbsp;&nbsp;
-
-        <br/>
-        <br/>
-        <h2>And Many More Who Make Our Amazing Community Possible</h2>
-
+      
         <br/>
          <ul class="actions">
          <li><a href="https://forms.gle/ZkiGUsbnAfQgHYrk7" target="_blank" class="button next">Sponsor Event</a></li>
