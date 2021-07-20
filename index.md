@@ -15,22 +15,10 @@ show_tile: false
 
 <div class="row">
      <div class="box" style="width: 100%; text-align: center;">
-        <h2 style="text-transform: uppercase;">EVENT ORGANIZER</h2>
-        <a href="https://cidersecurity.io" target="_blank"><img src="/assets/images/sponsor-logos/cider.png" width="350px"></a>
 
-        <hr class="major">
-        <h2 style="text-transform: uppercase;">COMMUNITY PILLAR</h2>
-
-           {% include /sponsors/devopsdays-2021-logos.html %}
+      {% include /sponsors/devopsdays-2021-logos.html %}
 
 
-        <hr class="major">
-
-
-         <h2 style="text-transform: uppercase;">MEDIA PARTNERS</h2>
-        <a href="https://daily.dev" target="_blank"><img src="/assets/images/sponsor-logos/dailydev.png" width="250px"></a>
-
-        <a href="https://open.spotify.com/show/6zOz0Te3pMfukT5WfMeXYl" target="_blank"><img src="/assets/images/sponsor-logos/barvazgumi.png" width="120px"></a>
 
 </div>
 </div>
@@ -38,6 +26,6 @@ show_tile: false
 
 
 <h2 style="text-transform: uppercase; color: turquoise; text-align: center;">SPONSOR OUR COMMUNITY</h2>       
- <ul class="actions" style="text-transform: uppercase; color: turquoise; text-align: center;"><li><a href="sponsor.html" class="button next">LEARN MORE</a></li></ul>
+ <ul class="actions" style="text-transform: uppercase; color: turquoise; text-align: center;"><li><a href="sponsor.html" class="button next">LEARN MORE</a></li></ul>  <ul class="actions" style="text-transform: uppercase; color: turquoise; text-align: center;"><li><a href="/devopsdays" class="button next">SPONSOR DEVOPSDAYS</a></li></ul>
 </div>
 
