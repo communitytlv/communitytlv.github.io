@@ -44,10 +44,21 @@ image: assets/images/pic08.jpg
 
 <!-- One -->
 <section id="one">
-	<div class="inner">
+	<div class="inner" style="text-align: center;">
 			<h2> Big Thanks to Our Sponsors!</h2>
 <!-- Content -->
         {% include /sponsors/previous-sponsors.html %}
+		
+
+		  <h2 style="text-transform: uppercase;"><span class="icon fa-star" style="color: turquoise;"></span>&nbsp; DevOpsDays Tel Aviv 2021 Sponsors &nbsp;<span class="icon fa-star" style="color: turquoise;"></span></h2>
+
+
+
+		 {% include /sponsors/devopsdays-2021-logos.html %}
+
+		<br/>
+        <br/>
+        <h2>And Many More Who Make Our Amazing Community Possible</h2>
 	</div>
 </section>
 

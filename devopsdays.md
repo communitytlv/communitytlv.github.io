@@ -184,6 +184,13 @@ nav-menu: true
         {% include /sponsors/previous-sponsors.html %}
 
 
+        {% include /sponsors/devopsdays-2021-logos.html %}
+
+        <br/>
+        <br/>
+        <h2>And Many More Who Make Our Amazing Community Possible</h2>
+
+
 
 <hr class="major">
 
