@@ -31,58 +31,7 @@ nav-menu: true
         </div>
     </div>
 
- <div class="row" id="#sponsor">
-       <div class="box" style="width: 100%;">
-
-        <h2>Sponsor the Event</h2>
-        <h3 style="text-transform: uppercase; color: #c0d44f;">Community Pillar: $6,500 (USD) - <span style="text-transform: uppercase; color: red; background-color: yellow;">SOLD OUT</span></h3>
-        <i class="fa fa-cog" style="color: red;"></i>&nbsp;&nbsp;Booth space 2X2M, including backwall graphics & carpet, counter and chairs<br/>
-        <i class="fa fa-cog" style="color: orange;"></i>&nbsp;&nbsp;TV / Monitor <br/>
-        <i class="fa fa-cog" style="color: #c0d44f;"></i>&nbsp;&nbsp;Badge Scanner<br/>
-        <i class="fa fa-cog" style="color: #19d819;"></i>&nbsp;&nbsp;Logo on all signage, website & communications<br/>
-        <i class="fa fa-cog" style="color: turquoise;"></i>&nbsp;&nbsp;Social media promotion<br/>
-        <i class="fa fa-cog" style="color: #a472d4;"></i>&nbsp;&nbsp;8 Event Tickets <br/>
-        <i class="fa fa-cog" style="color: #d95374;"></i>&nbsp;&nbsp;Eligibility for Add-ons (On a first come first served basis)<br/>
-        
-
-        <br/>
-       <!--  <h5 style="text-transform: uppercase; color: #c0d44f;"> **Please note, due to the limited availability of booths, sponsorships are based on the order of the receipt of the signed agreements.**</h5> -->
-
-        <br/>
-
-        
-
-
-        </div>
-    </div>
-
-<div class="row">
-        <div class="box" style="width: 100%;">
-        <h2>Available Sponsorship Opportunities</h2>
-        <ul>
-        <li> <span style="text-transform: uppercase; color: #c0d44f; font-weight: 700;">Demo Theater</span> - 10-minute demo in the dedicated demo theater - $2500 USD (Limited Availability - Based on Agenda)</li>
-        <li><strike>T-Shirt Sponsor - In Kind (Cost of t-shirts) - 1 Available</strike> &nbsp; <strong style="text-transform: uppercase; color: red;">SOLD OUT</strong></li>
-        <li><strike>Swag Bag Sponsor - In Kind (Cost of swag bag) - 1 Available</strike>&nbsp; <strong style="text-transform: uppercase; color: red;">SOLD OUT</strong></li>
-        <li><strike>Lanyard Sponsor - In Kind (Cost of lanyard branding) - 1 Available</strike> &nbsp; <strong style="text-transform: uppercase; color: red;">SOLD OUT</strong></li>
-        <li><span style="text-transform: uppercase; color: turquoise; font-weight: 700;">Other Swag Sponsor</span> - In Kind (Cost of swag)</li>
-        <li><span style="text-transform: uppercase; color: #a472d4; font-weight: 700;">Breakfast / Lunch / Coffee Sponsor</span> - $2000 per day / $3000 for both days</li>
-        <li><strike>Technical Workshop - Subject to content moderation & description with syllabus submission -$4000 USD -  2 Available</strike> &nbsp; <strong style="text-transform: uppercase; color: red;">SOLD OUT</strong></li>
-        <li><span style="text-transform: uppercase; color: #c0d44f; font-weight: 700;">Meeting / Interview Room Rental</span> - $2500 USD -  2 Available</li>
-        <li> <strike>ON-CALL LOUNGE- Full branding & use of the on-call lounge - $2500 USD - 1 Available</strike> &nbsp; <strong style="text-transform: uppercase; color: red;">SOLD OUT</strong></li>
-        </ul>
-
-        <ul class="actions">
-         <li><a href="https://forms.gle/ZkiGUsbnAfQgHYrk7" target="_blank" class="button next">Sponsorship Application</a></li>
-         </ul>
-</div>   
-</div>
-
-     
-
-
-
-
-
+  
 <div class="inner">
 <div class="box" style="width: 100%;">
 
@@ -198,14 +147,57 @@ nav-menu: true
 
         <br/>
 
-        {% include /sponsors/previous-sponsors.html %}
-
-        <br/>
-
-
         <h2 style="text-align: center;">And Many More Who Make Our Amazing Community Possible</h2>
 
 <hr class="major">
+
+
+
+<div class="row" id="#sponsor">
+       <div class="box" style="width: 100%;">
+
+        <h2>Sponsor the Event</h2>
+        <h3 style="text-transform: uppercase; color: #c0d44f;">Community Pillar: $6,500 (USD) - <span style="text-transform: uppercase; color: red; background-color: yellow;">SOLD OUT</span></h3>
+        <i class="fa fa-cog" style="color: red;"></i>&nbsp;&nbsp;Booth space 2X2M, including backwall graphics & carpet, counter and chairs<br/>
+        <i class="fa fa-cog" style="color: orange;"></i>&nbsp;&nbsp;TV / Monitor <br/>
+        <i class="fa fa-cog" style="color: #c0d44f;"></i>&nbsp;&nbsp;Badge Scanner<br/>
+        <i class="fa fa-cog" style="color: #19d819;"></i>&nbsp;&nbsp;Logo on all signage, website & communications<br/>
+        <i class="fa fa-cog" style="color: turquoise;"></i>&nbsp;&nbsp;Social media promotion<br/>
+        <i class="fa fa-cog" style="color: #a472d4;"></i>&nbsp;&nbsp;8 Event Tickets <br/>
+        <i class="fa fa-cog" style="color: #d95374;"></i>&nbsp;&nbsp;Eligibility for Add-ons (On a first come first served basis)<br/>
+        
+
+        <br/>
+       <!--  <h5 style="text-transform: uppercase; color: #c0d44f;"> **Please note, due to the limited availability of booths, sponsorships are based on the order of the receipt of the signed agreements.**</h5> -->
+
+        <br/>
+
+        
+
+
+        </div>
+    </div>
+
+<div class="row">
+        <div class="box" style="width: 100%;">
+        <h2>Available Sponsorship Opportunities</h2>
+        <ul>
+        <li> <span style="text-transform: uppercase; color: #c0d44f; font-weight: 700;">Demo Theater</span> - 10-minute demo in the dedicated demo theater - $2500 USD (Limited Availability - Based on Agenda)</li>
+        <li><strike>T-Shirt Sponsor - In Kind (Cost of t-shirts) - 1 Available</strike> &nbsp; <strong style="text-transform: uppercase; color: red;">SOLD OUT</strong></li>
+        <li><strike>Swag Bag Sponsor - In Kind (Cost of swag bag) - 1 Available</strike>&nbsp; <strong style="text-transform: uppercase; color: red;">SOLD OUT</strong></li>
+        <li><strike>Lanyard Sponsor - In Kind (Cost of lanyard branding) - 1 Available</strike> &nbsp; <strong style="text-transform: uppercase; color: red;">SOLD OUT</strong></li>
+        <li><span style="text-transform: uppercase; color: turquoise; font-weight: 700;">Other Swag Sponsor</span> - In Kind (Cost of swag)</li>
+        <li><span style="text-transform: uppercase; color: #a472d4; font-weight: 700;">Breakfast / Lunch / Coffee Sponsor</span> - $2000 per day / $3000 for both days</li>
+        <li><strike>Technical Workshop - Subject to content moderation & description with syllabus submission -$4000 USD -  2 Available</strike> &nbsp; <strong style="text-transform: uppercase; color: red;">SOLD OUT</strong></li>
+        <li><span style="text-transform: uppercase; color: #c0d44f; font-weight: 700;">Meeting / Interview Room Rental</span> - $2500 USD -  2 Available</li>
+        <li> <strike>ON-CALL LOUNGE- Full branding & use of the on-call lounge - $2500 USD - 1 Available</strike> &nbsp; <strong style="text-transform: uppercase; color: red;">SOLD OUT</strong></li>
+        </ul>
+
+        <ul class="actions">
+         <li><a href="https://forms.gle/ZkiGUsbnAfQgHYrk7" target="_blank" class="button next">Sponsorship Application</a></li>
+         </ul>
+</div>   
+</div>
 
 <div class="box" style="width: 100%; text-align: center;">
  <h2 style="text-transform: uppercase;">Previous Event Speakers</h2>
