@@ -13,15 +13,13 @@ show_tile: false
 <p style="text-transform: uppercase; text-align: center;">YOU MAKE THE EVENT AND COMMUNITY POSSIBLE</p>
 
 
-<div class="row">
-     <div class="box" style="width: 100%; text-align: center;">
+
 
       {% include /sponsors/devopsdays-2021-logos.html %}
 
 
 
-</div>
-</div>
+
 
 
 

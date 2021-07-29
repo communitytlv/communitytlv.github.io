@@ -35,7 +35,7 @@ nav-menu: true
        <div class="box" style="width: 100%;">
 
         <h2>Sponsor the Event</h2>
-        <h3 style="text-transform: uppercase; color: #c0d44f;">Community Pillar: $6,500 (USD) - ~14-16 Available</h3>
+        <h3 style="text-transform: uppercase; color: #c0d44f;">Community Pillar: $6,500 (USD) - <span style="text-transform: uppercase; color: red; background-color: yellow;">SOLD OUT</span></h3>
         <i class="fa fa-cog" style="color: red;"></i>&nbsp;&nbsp;Booth space 2X2M, including backwall graphics & carpet, counter and chairs<br/>
         <i class="fa fa-cog" style="color: orange;"></i>&nbsp;&nbsp;TV / Monitor <br/>
         <i class="fa fa-cog" style="color: #c0d44f;"></i>&nbsp;&nbsp;Badge Scanner<br/>
@@ -46,13 +46,11 @@ nav-menu: true
         
 
         <br/>
-        <h5 style="text-transform: uppercase; color: #c0d44f;"> **Please note, due to the limited availability of booths, sponsorships are based on the order of the receipt of the signed agreements.**</h5>
+       <!--  <h5 style="text-transform: uppercase; color: #c0d44f;"> **Please note, due to the limited availability of booths, sponsorships are based on the order of the receipt of the signed agreements.**</h5> -->
 
         <br/>
 
-         <ul class="actions">
-         <li><a href="https://forms.gle/ZkiGUsbnAfQgHYrk7" target="_blank" class="button next">Sponsorship Application</a></li>
-         </ul>
+        
 
 
         </div>
@@ -60,7 +58,7 @@ nav-menu: true
 
 <div class="row">
         <div class="box" style="width: 100%;">
-        <h2>Sponsorship Add-Ons</h2>
+        <h2>Available Sponsorship Opportunities</h2>
         <ul>
         <li> <span style="text-transform: uppercase; color: #c0d44f; font-weight: 700;">Demo Theater</span> - 10-minute demo in the dedicated demo theater - $2500 USD (Limited Availability - Based on Agenda)</li>
         <li><strike>T-Shirt Sponsor - In Kind (Cost of t-shirts) - 1 Available</strike> &nbsp; <strong style="text-transform: uppercase; color: red;">SOLD OUT</strong></li>
@@ -70,10 +68,144 @@ nav-menu: true
         <li><span style="text-transform: uppercase; color: #a472d4; font-weight: 700;">Breakfast / Lunch / Coffee Sponsor</span> - $2000 per day / $3000 for both days</li>
         <li><strike>Technical Workshop - Subject to content moderation & description with syllabus submission -$4000 USD -  2 Available</strike> &nbsp; <strong style="text-transform: uppercase; color: red;">SOLD OUT</strong></li>
         <li><span style="text-transform: uppercase; color: #c0d44f; font-weight: 700;">Meeting / Interview Room Rental</span> - $2500 USD -  2 Available</li>
-        <li> <span style="text-transform: uppercase; color: orange; font-weight: 700;">ON-CALL LOUNGE</span> - Full branding & use of the on-call lounge - $2500 USD - 1 Available</li>
+        <li> <strike>ON-CALL LOUNGE- Full branding & use of the on-call lounge - $2500 USD - 1 Available</strike> &nbsp; <strong style="text-transform: uppercase; color: red;">SOLD OUT</strong></li>
         </ul>
+
+        <ul class="actions">
+         <li><a href="https://forms.gle/ZkiGUsbnAfQgHYrk7" target="_blank" class="button next">Sponsorship Application</a></li>
+         </ul>
+</div>   
 </div>
+
+     
+
+
+
+
+
+<div class="inner">
+<div class="box" style="width: 100%;">
+
+            <div class="row" style="text-align: center;">
+           <h2 id="#cfp" style="text-transform: uppercase; color: turquoise;">Call for Papers is open through August 31, 2021</h2>
+            <br/>
+            <div class="12u">
+            <h4 style="text-align: left; font-weight: 700">CFP Review Timeline:</h4>
+            <ul style="text-align: left;">
+            <li><strong>CFP Close:</strong> August 31, 2021</li>
+            <li><strong>CFP Review:</strong>  September 2021</li>
+            <li><strong>Speaker Notifications:</strong>  Early October</li>
+            <li><strong>Announce Lineup:</strong>  Mid-October 2021</li>            
+            </ul>
+            <ul class="actions"><li><a href="https://www.papercall.io/devopsdays-tlv-2021" target="_blank" class="button next">Apply to Speak</a></li></ul>
+            </div>
+
+    </div>
 </div>
+
+<div class="box" style="width: 100%; text-align: center;">
+ <h2 style="text-transform: uppercase;">ANNOUNCING 2021 Event Speakers</h2>
+    <div class="row">
+        <div class="row 20% uniform">
+
+        <div class="3u">
+        <a href="#open-modal-1"><img src="assets/images/speakers/mark.png" alt="Dr. Mark Burgess" width="200" /></a>
+        <ul class="icons"><span style="text-transform: uppercase; color: turquoise; font-weight: 700;">DR. MARK BURGESS</span>  <br/> <span style="text-transform: uppercase;"> Technologist, Scientist & Author - Specializing in the Physics of Information Systems</span><br/>
+        <li><a href="https://twitter.com/markburgess_osl" target="_blank" class="icon fa-twitter"></a></li>
+        <li><a href="https://www.linkedin.com/in/markburgessoslo/"  target="_blank" class="icon fa-linkedin"></a></li>
+        <li><a href="https://github.com/markburgess" target="_blank" class="icon fa-github"></a></li>
+        </ul>
+        
+        <div id="open-modal-1" class="modal-window">
+        <div><a href="#1" title="Close" class="modal-close">X</a>
+        <h4 style="text-transform: uppercase;">MARK BURGESS, PHD | KEYNOTE SPEAKER</h4>
+        <div></div>
+        <div><small><p>Physicist, technologist, advisor to public and private organizations globally---author, founder and original architect of <a href="http://cfengine.com/" target="_blank">CFEngine</a>, founder of <a href="http://chitek-i.org/" target="_blank">ChiTek-i</a>, and <a href="http://aljabr.io/" target="_blank">Aljabr</a>. International technology advisor, and public speaker. Contributor to the science and technology of distributed computer systems in today's Internet Infrastructure, especially through semantics of Configuration and <a href="http://markburgess.org/promises.html" target="_blank">Promise Theory</a>. Popularizer of science, and advocate for science's cultural importance in modern education, as well as part time composer.</p>
+        <p>Previously Professor of Networks and Systems at Oslo (Metropolitan) University, teaching in Physics, Mathematics, Operating Systems, Network and System Administration, Networking Technologies, laboratory skills, Programming Languages, Computer Security and many seminar series on scientific methods for PhD students. I abandoned this position to work in the field. I assist in the editing of a number of scientific journals.</p>
+        </small></div>
+        </div>
+        </div> 
+        
+        </div>
+
+		<div class="3u">
+        <a href="#open-modal-2"><img src="assets/images/speakers/adi.png" alt="Quintessence Anx" width="200" /></a>
+        <ul class="icons"><span style="text-transform: uppercase; color: turquoise; font-weight: 700;">ADI SHACHAM-SHAVIT</span><br/> EVP ENGINEERING, CLEAR <br/>
+        <li><a href="https://twitter.com/adishsh/" target="_blank" class="icon fa-twitter"></a></li>
+        <li><a href="https://www.linkedin.com/in/adi-shacham-shavit/"  target="_blank" class="icon fa-linkedin"></a></li>
+        <li><a href="https://github.com/adishachamshavit" target="_blank" class="icon fa-github"></a></li>
+        </ul>
+
+        <div id="open-modal-2" class="modal-window">
+        <div><a href="#2" title="Close" class="modal-close">X</a>
+        <h4 style="text-transform: uppercase;">ADI SHACHAM-SHAVIT | ENGINEERING LEADERSHIP</h4>
+        <div style="text-transform: uppercase;">WORKSHOP: Stay on-top of your technical backlog and live to tell</div>
+        <div><small></small></div>
+        </div>
+        </div>         
+        </div>
+
+        <div class="3u">
+        <a href="#open-modal-3"><img src="assets/images/speakers/miri.png" alt="Erik Zaadi - Salto" width="200" /></a>
+        <ul class="icons"><span style="text-transform: uppercase; color: turquoise; font-weight: 700;">MIRI CURIEL</span> <br/><span style="text-transform: uppercase;"> Tech Management Expert,  Executive Coach and Mentor, Speaker & Advocate for Women in Tech </span> <br/>
+        <li><a href="https://www.linkedin.com/in/miri-curiel/"  target="_blank" class="icon fa-linkedin"></a></li>
+        </ul>
+
+        <div id="open-modal-3" class="modal-window">
+        <div><a href="#3" title="Close" class="modal-close">X</a>
+        <h4 style="text-transform: uppercase;">MIRI CURIEL | ENGINEERING LEADERSHIP</h4>
+        <div style="text-transform: uppercase;">WORKSHOP: How to initiate a technology change and make it happen</div>
+        <div><small></small></div>
+        </div>
+        </div>   
+
+        </div>
+
+        <div class="3u">
+        <a href="#open-modal-4"><img src="assets/images/speakers/wolfgang.png" alt="Erik Zaadi - Salto" width="200" /></a>
+        <ul class="icons"><span style="text-transform: uppercase; color: turquoise; font-weight: 700;">J. WOLFGANG GOERLICH </span><br/> <span style="text-transform: uppercase;"> ADVISORY CISO, DUO SECURITY</span> <br/>
+        <li><a href="https://twitter.com/jwgoerlich" target="_blank" class="icon fa-twitter"></a></li>
+        <li><a href="https://www.linkedin.com/in/jwgoerlich/"  target="_blank" class="icon fa-linkedin"></a></li>
+        <li><a href="https://github.com/jwgoerlich" target="_blank" class="icon fa-github"></a></li>
+        </ul>
+
+        <div id="open-modal-4" class="modal-window">
+        <div><a href="#4" title="Close" class="modal-close">X</a>
+        <h4 style="text-transform: uppercase;">TALK: Nudge and Sludge: Driving Security with Design</h4>
+        <div style="text-transform: uppercase;"></div>
+        <div><small>Security people say users are the weakest link. But are they? When complying with security becomes too burdensome, users take shortcuts, find workarounds, and end up jeopardizing security. Blaming users is lazy and easy. Making security usable is time consuming and challenging. How does design research help us understand our customers? What patterns and principles drive secure behavior? How can we build empathy with customers and make the right thing to do the easiest thing to do? This session explores these questions, and provides examples of how design thinking and research can help us be more secure. We will walk through our creation of core user personas, design principles, and how these inform and direct our design choices and intent. Don’t blame your users anymore. Come learn how to be part of a future where usability leads security.</small></div>
+        </div>
+        </div>   
+
+        </div>
+        </div>
+
+        </div>
+  
+
+   <div class="row">
+         <div class="12u">
+
+       <h3><span style="text-transform: uppercase; color: turquoise;">WE'RE JUST GETTING WARMED UP. <br/>MORE SPEAKERS TO BE ANNOUNCED SOON...</span></h3>
+       </div>
+    </div>
+ </div>
+
+        
+ 
+
+        {% include /sponsors/devopsdays-2021-logos.html %}
+
+        <br/>
+
+        {% include /sponsors/previous-sponsors.html %}
+
+        <br/>
+
+
+        <h2 style="text-align: center;">And Many More Who Make Our Amazing Community Possible</h2>
+
+<hr class="major">
 
 <div class="box" style="width: 100%; text-align: center;">
  <h2 style="text-transform: uppercase;">Previous Event Speakers</h2>
@@ -158,53 +290,9 @@ nav-menu: true
 
 
 
-<div class="inner">
-           <h2 id="#cfp">Call for Papers is open through August 31, 2021</h2>
-            <br/>
-            <h4 style="text-align: left; font-weight: 700">CFP Review Timeline:</h4>
-            <ul style="text-align: left;">
-            <li><strong>CFP Close:</strong> August 31, 2021</li>
-            <li><strong>CFP Review:</strong>  September 2021</li>
-            <li><strong>Speaker Notifications:</strong>  Early October</li>
-            <li><strong>Announce Lineup:</strong>  Mid-October 2021</li>            
-            </ul>
-            <ul class="actions"><li><a href="https://www.papercall.io/devopsdays-tlv-2021" target="_blank" class="button next">Apply to Speak</a></li></ul>
-</div>
 
-
-
-
-         
-
-
-<div class="row">
-     <div class="box" style="width: 100%; text-align: center;">
-       
-        
-        {% include /sponsors/previous-sponsors.html %}
-
-
-        {% include /sponsors/devopsdays-2021-logos.html %}
-
-        <br/>
-        <br/>
-        <h2>And Many More Who Make Our Amazing Community Possible</h2>
-
-
-
-<hr class="major">
-
-      
-        <br/>
-         <ul class="actions">
-         <li><a href="https://forms.gle/ZkiGUsbnAfQgHYrk7" target="_blank" class="button next">Sponsor Event</a></li>
-         </ul>
-
-        </div>
- </div>
 
 </div>
-
 </div>
 
 
