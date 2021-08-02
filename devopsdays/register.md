@@ -14,9 +14,7 @@ nav-menu: true
     <div class="row">
 
     <span style="text-align: center;">
-
     <h2 style="text-transform: uppercase; color: turquoise;">REGISTER TO JOIN US AT DEVOPSDAYS TEL AVIV 2021!</h2>
-
    <a href="/devopsdays"> <img src="/assets/images/DevOpsDays-LT.png" width="70%"></a></span>
 
         <div class="box" style="width: 100%; text-align: center;">
@@ -34,41 +32,47 @@ nav-menu: true
             <br/>          
 
 
-            <iframe width="100%" height="500" src="https://www.youtube.com/embed/i6w-rAmg84w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            <br/>
-            <br/>
-
-              <p style="text-align: center; font-weight: 700; color: #c0d44f;">Join us for a single-track DevOpsDays with a dedicated track for Cloud Native & OSS Day and Statscraft each day. </p>
-
-            <span style="text-align: center;">
-            <img src="/assets/images/statscraft-SQ.png" width="250">&nbsp; &nbsp; <img src="/assets/images/cloudnative-SQ.png" width="250">
-            </span>   
-
-            <h4 style="text-transform: uppercase; color: turquoise;"><i class="fa fa-calendar"></i>  <a href="https://bit.ly/devopsdays-tlv-2021-GCAL" target="_blank">ADD TO CALENDAR</a></h4>
 
         </div>
     </div>
+</div>
 
-  
+
+
 <div class="inner">
-<div class="box" style="width: 100%;">
+    <div class="row">
+     <div class="box" style="width: 100%;">    
+                   
+                
+                {% include /devopsdays/2021-location.html %}
 
-            <div class="row" style="text-align: center;">
-           <h2 id="#cfp" style="text-transform: uppercase; color: turquoise;">Call for Papers is open through August 31, 2021</h2>
             <br/>
-            <div class="12u">
-            <h4 style="text-align: left; font-weight: 700">CFP Review Timeline:</h4>
-            <ul style="text-align: left;">
-            <li><strong>CFP Close:</strong> August 31, 2021 &nbsp;&nbsp;   <pstyle="text-transform: uppercase; color: turquoise;"><i class="fa fa-calendar"></i>  <a href="https://bit.ly/devopsdays-cfp-close-gcal" target="_blank">ADD REMINDER TO CALENDAR</a></p></li>
-            <li><strong>CFP Review:</strong>  September 2021</li>
-            <li><strong>Speaker Notifications:</strong>  Early October</li>
-            <li><strong>Announce Lineup:</strong>  Mid-October 2021</li>            
-            </ul>
-            <ul class="actions"><li><a href="https://www.papercall.io/devopsdays-tlv-2021" target="_blank" class="button next">Apply to Speak</a></li></ul>
+            <br/>          
+
+            <span style="text-align: center;">
+            <iframe width="100%" height="500" src="https://www.youtube.com/embed/i6w-rAmg84w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span>
+            <br/>
+            <br/>
+            
+             <span style="text-align: center;">
+              <p style="font-weight: 700; color: #c0d44f;">Join us for a single-track DevOpsDays with a dedicated track for Cloud Native & OSS Day and Statscraft each day. </p> </span>   
+
+            <p style="text-align: center;">
+            <img src="/assets/images/statscraft-SQ.png" width="250" style="float: center;">&nbsp; &nbsp; <img src="/assets/images/cloudnative-SQ.png" width="250" tyle="float: center;"></p>
+            
+            <span style="text-align: center;">
+             <h4 style="text-transform: uppercase; color: turquoise;"><i class="fa fa-calendar"></i>  <a href="https://bit.ly/devopsdays-tlv-2021-GCAL" target="_blank">ADD TO CALENDAR</a></h4>
+             </span>
+
             </div>
 
+        </div>
     </div>
-</div>
+    
+
+                  {% include /devopsdays/2021-CFP.html %}
+
+
 
 <div class="box" style="width: 100%; text-align: center;">
  <h2 style="text-transform: uppercase;">ANNOUNCING 2021 Event Speakers</h2>
