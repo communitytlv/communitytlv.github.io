@@ -82,7 +82,7 @@ nav-menu: true
 
         <div class="3u">
         <a href="#open-modal-3"><img src="/assets/images/speakers/miri.png" alt="Miri Curiel" width="200" /></a>
-        <ul class="icons"><span style="text-transform: uppercase; color: turquoise; font-weight: 700;">MIRI CURIEL</span> <br/><span style="text-transform: uppercase;"> Tech Management Expert,  Executive Coach and Mentor, Speaker & Advocate for Women in Tech </span> <br/>
+        <ul class="icons"><span style="text-transform: uppercase; color: turquoise; font-weight: 700;">MIRI CURIEL</span> <br/><span style="text-transform: uppercase;"> Tech Management Expert, Former VP R&D, Tonara </span> <br/>
         <li><a href="https://www.linkedin.com/in/miri-curiel/"  target="_blank" class="icon fa-linkedin"></a></li>
         </ul>
 
