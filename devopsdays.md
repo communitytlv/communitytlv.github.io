@@ -29,7 +29,8 @@ nav-menu: true
 
             <h4 style="text-transform: uppercase; color: turquoise;"><i class="fa fa-calendar"></i>  <a href="https://bit.ly/devopsdays-tlv-2021-GCAL" target="_blank">ADD TO CALENDAR</a></h4>
 
-            <ul class="actions"><li><a href="/devopsdays/register" target="_blank" class="button special fit">REGISTER NOW </a></li></ul>
+            <ul class="actions"><li><a href="/devopsdays/register" target="_blank" class="button special fit">REGISTER NOW </a></li></ul> 
+
 
         </div>
     </div>
