@@ -1,5 +1,6 @@
 ---
 title: Register for DevOpsDays Tel Aviv 2021 <br/> November 24-25, 2021
+menu_title: Register - DevOpsDays TLV 2021
 layout: landing
 description: <strong>Smolarz Auditorium, Tel Aviv University</strong>
 image: assets/images/pic07.jpg

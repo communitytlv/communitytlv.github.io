@@ -1,5 +1,6 @@
 ---
 title: About Community TLV
+menu_title: About Community TLV
 layout: landing
 description: By the TLV DevOps Community for the Community 
 image: assets/images/pic07.jpg
