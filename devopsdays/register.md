@@ -3,6 +3,7 @@ title: Register for DevOpsDays Tel Aviv 2021 <br/> November 24-25, 2021
 menu_title: Register - DevOpsDays TLV 2021
 layout: landing
 description: <strong>Smolarz Auditorium, Tel Aviv University</strong>
+cta: <ul class="actions"><li><a href="/devopsdays/agenda-2021" class="button special fit">VIEW EVENT PROGRAM </a></li></ul> 
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -33,6 +34,9 @@ nav-menu: true
                 <br/>
 
                 <ul class="actions"><li><a href="https://www.eventbrite.com/e/devopsdays-tel-aviv-2021-with-cloud-native-oss-day-statscraft-tickets-163006999323" target="_blank" class="button fit">REGISTER ON EVENTBRITE</a></li></ul>
+
+                <ul class="actions"><li><a href="/devopsdays/agenda-2021" target="_blank" class="button special fit">VIEW EVENT PROGRAM </a></li></ul> 
+
 
             <br/>
             <br/>          
