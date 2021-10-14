@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Our Sponsors & Opps
+menu_title: TLV Community Sponsorship Opportunities
 description: Sponsor the Community
 image: assets/images/pic08.jpg
 
