@@ -91,6 +91,7 @@ nav-menu: true
     <div class="row 25% uniform">
 
         <div class="3u"><span class="image fit"><img src="{% link assets/images/elena.jpg %}" alt="" /></span><ul class="icons">ELENA LEVI | APPSFLYER <br/><li><a href="https://twitter.com/elenalevii" target="_blank"  class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/elena-levi-data/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li></ul></div>
+		 <div class="3u"><span class="image fit"><img src="{% link assets/images/lev.jpg %}" alt="" /></span><ul class="icons">LEV ANDELMAN | TERASKY <br/><li><a href="https://www.linkedin.com/in/levandelman/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li></ul></div>
 	</div>
     </div>
 

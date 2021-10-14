@@ -28,7 +28,7 @@ nav-menu: true
         <label for="tabtwo">Day Two</label>
         <div class="tab">   
      {% include /devopsdays/2021-agenda-Day2.html %}
-        </div>
+        </div> 
     </div>
 
     </div>
