@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5d8cd6a5-459b-4c5e-9deb-08a9ec299bab" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/sponsors/devopsdays-2021-logos.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/sponsors/devopsdays-2021-logos.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/devopsdays.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/devopsdays.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/devopsdays/agenda-2021.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/devopsdays/agenda-2021.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/devopsdays/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/devopsdays/register.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/sponsor.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/sponsor.html" afterDir="false" />
+    <list default="true" id="5d8cd6a5-459b-4c5e-9deb-08a9ec299bab" name="Default Changelist" comment="removed files&#10;chaned gitignore">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +27,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TF_FMT" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -61,9 +56,33 @@
       <updated>1634667454417</updated>
       <workItem from="1634667456136" duration="2184000" />
     </task>
+    <task id="LOCAL-00001" summary="removed files&#10;chaned gitignore">
+      <created>1634671040419</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1634671040419</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="removed files&#10;chaned gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed files&#10;chaned gitignore" />
   </component>
 </project>
