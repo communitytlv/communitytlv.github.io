@@ -1,11 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4001/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4001/" rel="alternate" type="text/html" /><updated>2021-10-20T09:37:20+03:00</updated><id>http://localhost:4001/feed.xml</id><title type="html">Developer Community TLV</title><subtitle>The place to get info about the leading dev communities in TLV.</subtitle><entry><title type="html">DevOpsDays 2021 Event Quick Links</title><link href="http://localhost:4001/devopsdays-quicklinks.html" rel="alternate" type="text/html" title="DevOpsDays 2021 Event Quick Links" /><published>2021-10-20T00:00:00+03:00</published><updated>2021-10-20T00:00:00+03:00</updated><id>http://localhost:4001/devopsdays-quicklinks</id><content type="html" xml:base="http://localhost:4001/devopsdays-quicklinks.html">&lt;h2 id=&quot;open-spaces-topic-form&quot;&gt;Open Spaces Topic Form&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4001/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4001/" rel="alternate" type="text/html" /><updated>2021-10-20T09:51:26+03:00</updated><id>http://localhost:4001/feed.xml</id><title type="html">Developer Community TLV</title><subtitle>The place to get info about the leading dev communities in TLV.</subtitle><entry><title type="html">DevOpsDays 2021 Event Quick Links</title><link href="http://localhost:4001/devopsdays-quicklinks.html" rel="alternate" type="text/html" title="DevOpsDays 2021 Event Quick Links" /><published>2021-10-20T00:00:00+03:00</published><updated>2021-10-20T00:00:00+03:00</updated><id>http://localhost:4001/devopsdays-quicklinks</id><content type="html" xml:base="http://localhost:4001/devopsdays-quicklinks.html">&lt;h2 id=&quot;event-agenda&quot;&gt;Event Agenda&lt;/h2&gt;
+&lt;ul class=&quot;actions&quot;&gt;
+            &lt;li&gt;&lt;a href=&quot;/devopsdays/agenda-2021.html&quot; class=&quot;button special fit&quot; target=&quot;_blank&quot;&gt;VIEW EVENT PROGRAM &lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;demo-theater-lineup&quot;&gt;Demo Theater Lineup&lt;/h2&gt;
+&lt;ul class=&quot;actions&quot;&gt;
+            &lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;button special fit&quot; target=&quot;_blank&quot;&gt; VIEW DEMO THEATER PROGRAM &lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;open-spaces-topic-form&quot;&gt;Open Spaces Topic Form&lt;/h2&gt;
 
 &lt;ul class=&quot;actions&quot;&gt;
             &lt;li&gt;&lt;a href=&quot;https://forms.gle/fKuXAZJUcBCKqB627&quot; class=&quot;button special fit&quot; target=&quot;_blank&quot;&gt;SUBMIT OPEN
                     SPACE IDEA &lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;sponsor-links&quot;&gt;Sponsor Links&lt;/h2&gt;
+&lt;hr /&gt;
 
 &lt;h2 id=&quot;workshop-registration-form&quot;&gt;Workshop Registration Form&lt;/h2&gt;
 
@@ -13,10 +27,20 @@
 &lt;li&gt;&lt;a href=&quot;https://forms.gle/9Acpjn6MJEpa5nRE9&quot; class=&quot;button special fit&quot; target=&quot;_blank&quot;&gt;RESERVE YOUR SPOT &lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;hr /&gt;
+
 &lt;h2 id=&quot;swag-shop---quick-payment-link&quot;&gt;Swag Shop - Quick Payment Link&lt;/h2&gt;
 &lt;ul class=&quot;actions&quot;&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.paypal.com/paypalme/rtfmplease&quot; class=&quot;button special fit&quot; target=&quot;_blank&quot;&gt;NAB YOUR LIMITED EDITION SWAG &lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="core" /><category term="core" /><summary type="html">Open Spaces Topic Form</summary></entry><entry><title type="html">Agenda &amp;amp; Speakers</title><link href="http://localhost:4001/agenda" rel="alternate" type="text/html" title="Agenda &amp;amp; Speakers" /><published>2020-12-17T00:00:00+02:00</published><updated>2020-12-17T00:00:00+02:00</updated><id>http://localhost:4001/agenda</id><content type="html" xml:base="http://localhost:4001/agenda">&lt;!-- Main --&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;sponsor-links&quot;&gt;Sponsor Links&lt;/h2&gt;
+
+&lt;h4 id=&quot;coming-soon&quot;&gt;COMING SOON…&lt;/h4&gt;
+
+&lt;hr /&gt;</content><author><name></name></author><category term="core" /><category term="core" /><summary type="html">Event Agenda VIEW EVENT PROGRAM</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4001/assets/images/devopsdays-LT.png" /><media:content medium="image" url="http://localhost:4001/assets/images/devopsdays-LT.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Agenda &amp;amp; Speakers</title><link href="http://localhost:4001/agenda" rel="alternate" type="text/html" title="Agenda &amp;amp; Speakers" /><published>2020-12-17T00:00:00+02:00</published><updated>2020-12-17T00:00:00+02:00</updated><id>http://localhost:4001/agenda</id><content type="html" xml:base="http://localhost:4001/agenda">&lt;!-- Main --&gt;
 &lt;div id=&quot;main&quot; class=&quot;alt&quot;&gt;
 
 &lt;!-- One --&gt;

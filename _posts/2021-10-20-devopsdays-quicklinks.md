@@ -2,12 +2,26 @@
 layout: post
 title: DevOpsDays 2021 Event Quick Links
 description: Quick access to event and sponsor links in one place.
-image: 
+image: assets/images/devopsdays-LT.png
 permalink: /:title:output_ext
 tag: core
 categories: core
 
 ---
+
+## Event Agenda
+ <ul class="actions">
+            <li><a href="/devopsdays/agenda-2021.html" class="button special fit" target="_blank">VIEW EVENT PROGRAM </a></li>
+</ul>
+
+--------------------------
+
+## Demo Theater Lineup
+<ul class="actions">
+            <li><a href="#" class="button special fit" target="_blank"> VIEW DEMO THEATER PROGRAM </a></li>
+</ul>
+
+--------------------------
 
 ## Open Spaces Topic Form
 
@@ -16,9 +30,7 @@ categories: core
                     SPACE IDEA </a></li>
 </ul>
 
-
-## Sponsor Links
-
+--------------------------
 
 ## Workshop Registration Form
 
@@ -26,10 +38,19 @@ categories: core
 <li><a href="https://forms.gle/9Acpjn6MJEpa5nRE9" class="button special fit" target="_blank">RESERVE YOUR SPOT </a></li>
 </ul>
 
+--------------------------
+
 
 ## Swag Shop - Quick Payment Link
 <ul class="actions">
 <li><a href="https://www.paypal.com/paypalme/rtfmplease" class="button special fit" target="_blank">NAB YOUR LIMITED EDITION SWAG </a></li>
 </ul>
 
+--------------------------
+
+## Sponsor Links
+
+#### COMING SOON...
+
+--------------------------
 
