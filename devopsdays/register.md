@@ -57,7 +57,9 @@ nav-menu: true
                 {% include /devopsdays/2021-location.html %}
 
             <br/>
-            <br/>          
+            <br/>         
+
+    <hr class="major"> 
 
             <span style="text-align: center;">
             <iframe width="100%" height="500" src="https://www.youtube.com/embed/i6w-rAmg84w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span>
@@ -78,9 +80,10 @@ nav-menu: true
 
         </div>
     </div>
-    
 
-         {% include /devopsdays/2021-CFP.html %}
+<div class="inner">
+
+
 
          {% include /devopsdays/2021-speakers.html %}
         
@@ -90,6 +93,11 @@ nav-menu: true
 
         <h2 style="text-align: center;">And Many More Who Make Our Amazing Community Possible</h2>
 
+ <div class="row" style="text-align: center;">
+            <div class="4u"><ul class="actions"><li><a href="/devopsdays/agenda-2021" class="button fit"> <i class="fa fa-cog" style="color: red;"></i> VIEW EVENT PROGRAM</a></li></ul></div>
+            <div class="4u"><ul class="actions"><li><a href="/devopsdays/register" class="button fit"> <i class="fa fa-cog" style="color: orange;"></i> REGISTER</a></li></ul></div>
+            <div class="4u"><ul class="actions"><li><a href="/devopsdays-quicklinks" class="button fit"> <i class="fa fa-cog" style="color: #c0d44f;"></i> EVENT QUICK LINKS</a></li></ul></div>
+</div>
 
 </div>
 </div>

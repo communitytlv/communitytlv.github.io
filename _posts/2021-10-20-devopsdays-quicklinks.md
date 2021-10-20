@@ -2,12 +2,16 @@
 layout: post
 title: DevOpsDays 2021 Event Quick Links
 description: Quick access to event and sponsor links in one place.
-image: assets/images/devopsdays-LT.png
+image: 
 permalink: /:title:output_ext
 tag: core
 categories: core
 
 ---
+
+
+<a href="/devopsdays"><img src="/assets/images/devopsTLV-SQ.png" width="450"></a>
+
 
 ## Event Agenda
  <ul class="actions">
