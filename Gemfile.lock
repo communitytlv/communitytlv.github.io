@@ -22,7 +22,7 @@ GEM
     commonmarker (0.17.13)
       ruby-enum (~> 0.5)
     concurrent-ruby (1.1.9)
-    dnsruby (1.61.6)
+    dnsruby (1.61.7)
       simpleidn (~> 0.1)
     em-websocket (0.5.2)
       eventmachine (>= 0.12.9)
@@ -264,7 +264,7 @@ GEM
       thread_safe (~> 0.1)
     unf (0.1.4)
       unf_ext
-    unf_ext (0.0.7.7)
+    unf_ext (0.0.8)
     unicode-display_width (1.7.0)
     zeitwerk (2.4.2)
 
@@ -280,4 +280,4 @@ DEPENDENCIES
   kramdown-parser-gfm
 
 BUNDLED WITH
-   2.2.19
+   2.2.29

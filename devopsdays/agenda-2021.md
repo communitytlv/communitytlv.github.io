@@ -3,7 +3,7 @@ title: Agenda for DevOpsDays Tel Aviv 2021 <br/> November 24-25, 2021
 menu_title: Agenda - DevOpsDays TLV 2021
 layout: landing
 description: <strong>Smolarz Auditorium, Tel Aviv University</strong>
-cta: <ul class="actions"><li><a href="/devopsdays/register" class="button special fit">REGISTER NOW </a></li></ul> 
+cta: <ul class="actions"><li><a href="/devopsdays/register" class="button special fit">REGISTER NOW </a></li></ul> <ul class="actions"><li><a href="/devopsdays-quicklinks" class="button fit"> EVENT QUICK LINKS</a></li></ul> 
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
@@ -81,6 +81,11 @@ nav-menu: true
 
         <h2 style="text-align: center;">And Many More Who Make Our Amazing Community Possible</h2>
 
+ <div class="row" style="text-align: center;">
+            <div class="4u"><ul class="actions"><li><a href="/devopsdays/agenda-2021" class="button fit"> <i class="fa fa-cog" style="color: red;"></i>VIEW EVENT PROGRAM</a></li></ul></div>
+            <div class="4u"><ul class="actions"><li><a href="/devopsdays/register" class="button fit"> <i class="fa fa-cog" style="color: orange;"></i> REGISTER</a></li></ul></div>
+            <div class="4u"><ul class="actions"><li><a href="/devopsdays-quicklinks" class="button fit"> <i class="fa fa-cog" style="color: #c0d44f;"></i> EVENT QUICK LINKS</a></li></ul></div>
+</div>
 
 </div>
 </div>
