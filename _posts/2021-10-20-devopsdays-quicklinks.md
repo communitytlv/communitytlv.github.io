@@ -10,7 +10,7 @@ categories: core
 ---
 
 
-<a href="/devopsdays"><img src="/assets/images/devopsTLV-SQ.png" width="450"></a>
+<a href="/devopsdays"><img src="/assets/images/devopstlv-SQ.png" width="450"></a>
 
 
 ## Event Agenda
