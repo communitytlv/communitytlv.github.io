@@ -21,7 +21,7 @@ nav-menu: true
 
         <div class="box" style="width: 100%; text-align: center;">
          
-            <p>DevOpsDays Tel Aviv is coming back for its <span style="color: #d95374;">EIGHTH time</span> to bring some of the longest-running DevOps community events in Tel Aviv together into ONE AWESOME <span style="font-weight: 700; color: #c0d44f;">{in-person}</span> event.</p>
+            <p>DevOpsDays Tel-Aviv is back for its <span style="color: #d95374;">EIGHTH time</span> to bring some of the longest-running DevOps community events in Tel Aviv together into ONE AWESOME <span style="font-weight: 700; color: #c0d44f;">{in-person}</span> event.</p>
             <p>DevOpsDays Tel Aviv is part of the global <a href="https://devopsdays.org/" target="_blank">devopsdays event series</a>, bringing in participants from the entire global devopsdays community.  To learn more, you can visit our event on the main <a href="https://devopsdays.org/events/2021-tel-aviv/welcome/" target="_blank">devopsdays.org</a> website.</p>
             <p style="text-align: left; ">Join leading industry speakers along with DevOps, SRE, platform, production and operations engineers for two full days of sessions focusing on best practices in modern  engineering - from the infrastructure and operations to the systems and processes. DevOpsDays is a volunteer-led event, by the community for the community, with talks contributed by some of the best from our local community as well as the global DevOps community, with a variety of talks from beginner through advanced levels, so literally anyone can join and enjoy the sessions.</p>
 
@@ -33,7 +33,7 @@ nav-menu: true
                 <br/>
                 <br/>
 
-                <ul class="actions"><li><a href="https://www.eventbrite.com/e/devopsdays-tel-aviv-2021-with-cloud-native-oss-day-statscraft-tickets-163006999323" target="_blank" class="button fit">REGISTER ON EVENTBRITE</a></li></ul>
+                <!-- <ul class="actions"><li><a href="https://www.eventbrite.com/e/devopsdays-tel-aviv-2021-with-cloud-native-oss-day-statscraft-tickets-163006999323" target="_blank" class="button fit">REGISTER ON EVENTBRITE</a></li></ul> -->
 
                 <ul class="actions"><li><a href="/devopsdays/agenda-2021" target="_blank" class="button special fit">VIEW EVENT PROGRAM </a></li></ul> 
 
