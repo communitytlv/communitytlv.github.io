@@ -4,38 +4,28 @@
         <div class="row 20% uniform">
 
             <div class="3u">
-                <a href="#open-modal-1"><img src="/assets/images/speakers/mark.png" alt="Dr. Mark Burgess"
+                <a href="#open-modal-1"><img src="/assets/images/speakers/shay.png" alt="Shay Banon"
                         width="200" /></a>
-                <ul class="icons"><span style="text-transform: uppercase; color: turquoise; font-weight: 700;">DR. MARK
-                        BURGESS</span> <br /> <span style="text-transform: uppercase;"> Technologist, Scientist & Author
-                        - Specializing in the Physics of Information Systems</span><br />
-                    <li><a href="https://twitter.com/markburgess_osl" target="_blank" class="icon fa-twitter"></a></li>
-                    <li><a href="https://www.linkedin.com/in/markburgessoslo/" target="_blank"
+                <ul class="icons"><span style="text-transform: uppercase; color: turquoise; font-weight: 700;">SHAY
+                        BANON</span> <br /> <span style="text-transform: uppercase;"> Founder and CEO, Elastic</span><br />
+                    <li><a href="https://twitter.com/kimchy" target="_blank" class="icon fa-twitter"></a></li>
+                    <li><a href="https://www.linkedin.com/in/kimchy/" target="_blank"
                             class="icon fa-linkedin"></a></li>
-                    <li><a href="https://github.com/markburgess" target="_blank" class="icon fa-github"></a></li>
+                    <li><a href="https://github.com/kimchy" target="_blank" class="icon fa-github"></a></li>
                 </ul>
 
                 <div id="open-modal-1" class="modal-window">
                     <div><a href="#1" title="Close" class="modal-close">X</a>
-                        <h4 style="text-transform: uppercase;">MARK BURGESS, PHD | KEYNOTE SPEAKER</h4>
+                        <h4 style="text-transform: uppercase;">SHAY BANON | KEYNOTE SPEAKER</h4>
                         <div></div>
                         <div><small>
-                                <p>Physicist, technologist, advisor to public and private organizations
-                                    globally---author, founder and original architect of <a href="http://cfengine.com/"
-                                        target="_blank">CFEngine</a>, founder of <a href="http://chitek-i.org/"
-                                        target="_blank">ChiTek-i</a>, and <a href="http://aljabr.io/"
-                                        target="_blank">Aljabr</a>. International technology advisor, and public
-                                    speaker. Contributor to the science and technology of distributed computer systems
-                                    in today's Internet Infrastructure, especially through semantics of Configuration
-                                    and <a href="http://markburgess.org/promises.html" target="_blank">Promise
-                                        Theory</a>. Popularizer of science, and advocate for science's cultural
-                                    importance in modern education, as well as part time composer.</p>
-                                <p>Previously Professor of Networks and Systems at Oslo (Metropolitan) University,
-                                    teaching in Physics, Mathematics, Operating Systems, Network and System
-                                    Administration, Networking Technologies, laboratory skills, Programming Languages,
-                                    Computer Security and many seminar series on scientific methods for PhD students. I
-                                    abandoned this position to work in the field. I assist in the editing of a number of
-                                    scientific journals.</p>
+                                <p>As a founder of Elasticsearch and the CEO of <a href="https://elastic.co"
+                                    target="_blank">Elastic</a>, Shay has been fascinated with search ever since trying to build a
+                                recipe app for his wife in 2004, a journey that led to him writing the first few lines of code of
+                                Elasticsearch in 2009 and later founding Elastic in 2012. He believes in finding beauty, and that
+                                excelling takes a combination of perspective and grit. As someone who got into computers by counting
+                                the number of job postings in the newspaper, he loves building things — a product, a community, or a
+                                company — and the process of acquiring the knowledge to do so.</p>
                             </small></div>
                     </div>
                 </div>
@@ -163,11 +153,10 @@
 
 
                 <div class="3u">
-                    <a href="#open-modal-1"><img src="/assets/images/speakers/mark.png" alt="Dr. Mark Burgess"
+                    <a href="#open-modal-1"><img src="/assets/images/speakers/shay.png" alt="Shay Banon"
                             width="200" /></a>
-                    <ul class="icons"><span style="text-transform: uppercase; color: turquoise; font-weight: 700;">DR.
-                            MARK BURGESS</span> <br /> <span style="text-transform: uppercase;"> Technologist, Scientist
-                            & Author - Specializing in the Physics of Information Systems</span><br />
+                    <ul class="icons"><span style="text-transform: uppercase; color: turquoise; font-weight: 700;">SHAY
+                            BANON</span> <br /> <span style="text-transform: uppercase;"> Founder and CEO, Elastic</span><br />
                         <li><a href="https://twitter.com/markburgess_osl" target="_blank" class="icon fa-twitter"></a>
                         </li>
                         <li><a href="https://www.linkedin.com/in/markburgessoslo/" target="_blank"
@@ -177,26 +166,16 @@
 
                     <div id="open-modal-1" class="modal-window">
                         <div><a href="#1" title="Close" class="modal-close">X</a>
-                            <h4 style="text-transform: uppercase;">MARK BURGESS, PHD | KEYNOTE SPEAKER</h4>
+                            <h4 style="text-transform: uppercase;">SHAY BANON | KEYNOTE SPEAKER</h4>
                             <div></div>
                             <div><small>
-                                    <p>Physicist, technologist, advisor to public and private organizations
-                                        globally---author, founder and original architect of <a
-                                            href="http://cfengine.com/" target="_blank">CFEngine</a>, founder of <a
-                                            href="http://chitek-i.org/" target="_blank">ChiTek-i</a>, and <a
-                                            href="http://aljabr.io/" target="_blank">Aljabr</a>. International
-                                        technology advisor, and public speaker. Contributor to the science and
-                                        technology of distributed computer systems in today's Internet Infrastructure,
-                                        especially through semantics of Configuration and <a
-                                            href="http://markburgess.org/promises.html" target="_blank">Promise
-                                            Theory</a>. Popularizer of science, and advocate for science's cultural
-                                        importance in modern education, as well as part time composer.</p>
-                                    <p>Previously Professor of Networks and Systems at Oslo (Metropolitan) University,
-                                        teaching in Physics, Mathematics, Operating Systems, Network and System
-                                        Administration, Networking Technologies, laboratory skills, Programming
-                                        Languages, Computer Security and many seminar series on scientific methods for
-                                        PhD students. I abandoned this position to work in the field. I assist in the
-                                        editing of a number of scientific journals.</p>
+                                    <p>As a founder of Elasticsearch and the CEO of <a href="https://elastic.co"
+                                        target="_blank">Elastic</a>, Shay has been fascinated with search ever since trying to build a
+                                    recipe app for his wife in 2004, a journey that led to him writing the first few lines of code of
+                                    Elasticsearch in 2009 and later founding Elastic in 2012. He believes in finding beauty, and that
+                                    excelling takes a combination of perspective and grit. As someone who got into computers by counting
+                                    the number of job postings in the newspaper, he loves building things — a product, a community, or a
+                                    company — and the process of acquiring the knowledge to do so.</p>
                                 </small></div>
                         </div>
                     </div>
