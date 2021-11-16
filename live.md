@@ -57,14 +57,9 @@ permalink: /live
 </div>
 
 
-
-<hr class="major">
-
-
   <!-- {% include /meetups/june-meetup.html %} -->
 
   <!-- {% include /meetups/july-oss-meetup.html %} -->
-
 
 
 <hr class="major">
