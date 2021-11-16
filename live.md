@@ -61,18 +61,9 @@ permalink: /live
 <hr class="major">
 
 
-  {% include /meetups/june-meetup.html %}
+  <!-- {% include /meetups/june-meetup.html %} -->
 
-
-<div class="row">
-    <div class="inner">
-        <h2 style="text-transform: uppercase;">Register to Join Us</h2>
-            <ul class="actions">
-                <li><a href="http://bit.ly/tlv-community-q2-blitz" target="_blank" class="button next">RSVP</a></li></ul>
-    </div>
-</div>
-
-  {% include /meetups/july-oss-meetup.html %}
+  <!-- {% include /meetups/july-oss-meetup.html %} -->
 
 
 
