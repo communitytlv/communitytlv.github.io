@@ -31,7 +31,7 @@ nav-menu: true
 
             <h4 style="text-transform: uppercase; color: turquoise;"><i class="fa fa-calendar"></i>  <a href="https://bit.ly/devopsdays-tlv-2021-GCAL" target="_blank">ADD TO CALENDAR</a></h4>
 
-            <ul class="actions"><li><a href="/devopsdays/register" target="_blank" class="button special fit">REGISTER NOW </a></li></ul> 
+            <p style="text-align: center; font-weight: 700; color: #c0d44f;">EVENT IS FULLY BOOKED, THANKS FOR EVERYONE WHO REGISTERED! SEE YOU SOON!</p> 
 
 
         </div>
@@ -50,7 +50,6 @@ nav-menu: true
 
  <div class="row" style="text-align: center;">
             <div class="4u"><ul class="actions"><li><a href="/devopsdays/agenda-2021" class="button fit"> <i class="fa fa-cog" style="color: red;"></i>VIEW EVENT PROGRAM</a></li></ul></div>
-            <div class="4u"><ul class="actions"><li><a href="/devopsdays/register" class="button fit"> <i class="fa fa-cog" style="color: orange;"></i> REGISTER</a></li></ul></div>
             <div class="4u"><ul class="actions"><li><a href="/devopsdays-quicklinks" class="button fit"> <i class="fa fa-cog" style="color: #c0d44f;"></i> EVENT QUICK LINKS</a></li></ul></div>
 </div>
 
