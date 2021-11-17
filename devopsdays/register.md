@@ -36,13 +36,7 @@ nav-menu: true
                 <!-- <ul class="actions"><li><a href="https://www.eventbrite.com/e/devopsdays-tel-aviv-2021-with-cloud-native-oss-day-statscraft-tickets-163006999323" target="_blank" class="button fit">REGISTER ON EVENTBRITE</a></li></ul> -->
 
                 <ul class="actions"><li><a href="/devopsdays/agenda-2021" target="_blank" class="button special fit">VIEW EVENT PROGRAM </a></li></ul> 
-
-
-            <br/>
-            <br/>          
-
-
-
+         
         </div>
     </div>
 </div>
