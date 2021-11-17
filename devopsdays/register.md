@@ -1,6 +1,6 @@
 ---
-title: DevOpsDays Tel Aviv 2021 <br/> November 24-25, 2021
-menu_title: Venue & More - DevOpsDays TLV 2021
+title: DevOpsDays Tel Aviv 2021 - Venue <br/> November 24-25, 2021
+menu_title: DevOpsDays TLV 2021 - Venue
 layout: landing
 description: <strong>Smolarz Auditorium, Tel Aviv University</strong>
 cta: <ul class="actions"><li><a href="/devopsdays/agenda-2021" class="button special fit">VIEW EVENT PROGRAM </a></li></ul> 
