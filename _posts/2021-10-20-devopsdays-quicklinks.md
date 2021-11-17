@@ -20,12 +20,14 @@ categories: core
 
 --------------------------
 
-## Demo Theater Lineup
-<ul class="actions">
-            <li><a href="#" class="button special fit" target="_blank"> VIEW DEMO THEATER PROGRAM </a></li>
-</ul>
+## Sponsor Links
+
+### APPSFLYER RAFFLE
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScqBs4cJ3WL5_v6uWyBZgwV_90HO-9Y2j4HY8BxfSiTYSpSeA/viewform?usp=sf_link" target="_blank"><img src="/assets/images/sponsor-logos/sponsor-ads/appsflyer-devopsdays.png" width="50%"></a>
 
 --------------------------
+
 
 ## Open Spaces Topic Form
 
