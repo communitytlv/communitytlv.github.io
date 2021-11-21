@@ -26,6 +26,27 @@ categories: core
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLScqBs4cJ3WL5_v6uWyBZgwV_90HO-9Y2j4HY8BxfSiTYSpSeA/viewform?usp=sf_link" target="_blank"><img src="/assets/images/sponsor-logos/sponsor-ads/appsflyer-devopsdays.png" width="50%"></a>
 
+
+### CORALOGIX RAFFLE - NINTENDO SWITCH
+There will be 1 raffle a day, with 4 winners in total!
+<ul class="actions">
+            <li><a href="https://land.coralogix.com/devopsdays-swag-raffle/" class="button special fit" target="_blank">ENTER CORALOGIX RAFFLE! </a></li>
+</ul>
+
+
+### SNAPPY RAFFLE 
+
+<ul class="actions">
+            <li><a href="#" class="button special fit" target="_blank">ENTER SNAPPY RAFFLE! </a></li>
+</ul>
+
+
+### DOUBLEVERIFY RAFFLE 
+
+<ul class="actions">
+            <li><a href="#" class="button special fit" target="_blank">ENTER SNAPPY RAFFLE! </a></li>
+</ul>
+
 --------------------------
 
 
