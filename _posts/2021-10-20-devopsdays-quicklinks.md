@@ -51,7 +51,7 @@ There will be 1 raffle a day, with 4 winners in total!
 ### LINEARB RAFFLE 
 
 <ul class="actions">
-            <li><a href="#" class="button special fit" target="_blank">ENTER DV RAFFLE! </a></li>
+            <li><a href="#" class="button special fit" target="_blank">ENTER LINEARB RAFFLE! </a></li>
 </ul>
 
 
