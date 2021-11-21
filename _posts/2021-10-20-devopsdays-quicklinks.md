@@ -44,8 +44,16 @@ There will be 1 raffle a day, with 4 winners in total!
 ### DOUBLEVERIFY RAFFLE 
 
 <ul class="actions">
-            <li><a href="#" class="button special fit" target="_blank">ENTER SNAPPY RAFFLE! </a></li>
+            <li><a href="#" class="button special fit" target="_blank">ENTER DV RAFFLE! </a></li>
 </ul>
+
+
+### LINEARB RAFFLE 
+
+<ul class="actions">
+            <li><a href="#" class="button special fit" target="_blank">ENTER DV RAFFLE! </a></li>
+</ul>
+
 
 --------------------------
 
