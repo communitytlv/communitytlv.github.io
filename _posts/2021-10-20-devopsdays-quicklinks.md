@@ -54,6 +54,9 @@ There will be 1 raffle a day, with 4 winners in total!
             <li><a href="#" class="button special fit" target="_blank">ENTER LINEARB RAFFLE! </a></li>
 </ul>
 
+### JFROG RAFFLE 
+<img src="/assets/images/sponsor-logos/sponsor-ads/jfrog.png" width="30%">
+
 
 --------------------------
 
