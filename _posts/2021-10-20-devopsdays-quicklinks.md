@@ -75,7 +75,7 @@ categories: core
 <a href="https://share.hsforms.com/1W2sA2tqgSt60-xFJm0EPCQ32d21?utm_source=DevOpsDays%20Tel%20Aviv&utm_medium=referral&utm_campaign=202111%20-%20Event%20-%20External%20-%20DevOpsDays%20Tel%20Aviv" target="_blank"><img src="/assets/images/sponsor-logos/sponsor-ads/LinearB.png" width="30%"></a>
 
 <ul class="actions">
-    <li><a href="[#](https://share.hsforms.com/1W2sA2tqgSt60-xFJm0EPCQ32d21?utm_source=DevOpsDays%20Tel%20Aviv&utm_medium=referral&utm_campaign=202111%20-%20Event%20-%20External%20-%20DevOpsDays%20Tel%20Aviv)" class="button special fit" target="_blank">ENTER LINEARB RAFFLE! </a></li>
+    <li><a href="https://share.hsforms.com/1W2sA2tqgSt60-xFJm0EPCQ32d21?utm_source=DevOpsDays%20Tel%20Aviv&utm_medium=referral&utm_campaign=202111%20-%20Event%20-%20External%20-%20DevOpsDays%20Tel%20Aviv" class="button special fit" target="_blank">ENTER LINEARB RAFFLE! </a></li>
 </ul>
 
 ### JFROG RAFFLE 
