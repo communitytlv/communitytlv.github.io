@@ -1,44 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4001/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4001/" rel="alternate" type="text/html" /><updated>2021-11-21T22:55:39+02:00</updated><id>http://localhost:4001/feed.xml</id><title type="html">Developer Community TLV</title><subtitle>The place to get info about the leading dev communities in TLV.</subtitle><entry><title type="html">DevOpsDays 2021 Event Quick Links</title><link href="http://localhost:4001/devopsdays-quicklinks.html" rel="alternate" type="text/html" title="DevOpsDays 2021 Event Quick Links" /><published>2021-10-20T00:00:00+03:00</published><updated>2021-10-20T00:00:00+03:00</updated><id>http://localhost:4001/devopsdays-quicklinks</id><content type="html" xml:base="http://localhost:4001/devopsdays-quicklinks.html">&lt;p&gt;&lt;a href=&quot;/devopsdays&quot;&gt;&lt;img src=&quot;/assets/images/devopstlv-SQ.png&quot; width=&quot;450&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4001/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4001/" rel="alternate" type="text/html" /><updated>2021-11-23T09:05:11+02:00</updated><id>http://localhost:4001/feed.xml</id><title type="html">Developer Community TLV</title><subtitle>The place to get info about the leading dev communities in TLV.</subtitle><entry><title type="html">DevOpsDays 2021 Event Quick Links</title><link href="http://localhost:4001/devopsdays-quicklinks.html" rel="alternate" type="text/html" title="DevOpsDays 2021 Event Quick Links" /><published>2021-10-20T00:00:00+03:00</published><updated>2021-10-20T00:00:00+03:00</updated><id>http://localhost:4001/devopsdays-quicklinks</id><content type="html" xml:base="http://localhost:4001/devopsdays-quicklinks.html">&lt;p&gt;&lt;a href=&quot;/devopsdays&quot;&gt;&lt;img src=&quot;/assets/images/devopstlv-SQ.png&quot; width=&quot;450&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;event-agenda&quot;&gt;Event Agenda&lt;/h2&gt;
 &lt;ul class=&quot;actions&quot;&gt;
             &lt;li&gt;&lt;a href=&quot;/devopsdays/agenda-2021.html&quot; class=&quot;button special fit&quot; target=&quot;_blank&quot;&gt;VIEW EVENT PROGRAM &lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;sponsor-links&quot;&gt;Sponsor Links&lt;/h2&gt;
-
-&lt;h3 id=&quot;appsflyer-raffle&quot;&gt;APPSFLYER RAFFLE&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLScqBs4cJ3WL5_v6uWyBZgwV_90HO-9Y2j4HY8BxfSiTYSpSeA/viewform?usp=sf_link&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/assets/images/sponsor-logos/sponsor-ads/appsflyer-devopsdays.png&quot; width=&quot;50%&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;coralogix-raffle---nintendo-switch&quot;&gt;CORALOGIX RAFFLE - NINTENDO SWITCH&lt;/h3&gt;
-&lt;p&gt;There will be 1 raffle a day, with 4 winners in total!&lt;/p&gt;
-&lt;ul class=&quot;actions&quot;&gt;
-            &lt;li&gt;&lt;a href=&quot;https://land.coralogix.com/devopsdays-swag-raffle/&quot; class=&quot;button special fit&quot; target=&quot;_blank&quot;&gt;ENTER CORALOGIX RAFFLE! &lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;snappy-raffle&quot;&gt;SNAPPY RAFFLE&lt;/h3&gt;
-
-&lt;ul class=&quot;actions&quot;&gt;
-            &lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;button special fit&quot; target=&quot;_blank&quot;&gt;ENTER SNAPPY RAFFLE! &lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;doubleverify-raffle&quot;&gt;DOUBLEVERIFY RAFFLE&lt;/h3&gt;
-
-&lt;ul class=&quot;actions&quot;&gt;
-            &lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;button special fit&quot; target=&quot;_blank&quot;&gt;ENTER DV RAFFLE! &lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;linearb-raffle&quot;&gt;LINEARB RAFFLE&lt;/h3&gt;
-
-&lt;ul class=&quot;actions&quot;&gt;
-            &lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;button special fit&quot; target=&quot;_blank&quot;&gt;ENTER LINEARB RAFFLE! &lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;jfrog-raffle&quot;&gt;JFROG RAFFLE&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/images/sponsor-logos/sponsor-ads/jfrog.png&quot; width=&quot;30%&quot; /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -59,16 +24,49 @@
 
 &lt;hr /&gt;
 
+&lt;h2 id=&quot;sponsor-links&quot;&gt;Sponsor Links&lt;/h2&gt;
+
+&lt;h3 id=&quot;appsflyer-raffle&quot;&gt;APPSFLYER RAFFLE&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLScqBs4cJ3WL5_v6uWyBZgwV_90HO-9Y2j4HY8BxfSiTYSpSeA/viewform?usp=sf_link&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/assets/images/sponsor-logos/sponsor-ads/appsflyer-devopsdays.png&quot; width=&quot;50%&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul class=&quot;actions&quot;&gt;
+            &lt;li&gt;&lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLScqBs4cJ3WL5_v6uWyBZgwV_90HO-9Y2j4HY8BxfSiTYSpSeA/viewform?usp=sf_link&quot; class=&quot;button special fit&quot; target=&quot;_blank&quot;&gt;ENTER APPSFLYER RAFFLE! &lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;coralogix-raffle---nintendo-switch&quot;&gt;CORALOGIX RAFFLE - NINTENDO SWITCH&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://land.coralogix.com/devopsdays-swag-raffle/&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/assets/images/sponsor-logos/sponsor-ads/coralogix.png&quot; width=&quot;30%&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul class=&quot;actions&quot;&gt;
+            &lt;li&gt;&lt;a href=&quot;https://land.coralogix.com/devopsdays-swag-raffle/&quot; class=&quot;button special fit&quot; target=&quot;_blank&quot;&gt;ENTER CORALOGIX RAFFLE! &lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;snappy-raffle&quot;&gt;SNAPPY RAFFLE&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://forms.gle/RD9HQuwzfpAQnnf76&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/assets/images/sponsor-logos/sponsor-ads/snappy.png&quot; width=&quot;50%&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul class=&quot;actions&quot;&gt;
+            &lt;li&gt;&lt;a href=&quot;https://forms.gle/RD9HQuwzfpAQnnf76&quot; class=&quot;button special fit&quot; target=&quot;_blank&quot;&gt;ENTER SNAPPY RAFFLE! &lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;linearb-raffle&quot;&gt;LINEARB RAFFLE&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://share.hsforms.com/1W2sA2tqgSt60-xFJm0EPCQ32d21?utm_source=DevOpsDays%20Tel%20Aviv&amp;amp;utm_medium=referral&amp;amp;utm_campaign=202111%20-%20Event%20-%20External%20-%20DevOpsDays%20Tel%20Aviv&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/assets/images/sponsor-logos/sponsor-ads/LinearB.png&quot; width=&quot;30%&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul class=&quot;actions&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;[#](https://share.hsforms.com/1W2sA2tqgSt60-xFJm0EPCQ32d21?utm_source=DevOpsDays%20Tel%20Aviv&amp;amp;utm_medium=referral&amp;amp;utm_campaign=202111%20-%20Event%20-%20External%20-%20DevOpsDays%20Tel%20Aviv)&quot; class=&quot;button special fit&quot; target=&quot;_blank&quot;&gt;ENTER LINEARB RAFFLE! &lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;jfrog-raffle&quot;&gt;JFROG RAFFLE&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/sponsor-logos/sponsor-ads/jfrog.png&quot; width=&quot;30%&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
 &lt;h2 id=&quot;swag-shop---quick-payment-link&quot;&gt;Swag Shop - Quick Payment Link&lt;/h2&gt;
 &lt;ul class=&quot;actions&quot;&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.paypal.com/paypalme/rtfmplease&quot; class=&quot;button special fit&quot; target=&quot;_blank&quot;&gt;NAB YOUR LIMITED EDITION SWAG &lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;sponsor-links-1&quot;&gt;Sponsor Links&lt;/h2&gt;
-
-&lt;h4 id=&quot;coming-soon&quot;&gt;COMING SOON…&lt;/h4&gt;
 
 &lt;hr /&gt;</content><author><name></name></author><category term="core" /><category term="core" /><summary type="html"></summary></entry><entry><title type="html">Agenda &amp;amp; Speakers</title><link href="http://localhost:4001/agenda" rel="alternate" type="text/html" title="Agenda &amp;amp; Speakers" /><published>2020-12-17T00:00:00+02:00</published><updated>2020-12-17T00:00:00+02:00</updated><id>http://localhost:4001/agenda</id><content type="html" xml:base="http://localhost:4001/agenda">&lt;!-- Main --&gt;
 &lt;div id=&quot;main&quot; class=&quot;alt&quot;&gt;
