@@ -27,6 +27,7 @@ categories: core
                     SPACE IDEA</a></li>
             <li><a href="https://airtable.com/shrK8sRhhUHVEulw6" class="button special fit" target="_blank">VOTE FOR OPEN
                     SPACE IDEA</a></li>
+            <li><a href="https://airtable.com/shrPWVlAfVpMoLeNv" class="button special fit" target="_blank">IDEA BOARD</a></li>
 </ul>
 
 --------------------------
