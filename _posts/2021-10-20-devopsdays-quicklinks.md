@@ -20,11 +20,14 @@ categories: core
 
 --------------------------
 
-## Open Spaces Topic Form
+## Open Spaces Topic Forms
 
  <ul class="actions">
-            <li><a href="https://forms.gle/fKuXAZJUcBCKqB627" class="button special fit" target="_blank">SUBMIT OPEN
-                    SPACE IDEA </a></li>
+            <li><a href="https://airtable.com/shrLiV0XmFNPIvrpF" class="button special fit" target="_blank">SUBMIT OPEN
+                    SPACE IDEA</a></li>
+            <li><a href="https://airtable.com/shrK8sRhhUHVEulw6" class="button special fit" target="_blank">VOTE FOR OPEN
+                    SPACE IDEA</a></li>
+            <li><a href="https://airtable.com/shrPWVlAfVpMoLeNv" class="button special fit" target="_blank">IDEA BOARD</a></li>
 </ul>
 
 --------------------------
