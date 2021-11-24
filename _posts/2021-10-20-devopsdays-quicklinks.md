@@ -84,6 +84,19 @@ categories: core
 <img src="/assets/images/sponsor-logos/sponsor-ads/jfrog.png" width="30%">
 
 
+### Kaltura RAFFLE 
+
+#### Enter for your chance to win an Oculus Rift!
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfBXvd-Y4UNfC2209LI_LkOC_KraDcEKRrH7boTdEIVH0Ab-A/viewform" target="_blank"><img src="/assets/images/sponsor-logos/sponsor-ads/kaltura1.png" width="30%"></a>
+
+<img src="/assets/images/sponsor-logos/sponsor-ads/kaltura2.png" width="30%">
+
+<ul class="actions">
+    <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSfBXvd-Y4UNfC2209LI_LkOC_KraDcEKRrH7boTdEIVH0Ab-A/viewform" class="button special fit" target="_blank">ENTER KALTURA RAFFLE! </a></li>
+</ul>
+
+
 --------------------------
 
 ## Swag Shop - Quick Payment Link
