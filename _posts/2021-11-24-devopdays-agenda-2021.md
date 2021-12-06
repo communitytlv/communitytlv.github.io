@@ -1,12 +1,12 @@
 ---
-title: Agenda for DevOpsDays Tel Aviv 2021 <br/> November 24-25, 2021
-menu_title: Agenda - DevOpsDays TLV 2021
-layout: landing
-description: <strong>Smolarz Auditorium, Tel Aviv University</strong>
-cta: <ul class="actions"><li><a href="/devopsdays-quicklinks" class="button fit"> EVENT QUICK LINKS</a></li></ul> 
-image: assets/images/pic11.jpg
-nav-menu: true
+layout: post
+title: DevOpsDays Tel Aviv 2021 Program
+permalink: /devopsdays/agenda-2021
+tag: core
+categories: core
 ---
+
+
 
 <!-- Main -->
 <div id="main">
@@ -35,7 +35,6 @@ nav-menu: true
 </div>
 
 
-<ul class="actions"><li><a href="/devopsdays/register" target="_blank" class="button special fit">REGISTER NOW </a></li></ul> 
 
 <div class="inner">
     <div class="row">
@@ -47,7 +46,7 @@ nav-menu: true
             <br/>
             <br/>          
 
-            <span style="text-align: center;">
+           <!--  <span style="text-align: center;">
             <iframe width="100%" height="500" src="https://www.youtube.com/embed/i6w-rAmg84w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span>
             <br/>
             <br/>
@@ -63,7 +62,7 @@ nav-menu: true
 
             <ul class="actions"><li><a href="/devopsdays/register" target="_blank" class="button special fit">REGISTER NOW </a></li></ul> 
 
-             </span>
+             </span> -->
 
 
 
@@ -81,11 +80,11 @@ nav-menu: true
 
         <h2 style="text-align: center;">And Many More Who Make Our Amazing Community Possible</h2>
 
- <div class="row" style="text-align: center;">
+ <!-- <div class="row" style="text-align: center;">
             <div class="4u"><ul class="actions"><li><a href="/devopsdays/agenda-2021" class="button fit"> <i class="fa fa-cog" style="color: red;"></i>VIEW EVENT PROGRAM</a></li></ul></div>
             <div class="4u"><ul class="actions"><li><a href="/devopsdays/register" class="button fit"> <i class="fa fa-cog" style="color: orange;"></i> REGISTER</a></li></ul></div>
             <div class="4u"><ul class="actions"><li><a href="/devopsdays-quicklinks" class="button fit"> <i class="fa fa-cog" style="color: #c0d44f;"></i> EVENT QUICK LINKS</a></li></ul></div>
-</div>
+</div> -->
 
 </div>
 </div>
