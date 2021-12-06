@@ -25,7 +25,7 @@ nav-menu: true
 
             <br/>
 
-            <ul class="actions"><li><a href="" class="button fit" target="_blank"> SUBSCRIBE FOR SPONSORSHIP INFO</a></li></ul>
+            <ul class="actions"><li><a href="https://forms.gle/iU5UTRfZpb7uRhXj9" class="button fit" target="_blank"> SUBSCRIBE FOR SPONSORSHIP INFO</a></li></ul>
             <br/>
             
         </div>
