@@ -15,6 +15,26 @@ image: assets/images/pic10.jpg
 		</header>
       
   
+
+<!-- DevOpsDays Tel Aviv 2021  -->
+<h2 id="content"><img src="/assets/images/devopsdays-SQ.png" width="150"><br/> 
+DevOpsDays Tel Aviv 2021</h2>
+    <hr class="major" />
+    <h4 id="stream"><span class="icon fa-video-camera"></span> Videos</h4>
+    <div class="box">
+	<div class="row" style="text-align: center;">        
+    <p>DEVOPDAYS TEL AVIV 2021 - ALL TRACKS </p>
+    <br/>
+    <br/>
+       <p><iframe src="https://www.youtube.com/embed/videoseries?list=PL8tivQAdoavO5l6n-qusWvOtzu7BmKK22" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen width="700" height="500"></iframe></p>
+     </div>
+     </div>
+
+     <h4 id="stream"><span class="icon fa-camera-retro"></span> Pictures</h4>
+<ul class="icons"> <li><span class="icon fa-smile-o"></span> <a href="https://photos.app.goo.gl/EiUmrW4QwigR1oQ27" target="_blank">DevOpsDays Tel Aviv 2021</a></li>
+</ul>
+
+
 <!-- Community Summit -->
 <h2 id="content"><img src="/assets/images/communitysummit-SQ.png" width="150"><br/> 
 Community Summit Tel Aviv</h2>
