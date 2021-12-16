@@ -16,7 +16,10 @@ nav-menu: true
     <div class="row">
     <div class="box" style="width: 100%; text-align: center;">
     <h2 style="text-transform: uppercase; color: turquoise;">DEVOPSDAYS Tel-Aviv WAS AWESOME!</h2>
-    <p>Below you'll find the pictures and slides, the videos are coming soon...so stay tuned. <br/>(Or subscribe to our <a href="https://www.youtube.com/c/DevOpsDaysTelAviv?sub_confirmation=1" target="_blank">YouTube channel</a> to be the first to know.)</p>
+    <p>Below you'll find the pictures and videos. <br/>(Subscribe to our <a href="https://www.youtube.com/c/DevOpsDaysTelAviv?sub_confirmation=1" target="_blank">YouTube channel</a>.)</p>
+
+            <p><iframe src="https://www.youtube.com/embed/videoseries?list=PL8tivQAdoavO5l6n-qusWvOtzu7BmKK22" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen width="700" height="500"></iframe></p>
+
             {% include /devopsdays/devopsdays-2021-photos.html %}
 
             <br/>
