@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-03-16T13:46:07+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Developer Community TLV</title><subtitle>The place to get info about the leading dev communities in TLV.</subtitle><entry><title type="html">DevOpsDays Tel Aviv 2021 Program</title><link href="http://localhost:4000/devopsdays/agenda-2021" rel="alternate" type="text/html" title="DevOpsDays Tel Aviv 2021 Program" /><published>2021-11-24T00:00:00+02:00</published><updated>2021-11-24T00:00:00+02:00</updated><id>http://localhost:4000/devopsdays/devopdays-agenda-2021</id><content type="html" xml:base="http://localhost:4000/devopsdays/agenda-2021">&lt;!-- Main --&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-03-16T13:54:42+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Developer Community TLV</title><subtitle>The place to get info about the leading dev communities in TLV.</subtitle><entry><title type="html">DevOpsDays Tel Aviv 2021 Program</title><link href="http://localhost:4000/devopsdays/agenda-2021" rel="alternate" type="text/html" title="DevOpsDays Tel Aviv 2021 Program" /><published>2021-11-24T00:00:00+02:00</published><updated>2021-11-24T00:00:00+02:00</updated><id>http://localhost:4000/devopsdays/devopdays-agenda-2021</id><content type="html" xml:base="http://localhost:4000/devopsdays/agenda-2021">&lt;!-- Main --&gt;
 &lt;div id=&quot;main&quot;&gt;
 
 &lt;!-- One --&gt;
@@ -1034,7 +1034,6 @@
         &lt;label for=&quot;tabtwo&quot;&gt;Day Two&lt;/label&gt;
         &lt;div class=&quot;tab&quot;&gt;   
      &lt;!-- DAY TWO TAB --&gt;
-
 &lt;div class=&quot;box&quot; style=&quot;background-color: #2a2f4a;&quot;&gt;
     &lt;div&gt;08:30 AM - 09:30 AM IST &lt;/div&gt;
     &lt;div&gt;
