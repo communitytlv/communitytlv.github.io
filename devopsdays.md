@@ -39,9 +39,13 @@ nav-menu: true
         </div>
     </div>
   
-    {% include /devopsdays/2021-speakers.html %}
+    {% include /devopsdays/2021/2021-speakers.html %}
         
     {% include /sponsors/devopsdays-2021-logos.html %}
+
+
+    {% include /devopsdays/2022/2022-sponsor.html %}
+
 
         <br/>
 

@@ -22,12 +22,12 @@ categories: core
         <input type="radio" name="tabs" id="tabone" checked="checked">
         <label for="tabone">Day One</label>
         <div class="tab">
-     {% include /devopsdays/2021-agenda-Day1.html %}
+     {% include /devopsdays/2021/2021-agenda-Day1.html %}
         </div>
         <input type="radio" name="tabs" id="tabtwo">
         <label for="tabtwo">Day Two</label>
         <div class="tab">   
-     {% include /devopsdays/2021-agenda-Day2.html %}
+     {% include /devopsdays/2021/2021-agenda-Day2.html %}
         </div> 
     </div>
 
@@ -41,7 +41,7 @@ categories: core
      <div class="box" style="width: 100%;">    
                    
                 
-                {% include /devopsdays/2021-location.html %}
+                {% include /devopsdays/2021/2021-location.html %}
 
             <br/>
             <br/>          
