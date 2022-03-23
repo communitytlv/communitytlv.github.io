@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-03-23T16:22:42+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Developer Community TLV</title><subtitle>The place to get info about the leading dev communities in TLV.</subtitle><entry><title type="html">DevOpsDays Tel Aviv 2021 Program</title><link href="http://localhost:4000/devopsdays/agenda-2021" rel="alternate" type="text/html" title="DevOpsDays Tel Aviv 2021 Program" /><published>2021-11-24T00:00:00+02:00</published><updated>2021-11-24T00:00:00+02:00</updated><id>http://localhost:4000/devopsdays/devopdays-agenda-2021</id><content type="html" xml:base="http://localhost:4000/devopsdays/agenda-2021">&lt;!-- Main --&gt;
+>>>>>> gh-pages
 &lt;div id=&quot;main&quot;&gt;
 
 &lt;!-- One --&gt;
@@ -2092,6 +2093,27 @@
                         Enterprises (BNY Mellon, and Alibaba) usually improving things, and helping the process of
                         development to be going in the right direction. Also i am a 3d printing enthusiast but very bad
                         at it (ruined another hotend x2)
+                    &lt;/small&gt;
+                &lt;/p&gt;
+            &lt;/details&gt;
+            &lt;details&gt;
+                &lt;summary&gt;&lt;span style=&quot;text-transform: uppercase; color: turquoise; font-size: 18px; font-weight: 600;&quot;&gt;Open Source - Open Choice:
+                    How to Choose An Open-Source Project - Hila Fish&lt;/span&gt;&lt;/summary&gt;
+                &lt;p&gt;Choosing the right Open Source project can be challenging, BUT! Asking yourself the right questions
+                    can ease the process&lt;br /&gt;
+                    In this talk I'm going to talk about the key indicators of how to choose an open-source project
+                    for integration in your environment, as well as set the weight for the specific key indicators
+                    based on your needs and specific pain points.
+                    &lt;br /&gt;
+                    &lt;br /&gt;
+                    &lt;small&gt;&lt;img src=&quot;/assets/images/speakers/hila-fish.png&quot; alt=&quot;Hila Fish&quot; width=&quot;150&quot; style=&quot;float: left; padding-right: 10px;&quot; /&gt;&amp;nbsp; &amp;nbsp; BIO: Hila started
+                        her affair with computers as a little girl, carrying Floppy disks around and installing stuff
+                        on her friends' computers. Then joined the tech industry since the army, on the Ofek unit (unit 180)
+                        and then worked in companies like 888, Taboola, Palo Alto Networks etc - With the vision to enhance
+                        and stabilize business by taking care of its infrastructure.
+                        On her spare time, Hila is a lead singer of a cover band, giving back to the community by
+                        co-organizing DevOps-related events, mentoring in OpsSchool and other communities
+                        and sharing her passion and knowledge whenever possible.
                     &lt;/small&gt;
                 &lt;/p&gt;
             &lt;/details&gt;
