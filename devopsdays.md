@@ -44,7 +44,7 @@ nav-menu: true
     {% include /sponsors/devopsdays-2021-logos.html %}
 
 
-    {% include /devopsdays/2022/2022-sponsor.html %}
+    <!-- {% include /devopsdays/2022/2022-sponsor.html %} -->
 
 
         <br/>
