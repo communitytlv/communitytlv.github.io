@@ -9,13 +9,13 @@ show_tile: false
 ---
 
 <div class="inner">
-<h2 style="text-transform: uppercase; color: turquoise; text-align: center;">BIG THANKS TO OUR DEVOPSDAYS TEL AVIV 2021 SPONSORS</h2>
+<h2 style="text-transform: uppercase; color: turquoise; text-align: center;">BIG THANKS TO OUR DEVOPSDAYS TEL AVIV 2022 SPONSORS</h2>
 <p style="text-transform: uppercase; text-align: center;">YOU MAKE THE EVENT AND COMMUNITY POSSIBLE</p>
 
 
 
 
-      {% include /sponsors/devopsdays-2021-logos.html %}
+      {% include /sponsors/devopsdays-2022-logos.html %}
 
 
 
@@ -23,7 +23,7 @@ show_tile: false
 
 
 
-<h2 style="text-transform: uppercase; color: turquoise; text-align: center;">SPONSOR OUR COMMUNITY</h2>       
- <ul class="actions" style="text-transform: uppercase; color: turquoise; text-align: center;"><li><a href="sponsor.html" class="button next">LEARN MORE</a></li></ul> 
+<h2 style="text-transform: uppercase; color: turquoise; text-align: center;">SPONSOR THE EVENT</h2>       
+ <ul class="actions" style="text-transform: uppercase; color: turquoise; text-align: center;"><li><a href="/devopsdays#sponsor" class="button next">LEARN MORE</a></li></ul> 
 </div>
 
