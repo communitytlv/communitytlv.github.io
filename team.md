@@ -48,7 +48,7 @@ nav-menu: true
     <div class="row 25% uniform">
 
 		<!-- Break -->
-		<div class="3u"><span class="image fit"><img src="{% link assets/images/avishai.jpg %}" alt="" /></span><ul class="icons">AVISHAI ISH-SHALOM | Independent <br/><li><a href="https://twitter.com/nukemberg" target="_blank" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/nukemberg/"  target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/nukemberg" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
+		<div class="3u"><span class="image fit"><img src="{% link assets/images/avishai.jpg %}" alt="" /></span><ul class="icons">AVISHAI ISH-SHALOM | INDEPENDENT <br/><li><a href="https://twitter.com/nukemberg" target="_blank" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/nukemberg/"  target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/nukemberg" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
 
 		<div class="3u"><span class="image fit"><img src="{% link assets/images/hila.jpg %}" alt="" /></span><ul class="icons">HILA FISH | WIX <br/><li><a href="https://twitter.com/hilafish1" target="_blank" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/hila-fish/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/hilafish" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
 
@@ -72,6 +72,9 @@ nav-menu: true
         <!-- Break -->
     
     <div class="row 25% uniform">
+
+        <div class="3u"><span class="image fit"><img src="{% link assets/images/michael-arenzon.png %}" alt="" /></span><ul class="icons">MICHAEL ARENZON | CONSULTANT <br/><li><a href="https://www.linkedin.com/in/arenzon/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/marenzo" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>	
+
         <div class="3u"><span class="image fit"><img src="{% link assets/images/dotan.jpg %}" alt="" /></span><ul class="icons">DOTAN HOROVITS | LOGZ.IO <br/><li><a href="https://twitter.com/horovits" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/horovits/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/horovits" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>		
 
 		<div class="3u"><span class="image fit"><img src="{% link assets/images/vicky.jpeg %}" alt="" /></span><ul class="icons">VICTORIYA KALMANOVICH | ASPECTIVA<br/><li><a href="https://twitter.com/vickytovictory1" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/victoriya-kalmanovich-81483734/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://open.spotify.com/show/6zOz0Te3pMfukT5WfMeXYl" target="_blank" class="icon fa-rss"><span class="label"></span></a></li></ul></div>
