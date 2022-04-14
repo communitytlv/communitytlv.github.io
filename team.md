@@ -91,6 +91,5 @@ nav-menu: true
 </div>
 
 </div>
-</section>
 
 </div>
