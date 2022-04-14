@@ -38,23 +38,23 @@ nav-menu: true
         <div class="3u"><span class="image fit"><img src="{% link assets/images/shar.jpg %}" alt="" /></span>
         <ul class="icons">SHARONE ZITZMAN | RTFM Please Ltd. <br/><li><a href="https://twitter.com/shar1z" target="_blank" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/sharonez/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/shar1z" target="_blank" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
 
-		<div class="3u"><span class="image fit"><img src="{% link assets/images/avishai.jpg %}" alt="" /></span><ul class="icons">AVISHAI ISH-SHALOM | NULL <br/><li><a href="https://twitter.com/nukemberg" target="_blank" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/nukemberg/"  target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/nukemberg" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
+        <div class="3u"><span class="image fit"><img src="{% link assets/images/jeremy.jpg %}" alt="" /></span><ul class="icons">JEREMY HESS | AKEYLESS <br/><li><a href="https://twitter.com/jphess2" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/jeremyphess/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/yeshess" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
 
-		<div class="3u"><span class="image fit"><img src="{% link assets/images/julia.jpg %}" alt="" /></span><ul class="icons">JULIA VOLVOVSKY | LAWGEEX <br/><li><a href="https://twitter.com/JuliaVolvo" target="_blank"  class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/julia-shub-72418842/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/Juliavol" target="_blank" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
+		<div class="3u"><span class="image fit"><img src="{% link assets/images/avishai.jpg %}" alt="" /></span><ul class="icons">AVISHAI ISH-SHALOM | Independent <br/><li><a href="https://twitter.com/nukemberg" target="_blank" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/nukemberg/"  target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/nukemberg" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
 
-       <div class="3u"><span class="image fit"><img src="{% link assets/images/jeremy.jpg %}" alt="" /></span><ul class="icons">JEREMY HESS | AKEYLESS <br/><li><a href="https://twitter.com/jphess2" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/jeremyphess/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/yeshess" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
+		<div class="3u"><span class="image fit"><img src="{% link assets/images/gil.jpg %}" alt="" /></span><ul class="icons">GIL ZELLNER | WIX <br/><li><a href="https://twitter.com/Heathenaspargus" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/gilzellner/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/gilzellner/sessions-and-bio" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
 
      </div>
     <div class="row 25% uniform">
 
 		<!-- Break -->
-		<div class="3u"><span class="image fit"><img src="{% link assets/images/gil.jpg %}" alt="" /></span><ul class="icons">GIL ZELLNER | WIX <br/><li><a href="https://twitter.com/Heathenaspargus" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/gilzellner/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/gilzellner/sessions-and-bio" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
+		<div class="3u"><span class="image fit"><img src="{% link assets/images/hila.jpg %}" alt="" /></span><ul class="icons">HILA FISH | Wix<br/><li><a href="https://www.linkedin.com/in/hila-fish/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/hilafish" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
 
 		<div class="3u"><span class="image fit"><img src="{% link assets/images/andrei.jpg %}" alt="" /></span><ul class="icons">ANDREI BURD | HASHICORP <br/><li><a href="https://twitter.com/burdandrei" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/burdandrei/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/burdandrei" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
 
-        <div class="3u"><span class="image fit"><img src="{% link assets/images/erik.jpg %}" alt="" /></span><ul class="icons"> ERIK ZAADI | SALTO <br/><li><a href="https://twitter.com/erikzaadi" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/erikzaadi/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/erikzaadi" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
+		<div class="3u"><span class="image fit"><img src="{% link assets/images/tal.jpg %}" alt="" /></span><ul class="icons">TAL KIMHI | BIG PANDA <br/><li><a href="https://twitter.com/talkimhi" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/talkimhi/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/talkimhi" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
 
-		<div class="3u"><span class="image fit"><img src="{% link assets/images/elizabeth.jpg %}" alt="" /></span><ul class="icons"> ELIZABETH TSIRELSON | JOVIANX <br/><li><a href="https://www.linkedin.com/in/elizabeth-tsirelson/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li></ul></div>
+        <div class="3u"><span class="image fit"><img src="{% link assets/images/erik.jpg %}" alt="" /></span><ul class="icons"> ERIK ZAADI | SALTO <br/><li><a href="https://twitter.com/erikzaadi" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/erikzaadi/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/erikzaadi" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
 
 
     </div>
@@ -62,39 +62,30 @@ nav-menu: true
 		<!-- Break -->
     	<div class="row 25% uniform">
 		
-		<div class="3u"><span class="image fit"><img src="{% link assets/images/tal.jpg %}" alt="" /></span><ul class="icons">TAL KIMHI | BIG PANDA <br/><li><a href="https://twitter.com/talkimhi" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/talkimhi/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/talkimhi" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
+		<div class="3u"><span class="image fit"><img src="{% link assets/images/julia.jpg %}" alt="" /></span><ul class="icons">JULIA VOLVOVSKY | LAWGEEX <br/><li><a href="https://twitter.com/JuliaVolvo" target="_blank"  class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/julia-shub-72418842/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/Juliavol" target="_blank" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
 
-		<div class="3u"><span class="image fit"><img src="{% link assets/images/hila.jpg %}" alt="" /></span><ul class="icons">HILA FISH | PALO ALTO NETWORKS<br/><li><a href="https://www.linkedin.com/in/hila-fish-863949a/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/hilafish" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
+        <div class="3u"><span class="image fit"><img src="{% link assets/images/nati.jpg %}" alt="" /></span><ul class="icons"> NATI COHEN | AWS <br/><li><a href="https://twitter.com/nocoot" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/natict/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/natict" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
 
-        <div class="3u"><span class="image fit"><img src="{% link assets/images/nati.jpg %}" alt="" /></span><ul class="icons"> NATI COHEN | NaN <br/><li><a href="https://twitter.com/nocoot" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/natict/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/natict" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
+        <div class="3u"><span class="image fit"><img src="{% link assets/images/dotan.jpg %}" alt="" /></span><ul class="icons">DOTAN HOROVITS | LOGZ.IO <br/><li><a href="https://twitter.com/horovits" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/horovits/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/horovits" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
 
-		<div class="3u"><span class="image fit"><img src="{% link assets/images/vicky.jpeg %}" alt="" /></span><ul class="icons">VICTORIYA KALMANOVICH | ASPECTIVA<br/><li><a href="https://twitter.com/vickytovictory1" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/victoriya-kalmanovich-81483734/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://open.spotify.com/show/6zOz0Te3pMfukT5WfMeXYl" target="_blank" class="icon fa-rss"><span class="label"></span></a></li></ul></div>
+		<div class="3u"><span class="image fit"><img src="{% link assets/images/lev.jpeg %}" alt="" /></span><ul class="icons">LEV ANDELMAN | TERASKY <br/><li><a href="https://www.linkedin.com/in/levandelman/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li></ul></div>
+	
 
     </div>
 
         <!-- Break -->
     
     <div class="row 25% uniform">
+		<!-- <div class="3u"><span class="image fit"><img src="{% link assets/images/keren.jpg %}" alt="" /></span><ul class="icons">KEREN BARZELAI | MELIO PAYMENTS<br/><li><a href="https://twitter.com/keren404" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/keren-barzelai/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li></ul></div> -->
 
-
-		<div class="3u"><span class="image fit"><img src="{% link assets/images/keren.jpg %}" alt="" /></span><ul class="icons">KEREN BARZELAI | MELIO PAYMENTS<br/><li><a href="https://twitter.com/keren404" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/keren-barzelai/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li></ul></div>
+		<!-- <div class="3u"><span class="image fit"><img src="{% link assets/images/elizabeth.jpg %}" alt="" /></span><ul class="icons"> ELIZABETH TSIRELSON | JOVIANX <br/><li><a href="https://www.linkedin.com/in/elizabeth-tsirelson/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li></ul></div>	 -->
 
 		<div class="3u"><span class="image fit"><img src="{% link assets/images/robert.jpg %}" alt="" /></span><ul class="icons"> ROBERT BARRON | IBM <br/><li><a href="https://twitter.com/flyingbarron" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/flyingbarron/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/flyingbarron" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
 
-        <div class="3u"><span class="image fit"><img src="{% link assets/images/dotan.jpg %}" alt="" /></span><ul class="icons">DOTAN HOROVITS | LOGZ.IO <br/><li><a href="https://twitter.com/horovits" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/horovits/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/horovits" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
+		<div class="3u"><span class="image fit"><img src="{% link assets/images/vicky.jpeg %}" alt="" /></span><ul class="icons">VICTORIYA KALMANOVICH | ASPECTIVA<br/><li><a href="https://twitter.com/vickytovictory1" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/victoriya-kalmanovich-81483734/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://open.spotify.com/show/6zOz0Te3pMfukT5WfMeXYl" target="_blank" class="icon fa-rss"><span class="label"></span></a></li></ul></div>
 
-		<div class="3u"><span class="image fit"><img src="{% link assets/images/lev.jpeg %}" alt="" /></span><ul class="icons">LEV ANDELMAN | TERASKY <br/><li><a href="https://www.linkedin.com/in/levandelman/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li></ul></div>
-
-
-
-
-    </div>
-        <!-- Break -->
-    <div class="row 25% uniform">
         <div class="3u"><span class="image fit"><img src="{% link assets/images/irit.jpeg %}" alt="" /></span><ul class="icons">IRIT GARIN | DONE4U WITH RTFM PLEASE <br/><li><a href="https://www.linkedin.com/in/irit-garin-621445a7/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li></ul></div>
-	</div>
     </div>
-
 
 
 
