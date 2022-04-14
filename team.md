@@ -48,7 +48,7 @@ nav-menu: true
     <div class="row 25% uniform">
 
 		<!-- Break -->
-		<div class="3u"><span class="image fit"><img src="{% link assets/images/hila.jpg %}" alt="" /></span><ul class="icons">HILA FISH | Wix<br/><li><a href="https://www.linkedin.com/in/hila-fish/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/hilafish" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
+		<div class="3u"><span class="image fit"><img src="{% link assets/images/hila.jpg %}" alt="" /></span><ul class="icons">HILA FISH | WIX <br/><li><a href="https://www.linkedin.com/in/hila-fish/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/hilafish" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
 
 		<div class="3u"><span class="image fit"><img src="{% link assets/images/andrei.jpg %}" alt="" /></span><ul class="icons">ANDREI BURD | HASHICORP <br/><li><a href="https://twitter.com/burdandrei" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/burdandrei/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/burdandrei" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
 
