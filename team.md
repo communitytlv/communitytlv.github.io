@@ -52,7 +52,7 @@ nav-menu: true
 
 		<div class="3u"><span class="image fit"><img src="{% link assets/images/hila.jpg %}" alt="" /></span><ul class="icons">HILA FISH | WIX <br/><li><a href="https://twitter.com/hilafish1" target="_blank" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/hila-fish/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/hilafish" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
 
-        <div class="3u"><span class="image fit"><img src="{% link assets/images/erik.jpg %}" alt="" /></span><ul class="icons"> ERIK ZAADI | SALTO <br/><li><a href="https://twitter.com/erikzaadi" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/erikzaadi/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/erikzaadi" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
+		<div class="3u"><span class="image fit"><img src="{% link assets/images/tal.jpg %}" alt="" /></span><ul class="icons">TAL KIMHI | BIG PANDA <br/><li><a href="https://twitter.com/talkimhi" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/talkimhi/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/talkimhi" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
 
 		<div class="3u"><span class="image fit"><img src="{% link assets/images/lev.jpeg %}" alt="" /></span><ul class="icons">LEV ANDELMAN | TERASKY <br/><li><a href="https://www.linkedin.com/in/levandelman/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li></ul></div>
     </div>
@@ -72,6 +72,7 @@ nav-menu: true
         <!-- Break -->
     
     <div class="row 25% uniform">
+		<!-- <div class="3u"><span class="image fit"><img src="{% link assets/images/keren.jpg %}" alt="" /></span><ul class="icons">KEREN BARZELAI | MELIO PAYMENTS<br/><li><a href="https://twitter.com/keren404" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/keren-barzelai/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li></ul></div> -->
 
         <div class="3u"><span class="image fit"><img src="{% link assets/images/michael-arenzon.jpeg %}" alt="" /></span><ul class="icons">MICHAEL ARENZON | CONSULTANT <br/><li><a href="https://www.linkedin.com/in/arenzon/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/marenzo" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>	
 
@@ -85,7 +86,6 @@ nav-menu: true
 
 		<!-- <div class="3u"><span class="image fit"><img src="{% link assets/images/elizabeth.jpg %}" alt="" /></span><ul class="icons"> ELIZABETH TSIRELSON | JOVIANX <br/><li><a href="https://www.linkedin.com/in/elizabeth-tsirelson/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li></ul></div>	 -->
     </div>
-
 
 </div>
 </div>
