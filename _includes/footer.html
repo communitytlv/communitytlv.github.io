@@ -2,8 +2,9 @@
 <section id="contact">
 	<div class="inner">
 			<section>
-				<h3 style="text-transform: uppercase; color: turquoise; font-family: monospace;"><i class="fa fa-edit"></i> &nbsp;Contact Us </h3>
-
+				<h3 style="text-transform: uppercase; color: turquoise; font-family: monospace;"><i class="fa fa-edit"></i>
+					&nbsp;Contact Us </h3>
+					
 			<form action="https://formspree.io/f/xwkwazgz" method="POST">
 				<div class="field half first">
 					<label for="name">Name</label>
@@ -31,18 +32,30 @@
 					<h3>Subscribe</h3>
 					<!-- Begin Mailchimp Signup Form -->
 					<style type="text/css">
-						#mc_embed_signup{background: transparent; clear:left; font:14px Helvetica,Arial,sans-serif;  width:450px;}
+						#mc_embed_signup {
+							background: transparent;
+							clear: left;
+							font: 14px Helvetica, Arial, sans-serif;
+							width: 450px;
+						}
 						</style>
 					<div id="mc_embed_signup">
-					<form action="https://gmail.us20.list-manage.com/subscribe/post?u=0ca5eddc51470fcff85c9439e&amp;id=151e59991c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+						<form
+							action="https://gmail.us20.list-manage.com/subscribe/post?u=0ca5eddc51470fcff85c9439e&amp;id=151e59991c"
+							method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form"
+							class="validate" target="_blank" novalidate>
 						<div id="mc_embed_signup_scroll">
 						<label for="mce-EMAIL">To Our Newsletter </label>
-						<br/>
-						<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+						<br />
+						<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL"
+							placeholder="email address" required>
 						<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-						<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_0ca5eddc51470fcff85c9439e_151e59991c" tabindex="-1" value=""></div>
-						<br/>
-						<div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+						<div style="position: absolute; left: -5000px;" aria-hidden="true"><input
+								type="text" name="b_0ca5eddc51470fcff85c9439e_151e59991c" tabindex="-1"
+								value=""></div>
+						<br />
+						<div class="clear"><input type="submit" value="Subscribe" name="subscribe"
+								id="mc-embedded-subscribe" class="button"></div>
 						</div>
 					</form>
 					</div>
@@ -55,9 +68,12 @@
 			<section>
 				<div class="contact-method">
 					<a href="{{ site.discord_url }}" target="_blank"><span class="icon alt fa-comment"></span>
-					<h3>Discord</h3>
-					<span>{{ site.discord }}</span></a>
-					<a href="/previous-events.html#discord"><p>Learn more about getting started with Discord.</p></a>
+						<h3>Discord</h3>
+						<span>{{ site.discord }}</span>
+					</a>
+					<a href="/previous-events.html#discord">
+						<p>Learn more about getting started with Discord.</p>
+					</a>
 
 				</div>
 			</section>
@@ -66,10 +82,12 @@
 			<section>
 				<div class="contact-method">
 					<a href="{{ site.twitter_url }}" target="_blank"><span class="icon alt fa-twitter"></span>
-					<h3>Twitter</h3>
-					<span>
-						{{ site.twitter }}
-					</span></a>	</div>			
+						<h3>Twitter</h3>
+						<span>
+							{{ site.twitter }}
+						</span>
+					</a>
+				</div>		
 			</section>
 
 
@@ -79,7 +97,9 @@
 					<h3>CODE OF CONDUCT</h3>
 					<span>
 						{{ site.twitter }}
-					</span></a>	</div>	
+					</span>
+				</a>
+			</div>
 
 			</section>
 		</section>
@@ -92,27 +112,42 @@
 <footer id="footer">
 	<div class="inner">
 			<div class="row">
-			<span style="text-transform: uppercase;"><h5>Brought to you by:</h5>
-				<p><a href="{{ site.devopsdays_url }}" target="_blank"><img src="/assets/images/devopstlv-SQ.png" width="100"></a>&nbsp;&nbsp;<a href="{{ site.statscraft_url }}" target="_blank"><img src="/assets/images/statscraft-SQ.png" width="100"></a>&nbsp;&nbsp;<a href="{{ site.cloudnative_url }}" target="_blank"><img src="/assets/images/cloudnative-oss-SQ.png" width="100"></a>&nbsp;&nbsp;<a href="https://www.meetup.com/DevRel/" target="_blank"><img src="/assets/images/devrel-il-SQ.png" width="90"></a>&nbsp;&nbsp;<a href="https://www.meetup.com/production-jungle" target="_blank"><img src="/assets/images/production-jungle.png" width="80"></a></p></span>
-		</div>
+				<span style="text-transform: uppercase;">
+					<h5>Brought to you by:</h5>
+					<p><a href="{{ site.devopsdays_url }}" target="_blank"><img src="/assets/images/devopstlv-SQ.png"
+								width="100"></a>&nbsp;&nbsp;<a href="{{ site.statscraft_url }}" target="_blank"><img
+								src="/assets/images/statscraft-SQ.png" width="100"></a>&nbsp;&nbsp;<a
+							href="{{ site.cloudnative_url }}" target="_blank"><img
+								src="/assets/images/cloudnative-oss-SQ.png" width="100"></a>&nbsp;&nbsp;<a
+							href="https://www.meetup.com/DevRel/" target="_blank"><img src="/assets/images/devrel-il-SQ.png"
+								width="90"></a>&nbsp;&nbsp;<a href="https://www.meetup.com/production-jungle"
+							target="_blank"><img src="/assets/images/production-jungle.png" width="80"></a></p>
+				</span>
+			</div>
 		<ul class="icons">
 			{% if site.twitter_url %}
-			<li><a href="{{ site.twitter_url }}" class="icon alt fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
+			<li><a href="{{ site.twitter_url }}" class="icon alt fa-twitter" target="_blank"><span
+				class="label">Twitter</span></a></li>
 			{% endif %}
 			{% if site.facebook_url %}
-			<li><a href="{{ site.facebook_url }}" class="icon alt fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
+			<li><a href="{{ site.facebook_url }}" class="icon alt fa-facebook" target="_blank"><span
+				class="label">Facebook</span></a></li>
 			{% endif %}
 			{% if site.pinterest_url %}
-			<li><a href="{{ site.pinterest_url }}" class="icon alt fa-pinterest" target="_blank"><span class="label">Pinterest</span></a></li>
+			<li><a href="{{ site.pinterest_url }}" class="icon alt fa-pinterest" target="_blank"><span
+				class="label">Pinterest</span></a></li>
 			{% endif %}
 			{% if site.github_url %}
-			<li><a href="{{ site.github_url }}" class="icon alt fa-github" target="_blank"><span class="label">GitHub</span></a></li>
+			<li><a href="{{ site.github_url }}" class="icon alt fa-github" target="_blank"><span
+				class="label">GitHub</span></a></li>
 			{% endif %}
 			{% if site.slack_url %}
-			<li><a href="{{ site.discord_url }}" class="icon alt fa-comment" target="_blank"><span class="label">Discord</span></a></li>
+			<li><a href="{{ site.discord_url }}" class="icon alt fa-comment" target="_blank"><span
+				class="label">Discord</span></a></li>
 			{% endif %}
 			{% if site.linkedin_url %}
-			<li><a href="{{ site.linkedin_url }}" class="icon alt fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
+			<li><a href="{{ site.linkedin_url }}" class="icon alt fa-linkedin" target="_blank"><span
+				class="label">LinkedIn</span></a></li>
 			{% endif %}
 			
 		</ul>
