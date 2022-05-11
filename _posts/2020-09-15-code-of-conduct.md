@@ -26,7 +26,7 @@ Staff are identified with a separate role in the online forum (event organizer o
 
 We expect participants to follow these rules in all community-related media, including Discord, YouTube, Twitter, or any other online presence. 
 
-The [organizing team](/team) based on their sole discretion, will take immediate and decisive action in the event that a code of conduct has been deemed to have occurred, with no monetary compensation.
+The [organizing team](/team) based on their sole discretion, will take immediate and decisive action in the event that a violation of the code of conduct has been deemed to have occurred, with no monetary compensation.
 
 This Code of Conduct is based on [https://confcodeofconduct.com/](https://confcodeofconduct.com/) with some adjustments.
 
