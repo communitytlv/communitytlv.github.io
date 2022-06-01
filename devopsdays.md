@@ -69,6 +69,7 @@ nav-menu: true
     </details>
     </div>
 
+    {% include /devopsdays/2022/2022-CFP.html %}
 
   
     {% include /devopsdays/2021/2021-speakers.html %}
