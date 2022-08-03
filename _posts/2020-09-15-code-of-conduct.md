@@ -15,7 +15,7 @@ Our community is dedicated to providing a harassment-free experience for everyon
 
 Harassment includes offensive verbal or written comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion, technology choices, sexual images in public spaces, deliberate intimidation, bullying, threatening, stalking, following, harassing photography or recording, sustained disruption of talks or other inappropriate interaction, inappropriate physical contact, and unwelcome sexual attention. Participants asked to stop any harassing behavior are expected to comply immediately.
 
-In the spirit of the [Apache Software Foundation](https://www.apache.org/foundation/policies/conduct), we would like to ask that all participants **be careful in the words that you choose**. Whether you are participating as professionals, sponsors, or volunteers, we value professionalism in all interactions, and expecta participants to take responsibility for their own speech. 
+In the spirit of the [Apache Software Foundation](https://www.apache.org/foundation/policies/conduct), we would like to ask that all participants **be careful in the words that you choose**. Whether you are participating as professionals, sponsors, or volunteers, we value professionalism in all interactions, and expect participants to take responsibility for their own speech. 
 *Be kind to others.*
 
 Do not insult, bully, or put down other participants. **Harassment and other exclusionary behavior IS NOT acceptable and will not be tolerated.**
