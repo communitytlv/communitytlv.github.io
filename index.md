@@ -8,9 +8,12 @@ author: null
 show_tile: false
 ---
 
-
-
 <div class="inner">
+<h2 style="text-transform: uppercase; color: turquoise; text-align: center;">BIG THANKS TO OUR DEVOPSDAYS TEL AVIV 2022 SPONSORS</h2>
+<p style="text-transform: uppercase; text-align: center;">YOU MAKE THE EVENT AND COMMUNITY POSSIBLE</p>
+
+
+
 
       {% include /sponsors/devopsdays-2022-logos.html %}
 
