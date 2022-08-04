@@ -78,9 +78,6 @@ nav-menu: true
 
     {% include /devopsdays/2022/2022-sponsor.html %} 
 
-    <h2 style="text-align: center;">And Many More Who Make Our Amazing Community Possible</h2>
-
-
     {% include /devopsdays/2022/2022-location.html %} 
 
 
