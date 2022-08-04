@@ -26,10 +26,15 @@ nav-menu: true
 
 <hr class="major" />
 
+  <h1 style="text-transform: uppercase; color: turquoise; text-align: center;">IN LOVING MEMORY OF OUR CO-ORGANIZER ARIEL MOSKOVICH––YOU ARE MISSED. <br/>
+       <img src="/assets/images/ariel.png" width="400"></h1>
+
 <!-- Elements -->
 <h2 id="elements">THE TEAM</h2>
 <div class="row 200%">
 	<div class="12u 12u$(small)">
+
+
 
 <!-- Image -->
 <div class="box alt">
