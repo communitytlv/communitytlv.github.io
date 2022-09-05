@@ -29,15 +29,15 @@ nav-menu: true
             </span>
             DevOpsDays is a <a href="/team" target="_blank">volunteer-led event</a>, by the community for the community, with talks contributed by some of the best from our local community as well as the global DevOps community, with a variety of talks from beginner through advanced levels, so literally anyone can join and enjoy the sessions.</p>
             <hr />
-          Find out more information about the event location below.
+            <h4 style="text-transform: uppercase; color: turquoise;">EARLY BIRD TICKETS ARE NOW ON SALE! </h4>
+            <br/>
+            <p>If you trust us to build an EXCELLENT LINEUP then go ahead and grab your early bird tickets, and make sure to get a seat at the foremost DevOps Event of the year. <strong> We've already started announcing our first speakers...so stay tuned for more.</strong></p>
+            <ul class="actions"><li><a href="[#sponsor](https://bit.ly/DEVOPSDAYS-2022-TIX)" class="button special fit"> REGISTER NOW</a></li></ul> 
+            <br/>
+            <p> Find out more information about the event location below.</p>
           <br />
         <ul class="actions"><li><a href="#location" class="button fit"> EVENT VENUE</a></li></ul>
-        <h4 style="text-transform: uppercase; color: turquoise;">IF YOU ARE INTERESTED IN SUPPORTING OUR COMMUNITY - YOU WILL FIND THE INFO BELOW </h4>
-            <br/>
-            <ul class="actions"><li><a href="#sponsor" class="button fit"> SPONSOR EVENT</a></li></ul> 
-            <br/>
-          <h4 style="text-transform: uppercase; color: turquoise;"><i class="fa fa-calendar"></i>  <a href="https://bit.ly/devopsdays-tlv-2022-GCAL" target="_blank">ADD TO CALENDAR</a></h4>
-            <p style="text-align: center; font-weight: 700; color: #c0d44f;">STAY TUNED FOR INFO ON OUR CFP & TICKET SALES.</p>        
+                  <h4 style="text-transform: uppercase; color: turquoise;"><i class="fa fa-calendar"></i>  <a href="https://bit.ly/devopsdays-tlv-2022-GCAL" target="_blank">ADD TO CALENDAR</a></h4>
     </div>
 
  <div class="box" style="width: 100%; text-align: center;">
@@ -69,10 +69,12 @@ nav-menu: true
     </details>
     </div>
 
-    {% include /devopsdays/2022/2022-CFP.html %}
 
   
-    {% include /devopsdays/2021/2021-speakers.html %}
+    {% include /devopsdays/2022/2022-speakers.html %}
+
+    {% include /devopsdays/2022/2022-CFP.html %}
+
         
     {% include /sponsors/devopsdays-2022-logos.html %}
 

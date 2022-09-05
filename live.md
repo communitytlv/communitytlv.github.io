@@ -18,7 +18,7 @@ permalink: /live
      <div class="6u">
                     <h4> Watch our Live Events</h4> 
                     <div class="box">
-                        <p><span class="image fit" style="text-align: center; position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;"><iframe src="https://www.youtube.com/embed/videoseries?list=PL8tivQAdoavO5l6n-qusWvOtzu7BmKK22" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></span></p>
+                        <p><span class="image fit" style="text-align: center; position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;"><iframe src="https://www.youtube.com/embed/videoseries?list=PLlhgd2ycH2eUw506cLHM-DXyQ1NmaqlD6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></span></p>
                            <!-- <div><h5 style="text-align: center; text-transform: uppercase;"><i class="fa fa-calendar"></i> Find the full agenda <a href="/agenda.html" target="_blank"> here</a>.</h5></div> -->
                     </div>
         </div>
@@ -47,9 +47,9 @@ permalink: /live
 <hr class="major">
 <div class="row">
 
-<h3 style="text-transform: uppercase;"><span style="color: turquoise;"><i class="fa fa-calendar"></i> Upcoming Community Events</span></h3>
+<h3 style="text-transform: uppercase; color: turquoise;"><i class="fa fa-calendar"></i> Upcoming Community Events</h3>
         
- {% include /meetups/2022-march-meetup.html %}
+ {% include /meetups/2022-sept-meetup.html %}
  
  </div>
 
@@ -59,12 +59,26 @@ permalink: /live
     <h3><i class="fa fa-film"></i> <span style="color: turquoise; text-transform: uppercase;">Previous Events </span></h3>
     </div>
 <p></p>
-<p></p>
 
 <div class="inner" style="padding: 20 20 20 20;">
 
+<div class="row">
+  <details><summary><strong>JUNE MEETUP - Q2 Community Blitz Hosted by JFrog</strong></summary>
+<i class="fa fa-video-camera"></i> <span style="color: turquoise; text-transform: uppercase; font-weight: 800;"><a href="https://www.youtube.com/watch?v=nrfzXrXsR90" target="_blank"> &nbsp;&nbsp;Event Recording</a></span><br/> <br/>
 
-    <div class="row">
+  <img src="/assets/images/Q2-community-blitz.png" width="75%">
+
+ </details>
+</div>
+
+
+  <div class="row">
+  <details><summary><strong>MARCH MEETUP - Q1 Community Blitz Hosted by Transmit Security</strong></summary>
+ {% include /meetups/2022-march-meetup.html %}
+ </details>
+</div>
+
+<div class="row">
   <details><summary><strong>MAY MEETUP - Behind the Scenes of Scaling Up with Oribi</strong></summary>
  {% include /meetups/may-meetup.html %}
  </details>
@@ -74,7 +88,6 @@ permalink: /live
  {% include /meetups/april-meetup.html %}
  </details>
 </div>
-
 
 <div class="row">
 <details><summary><strong>MARCH MEETUP - Community Blitz Q1</strong></summary>
@@ -86,29 +99,19 @@ permalink: /live
 
 </div>
 
-
 <hr class="major">
 <p></p>
 <p></p>
-
-
-<!-- End Test -->
-    
-   
+<!-- End Test -->  
 <!-- <div class="row 200%">
 	<div class="12u 12u$(medium)">
     <div class="box alt">
         <h2 id="discord">Discord Server - LIVE CHAT</h2>
-
     <widgetbot server="744871304594849822" channel="744871304594849825" width="800" height="600"></widgetbot>
-
-
-       <!-- <iframe src="https://discordapp.com/widget?id=744871304594849822&theme=dark" width="75%" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe> -->
-
+     <iframe src="https://discordapp.com/widget?id=744871304594849822&theme=dark" width="75%" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe> -->
    <!-- </div>
     </div> 
  </div>-->
-
     <div class="box" style="padding: 20px 20px 20px 20px;"> 
         <p><a href="#discord" id="#discord"><h3>Getting Started with Discord</h3></a></p>
         <p>We recommend you join our Discord server to connect with friends from the community, and to receive updates from the event organizers.</p>
