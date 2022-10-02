@@ -3,7 +3,7 @@ title: DevOpsDays Tel Aviv 2022
 menu_title: DevOpsDays TLV 2022
 layout: landing
 description: <strong>December 14-15, 2022 | Expo Tel Aviv</strong>
-cta: <br/><ul class="actions"><li><a href="https://photos.app.goo.gl/EiUmrW4QwigR1oQ27" class="button fit" target="_blank"> 2021 EVENT PHOTOS</a></li></ul>&nbsp;<ul class="actions"><li><a href="https://www.youtube.com/watch?v=RTrmlVIfylw&list=PL8tivQAdoavO5l6n-qusWvOtzu7BmKK22" target="_blank" class="button special fit"> 2021 EVENT VIDEOS</a></li></ul> 
+cta: <br/><ul class="actions"><li><a href="https://bit.ly/DEVOPSDAYS-2022-TIX" class="button special fit" target="_blank"> REGISTER NOW</a></li></ul>
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -32,7 +32,7 @@ nav-menu: true
             <h4 style="text-transform: uppercase; color: turquoise;">EARLY BIRD TICKETS ARE NOW ON SALE! </h4>
             <br/>
             <p>If you trust us to build an EXCELLENT LINEUP then go ahead and grab your early bird tickets, and make sure to get a seat at the foremost DevOps Event of the year. <strong> We've already started announcing our first speakers...so stay tuned for more.</strong></p>
-            <ul class="actions"><li><a href="[#sponsor](https://bit.ly/DEVOPSDAYS-2022-TIX)" class="button special fit"> REGISTER NOW</a></li></ul> 
+            <ul class="actions"><li><a href="https://bit.ly/DEVOPSDAYS-2022-TIX" class="button special fit"> REGISTER NOW</a></li></ul> 
             <br/>
             <p> Find out more information about the event location below.</p>
           <br />
