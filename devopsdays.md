@@ -3,7 +3,7 @@ title: DevOpsDays Tel Aviv 2022
 menu_title: DevOpsDays TLV 2022
 layout: landing
 description: <strong>December 14-15, 2022 | Expo Tel Aviv</strong>
-cta: <br/><ul class="actions"><li><a href="https://bit.ly/DEVOPSDAYS-2022-TIX" class="button special fit" target="_blank"> REGISTER NOW</a></li></ul>
+cta: <br/><ul class="actions"><li><a href="https://bit.ly/DEVOPSDAYS-2022-TIX" class="button special fit" target="_blank"> REGISTER NOW</a></li></ul>&nbsp;<ul class="actions"><li><a href="/devopsdays/agenda-2022" class="button fit">AGENDA & SPEAKERS</a></li></ul>
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -72,10 +72,7 @@ nav-menu: true
 
   
     {% include /devopsdays/2022/2022-speakers.html %}
-
-    {% include /devopsdays/2022/2022-CFP.html %}
-
-        
+       
     {% include /sponsors/devopsdays-2022-logos.html %}
 
     {% include /devopsdays/2022/2022-sponsor.html %} 

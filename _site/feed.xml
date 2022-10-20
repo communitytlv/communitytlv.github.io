@@ -1,4 +1,55 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4001/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4001/" rel="alternate" type="text/html" /><updated>2022-09-05T13:57:08+03:00</updated><id>http://localhost:4001/feed.xml</id><title type="html">Developer Community TLV</title><subtitle>The place to get info about the leading dev communities in TLV.</subtitle><entry><title type="html">DevOpsDays Tel Aviv 2021 Program</title><link href="http://localhost:4001/devopsdays/agenda-2021" rel="alternate" type="text/html" title="DevOpsDays Tel Aviv 2021 Program" /><published>2021-11-24T00:00:00+02:00</published><updated>2021-11-24T00:00:00+02:00</updated><id>http://localhost:4001/devopsdays/devopdays-agenda-2021</id><content type="html" xml:base="http://localhost:4001/devopsdays/agenda-2021">&lt;!-- Main --&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4001/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4001/" rel="alternate" type="text/html" /><updated>2022-10-20T15:02:32+03:00</updated><id>http://localhost:4001/feed.xml</id><title type="html">Developer Community TLV</title><subtitle>The place to get info about the leading dev communities in TLV.</subtitle><entry><title type="html">DevOpsDays Tel Aviv 2022 | AGENDA</title><link href="http://localhost:4001/devopsdays/agenda-2022" rel="alternate" type="text/html" title="DevOpsDays Tel Aviv 2022 | AGENDA" /><published>2022-10-19T00:00:00+03:00</published><updated>2022-10-19T00:00:00+03:00</updated><id>http://localhost:4001/devopsdays/devopsdays-agenda-2022</id><content type="html" xml:base="http://localhost:4001/devopsdays/agenda-2022">&lt;!-- Main --&gt;
+&lt;div id=&quot;main&quot; class=&quot;alt&quot;&gt;
+
+&lt;!-- One --&gt;
+&lt;section id=&quot;one&quot;&gt;
+	&lt;div class=&quot;inner&quot;&gt;
+		&lt;header class=&quot;major&quot;&gt;
+			&lt;h1&gt;Agenda&lt;/h1&gt; 
+         &lt;a href=&quot;/devopsdays/speakers-2022&quot; class=&quot;button next scrolly&quot;&gt;CHECK OUT OUR SPEAKERS&lt;/a&gt;
+		&lt;/header&gt;
+
+        
+        &lt;script type=&quot;text/javascript&quot; src=&quot;https://sessionize.com/api/v2/wbusfxdw/view/GridSmart&quot;&gt;&lt;/script&gt;
+       
+      
+&lt;/div&gt;
+&amp;lt;/div&amp;gt;
+
+&lt;div class=&quot;inner&quot;&gt;
+			&lt;h2&gt;We told you it was going to be great...so what are you waiting for?! Join us!&lt;/h2&gt;
+&lt;ul class=&quot;actions&quot;&gt;
+                    &lt;li&gt;&lt;a href=&quot;https://bit.ly/DEVOPSDAYS-2022-TIX&quot; class=&quot;button next&quot;&gt;REGISTER&lt;/a&gt;&lt;/li&gt;
+                &lt;/ul&gt;
+
+&lt;/div&gt;&lt;/section&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4001/assets/images/pic07.jpg" /><media:content medium="image" url="http://localhost:4001/assets/images/pic07.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">DevOpsDays Tel Aviv 2022 | SPEAKER LINEUP</title><link href="http://localhost:4001/devopsdays/speakers-2022" rel="alternate" type="text/html" title="DevOpsDays Tel Aviv 2022 | SPEAKER LINEUP" /><published>2022-10-19T00:00:00+03:00</published><updated>2022-10-19T00:00:00+03:00</updated><id>http://localhost:4001/devopsdays/devopsdays-speakers-2022</id><content type="html" xml:base="http://localhost:4001/devopsdays/speakers-2022">&lt;!-- Main --&gt;
+&lt;div id=&quot;main&quot; class=&quot;alt&quot;&gt;
+
+&lt;!-- One --&gt;
+&lt;section id=&quot;one&quot;&gt;
+	&lt;div class=&quot;inner&quot;&gt;
+		&lt;header class=&quot;major&quot;&gt;
+			&lt;h1&gt;MEET OUR SPEAKERS&lt;/h1&gt; 
+                &lt;a href=&quot;/devopsdays/agenda-2022&quot; class=&quot;button next scrolly&quot;&gt;CHECK OUT THE AGENDA&lt;/a&gt;
+
+
+		&lt;/header&gt;
+               
+
+        &lt;script type=&quot;text/javascript&quot; src=&quot;https://sessionize.com/api/v2/wbusfxdw/view/SpeakerWall&quot;&gt;&lt;/script&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;inner&quot;&gt;
+			&lt;h2&gt;We told you it was going to be great...so what are you waiting for?! Join us!&lt;/h2&gt;
+&lt;ul class=&quot;actions&quot;&gt;
+                    &lt;li&gt;&lt;a href=&quot;https://bit.ly/DEVOPSDAYS-2022-TIX&quot; class=&quot;button next&quot;&gt;REGISTER&lt;/a&gt;&lt;/li&gt;
+                &lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;/section&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4001/assets/images/pic07.jpg" /><media:content medium="image" url="http://localhost:4001/assets/images/pic07.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">DevOpsDays Tel Aviv 2021 Program</title><link href="http://localhost:4001/devopsdays/agenda-2021" rel="alternate" type="text/html" title="DevOpsDays Tel Aviv 2021 Program" /><published>2021-11-24T00:00:00+02:00</published><updated>2021-11-24T00:00:00+02:00</updated><id>http://localhost:4001/devopsdays/devopdays-agenda-2021</id><content type="html" xml:base="http://localhost:4001/devopsdays/agenda-2021">&lt;!-- Main --&gt;
+&lt;div id=&quot;main&quot;&gt;
 
 &lt;!-- One --&gt;
 &lt;div class=&quot;inner&quot;&gt;
@@ -5395,317 +5446,4 @@ From this point onwards, you can treat it as a CICD project since it's basically
 
 
 
-&lt;/ul&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/ul&gt;&lt;/div&gt;</content><author><name></name></author><category term="events" /><category term="event" /><summary type="html">If you are new to the Open Space concept you may want to read some more details.</summary></entry><entry><title type="html">Cloud Native &amp;amp; OSS Day Tel Aviv 2019</title><link href="http://localhost:4001/cloud-native-oss-day-tel-aviv-2019" rel="alternate" type="text/html" title="Cloud Native &amp;amp; OSS Day Tel Aviv 2019" /><published>2019-11-12T00:00:00+02:00</published><updated>2019-11-12T00:00:00+02:00</updated><id>http://localhost:4001/cloud-native-oss-day-tel-aviv</id><content type="html" xml:base="http://localhost:4001/cloud-native-oss-day-tel-aviv-2019">&lt;section id=&quot;one&quot;&gt;
-	&lt;div class=&quot;inner&quot;&gt;
-		&lt;header class=&quot;major&quot;&gt;
-			&lt;h1&gt;Agenda&lt;/h1&gt; &lt;a href=&quot;https://www.eventbrite.com/e/community-summit-tlv-2020-tickets-122031594785&quot; class=&quot;button next scrolly&quot; target=&quot;_blank&quot;&gt;REGISTER&lt;/a&gt;
-		&lt;/header&gt;
-
-&lt;!-- Image --&gt;
-&lt;div class=&quot;box&quot; style=&quot;background-color: #2a2f4a;&quot;&gt;
-	&lt;div&gt;09:30 AM - 09:40 AM IST &lt;/div&gt;
-	&lt;div&gt;&lt;h3&gt;Opening Words&lt;/h3&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-    &lt;div&gt;&lt;img src=&quot;assets/images/cloudnative-SQ.png&quot; alt=&quot;DEVOPSDAYS TEL AVIV&quot; width=&quot;200&quot; /&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;h3&gt;&lt;span style=&quot;color: #8d82c4; text-transform: uppercase;&quot;&gt;Cloud Native Day Tel Aviv 2019&lt;/span&gt;&lt;/h3&gt;&lt;/div&gt;
-
-
-&lt;div class=&quot;box&quot; style=&quot;background-color: #2a2f4a;&quot;&gt;
-	&lt;div&gt;09:40 AM - 10:20 AM IST&lt;/div&gt;
-
-	&lt;div&gt;&lt;h3 style=&quot;text-transform: uppercase;&quot;&gt;&lt;span style=&quot;color: turquoise;&quot;&gt;Keynote&lt;/span&gt;
-	| DataOps - Why is it so hard?!&lt;span style=&quot;color: turquoise; &quot;&gt; // Einat Orr&lt;/span&gt;&lt;/h3&gt;&lt;/div&gt;
-    &lt;a href=&quot;#open-modal-2&quot;&gt;&lt;img src=&quot;assets/images/speakers/einat.png&quot; alt=&quot;Einat Orr - Treeverse&quot; width=&quot;200&quot; style=&quot;float: left; padding-right: 10px;&quot; /&gt;&lt;/a&gt;
-        &lt;ul class=&quot;icons&quot;&gt;EINAT ORR &lt;br /&gt; TREEVERSE &lt;br /&gt;
-        &lt;li&gt;&lt;a href=&quot;https://twitter.com/EinatOrr&quot; target=&quot;_blank&quot; class=&quot;icon fa-twitter&quot;&gt;&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/in/einat-orr-359ba6/&quot; target=&quot;_blank&quot; class=&quot;icon fa-linkedin&quot;&gt;&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href=&quot;https://github.com/ einato/&quot; target=&quot;_blank&quot; class=&quot;icon fa-github&quot;&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-        
-        &lt;div id=&quot;open-modal-2&quot; class=&quot;modal-window&quot;&gt;
-        &lt;div&gt;&lt;a href=&quot;#2&quot; title=&quot;Close&quot; class=&quot;modal-close&quot;&gt;X&lt;/a&gt;
-        &lt;div&gt;&lt;small&gt;Einat Orr is the CEO and Co-founder of Treeverse, the company behind lakeFS, an open source platform that delivers resilience and manageability to object-storage based data lakes. She received her PhD. in Mathematics from Tel Aviv University, in the field of optimization in graph theory. Einat previously led several engineering organizations, most recently as CTO at SimilarWeb.&lt;/small&gt;&lt;/div&gt; 
-        &lt;/div&gt;
-        &lt;/div&gt;  
-	&lt;div&gt;&lt;p&gt;DataOps is harder than you might think. Supporting the operations of big data environments poses a challenge greater than the known application-level support due to the complexity of managing data together with the application. Why is data adding so much complexity? Well, Data is big, so all systems are now becoming distributed. Data is mutable, and it's hard to create repeatable, automated pipelines. On top of that, the technology is evolving at high speed and change management is messy. In this talk, we will dive into those challenges, explore best practices, and develop empathy for those who manage big data environments. &lt;/p&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;box&quot; style=&quot;background-color: black;&quot;&gt;
-
-	&lt;div&gt;10:20 AM - 10:30 AM IST &lt;/div&gt;
-	&lt;div&gt;&lt;h3&gt;&lt;span style=&quot;color: turquoise&quot;&gt;BREAK&lt;/span&gt;&lt;/h3&gt;&lt;/div&gt;
-     &lt;div class=&quot;box&quot;&gt;
- &lt;div&gt;&lt;h5&gt;&lt;span style=&quot;color: turquoise&quot;&gt;COUCHBASE: Any Scale, Any Load, Always On // Lior King, Senior Solution Engineer&lt;/span&gt;&lt;/h5&gt;&lt;/div&gt;
-    &lt;p&gt;In this session, we’ll learn why Couchbase is an ideal data platform for modern applications, how it delivers scalability, performance, and agility, and why it is a great source of truth.&lt;/p&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;box&quot; style=&quot;background-color: #2a2f4a;&quot;&gt;
-	&lt;div&gt;&lt;a href=&quot;#devopsdays&quot; id=&quot;#devopsdays&quot;&gt;10:30 AM - 11:10 AM IST&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;h3&gt;&lt;span style=&quot;color: #8d82c4; text-transform: uppercase;&quot;&gt;DevOpsDays Ignites&lt;/span&gt;&lt;/h3&gt;&lt;/div&gt;
-	&lt;div&gt;
-    &lt;div class=&quot;box&quot;&gt;
-
-        &lt;a href=&quot;#open-modal-10&quot;&gt;&lt;img src=&quot;assets/images/speakers/julia.png&quot; alt=&quot;Julia Shub - Lawgeex&quot; width=&quot;100&quot; style=&quot;float: left; padding-right: 10px;&quot; /&gt;&lt;/a&gt;
-       &lt;ul class=&quot;icons&quot;&gt;JULIA SHUB &lt;br /&gt; LAWGEEX &lt;br /&gt;
-       &lt;li&gt;&lt;a href=&quot;https://twitter.com/JuliaVolvo&quot; target=&quot;_blank&quot; class=&quot;icon fa-twitter&quot;&gt;&lt;/a&gt;&lt;/li&gt;
-       &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/in/julia-shub-72418842/&quot; target=&quot;_blank&quot; class=&quot;icon fa-linkedin&quot;&gt;&lt;/a&gt;&lt;/li&gt;
-       &lt;li&gt;&lt;a href=&quot;https://github.com/Juliavol&quot; target=&quot;_blank&quot; class=&quot;icon fa-github&quot;&gt;&lt;/a&gt;&lt;/li&gt;
-       &lt;/ul&gt;
-        &lt;div id=&quot;open-modal-10&quot; class=&quot;modal-window&quot;&gt;
-        &lt;div&gt;&lt;a href=&quot;#10&quot; title=&quot;Close&quot; class=&quot;modal-close&quot;&gt;X&lt;/a&gt;
-         &lt;div style=&quot;text-transform: uppercase;&quot;&gt; Julia's Bio&lt;/div&gt;
-        &lt;div&gt;&lt;small&gt;Julia Shub, DevOps Lead @ Lawgeex Redhead extraordinaire, queen of sunscreen and wearer of hats.&lt;/small&gt;&lt;/div&gt;
-         &lt;br /&gt;
-        &lt;/div&gt;
-        &lt;/div&gt; 
-        &lt;h4 style=&quot;text-transform: uppercase;&quot;&gt;Pregnancy - Nature's CI/CD
-		&lt;span style=&quot;color: #8d82c4;&quot;&gt;// Julia Shub&lt;/span&gt;&lt;/h4&gt;
-		&lt;p&gt;So you and your partner decide to have a child.&lt;br /&gt;
-From this point onwards, you can treat it as a CICD project since it's basically the same.&lt;/p&gt;
-	&lt;/div&gt;
-    
-		&lt;div class=&quot;box&quot;&gt;
-        
-        &lt;a href=&quot;#open-modal-8&quot;&gt;&lt;img src=&quot;assets/images/speakers/michael.png&quot; alt=&quot;&quot; width=&quot;100&quot; style=&quot;float: left; padding-right: 10px;&quot; /&gt;&lt;/a&gt;
-        &lt;ul class=&quot;icons&quot;&gt;MICHAEL ZION &lt;br /&gt; APPSFLYER &lt;br /&gt;
-        &lt;li&gt;&lt;a href=&quot;https://twitter.com/mclzion&quot; target=&quot;_blank&quot; class=&quot;icon fa-twitter&quot;&gt;&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/in/michael-zion-289610158/&quot; target=&quot;_blank&quot; class=&quot;icon fa-linkedin&quot;&gt;&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href=&quot;https://github.com/noisleahcim&quot; target=&quot;_blank&quot; class=&quot;icon fa-github&quot;&gt;&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-        
-        &lt;div id=&quot;open-modal-8&quot; class=&quot;modal-window&quot;&gt;
-        &lt;div&gt;&lt;a href=&quot;#8&quot; title=&quot;Close&quot; class=&quot;modal-close&quot;&gt;X&lt;/a&gt;
-        &lt;div style=&quot;text-transform: uppercase;&quot;&gt;Michael's Bio&lt;/div&gt;
-        &lt;div&gt;&lt;small&gt;I’m currently making stuff ☕ –&amp;gt; 🧑‍💻 –&amp;gt; 🤦‍♂️ &lt;a href=&quot;https://www.linkedin.com/in/michael-zion-289610158/&quot; target=&quot;_blank&quot;&gt;Linkedin Profile&lt;/a&gt;&lt;/small&gt;&lt;/div&gt;
-         &lt;br /&gt;
-        
-        &lt;/div&gt;
-        &lt;/div&gt; 
-        &lt;h4 style=&quot;text-transform: uppercase;&quot;&gt;Waste-Oriented, Hunch-Based Web Architecture
-		&lt;span style=&quot;color: #8d82c4;&quot;&gt;// Michael Zion&lt;/span&gt;&lt;/h4&gt;
-		&lt;p&gt;The software engineering field lacks hunch-based decisions.&lt;br /&gt;
-         It's oriented towards making things right, rather than going YOLO and enjoying life. &lt;br /&gt;
-        In my talk I'm suggesting an alternate approach, where production is important, but not as much as the feelings of the person changing production.&lt;/p&gt;
-	    &lt;/div&gt;
-
-
-		&lt;div class=&quot;box&quot;&gt;
-        
-          &lt;a href=&quot;#open-modal-9&quot;&gt;&lt;img src=&quot;assets/images/speakers/robert.png&quot; alt=&quot;Robert Barron - IBM&quot; width=&quot;100&quot; style=&quot;float: left; padding-right: 10px;&quot; /&gt;&lt;/a&gt;
-        &lt;ul class=&quot;icons&quot;&gt;ROBERT BARRON &lt;br /&gt; IBM &lt;br /&gt;
-        &lt;li&gt;&lt;a href=&quot;https://twitter.com/flyingbarron&quot; target=&quot;_blank&quot; class=&quot;icon fa-twitter&quot;&gt;&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/in/flyingbarron/&quot; target=&quot;_blank&quot; class=&quot;icon fa-linkedin&quot;&gt;&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href=&quot;https://github.com/flyingbarron&quot; target=&quot;_blank&quot; class=&quot;icon fa-github&quot;&gt;&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-         &lt;div id=&quot;open-modal-9&quot; class=&quot;modal-window&quot;&gt;
-        &lt;div&gt;&lt;a href=&quot;#9&quot; title=&quot;Close&quot; class=&quot;modal-close&quot;&gt;X&lt;/a&gt;
-        &lt;div style=&quot;text-transform: uppercase;&quot;&gt;Robert's Bio&lt;/div&gt;
-        &lt;div&gt;&lt;small&gt; Robert is a Senior Managing Consultant and member of the IBM Garage Solution Engineering group. Within the worldwide Garage Solution Engineering group, he is part of the Cloud Service Management and Operations (CSMO) team, working in all fields of CSMO and specializing in Site Reliability Engineering (SRE) and Chat Operations (ChatOps).&lt;br /&gt;Robert joined IBM in 2007 and has held various positions in IBM, all in the field of Service Management. In total, he has over twenty years of experience in enterprise systems in multiple domains spanning development, technical leadership, project management and offering management.&lt;br /&gt;Robert speaks at global conferences for IBM and creates assets that range from internal documentation to published books.&lt;/small&gt;&lt;/div&gt;
-        &lt;/div&gt;
-        &lt;/div&gt; 
-                     
-        &lt;h4 style=&quot;text-transform: uppercase;&quot;&gt;Obviously a major malfunction... Lessons 35 years after the Challenger Disaster
-		&lt;span style=&quot;color: #8d82c4;&quot;&gt;// Robert Barron&lt;/span&gt;&lt;/h4&gt;
-		&lt;p&gt;The Space Shuttle was the most advanced machine ever designed. It was a triumph and a marvel of the modern world.&lt;br /&gt;
-        And on January 1986, shuttle Challenger disintegrated seconds after launch.This session will discuss how and why the disaster occurred and what lessons modern DevOps and SREs can learn.&lt;/p&gt;
-	    &lt;/div&gt;
-
-
-		&lt;div class=&quot;box&quot;&gt;
-        
-           &lt;a href=&quot;#open-modal-11&quot;&gt;&lt;img src=&quot;assets/images/speakers/ant.png&quot; alt=&quot;Anton Weiss - Otomato&quot; width=&quot;100&quot; style=&quot;float: left; padding-right: 10px;&quot; /&gt;&lt;/a&gt;
-       &lt;ul class=&quot;icons&quot;&gt;ANTON WEISS &lt;br /&gt; OTOMATO &lt;br /&gt;
-       &lt;li&gt;&lt;a href=&quot;https://twitter.com/antweiss&quot; target=&quot;_blank&quot; class=&quot;icon fa-twitter&quot;&gt;&lt;/a&gt;&lt;/li&gt;
-       &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/in/antonweiss/&quot; target=&quot;_blank&quot; class=&quot;icon fa-linkedin&quot;&gt;&lt;/a&gt;&lt;/li&gt;
-       &lt;li&gt;&lt;a href=&quot;https://github.com/antweiss&quot; target=&quot;_blank&quot; class=&quot;icon fa-github&quot;&gt;&lt;/a&gt;&lt;/li&gt;
-       &lt;/ul&gt;
-       
-        &lt;div id=&quot;open-modal-11&quot; class=&quot;modal-window&quot;&gt;
-        &lt;div&gt;&lt;a href=&quot;#11&quot; title=&quot;Close&quot; class=&quot;modal-close&quot;&gt;X&lt;/a&gt;
-        &lt;div style=&quot;text-transform: uppercase;&quot;&gt;Anton's Bio&lt;/div&gt;
-        &lt;div&gt;&lt;small&gt;Anton (Ant) Weiss is the founder, principal consultant and CEO at Otomato – the effective software delivery company. Anton has been building and delivering software for the last fifteen years both at large enterprise companies (AT&amp;amp;T, BMC) and startups. A big fan of technical training and knowledge sharing, Anton was one of the initiators and instructors of the first DevOps certification course in Israel. Anton is a seasoned engineer, but he also holds a BA in Sociology and an MBA, which makes him very keen on exploring the social aspects of collaborative software development. He is a frequent speaker at technology events and a rock star – Ant loves the stage and makes sure his audience stays both entertained and enriched. Firm believer in continuous improvement and organisational transparency.&lt;/small&gt;&lt;/div&gt;
-       
-        &lt;/div&gt;
-        &lt;/div&gt; 
-        
-        &lt;h4 style=&quot;text-transform: uppercase;&quot;&gt;Resilience Engineering - a Primer
-		&lt;span style=&quot;color: #8d82c4;&quot;&gt;// Anton Weiss&lt;/span&gt;&lt;/h4&gt;
-		&lt;p&gt;Lately we've heard some buzz around the term &quot;resilience engineering&quot; in relation to information systems.  Much of it initiated by none other but John Allspaw - the man who inspired the birth of DevOps. My talk will lay out how the ideas of resilience engineering relate to our daily work.&lt;/p&gt;
-    	&lt;/div&gt;
-		
-        
-        &lt;div class=&quot;box&quot;&gt;
-        &lt;a href=&quot;#open-modal-7&quot;&gt;&lt;img src=&quot;assets/images/speakers/dotan.png&quot; alt=&quot;&quot; width=&quot;100&quot; style=&quot;float: left; padding-right: 10px;&quot; /&gt;&lt;/a&gt;
-        &lt;ul class=&quot;icons&quot;&gt;DOTAN HOROVITS &lt;br /&gt; LOGZ.IO &lt;br /&gt;
-        &lt;li&gt;&lt;a href=&quot;https://twitter.com/horovits&quot; target=&quot;_blank&quot; class=&quot;icon fa-twitter&quot;&gt;&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/in/horovits&quot; target=&quot;_blank&quot; class=&quot;icon fa-linkedin&quot;&gt;&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href=&quot;https://github.com/horovits&quot; target=&quot;_blank&quot; class=&quot;icon fa-github&quot;&gt;&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-        
-        &lt;div id=&quot;open-modal-7&quot; class=&quot;modal-window&quot;&gt;
-        &lt;div&gt;&lt;a href=&quot;#7&quot; title=&quot;Close&quot; class=&quot;modal-close&quot;&gt;X&lt;/a&gt;
-        &lt;div style=&quot;text-transform: uppercase;&quot;&gt;Dotan's Bio&lt;/div&gt;
-        &lt;div&gt;&lt;small&gt;   I’ve been a dev, I’ve been an architect, I’ve been a product, and I’ve lived to tell the tale. I love working with others to leverage experience and best practices to avoid common mistakes, and I’m captivated by novel ideas and technologies that try to make sense of the ever-increasing complexity of our world.&lt;/small&gt;&lt;/div&gt;     
-        &lt;/div&gt;
-        &lt;/div&gt; 
-               
-        &lt;h4 style=&quot;text-transform: uppercase;&quot;&gt;Checking the pulse on DevOps and Observability
-		&lt;span style=&quot;color: #8d82c4;&quot;&gt;// Dotan Horovits&lt;/span&gt;&lt;/h4&gt;
-		&lt;p&gt;What are the biggest obstacles to Observability? Is Observability just the DevOps' responsibility? How many companies actually use tracing? Which open source SW is gaining popularity? &lt;br /&gt;We went and asked this and much more to nearly 1000 engineers across the globe, to check the pulse on DevOps.&lt;/p&gt;
-	    &lt;/div&gt;
-	
-    
-    	&lt;div class=&quot;box&quot;&gt;
-        &lt;a href=&quot;#open-modal-6&quot;&gt;&lt;img src=&quot;assets/images/speakers/heidi.png&quot; alt=&quot;Heidi Waterhouse - Launch Darkly&quot; width=&quot;100&quot; style=&quot;float: left; padding-right: 10px;&quot; /&gt;&lt;/a&gt;
-        &lt;ul class=&quot;icons&quot;&gt;HEIDI WATERHOUSE&lt;br /&gt;LAUNCH DARKLY&lt;br /&gt;
-        &lt;li&gt;&lt;a href=&quot;https://twitter.com/wiredferret&quot; target=&quot;_blank&quot; class=&quot;icon fa-twitter&quot;&gt;&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/in/heidiwaterhouse/&quot; target=&quot;_blank&quot; class=&quot;icon fa-linkedin&quot;&gt;&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href=&quot;https://github.com/wiredferret&quot; target=&quot;_blank&quot; class=&quot;icon fa-github&quot;&gt;&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-        
-        &lt;div id=&quot;open-modal-6&quot; class=&quot;modal-window&quot;&gt;
-        &lt;div&gt;&lt;a href=&quot;#6&quot; title=&quot;Close&quot; class=&quot;modal-close&quot;&gt;X&lt;/a&gt;
-        &lt;div style=&quot;text-transform: uppercase;&quot;&gt;Heidi's Bio&lt;/div&gt;
-        &lt;div&gt;&lt;small&gt;Heidi is a developer advocate with LaunchDarkly. She delights in working at the intersection of usability, risk reduction, and cutting-edge technology. One of her favorite hobbies is talking to developers about things they already knew but had never thought of that way before. She sews all her conference dresses so that she’s sure there is a pocket for the mic.&lt;/small&gt;&lt;/div&gt;
-        
-        &lt;/div&gt;
-        &lt;/div&gt; 
-        &lt;h4 style=&quot;text-transform: uppercase;&quot;&gt;The Devil's DevOps
-		&lt;span style=&quot;color: #8d82c4;&quot;&gt;// Heidi Waterhouse&lt;/span&gt;&lt;/h4&gt;
-		&lt;p&gt;An Ignite that plays off Ambrose Bierce's The Devil's Dictionary to present satirical and painfully true definitions of words you hear at conferences all the time.&lt;/p&gt;
-	    &lt;/div&gt;
-
-
-
-		&lt;div class=&quot;box&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;assets/images/devrel-il-SQ.png&quot; alt=&quot;DEVREL IL&quot; width=&quot;100&quot; style=&quot;float: left; padding-right: 10px;&quot; /&gt;
-
-        &lt;a href=&quot;#open-modal-32&quot;&gt;&lt;img src=&quot;assets/images/speakers/erik.png&quot; alt=&quot;Erik Zaadi - Salto&quot; width=&quot;100&quot; style=&quot;float: left; padding-left: 10px; padding-right: 10px;&quot; /&gt;&lt;/a&gt;
-        &lt;ul class=&quot;icons&quot;&gt;ERIK ZAADI &lt;br /&gt; SALTO &lt;br /&gt;
-        &lt;li&gt;&lt;a href=&quot;https://twitter.com/erikzaadi/&quot; target=&quot;_blank&quot; class=&quot;icon fa-twitter&quot;&gt;&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/in/erikzaadi/&quot; target=&quot;_blank&quot; class=&quot;icon fa-linkedin&quot;&gt;&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href=&quot;https://github.com/erikzaadi/&quot; target=&quot;_blank&quot; class=&quot;icon fa-github&quot;&gt;&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-
-        &lt;div id=&quot;open-modal-32&quot; class=&quot;modal-window&quot;&gt;
-        &lt;div&gt;&lt;a href=&quot;#32&quot; title=&quot;Close&quot; class=&quot;modal-close&quot;&gt;X&lt;/a&gt;
-        &lt;h4 style=&quot;text-transform: uppercase;&quot;&gt;Monitoring People - An Engineering approach to understanding human KPIs&lt;/h4&gt;
-        &lt;div style=&quot;text-transform: uppercase;&quot;&gt;Erik's Bio&lt;/div&gt;
-        &lt;div&gt;&lt;small&gt;DadOps supreme, been doing web since FrontPage98, Operations since .bat was extreme and all around geek, previously a Team Leader, now a passionate IC. Addicted to automating ALL THE THINGZ, from CI to opening doors. DadPun advocate, PagerDaddy.&lt;/small&gt;&lt;/div&gt;
-        &lt;/div&gt;
-        &lt;/div&gt;  
-
-        &lt;h4 style=&quot;text-transform: uppercase;&quot;&gt;Monitoring People - An Engineering approach to understanding human KPIs &lt;span style=&quot;color: #8d82c4;&quot;&gt;// Erik Zaadi&lt;/span&gt;&lt;/h4&gt;
-		&lt;p&gt;Feel like understanding systems is easier and more logical than people?
-        Let's challenge that and see how engineering practices such as monitoring and CI can be correlated to understanding and improving humans, you know, those illogical chaotic beings, which are sooooo much different than production.&lt;/p&gt;&lt;/div&gt;
-
-&lt;/div&gt;	
-&lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;/div&gt;&lt;/section&gt;</content><author><name></name></author><summary type="html">Agenda REGISTER</summary></entry><entry><title type="html">Privacy Policy</title><link href="http://localhost:4001/privacy-policy.html" rel="alternate" type="text/html" title="Privacy Policy" /><published>2018-07-12T00:00:00+03:00</published><updated>2018-07-12T00:00:00+03:00</updated><id>http://localhost:4001/privacy%20policy</id><content type="html" xml:base="http://localhost:4001/privacy-policy.html">&lt;h2 id=&quot;privacy-policy&quot;&gt;Privacy Policy&lt;/h2&gt;
-
-&lt;p&gt;Effective date: July 12, 2018&lt;/p&gt;
-
-&lt;p&gt;Dev Community TLV (“us”, “we”, or “our”) operates the https://tlvcommunity.dev website (the “Service”).&lt;/p&gt;
-
-&lt;p&gt;This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. This Privacy Policy for DEV Community TLV is powered by FreePrivacyPolicy.com.&lt;/p&gt;
-
-&lt;p&gt;We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from https://tlvcommunity.dev&lt;/p&gt;
-
-&lt;h2 id=&quot;information-collection-and-use&quot;&gt;Information Collection And Use&lt;/h2&gt;
-&lt;p&gt;We collect several different types of information for various purposes to provide and improve our Service to you.&lt;/p&gt;
-
-&lt;p&gt;Types of Data Collected
-Personal Data
-While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you (“Personal Data”). Personally identifiable information may include, but is not limited to:&lt;/p&gt;
-
-&lt;p&gt;Email address&lt;/p&gt;
-
-&lt;p&gt;First name and last name&lt;/p&gt;
-
-&lt;h2 id=&quot;cookies-and-usage-data&quot;&gt;Cookies and Usage Data&lt;/h2&gt;
-
-&lt;p&gt;Usage Data
-We may also collect information how the Service is accessed and used (“Usage Data”). This Usage Data may include information such as your computer’s Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.&lt;/p&gt;
-
-&lt;p&gt;Tracking &amp;amp; Cookies Data
-We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.&lt;/p&gt;
-
-&lt;p&gt;Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.&lt;/p&gt;
-
-&lt;p&gt;You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.&lt;/p&gt;
-
-&lt;p&gt;Examples of Cookies we use:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Session Cookies. We use Session Cookies to operate our Service.&lt;/li&gt;
-  &lt;li&gt;Preference Cookies. We use Preference Cookies to remember your preferences and various settings.&lt;/li&gt;
-  &lt;li&gt;Security Cookies. We use Security Cookies for security purposes.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Use of Data
-DEV Community TLV uses the collected data for various purposes:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;To provide and maintain the Service&lt;/li&gt;
-  &lt;li&gt;To notify you about changes to our Service&lt;/li&gt;
-  &lt;li&gt;To allow you to participate in interactive features of our Service when you choose to do so&lt;/li&gt;
-  &lt;li&gt;To provide customer care and support&lt;/li&gt;
-  &lt;li&gt;To provide analysis or valuable information so that we can improve the Service&lt;/li&gt;
-  &lt;li&gt;To monitor the usage of the Service&lt;/li&gt;
-  &lt;li&gt;To detect, prevent and address technical issues&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Transfer Of Data
-Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.&lt;/p&gt;
-
-&lt;p&gt;If you are located outside Israel and choose to provide information to us, please note that we transfer the data, including Personal Data, to Israel and process it there.&lt;/p&gt;
-
-&lt;p&gt;Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.&lt;/p&gt;
-
-&lt;p&gt;DEV Community TLV will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.&lt;/p&gt;
-
-&lt;p&gt;Disclosure Of Data
-Legal Requirements
-DEV Community TLV may disclose your Personal Data in the good faith belief that such action is necessary to:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;To comply with a legal obligation&lt;/li&gt;
-  &lt;li&gt;To protect and defend the rights or property of DEV Community TLV&lt;/li&gt;
-  &lt;li&gt;To prevent or investigate possible wrongdoing in connection with the Service&lt;/li&gt;
-  &lt;li&gt;To protect the personal safety of users of the Service or the public&lt;/li&gt;
-  &lt;li&gt;To protect against legal liability&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Security Of Data
-The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.&lt;/p&gt;
-
-&lt;h2 id=&quot;service-providers&quot;&gt;Service Providers&lt;/h2&gt;
-&lt;p&gt;We may employ third party companies and individuals to facilitate our Service (“Service Providers”), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.&lt;/p&gt;
-
-&lt;p&gt;These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.&lt;/p&gt;
-
-&lt;h2 id=&quot;links-to-other-sites&quot;&gt;Links To Other Sites&lt;/h2&gt;
-&lt;p&gt;Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.&lt;/p&gt;
-
-&lt;p&gt;We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.&lt;/p&gt;
-
-&lt;h2 id=&quot;childrens-privacy&quot;&gt;Children’s Privacy&lt;/h2&gt;
-&lt;p&gt;Our Service does not address anyone under the age of 18 (“Children”).&lt;/p&gt;
-
-&lt;p&gt;We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.&lt;/p&gt;
-
-&lt;h2 id=&quot;changes-to-this-privacy-policy&quot;&gt;Changes To This Privacy Policy&lt;/h2&gt;
-&lt;p&gt;We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.&lt;/p&gt;
-
-&lt;p&gt;We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the “effective date” at the top of this Privacy Policy.&lt;/p&gt;
-
-&lt;p&gt;You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.&lt;/p&gt;
-
-&lt;h2 id=&quot;contact-us&quot;&gt;Contact Us&lt;/h2&gt;
-&lt;p&gt;If you have any questions about this Privacy Policy, please contact us:&lt;/p&gt;
-
-&lt;p&gt;By email: admin [AT] tlvcommunity [DOT] dev&lt;/p&gt;</content><author><name></name></author><category term="core" /><category term="core" /><summary type="html">Privacy Policy</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4001/assets/images/pic07.jpg" /><media:content medium="image" url="http://localhost:4001/assets/images/pic07.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;/ul&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/ul&gt;&lt;/div&gt;</content><author><name></name></author><category term="events" /><category term="event" /><summary type="html">If you are new to the Open Space concept you may want to read some more details.</summary></entry></feed>
