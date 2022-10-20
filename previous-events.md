@@ -3,6 +3,8 @@ layout: page
 title: Previous Events
 description: Find Videos & Pictures from Previous Community Events
 image: assets/images/pic10.jpg
+nav-menu: true
+
 
 ---
 <div id="main" class="alt">
