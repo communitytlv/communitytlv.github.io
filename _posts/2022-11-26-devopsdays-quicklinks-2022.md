@@ -44,7 +44,7 @@ categories: core
 
 ### KOMODOR RAFFLE
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSddq7HJkmQzyNRMsAOAQwVQRaW3C5Jj_BhO4hiDeWOAy1_lQQ/viewform?usp=sf_link" target="_blank"><img src="/assets/images/sponsor-logos/sponsor-ads/Social%20media%20raffle%20gifts%20promotion_Linkedin_1200X627%20(7).png width="50%"></a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSddq7HJkmQzyNRMsAOAQwVQRaW3C5Jj_BhO4hiDeWOAy1_lQQ/viewform?usp=sf_link" target="_blank"><img src="/assets/images/sponsor-logos/sponsor-ads/komodor-2022.png" width="50%"></a>
 
 <ul class="actions">
             <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSddq7HJkmQzyNRMsAOAQwVQRaW3C5Jj_BhO4hiDeWOAy1_lQQ/viewform?usp=sf_link" class="button special fit" target="_blank">ENTER KOMODOR RAFFLE! </a></li>
