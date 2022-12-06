@@ -32,14 +32,14 @@ categories: core
 
 
 
-  <details><summary><span class="text-transform: uppercase; font-weight=600; font-size: 1.75em;"><span class="icon fa-lightbulb-o"></span>  SUGGEST AN OPEN SPACE IDEA</span>
+  <details><summary><span style="text-transform: uppercase; font-weight=600; font-size: 1.75em; line-height: 1.75em;"><span class="icon fa-lightbulb-o"></span>  SUGGEST AN OPEN SPACE IDEA</span>
                     </summary>
                     <div>
                         <iframe class="airtable-embed" src="https://airtable.com/embed/shr9Y0OIKT17xmWwL?backgroundColor=yellow" frameborder="0" onmousewheel="" width="100%" height="1200" style="background: transparent; border: 1px solid #ccc;"></iframe>
                     </div>
                 </details>
 
-
+<p>&nbsp;&nbsp;</p>
  <ul class="actions">
             <li><a href="https://airtable.com/shrWvUSMxKd8fsrph" class="button special fit" target="_blank">VOTE FOR OPEN
                     SPACE IDEA</a></li>
