@@ -35,7 +35,7 @@ categories: core
 ## Workshop Registration Form
 
 <ul class="actions">
-<li><a href="https://forms.gle/9Acpjn6MJEpa5nRE9" class="button special fit" target="_blank">RESERVE YOUR SPOT </a></li>
+<li><a href="https://forms.gle/zo6pJKRJR7EN1QvJ8" class="button special fit" target="_blank">RESERVE YOUR SPOT </a></li>
 </ul>
 
 --------------------------
@@ -53,61 +53,34 @@ categories: core
 
 
 
-### CORALOGIX RAFFLE - NINTENDO SWITCH
+### ARMO YAML CHALLENGE 
 
-<a href="#" target="_blank"><img src="/assets/images/sponsor-logos/sponsor-ads/coralogix.png" width="30%"></a>
+<a href="#" target="_blank"><img src="/assets/images/sponsor-logos/sponsor-ads/image.png" width="30%"></a>
+
+<p>"How well do you know your YAML? Visit the ARMO booth to take the YAML challenge. Answer 5 quick questions to show off your Kubernetes YAML domination - to win prizes!</p>
+
+### VELOCITY TECH LABS
+
+<a href="https://velocity.tech/labs" target="_blank"><img src="/assets/images/sponsor-logos/sponsor-ads/QuickLinksPage_Velocity-Trylabs.jpg" width="50%"></a>
 
 
 <ul class="actions">
-            <li><a href="https://land.coralogix.com/devopsdays-swag-raffle/" class="button special fit" target="_blank">ENTER CORALOGIX RAFFLE! </a></li>
+            <li><a href="https://velocity.tech/labs" class="button special fit" target="_blank"> TRY NOW! </a></li>
 </ul>
 
 
-### SNAPPY RAFFLE 
+### JIT RAFFLE 
 
-<a href="https://forms.gle/RD9HQuwzfpAQnnf76" target="_blank"><img src="/assets/images/sponsor-logos/sponsor-ads/snappy.png" width="50%"></a>
+#### Enter for your chance to win an Apple Watch
 
-
-<ul class="actions">
-            <li><a href="https://forms.gle/RD9HQuwzfpAQnnf76" class="button special fit" target="_blank">ENTER SNAPPY RAFFLE! </a></li>
-</ul>
-
-
-### LINEARB RAFFLE 
-
-#### Enter for your chance to win a pair of Apple AirPod Pros
-
-<a href="https://share.hsforms.com/1W2sA2tqgSt60-xFJm0EPCQ32d21?utm_source=DevOpsDays%20Tel%20Aviv&utm_medium=referral&utm_campaign=202111%20-%20Event%20-%20External%20-%20DevOpsDays%20Tel%20Aviv" target="_blank"><img src="/assets/images/sponsor-logos/sponsor-ads/LinearB.png" width="30%"></a>
+<a href="https://forms.gle/TedGpJgvGtPPw7Hz6" target="_blank"><img src="/assets/images/sponsor-logos/sponsor-ads/LinearB.png" width="30%"></a>
 
 <ul class="actions">
-    <li><a href="https://share.hsforms.com/1W2sA2tqgSt60-xFJm0EPCQ32d21?utm_source=DevOpsDays%20Tel%20Aviv&utm_medium=referral&utm_campaign=202111%20-%20Event%20-%20External%20-%20DevOpsDays%20Tel%20Aviv" class="button special fit" target="_blank">ENTER LINEARB RAFFLE! </a></li>
-</ul>
-
-### JFROG RAFFLE 
-<img src="/assets/images/sponsor-logos/sponsor-ads/jfrog.png" width="30%">
-
-
-### Kaltura RAFFLE 
-
-#### Enter for your chance to win an Oculus Rift!
-
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSfBXvd-Y4UNfC2209LI_LkOC_KraDcEKRrH7boTdEIVH0Ab-A/viewform" target="_blank"><img src="/assets/images/sponsor-logos/sponsor-ads/kaltura1.png" width="30%"></a>
-
-<img src="/assets/images/sponsor-logos/sponsor-ads/kaltura2.png" width="30%">
-
-<ul class="actions">
-    <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSfBXvd-Y4UNfC2209LI_LkOC_KraDcEKRrH7boTdEIVH0Ab-A/viewform" class="button special fit" target="_blank">ENTER KALTURA RAFFLE! </a></li>
-</ul>
-
-
---------------------------
-
-## Swag Shop - Quick Payment Link
-<ul class="actions">
-<li><a href="https://www.paypal.com/paypalme/rtfmplease" class="button special fit" target="_blank">NAB YOUR LIMITED EDITION SWAG </a></li>
+    <li><a href="https://forms.gle/TedGpJgvGtPPw7Hz6" class="button special fit" target="_blank">ENTER JIT RAFFLE! </a></li>
 </ul>
 
 --------------------------
+
 
 
 
