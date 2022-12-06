@@ -20,7 +20,9 @@ nav-menu: true
 		<header class="major">
 			<h1>Agenda</h1> 
          <a href="/devopsdays/speakers-2022" class="button next scrolly">CHECK OUT OUR SPEAKERS</a> 
-		 <br/><ul class="actions"><li><a href="/devopsdays-quicklinks-2022" class="button fit"><span class="icon alt fa-lightbulb-o"></span> EVENT QUICK LINKS </a></li></ul>
+		 <br/>
+		<p>&nbsp;</p>
+		 <ul class="actions"><li><a href="/devopsdays-quicklinks-2022" class="button fit"><span class="icon alt fa-lightbulb-o"></span> EVENT QUICK LINKS </a></li></ul>
 
 		</header>
 
