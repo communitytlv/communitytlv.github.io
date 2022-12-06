@@ -20,17 +20,23 @@ categories: core
 
 --------------------------
 
+## Workshop Registration Form
+
+<ul class="actions">
+<li><a href="https://forms.gle/zo6pJKRJR7EN1QvJ8" class="button special fit" target="_blank">RESERVE YOUR SPOT </a></li>
+</ul>
+
+--------------------------
+
 ## Open Spaces Topic Forms
 
-## SUGGEST AN OPEN SPACE IDEA
 
 
   <details>
-                    <summary><span
-                            style="text-transform: uppercase; color: white; font-size: 22px; font-weight: 500;">SUGGEST AN OPEN SPACE IDEA</span>
+                    <summary><h2> &nbsp; <span class="icon alt fa-lightbulb"></span> &nbsp; SUGGEST AN OPEN SPACE IDEA</h2>
                     </summary>
                     <div>
-                        <iframe class="airtable-embed" src="https://airtable.com/embed/shr9Y0OIKT17xmWwL?backgroundColor=yellow" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+                        <iframe class="airtable-embed" src="https://airtable.com/embed/shr9Y0OIKT17xmWwL?backgroundColor=yellow" frameborder="0" onmousewheel="" width="100%" height="1200" style="background: transparent; border: 1px solid #ccc;"></iframe>
                     </div>
                 </details>
 
@@ -41,13 +47,6 @@ categories: core
             <li><a href="https://airtable.com/shrjIIcOThgqtrCPZ/tblqC5RaCHueD7SWX" class="button special fit" target="_blank">IDEA BOARD</a></li>
 </ul>
 
---------------------------
-
-## Workshop Registration Form
-
-<ul class="actions">
-<li><a href="https://forms.gle/zo6pJKRJR7EN1QvJ8" class="button special fit" target="_blank">RESERVE YOUR SPOT </a></li>
-</ul>
 
 --------------------------
 
@@ -62,6 +61,7 @@ categories: core
 </ul>
 
 
+--------------------------
 
 
 ### ARMO YAML CHALLENGE 
@@ -69,6 +69,9 @@ categories: core
 <a href="#" target="_blank"><img src="/assets/images/sponsor-logos/sponsor-ads/image.png" width="50%"></a>
 
 <p>"How well do you know your YAML? Visit the ARMO booth to take the YAML challenge. Answer 5 quick questions to show off your Kubernetes YAML domination - to win prizes!</p>
+
+--------------------------
+
 
 ### VELOCITY TECH LABS
 
@@ -79,12 +82,14 @@ categories: core
             <li><a href="https://velocity.tech/labs" class="button special fit" target="_blank"> TRY NOW! </a></li>
 </ul>
 
+--------------------------
+
 
 ### JIT RAFFLE 
 
 #### Enter for your chance to win an Apple Watch
 
-<a href="https://forms.gle/TedGpJgvGtPPw7Hz6" target="_blank"><img src="/assets/images/sponsor-logos/sponsor-ads/LinearB.png" width="30%"></a>
+<a href="https://forms.gle/TedGpJgvGtPPw7Hz6" target="_blank"><img src="" width="30%"></a>
 
 <ul class="actions">
     <li><a href="https://forms.gle/TedGpJgvGtPPw7Hz6" class="button special fit" target="_blank">ENTER JIT RAFFLE! </a></li>
