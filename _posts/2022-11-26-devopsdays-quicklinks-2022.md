@@ -11,6 +11,7 @@ categories: core
 
 
 <a href="/devopsdays"><img src="/assets/images/devopstlv-SQ.png" width="450"></a>
+<ul class="actions"><li><a href="/devopsdays" class="button fit"><span class="icon alt fa-home"></span> BACK TO DEVOPSDAYS </a></li></ul>
 
 
 ## Event Agenda

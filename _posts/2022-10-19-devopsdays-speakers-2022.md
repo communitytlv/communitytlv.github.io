@@ -19,10 +19,9 @@ nav-menu: true
 	<div class="inner">
 		<header class="major">
 			<h1>MEET OUR SPEAKERS</h1> 
-                <a href="/devopsdays/agenda-2022" class="button next scrolly">CHECK OUT THE AGENDA</a>
+                <a href="/devopsdays/agenda-2022" class="button next scrolly">CHECK OUT THE AGENDA</a>&nbsp; <ul class="actions"><li><a href="/devopsdays-quicklinks-2022" class="button fit"><span class="icon alt fa-lightbulb-o"></span> EVENT QUICK LINKS </a></li></ul>
 
-
-		</header>
+	</header>
                
 
         <script type="text/javascript" src="https://sessionize.com/api/v2/wbusfxdw/view/SpeakerWall"></script>

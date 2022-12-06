@@ -17,7 +17,10 @@ nav-menu: true
     <div class="box" style="width: 100%; text-align: center;">
     <h2 style="text-transform: uppercase; color: turquoise;">DEVOPSDAYS Tel-Aviv IS COMING BACK!!</h2>
     <h3 style="text-transform: uppercase;">Join us December 14-15, 2022 - at Expo Tel Aviv!</h3>
-            <iframe width="100%" height="500" src="https://www.youtube.com/embed/i6w-rAmg84w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <p>&nbsp;</p>
+    <ul class="actions"><li><a href="/devopsdays-quicklinks-2022" class="button fit"><span class="icon alt fa-lightbulb-o"></span> EVENT QUICK LINKS </a></li></ul>
+   <p>&nbsp;</p>
+           <iframe width="100%" height="500" src="https://www.youtube.com/embed/i6w-rAmg84w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             <br/>
             <br/>
             <p>DevOpsDays Tel-Aviv is back for its <span style="color: #d95374;">NINTH time</span> an AWESOME <span style="font-weight: 700; color: #c0d44f;">{in-person}</span> event, co-located with Cloud Native & OSS Day Tel Aviv.</p>
