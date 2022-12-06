@@ -33,7 +33,7 @@ categories: core
 
 
   <details>
-                    <summary><h2> &nbsp; <span class="icon alt fa-lightbulb"></span> &nbsp; SUGGEST AN OPEN SPACE IDEA</h2>
+                    <summary><h2><span class="icon alt fa-lightbulb-o"></span>  SUGGEST AN OPEN SPACE IDEA</h2>
                     </summary>
                     <div>
                         <iframe class="airtable-embed" src="https://airtable.com/embed/shr9Y0OIKT17xmWwL?backgroundColor=yellow" frameborder="0" onmousewheel="" width="100%" height="1200" style="background: transparent; border: 1px solid #ccc;"></iframe>
