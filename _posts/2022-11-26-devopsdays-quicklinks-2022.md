@@ -36,7 +36,7 @@ categories: core
   <details><summary><span style="text-transform: uppercase; font-weight=600; font-size: 1.75em; line-height: 1.75em;"><span class="icon fa-lightbulb-o"></span>  SUGGEST AN OPEN SPACE IDEA</span>
                     </summary>
                     <div>
-                        <iframe class="airtable-embed" src="https://airtable.com/embed/shr9Y0OIKT17xmWwL?backgroundColor=yellow" frameborder="0" onmousewheel="" width="100%" height="1200" style="background: transparent; border: 1px solid #ccc;"></iframe>
+                        <iframe class="airtable-embed" src="https://airtable.com/embed/shr9Y0OIKT17xmWwL?backgroundColor=yellow" frameborder="0" onmousewheel="" width="75%" height="1200" style="background: transparent; border: 1px solid #ccc;"></iframe>
                     </div>
                 </details>
 
@@ -89,7 +89,7 @@ categories: core
 
 #### Enter for your chance to win an Apple Watch
 
-<a href="https://forms.gle/TedGpJgvGtPPw7Hz6" target="_blank"><img src="" width="30%"></a>
+<a href="https://forms.gle/TedGpJgvGtPPw7Hz6" target="_blank"><img src="/assets/images/sponsor-logos/sponsor-ads/jit-23.png" width="50%"></a>
 
 <ul class="actions">
     <li><a href="https://forms.gle/TedGpJgvGtPPw7Hz6" class="button special fit" target="_blank">ENTER JIT RAFFLE! </a></li>
