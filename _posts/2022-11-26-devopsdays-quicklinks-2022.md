@@ -66,7 +66,7 @@ categories: core
 
 ### ARMO YAML CHALLENGE 
 
-<a href="#" target="_blank"><img src="/assets/images/sponsor-logos/sponsor-ads/image.png" width="50%"></a>
+<img src="/assets/images/sponsor-logos/sponsor-ads/image.png" width="50%">
 
 <p>"How well do you know your YAML? Visit the ARMO booth to take the YAML challenge. Answer 5 quick questions to show off your Kubernetes YAML domination - to win prizes!</p>
 
