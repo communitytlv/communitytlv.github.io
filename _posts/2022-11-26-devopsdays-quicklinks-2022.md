@@ -149,4 +149,14 @@ categories: core
 
 --------------------------
 
+### Permit.io - Support open source, win a Nerf gun set!
+#### Star the GitHub of our open source project, OPAL, and stop at Permit.io's booth at 13:00 each day and see if you won our "Permission Enforcement Kit"! 
 
+
+<a href="https://github.com/permitio/opal" target="_blank"><img src="/assets/images/sponsor-logos/sponsor-ads/Permit%20banner.png" width="50%"></a>
+
+<ul class="actions">
+    <li><a href="https://github.com/permitio/opal" class="button special fit" target="_blank"><span class="icon alt fa-star-o"></span> GIVE PERMIT A STAR! </a></li>
+</ul>
+
+--------------------------
