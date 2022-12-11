@@ -123,7 +123,7 @@ categories: core
 --------------------------
 
 
-### LOGZIO RAFFLE 
+### LOGZ.IO RAFFLE 
 
 #### FILL IN THE DEVOPS PULSE SURVEY AND ENTER TO WIN A DRONE
 
@@ -139,7 +139,7 @@ categories: core
 
 #### IS IT TIME TO WIN O'CLOCK? ENTER THEIR SMART WATCH RAFFLE
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSfo2fyzxOmb0S0UHNDh_9e4dyvcNW99xTIH9wzP5qYg0VkvZA/viewform" target="_blank"><img src="/assets/images/sponsor-logos/sponsor-ads/logzio.jpg" width="50%"></a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfo2fyzxOmb0S0UHNDh_9e4dyvcNW99xTIH9wzP5qYg0VkvZA/viewform" target="_blank"><img src="/assets/images/sponsor-logos/sponsor-ads/silverfort.png" width="50%"></a>
 
 <ul class="actions">
     <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSfo2fyzxOmb0S0UHNDh_9e4dyvcNW99xTIH9wzP5qYg0VkvZA/viewform" class="button special fit" target="_blank">ENTER SILVERFORT RAFFLE! </a></li>
