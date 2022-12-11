@@ -98,5 +98,53 @@ categories: core
 --------------------------
 
 
+### BIGPANDA - RIDDLE ME THIS
+
+#### Can you solve their riddles? Visit their booth and find out.
+
+<a href="https://docs.google.com/forms/d/1ShaM4PxsNS-6HpFS1fxY9Mg24yStc3d5ezZp3CG7b_c/viewform?edit_requested=true#responses" target="_blank"><img src="/assets/images/sponsor-logos/sponsor-ads/bigpanda.jpg" width="50%"></a>
+
+<ul class="actions">
+    <li><a href="https://docs.google.com/forms/d/1ShaM4PxsNS-6HpFS1fxY9Mg24yStc3d5ezZp3CG7b_c/viewform?edit_requested=true#responses" class="button special fit" target="_blank">CHECK IT OUT! </a></li>
+</ul>
+
+--------------------------
+
+### SLIM.AI - Become a Design Partner
+
+#### Can you solve their riddles? Visit their booth and find out.
+
+<a href="https://www.slim.ai/pages/design-partners/" target="_blank"><img src="/assets/images/sponsor-logos/sponsor-ads/slimai.png" width="50%"></a>
+
+<ul class="actions">
+    <li><a href="https://www.slim.ai/pages/design-partners/" class="button special fit" target="_blank">BOOK A LIVE DEMO NOW! </a></li>
+</ul>
+
+--------------------------
+
+
+### LOGZIO RAFFLE 
+
+#### FILL IN THE DEVOPS PULSE SURVEY AND ENTER TO WIN A DRONE
+
+<a href="https://www.surveymonkey.com/r/dodtlv22" target="_blank"><img src="/assets/images/sponsor-logos/sponsor-ads/logzio.jpg" width="50%"></a>
+
+<ul class="actions">
+    <li><a href="https://www.surveymonkey.com/r/dodtlv22" class="button special fit" target="_blank">TAKE SURVEY! </a></li>
+</ul>
+
+--------------------------
+
+### SILVERFORT RAFFLE 
+
+#### IS IT TIME TO WIN O'CLOCK? ENTER THEIR SMART WATCH RAFFLE
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfo2fyzxOmb0S0UHNDh_9e4dyvcNW99xTIH9wzP5qYg0VkvZA/viewform" target="_blank"><img src="/assets/images/sponsor-logos/sponsor-ads/logzio.jpg" width="50%"></a>
+
+<ul class="actions">
+    <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSfo2fyzxOmb0S0UHNDh_9e4dyvcNW99xTIH9wzP5qYg0VkvZA/viewform" class="button special fit" target="_blank">ENTER SILVERFORT RAFFLE! </a></li>
+</ul>
+
+--------------------------
 
 
