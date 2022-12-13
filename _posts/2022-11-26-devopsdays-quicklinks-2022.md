@@ -46,6 +46,22 @@ categories: core
                     SPACE IDEA</a></li>
             <li><a href="https://airtable.com/shrjIIcOThgqtrCPZ/tblqC5RaCHueD7SWX" class="button special fit" target="_blank">IDEA BOARD</a></li>
 </ul>
+--------------------------
+
+## JOIN OUR HAPPY HOURS! THEY'RE GOING TO BE AWESOME
+
+### DAY 1 - HETZ VENTURES AND AMA 
+
+<img src="/assets/images/sponsor-logos/sponsor-ads/Hetz%20Happy%20Hour%20devOps%20Days.gif" width="50%">
+
+
+### DAY 2 - PITANGO FIRST AND DJ DANA FINE 
+<a href="https://www.eventbrite.com/e/beerops-happy-hour-devops-days-tlv-tickets-479227581597" target="_blank"><img src="/assets/images/sponsor-logos/sponsor-ads/pitango.jpeg" width="50%"></a>
+
+
+<ul class="actions">
+            <li><a href="https://www.eventbrite.com/e/beerops-happy-hour-devops-days-tlv-tickets-479227581597" class="button special fit" target="_blank"> REGISTER TO SAVE YOUR SPOT! </a></li>
+</ul>
 
 
 --------------------------
@@ -158,5 +174,49 @@ categories: core
 <ul class="actions">
     <li><a href="https://github.com/permitio/opal" class="button special fit" target="_blank"><span class="icon alt fa-star-o"></span> GIVE PERMIT A STAR! </a></li>
 </ul>
+
+--------------------------
+
+### Coralogix Demo
+
+
+<a href="https://signup.coralogix.com/#/" target="_blank"><img src="/assets/images/sponsor-logos/sponsor-ads/coralogix22.png" width="50%"></a>
+
+<ul class="actions">
+    <li><a href="https://coralogix.com/" class="button special fit" target="_blank"> CLICK HERE FOR A DEMO </a></li>
+</ul>
+
+--------------------------
+
+### Riskified Raffle
+#### Do you want to win a Playstation 5?!?! 
+
+
+<a href="https://forms.gle/2v9F1sF7c3w5wyEMA" target="_blank"><img src="/assets/images/sponsor-logos/sponsor-ads/riskified.png" width="50%"></a>
+
+<ul class="actions">
+    <li><a href="https://github.com/permitio/opal" class="button special fit" target="_blank"> Enter Riskified Raffle! </a></li>
+</ul>
+
+--------------------------
+
+### Join Microsoft's developer community and enjoy training, meetups, content, and competitions.
+
+#### Come visit our booth and challenge GitHub co-pilot, your AI pair programmer. 
+
+
+<a href="https://aka.ms/AAiz85h" target="_blank"><img src="/assets/images/sponsor-logos/sponsor-ads/microsoft.png" width="50%"></a>
+
+<ul class="actions">
+    <li><a href="https://aka.ms/AAiz85h" class="button special fit" target="_blank"> Join the Microsoft Community! </a></li>
+</ul>
+
+--------------------------
+
+### Join the Wizards Team!
+
+
+<img src="/assets/images/sponsor-logos/sponsor-ads/wizards.png" width="50%">
+
 
 --------------------------
