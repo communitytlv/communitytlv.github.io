@@ -216,7 +216,7 @@ categories: core
 ### Join the Wizards Team!
 
 
-<img src="/assets/images/sponsor-logos/sponsor-ads/wizards.png" width="50%">
+<img src="/assets/images/sponsor-logos/sponsor-ads/Wizards.jpg" width="50%">
 
 
 --------------------------
