@@ -34,14 +34,10 @@ nav-menu: true
             <p style="text-align: center; font-weight: 700; color: #d95374;">Join us for a single-track DevOpsDays with a dedicated track for Cloud Native & OSS Day on Day 1. </p>
             </span>
             DevOpsDays is a <a href="/team" target="_blank">volunteer-led event</a>, by the community for the community, with talks contributed by some of the best from our local community as well as the global DevOps community, with a variety of talks from beginner through advanced levels, so literally anyone can join and enjoy the sessions.</p>
-            
-          <br />
+        <br />
     <h4> EVENT AGENDA & SPEAKERS (VIDEOS NOW IN AGENDA!)</h4>
          <ul class="actions"><li><a href="/devopsdays/agenda-2022" class="button fit">AGENDA & SPEAKERS</a></li></ul>
          <ul class="actions"><li><a href="/devopsdays-quicklinks-2022" class="button fit"><span class="icon alt fa-lightbulb-o"></span> EVENT QUICK LINKS </a></li></ul>
-
-        
-    </div>
 
   
     {% include /devopsdays/2022/2022-speakers.html %}
