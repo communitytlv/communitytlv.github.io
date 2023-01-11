@@ -5,7 +5,6 @@ description: Find Videos & Pictures from Previous Community Events
 image: assets/images/pic10.jpg
 nav-menu: true
 
-
 ---
 <div id="main" class="alt">
 
@@ -15,6 +14,20 @@ nav-menu: true
 		<header class="major">
 			<h1>Videos & Pics from Previous Events</h1>
 		</header>
+
+<!-- DEVOPSDAYS Tel Aviv 2022  -->
+<h2 id="content"><img src="/assets/images/devopsdays-SQ.png" width="150"><br/> 
+DevOpsDays TLV & Cloud Native & OSS Day 2022</h2>
+    <hr class="major" />
+     <h4 id="stream"><a href="https://rtfmp.lease/devopsdaystlv-2022-photos" target="_blank"><span class="icon fa-camera-retro"></span> Pictures DevOpsDays TLV 2022 2022</a></h4>
+    <div class="box">
+	<div class="row" style="text-align: center;"> 
+    <h4 id="stream"><span class="icon fa-video-camera"></span> DEVOPSDAYS TLV + CLOUD NATIVE DAY 2022 VIDEOS</h4><br/>
+           <br/>
+       <p><iframe src="https://www.youtube.com/embed/videoseries?list=PL8tivQAdoavNHBVaiDiadxLiVtdH7xPJH" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen width="700" height="500"></iframe></p>
+    <br/>      
+</div>
+</div>
 
 <!-- Statscraft Tel Aviv 2022  -->
 <h2 id="content"><img src="/assets/images/statscraft-SQ.png" width="150"><br/> 
