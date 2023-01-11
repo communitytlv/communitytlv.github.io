@@ -18,8 +18,9 @@ nav-menu: true
     <h2 style="text-transform: uppercase; color: turquoise;">IT'S A WRAP ON DEVOPSDAYS TEL AVIV 2022!</h2>
     <h3 style="text-transform: uppercase;">December 14-15, 2022 - at Expo Tel Aviv!</h3>
     <p>&nbsp;</p>
-   <h2> <span class="icon alt fa-video-camera" id="#videos"></span> EVENT VIDEOS ARE NOW LIVE >> CHECK THEM OUT </h2>
-           <iframe width="100%" height="500" src="https://www.youtube.com/embed/videoseries?list=PL8tivQAdoavNHBVaiDiadxLiVtdH7xPJH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <a id="videos">
+   <h2> <span class="icon alt fa-video-camera"></span> EVENT VIDEOS ARE NOW LIVE >> CHECK THEM OUT </h2>
+           <iframe width="100%" height="700" src="https://www.youtube.com/embed/videoseries?list=PL8tivQAdoavNHBVaiDiadxLiVtdH7xPJH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             <br/>
     <h2><span class="icon alt fa-camera-retro"></span> CHECK OUT THE EVENT PICTURES</h2>
             <ul class="actions"><li><a href="https://rtfmp.lease/devopsdaystlv-2022-photos" class="button fit"> <span class="icon alt fa-camera-o"></span> EVENT PICS</a></li></ul>
@@ -35,7 +36,7 @@ nav-menu: true
             
           <br />
     <h4> EVENT AGENDA & SPEAKERS (VIDEOS NOW IN AGENDA!)</h4>
-          <li><a href="/devopsdays/agenda-2022" class="button fit">AGENDA & SPEAKERS</a></li></ul>
+         <ul class="actions"><li><a href="/devopsdays/agenda-2022" class="button fit">AGENDA & SPEAKERS</a></li></ul>
          <ul class="actions"><li><a href="/devopsdays-quicklinks-2022" class="button fit"><span class="icon alt fa-lightbulb-o"></span> EVENT QUICK LINKS </a></li></ul>
 
         
