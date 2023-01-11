@@ -19,6 +19,14 @@ categories: core
             <li><a href="/devopsdays/agenda-2022.html" class="button special fit" target="_blank">VIEW EVENT PROGRAM </a></li>
 </ul>
 
+ <ul class="actions">
+            <li><a href="https://rtfmp.lease/devopsdaystlv-2022-photos" class="button special fit" target="_blank">VIEW EVENT PICS </a></li>
+</ul>
+
+ <ul class="actions">
+            <li><a href="/devopsdays#videos" class="button special fit" target="_blank">VIEW EVENT VIDEOS </a></li>
+</ul>
+
 --------------------------
 
 ## Workshop Registration Form
