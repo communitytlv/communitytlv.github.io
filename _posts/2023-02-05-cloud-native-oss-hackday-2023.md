@@ -18,9 +18,9 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1 style="color: turquoise; text-transform: uppercase;"><span class="icon alt fa-bolt"></span>  SAVE THE DATE: [TARGET DATE] <a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=Nm9vdnY0ZXRrczhzODNxcmc2bWFtNnY5ZTggY2xvdWRuYXRpdmVpc3JhZWxAbQ&tmsrc=cloudnativeisrael%40gmail.com" target="_blank"> ADD TO CALENDAR</a></h1> 
+			<h1 style="color: turquoise; text-transform: uppercase;"><span class="icon alt fa-bolt"></span> </h1> 
+            <h4>SAVE THE DATE: [TARGET DATE] <a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=Nm9vdnY0ZXRrczhzODNxcmc2bWFtNnY5ZTggY2xvdWRuYXRpdmVpc3JhZWxAbQ&tmsrc=cloudnativeisrael%40gmail.com" target="_blank"> ADD TO CALENDAR</a></h4>
             <p>Join us for the first of its kind <em>distributed hackathon</em> led by our host and sponsor companies who will each be hosting teams at their offices –– with tasty snacks, networking, mentoring and a day filled with OSS fun.<br/></p>
-
 </header>
 <hr/>
 
@@ -32,12 +32,12 @@ nav-menu: true
  	<li>Bring back the joy in <span style="color: #ffd966; font-family: monospace;">{code}</span>.</li>
 </ul>
 
- <a href="https://airtable.com/shrzynWEKRMYcXJzo" class="button next scrolly"><span class="icon alt fa-arrow-right-o"></span> REGISTER</a> 
-		 <br/>
-<p>&nbsp;</p>
-	<ul class="actions"><li><a href="https://airtable.com/shrJn7aoM0eGfdnZj" target="_blank" class="button fit"><span class="icon alt fa-star-o"></span> PROPOSE TOPIC </a></li></ul>
+ <a href="https://airtable.com/shrzynWEKRMYcXJzo" class="button next scrolly"  target="_blank"><span class="icon alt fa-arrow-right-o"></span> REGISTER</a> 
+ <br/>
+<ul class="actions"><li><a href="https://airtable.com/shrJn7aoM0eGfdnZj" target="_blank" class="button fit"><span class="icon alt fa-star-o"></span> PROPOSE TOPIC </a></li></ul>
 
-    
+<hr/>
+
  <h2 style="color: turquoise; text-transform: uppercase;">IMPORTANT INFO ABOUT THE HACKATHON</h2>
 
 <details><summary><strong style="color: #ffd966; text-transform: uppercase; font-weight=600; font-size: 1.25em; line-height: 1.5em;">Project Categories</strong></summary>
@@ -48,8 +48,8 @@ In our day-to-day workflows we often find ourselves lacking a really simple tool
 We encourage you to think about something that is useful on a daily basis, and can optimize work with common cloud native OSS tools.
 
 <li><strong style="color: #ffd966; text-transform: uppercase; font-weight=600;">Solve a Universally felt Challenge</strong></li>
-As a global community of OSS enthusiasts in the cloud native ecosystem has users and community members around the globe leveraging its tools and frameworks.<br/>
-We encourage you to think of innovative ways to solve daily OSS & cloud native ecosystem challenges that can benefit everyone - from communication to collaboration, and more.
+As a global community of OSS enthusiasts in the cloud native ecosystem, there are users and community members around the globe leveraging its tools and frameworks.<br/>
+We encourage you to think of innovative ways to solve daily OSS & cloud native ecosystem challenges that can benefit everyone - from communication to collaboration, useful examples and improvements and more.
 
 <li><strong style="color: turquoise; text-transform: uppercase; font-weight=400;">Solve a Universally felt Challenge</strong></li>
 As a global community of OSS enthusiasts in the cloud native ecosystem has users and community members around the globe leveraging its tools and frameworks.<br/>
@@ -103,7 +103,7 @@ You are more than encouraged to build something with any of the suggested OSS pr
 
 <ul>
 <li>February 6th - Call for participants and projects opens -  <a href="#propose">REGISTER OR PROPOSE HERE</a></li>
-<li>March 1st - Project Ignites Meetup and Project Recruitment <a href="#">REGISTER</a></li>
+<li>March 1st - Project Ignites Meetup and Project Recruitment <a href="https://airtable.com/shrzynWEKRMYcXJzo"  target="_blank">REGISTER</a></li>
 <li>March 13th - HACK DAY!</li>
 <li>March 16th - Final Demos and Happy Hour</li>
 <li>March 23rd - Announce Winners at KCD Tel Aviv!</li>
