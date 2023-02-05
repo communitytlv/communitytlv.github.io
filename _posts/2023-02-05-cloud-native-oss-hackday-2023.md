@@ -4,7 +4,6 @@ title: CLOUD NATIVE & OSS HACK DAY TLV | 2023
 menu_title: Cloud Native & OSS Hack Day TLV 2023
 description: Find more info, guidelines and how to participate in the Cloud Native & OSS TLV Hack Day! 
 cta: <br/><ul class="actions"><li><a href="https://airtable.com/shrzynWEKRMYcXJzo" class="button special fit" target="_blank"><span class="icon alt fa-arrow-right-o"></span> REGISTER NOW</a></li></ul>&nbsp;<ul class="actions"><li><a href="https://airtable.com/shrJn7aoM0eGfdnZj" target="_blank" class="button fit"><span class="icon alt fa-pencil-square-o"></span> PROPOSE PROJECT </a></li></ul>
-image: 
 permalink: /cloud-native-oss-hackday-2023
 nav-menu: true
 
