@@ -18,9 +18,9 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1 style="color: turquoise; text-transform: uppercase;"><span class="icon alt fa-bolt"></span> </h1> 
-            <h4>SAVE THE DATE: [TARGET DATE] <a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=Nm9vdnY0ZXRrczhzODNxcmc2bWFtNnY5ZTggY2xvdWRuYXRpdmVpc3JhZWxAbQ&tmsrc=cloudnativeisrael%40gmail.com" target="_blank"> ADD TO CALENDAR</a></h4>
-            <p>Join us for the first of its kind <em>distributed hackathon</em> led by our host and sponsor companies who will each be hosting teams at their offices –– with tasty snacks, networking, mentoring and a day filled with OSS fun.<br/></p>
+			<h1 style="color: turquoise; text-transform: uppercase;"><span class="icon alt fa-anchor"></span> SAVE THE DATE: [TARGET DATE] </h1> 
+            <h4><a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=Nm9vdnY0ZXRrczhzODNxcmc2bWFtNnY5ZTggY2xvdWRuYXRpdmVpc3JhZWxAbQ&tmsrc=cloudnativeisrael%40gmail.com" target="_blank"><span class="icon alt fa-calendar-o"></span> ADD TO CALENDAR</a></h4>
+            <p>Join us for the first of its kind <em>distributed hackathon</em> led by our host and <a href="#sponsors">sponsor companies</a> who will each be hosting teams at their offices –– with tasty snacks, networking, mentoring and a day filled with OSS fun.<br/></p>
 </header>
 <hr/>
 
@@ -32,9 +32,7 @@ nav-menu: true
  	<li>Bring back the joy in <span style="color: #ffd966; font-family: monospace;">{code}</span>.</li>
 </ul>
 
- <a href="https://airtable.com/shrzynWEKRMYcXJzo" class="button next scrolly"  target="_blank"><span class="icon alt fa-arrow-right-o"></span> REGISTER</a> 
- <br/>
-<ul class="actions"><li><a href="https://airtable.com/shrJn7aoM0eGfdnZj" target="_blank" class="button fit"><span class="icon alt fa-star-o"></span> PROPOSE TOPIC </a></li></ul>
+ <a href="https://airtable.com/shrzynWEKRMYcXJzo" class="button next scrolly"  target="_blank"><span class="icon alt fa-arrow-right-o"></span> REGISTER</a>&nbsp; &nbsp; &nbsp;<ul class="actions"><li><a href="https://airtable.com/shrJn7aoM0eGfdnZj" target="_blank" class="button fit"><span class="icon alt fa-star-o"></span> PROPOSE TOPIC </a></li></ul>
 
 <hr/>
 
@@ -43,23 +41,23 @@ nav-menu: true
 <details><summary><strong style="color: #ffd966; text-transform: uppercase; font-weight=600; font-size: 1.25em; line-height: 1.5em;">Project Categories</strong></summary>
 
 <ul>
-<li><strong style="color: turquoise; text-transform: uppercase; font-weight=400;">A Useful Tool  or Integration for Everyone</strong></li>
+<li><strong style="color: turquoise; text-transform: uppercase; font-weight=400;"><span class="icon alt fa-plug"></span> A Useful Tool  or Integration for Everyone</strong></li>
 In our day-to-day workflows we often find ourselves lacking a really simple tool or integration that could simplify our open source or dev work significantly.<br/>
 We encourage you to think about something that is useful on a daily basis, and can optimize work with common cloud native OSS tools.
 
-<li><strong style="color: #ffd966; text-transform: uppercase; font-weight=600;">Solve a Universally felt Challenge</strong></li>
+<li><strong style="color: #ffd966; text-transform: uppercase; font-weight=600;"><span class="icon alt fa-cog"></span> Solve a Universally felt Challenge</strong></li>
 As a global community of OSS enthusiasts in the cloud native ecosystem, there are users and community members around the globe leveraging its tools and frameworks.<br/>
 We encourage you to think of innovative ways to solve daily OSS & cloud native ecosystem challenges that can benefit everyone - from communication to collaboration, useful examples and improvements and more.
 
-<li><strong style="color: turquoise; text-transform: uppercase; font-weight=400;">Solve a Universally felt Challenge</strong></li>
+<li><strong style="color: turquoise; text-transform: uppercase; font-weight=400;"><span class="icon alt fa-code"></span> Solve a Universally felt Challenge</strong></li>
 As a global community of OSS enthusiasts in the cloud native ecosystem has users and community members around the globe leveraging its tools and frameworks.<br/>
 We encourage you to think of innovative ways to solve daily OSS & cloud native ecosystem challenges that can benefit everyone - from communication to collaboration, and more.
 
-<li><strong style="color: #ffd966; text-transform: uppercase; font-weight=400;">A Significant Product Enhancement</strong></li>
+<li><strong style="color: #ffd966; text-transform: uppercase; font-weight=400;"><span class="icon alt fa-rocket"></span> A Significant Product Enhancement</strong></li>
 What’s a hackathon without fun?! Sometimes we just want to play around with gadgets and gizmos, and put something together that can be useful or just for fun.<br/>
 If you have a significant product enhancement that brings direct value to OSS users, build ways to make these cloud native products even better.
 
-<li><strong style="color: turquoise; text-transform: uppercase; font-weight=400;">An Exciting Demonstration of Craft</strong> </li>
+<li><strong style="color: turquoise; text-transform: uppercase; font-weight=400;"><span class="icon alt fa-bolt"></span> An Exciting Demonstration of Craft</strong> </li>
 Many times we have excellent ideas ways to improve the OSS tooling experience, but don’t necessarily have the time to work on them with our regular workloads, and so they remain in the backlog.<br/>
 You are more than encouraged to build something with any of the suggested OSS projects that does something unique, and is just super cool and nifty.
 </ul>
@@ -164,8 +162,9 @@ LOREM IPSUM ADD HERE....
 <hr/>
 </details>
 
+<hr/>
 
-<div class="inner">
+<div class="inner" id="#sponsors">
 			<h2>Big thanks to our sponsors and hosts making the event happen!</h2>
               <a href="https://armosec.com" target="_blank"><img
                         src="/assets/images/sponsor-logos/armosec-SQ.png"
