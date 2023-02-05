@@ -67,7 +67,7 @@ You are more than encouraged to build something with any of the suggested OSS pr
 <hr/>
 </details>
         
-<details><summary><strong style="color: #ffd966; text-transform: uppercase; font-weight=600; font-size: 1.25em; line-height: 1.5em;">Guidelines & Criteria</strong></summary>
+<details><summary><strong style="color: turquoise; text-transform: uppercase; font-weight=600; font-size: 1.25em; line-height: 1.5em;">Guidelines & Criteria</strong></summary>
 
 <h4 style="color: turquoise; text-transform: uppercase;">Project Criteria</h4>
 
@@ -84,7 +84,7 @@ You are more than encouraged to build something with any of the suggested OSS pr
 <hr/>
 </details>
 
-<details><summary><strong style="color: turquoise; text-transform: uppercase; font-weight=600; font-size: 1.25em; line-height: 1.5em;">Bounties & Bonus Points</strong></summary>
+<details><summary><strong style="color: #ffd966; text-transform: uppercase; font-weight=600; font-size: 1.25em; line-height: 1.5em;">Bounties & Bonus Points</strong></summary>
 
 <h4>You can earn bonus points towards your project with the following advantages</h4>
 
@@ -109,11 +109,15 @@ You are more than encouraged to build something with any of the suggested OSS pr
 <li>March 23rd - Announce Winners at KCD Tel Aviv!</li>
 </ul>
 
-<hr/>
 </details>
-      
-<h2>Prizes & Announcement</h2>
+
+<hr/>
+
+
+<header class="major">      
+<h1>Prizes & Announcement</h1>
 LOREM IPSUM ADD HERE....
+</header>
 
 <hr/>
 
@@ -131,13 +135,19 @@ LOREM IPSUM ADD HERE....
                     href="https://permit.io" target="_blank"><img
                         src="/assets/images/sponsor-logos/permitio-SQ.png"
                         width="160px"></a>
-                        <p>&nbsp;</p>
 
+<hr/>
 <ul class="actions" id="propose">
-<li><a href="https://airtable.com/shrzynWEKRMYcXJzo" class="button next">REGISTER</a></li>                        
+<li><a href="https://airtable.com/shrzynWEKRMYcXJzo" class="button next" target="_blank">REGISTER</a></li>                        
 <br/>
 
+<hr/>
+
+<header class="major">      
+
 <h4>View Project Proposals and Vote!</h4>
+
+</header>
 
 <p>&nbsp;&nbsp;</p>
  <ul class="actions">
