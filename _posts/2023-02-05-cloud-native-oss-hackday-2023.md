@@ -49,7 +49,7 @@ We encourage you to think about something that is useful on a daily basis, and c
 As a global community of OSS enthusiasts in the cloud native ecosystem, there are users and community members around the globe leveraging its tools and frameworks.<br/>
 We encourage you to think of innovative ways to solve daily OSS & cloud native ecosystem challenges that can benefit everyone - from communication to collaboration, useful examples and improvements and more.
 
-<li><strong style="color: #turquoise; text-transform: uppercase; font-weight=400;"><span class="icon alt fa-code"></span> A Significant Product Enhancement</strong></li>
+<li><strong style="color: turquoise; text-transform: uppercase; font-weight=400;"><span class="icon alt fa-code"></span> A Significant Product Enhancement</strong></li>
 What’s a hackathon without fun?! Sometimes we just want to play around with gadgets and gizmos, and put something together that can be useful or just for fun.<br/>
 If you have a significant product enhancement that brings direct value to OSS users, build ways to make these cloud native products even better.
 
@@ -128,8 +128,9 @@ LOREM IPSUM ADD HERE....
 
 <hr/>
       
-
-<ul class="actions" id="propose">
+<p id="propose">&nbsp;</p>
+<p>&nbsp;</p>
+<ul class="actions">
 <li><a href="https://airtable.com/shrzynWEKRMYcXJzo" class="button next" target="_blank">REGISTER</a></li>                        
 <br/>
 
@@ -153,14 +154,16 @@ LOREM IPSUM ADD HERE....
                 </ul>
 
 <details><summary><strong style="color: turquoise; text-transform: uppercase; font-weight=600; font-size: 1.25em; line-height: 1.5em;">Project Proposal Form</strong></summary>
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrJn7aoM0eGfdnZj?backgroundColor=yellow" frameborder="0" onmousewheel="" width="100%" height="1200px" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrJn7aoM0eGfdnZj?backgroundColor=yellow" frameborder="0" onmousewheel="" width="100%" height="1400px" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 <hr/>
 </details>
 
 <hr/>
 
-<div class="inner" id="sponsors">
+<p>&nbsp;</p>
+
+<div class="inner">
 			<h2>Big thanks to our sponsors and hosts making the event happen!</h2>
               <a href="https://armosec.com" target="_blank"><img
                         src="/assets/images/sponsor-logos/armosec-SQ.png"
