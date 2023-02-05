@@ -3,7 +3,7 @@ layout: landing
 title: CLOUD NATIVE & OSS HACK DAY TLV | 2023 
 menu_title: Cloud Native & OSS Hack Day TLV 2023
 description: Find more info, guidelines and how to participate in the Cloud Native & OSS TLV Hack Day! 
-cta: <br/><ul class="actions"><li><a href="https://airtable.com/shrzynWEKRMYcXJzo" class="button special fit" target="_blank"><span class="icon alt fa-arrow-right-o"></span> REGISTER NOW</a></li></ul>&nbsp;<ul class="actions"><li><a href="https://airtable.com/shrJn7aoM0eGfdnZj" target="_blank" class="button fit"><span class="icon alt fa-edit-o"></span> PROPOSE PROJECT </a></li></ul>
+cta: <br/><ul class="actions"><li><a href="https://airtable.com/shrzynWEKRMYcXJzo" class="button special fit" target="_blank"><span class="icon alt fa-arrow-right-o"></span> REGISTER NOW</a></li></ul>&nbsp;<ul class="actions"><li><a href="https://airtable.com/shrJn7aoM0eGfdnZj" target="_blank" class="button fit"><span class="icon alt fa-pencil-square-o"></span> PROPOSE PROJECT </a></li></ul>
 image: 
 permalink: /cloud-native-oss-hackday-2023
 nav-menu: true
@@ -25,18 +25,18 @@ nav-menu: true
 <hr/>
 
 <h2 style="color: turquoise; text-transform: uppercase;"><span class="icon alt fa-lightbulb-o"></span> The Big Idea</h2>
-    <p>We want you to connect with the local OSS Dev Community:</p>
+    <strong>We want you to connect with the local OSS Dev Community to:</strong>
     <ul>
  	<li>Think out of the box about solving common problems</li>
  	<li>Get creative with Open Source & Cloud Native Dev Tools</li>
  	<li>Bring back the joy in <span style="color: #ffd966; font-family: monospace;">{code}</span>.</li>
 </ul>
 
- <a href="https://airtable.com/shrzynWEKRMYcXJzo" class="button next scrolly"  target="_blank"><span class="icon alt fa-arrow-right-o"></span> REGISTER</a><br/><br/><ul class="actions"><li><a href="https://airtable.com/shrJn7aoM0eGfdnZj" target="_blank" class="button fit"><span class="icon alt fa-edit-o"></span> PROPOSE TOPIC </a></li></ul>
+ <a href="https://airtable.com/shrzynWEKRMYcXJzo" class="button next scrolly"  target="_blank"><span class="icon alt fa-arrow-right-o"></span> REGISTER</a><br/><br/><ul class="actions"><li><a href="https://airtable.com/shrJn7aoM0eGfdnZj" target="_blank" class="button fit"><span class="icon alt fa-pencil-square-o"></span> PROPOSE TOPIC </a></li></ul>
 
 <hr/>
 
- <h2 style="color: turquoise; text-transform: uppercase;">IMPORTANT INFO ABOUT THE HACKATHON</h2>
+ <h2 style="color: turquoise; text-transform: uppercase;"><span class="icon alt fa-info-circle"></span> IMPORTANT INFO ABOUT THE HACKATHON</h2>
 
 <details><summary><strong style="color: #ffd966; text-transform: uppercase; font-weight=600; font-size: 1.25em; line-height: 1.5em;">Project Categories</strong></summary>
 
@@ -61,7 +61,7 @@ You are more than encouraged to build something with any of the suggested OSS pr
 <hr/>
 </details>
         
-<details><summary><strong style="color: turquoise; text-transform: uppercase; font-weight=600; font-size: 1.25em; line-height: 1.5em;"><span class="icon alt fa-info-circle"></span> Guidelines & Criteria</strong></summary>
+<details><summary><strong style="color: turquoise; text-transform: uppercase; font-weight=600; font-size: 1.25em; line-height: 1.5em;"> Guidelines & Criteria</strong></summary>
 
 <h4 style="color: turquoise; text-transform: uppercase;">Project Criteria</h4>
 
@@ -78,7 +78,7 @@ You are more than encouraged to build something with any of the suggested OSS pr
 <hr/>
 </details>
 
-<details><summary><strong style="color: #ffd966; text-transform: uppercase; font-weight=600; font-size: 1.25em; line-height: 1.5em;"><span class="icon alt fa-star"></span> Bounties & Bonus Points</strong></summary>
+<details><summary><strong style="color: #ffd966; text-transform: uppercase; font-weight=600; font-size: 1.25em; line-height: 1.5em;"> Bounties & Bonus Points</strong></summary>
 
 <h4>You can earn bonus points towards your project with the following advantages</h4>
 
@@ -93,7 +93,7 @@ You are more than encouraged to build something with any of the suggested OSS pr
 </details>
       
 
-<details><summary><strong style="color: turquoise; text-transform: uppercase; font-weight=600; font-size: 1.25em; line-height: 1.5em;"><span class="icon alt fa-clock"></span> Timelines & Important Dates</strong></summary>
+<details><summary><strong style="color: turquoise; text-transform: uppercase; font-weight=600; font-size: 1.25em; line-height: 1.5em;"> Timelines & Important Dates</strong></summary>
 
 <ul>
 <li>February 6th - Call for participants and projects opens -  <a href="#propose">REGISTER OR PROPOSE HERE</a></li>
@@ -117,7 +117,7 @@ LOREM IPSUM ADD HERE....
 
 
 <header class="major">      
-<h1 style="color: turquoise; text-transform: uppercase;"><span class="icon alt fa-user-o"></span> Event Judges and Mentors</h1>
+<h1 style="color: turquoise; text-transform: uppercase;"><span class="icon alt fa-user"></span> Event Judges and Mentors</h1>
 
 [PLACEHOLDER FOR ACTUAL JUDGES AND MENTORS]
 
