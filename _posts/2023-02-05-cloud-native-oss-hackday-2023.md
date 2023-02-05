@@ -121,22 +121,20 @@ LOREM IPSUM ADD HERE....
 
 <hr/>
 
-      
+
+<header class="major">      
+<h1>Event Judges and Mentors</h1>
+
+[PLACEHOLDER FOR ACTUAL JUDGES AND MENTORS]
+
+    {% include /devopsdays/2021/2021-speakers.html %}
 
 
-<div class="inner">
-			<h2>Big thanks to our sponsors and hosts making the event happen!</h2>
-              <a href="https://armosec.com" target="_blank"><img
-                        src="/assets/images/sponsor-logos/armosec-SQ.png"
-                        width="160px"></a>&nbsp;<a
-                    href="https://komodor.com" target="_blank"><img
-                        src="/assets/images/sponsor-logos/komodor-SQ.png"
-                        width="160px"></a>&nbsp;<a
-                    href="https://permit.io" target="_blank"><img
-                        src="/assets/images/sponsor-logos/permitio-SQ.png"
-                        width="160px"></a>
+</header>
 
 <hr/>
+      
+
 <ul class="actions" id="propose">
 <li><a href="https://airtable.com/shrzynWEKRMYcXJzo" class="button next" target="_blank">REGISTER</a></li>                        
 <br/>
@@ -165,5 +163,20 @@ LOREM IPSUM ADD HERE....
 
 <hr/>
 </details>
+
+
+<div class="inner">
+			<h2>Big thanks to our sponsors and hosts making the event happen!</h2>
+              <a href="https://armosec.com" target="_blank"><img
+                        src="/assets/images/sponsor-logos/armosec-SQ.png"
+                        width="160px"></a>&nbsp;<a
+                    href="https://komodor.com" target="_blank"><img
+                        src="/assets/images/sponsor-logos/komodor-SQ.png"
+                        width="160px"></a>&nbsp;<a
+                    href="https://permit.io" target="_blank"><img
+                        src="/assets/images/sponsor-logos/permitio-SQ.png"
+                        width="160px"></a>
+
+<hr/>
 </div>
 </div>
