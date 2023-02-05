@@ -3,8 +3,8 @@ layout: landing
 title: CLOUD NATIVE & OSS HACK DAY TLV | 2023 
 menu_title: Cloud Native & OSS Hack Day TLV 2023
 description: Find more info, guidelines and how to participate in the Cloud Native & OSS TLV Hack Day! 
-cta: <br/><ul class="actions"><li><a href="" class="button special fit" target="_blank"> REGISTER NOW</a></li></ul>&nbsp;<ul class="actions"><li><a href="" class="button fit"><span class="icon alt fa-bulb"></span> PROPOSE PROJECT </a></li></ul>
-image: assets/images/pic07.jpg
+cta: <br/><ul class="actions"><li><a href="" class="button special fit" target="_blank"> REGISTER NOW</a></li></ul>&nbsp;<ul class="actions"><li><a href="https://forms.gle/RZjcdwCHyEey1Zqm6" class="button fit"><span class="icon alt fa-lightbulb-o"></span> PROPOSE PROJECT </a></li></ul>
+image: 
 permalink: /cloud-native-oss-hackday-2023
 nav-menu: true
 
@@ -18,18 +18,26 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>SAVE THE DATE: [TARGET DATE]</h1> 
-         <a href="/devopsdays/speakers-2022" class="button next scrolly">REGISTER</a> 
+			<h1 style="color: turquoise; text-transform: uppercase;">SAVE THE DATE: [TARGET DATE] <a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=Nm9vdnY0ZXRrczhzODNxcmc2bWFtNnY5ZTggY2xvdWRuYXRpdmVpc3JhZWxAbQ&tmsrc=cloudnativeisrael%40gmail.com" target="_blank"> ADD TO CALENDAR</a></h1> 
+            <p>Join us for the first of its kind <em>distributed hackathon</em> led by our host and sponsor companies who will each be hosting teams at their offices –– with tasty snacks, networking, mentoring and a day filled with OSS fun.<br/></p>
+
+<h2 style="color: turquoise; text-transform: uppercase;">The Big Idea</h2>
+            We want you to connect with the local OSS Dev Community:
+ 	- Think out of the box about solving common problems
+ 	- Get creative with Open Source & Cloud Native Dev Tools
+ 	- Bring back the joy in {code}. 
+
+
+ <a href="#" class="button next scrolly">REGISTER</a> 
 		 <br/>
-		<p>&nbsp;</p>
-		 <ul class="actions"><li><a href="/devopsdays-quicklinks-2022" class="button fit"><span class="icon alt fa-lightbulb-o"></span> PROPOSE TOPIC </a></li></ul>
+<p>&nbsp;</p>
+	<ul class="actions"><li><a href="[#](https://forms.gle/RZjcdwCHyEey1Zqm6)" class="button fit"><span class="icon alt fa-lightbulb-o"></span> PROPOSE TOPIC </a></li></ul>
+    </header>
 
-		</header>
+    
+ <h2 style="color: turquoise; text-transform: uppercase;">IMPORTANT INFO ABOUT THE HACKATHON</h2>
 
-        
-       <h2>IMPORTANT INFO ABOUT THE HACKATHON</h2>
-
-<details><summary><h3>Project Categories</h3></summary>
+<details><summary><strong style="color: turquoise; text-transform: uppercase; font-weight=600; font-size: 1.75em; line-height: 1.75em;">Project Categories</strong></summary>
 
 - <strong>A Useful Tool  or Integration for Everyone</strong>
 In our day-to-day workflows we often find ourselves lacking a really simple tool or integration that could simplify our open source or dev work significantly.<br/>
@@ -56,7 +64,7 @@ You are more than encouraged to build something with any of the suggested OSS pr
 <hr/>
 </details>
         
-<details><summary><h3>Guidelines & Criteria</h3></summary>
+<details><summary><strong style="color: turquoise; text-transform: uppercase; font-weight=600; font-size: 1.75em; line-height: 1.75em;">Guidelines & Criteria</strong></summary>
 
 Serverless architecture and patterns have changed the velocity and scale at which modern business applications can be delivered, enabling engineering teams to focus on business value, without having to manage compute resources. As serverless gains adoption, the would-be attackers come prowling - and this means serverless security needs to level up. That said, serverless security knowledge is still not a commodity, as most of the current security tools, apps and practices are targeted at more legacy architecture patterns, making it challenging to ramp up security at the pace of engineering.
 
@@ -65,9 +73,10 @@ Excellent resources have been created over the years, including the OWASP Server
 <hr/>
 </details>
 
-<details><summary><h3>Guidelines & Criteria</h3></summary>
+<details><summary><strong style="color: turquoise; text-transform: uppercase; font-weight=600; font-size: 1.75em; line-height: 1.75em;">Guidelines & Criteria</strong></summary>
 
-<h4>Project Criteria</h4>
+<h4 style="color: turquoise; text-transform: uppercase;">Project Criteria</h4>
+
 - All projects need to be coded
 - The project needs to be reproducible & demoable in 5 minutes or less
 - Planning & design can start from the moment of kickoff, all coding needs to be done during the two hack days
@@ -76,14 +85,26 @@ Excellent resources have been created over the years, including the OWASP Server
 
 <hr/>
 </details>
+
+<details><summary><strong style="color: turquoise; text-transform: uppercase; font-weight=600; font-size: 1.75em; line-height: 1.75em;">Bounties & Bonus Points</strong></summary>
+
+<h4>You can earn bonus points towards your project with the following advantages</h4>
+
+- Use of any of the following tools / projects in your final project (+2 points for each) - Kubescape, OPAL, ValidKube, Helm Dashboard, Backstage...
+- Diversity - Of people, companies and roles (+2 points)
+- Selecting a high-bounty project from the proposals to work on (+5 points)
+
+
+
+<hr/>
+</details>
       
-</div>
-</div>
 
-<details><summary><h3>Timelines & Important Dates</h3></summary>
+<details><summary><strong style="color: turquoise; text-transform: uppercase; font-weight=600; font-size: 1.75em; line-height: 1.75em;">Timelines & Important Dates</strong></summary>
 
-- February 6th - Call for participants and projects opens -  <a href="#propose">REGISTER OR PROPOSEHERE</a>
-
+- February 6th - Call for participants and projects opens -  <a href="#propose">REGISTER OR PROPOSE HERE</a>
+- March 1st - Project Ignites Meetup and Project Recruitment <a href="#propose">REGISTER</a>
+- 
 <hr/>
 </details>
       
@@ -96,12 +117,10 @@ Excellent resources have been created over the years, including the OWASP Server
 <hr/>
 </details>
       
-</div>
-</div>
+
 
 <div class="inner">
 			<h2>Big thanks to our sponsors and hosts making the event happen!</h2>
-
               <a href="https://armosec.com" target="_blank"><img
                         src="/assets/images/sponsor-logos/armosec-SQ.png"
                         width="160px"></a>&nbsp;<a
@@ -111,7 +130,15 @@ Excellent resources have been created over the years, including the OWASP Server
                     href="https://permit.io" target="_blank"><img
                         src="/assets/images/sponsor-logos/permitio-SQ.png"
                         width="160px"></a>
+                        <p>&nbsp;</p>
+                        <p>&nbsp;</p>
+
 <ul class="actions" id="propose">
-                    <li><a href="" class="button next">REGISTER</a></li> &nbsp;<li><a href="" class="button special fit">PROPOSE PROJECT</a></li>
+<p>&nbsp;</p>
+                    <li><a href="#" class="button next">REGISTER</a></li>                        
+                     <p>&nbsp;</p>
+<li><a href="https://forms.gle/RZjcdwCHyEey1Zqm6" class="button special fit">PROPOSE PROJECT</a></li>
                 </ul>
 
+</div>
+</div>
