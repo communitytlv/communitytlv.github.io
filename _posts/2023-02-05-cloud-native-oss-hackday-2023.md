@@ -3,7 +3,7 @@ layout: landing
 title: CLOUD NATIVE & OSS HACK DAY TLV | 2023 
 menu_title: Cloud Native & OSS Hack Day TLV 2023
 description: Find more info, guidelines and how to participate in the Cloud Native & OSS TLV Hack Day! 
-cta: <br/><ul class="actions"><li><a href="https://airtable.com/shrzynWEKRMYcXJzo" class="button special fit" target="_blank"><span class="icon alt fa-arrow-right-o"></span> REGISTER NOW</a></li></ul>&nbsp;<ul class="actions"><li><a href="https://airtable.com/shrJn7aoM0eGfdnZj" target="_blank" class="button fit"><span class="icon alt fa-star-o"></span> PROPOSE PROJECT </a></li></ul>
+cta: <br/><ul class="actions"><li><a href="https://airtable.com/shrzynWEKRMYcXJzo" class="button special fit" target="_blank"><span class="icon alt fa-arrow-right-o"></span> REGISTER NOW</a></li></ul>&nbsp;<ul class="actions"><li><a href="https://airtable.com/shrJn7aoM0eGfdnZj" target="_blank" class="button fit"><span class="icon alt fa-edit-o"></span> PROPOSE PROJECT </a></li></ul>
 image: 
 permalink: /cloud-native-oss-hackday-2023
 nav-menu: true
@@ -32,7 +32,7 @@ nav-menu: true
  	<li>Bring back the joy in <span style="color: #ffd966; font-family: monospace;">{code}</span>.</li>
 </ul>
 
- <a href="https://airtable.com/shrzynWEKRMYcXJzo" class="button next scrolly"  target="_blank"><span class="icon alt fa-arrow-right-o"></span> REGISTER</a>&nbsp; &nbsp; &nbsp;<ul class="actions"><li><a href="https://airtable.com/shrJn7aoM0eGfdnZj" target="_blank" class="button fit"><span class="icon alt fa-star-o"></span> PROPOSE TOPIC </a></li></ul>
+ <a href="https://airtable.com/shrzynWEKRMYcXJzo" class="button next scrolly"  target="_blank"><span class="icon alt fa-arrow-right-o"></span> REGISTER</a><br/><br/><ul class="actions"><li><a href="https://airtable.com/shrJn7aoM0eGfdnZj" target="_blank" class="button fit"><span class="icon alt fa-edit-o"></span> PROPOSE TOPIC </a></li></ul>
 
 <hr/>
 
@@ -41,7 +41,7 @@ nav-menu: true
 <details><summary><strong style="color: #ffd966; text-transform: uppercase; font-weight=600; font-size: 1.25em; line-height: 1.5em;">Project Categories</strong></summary>
 
 <ul>
-<li><strong style="color: turquoise; text-transform: uppercase; font-weight=400;"><span class="icon alt fa-plug"></span> A Useful Tool  or Integration for Everyone</strong></li>
+<li><strong style="color: turquoise; text-transform: uppercase; font-weight=400;"><span class="icon alt fa-plug"></span> A Useful Tool or Integration for Everyone</strong></li>
 In our day-to-day workflows we often find ourselves lacking a really simple tool or integration that could simplify our open source or dev work significantly.<br/>
 We encourage you to think about something that is useful on a daily basis, and can optimize work with common cloud native OSS tools.
 
@@ -49,15 +49,11 @@ We encourage you to think about something that is useful on a daily basis, and c
 As a global community of OSS enthusiasts in the cloud native ecosystem, there are users and community members around the globe leveraging its tools and frameworks.<br/>
 We encourage you to think of innovative ways to solve daily OSS & cloud native ecosystem challenges that can benefit everyone - from communication to collaboration, useful examples and improvements and more.
 
-<li><strong style="color: turquoise; text-transform: uppercase; font-weight=400;"><span class="icon alt fa-code"></span> Solve a Universally felt Challenge</strong></li>
-As a global community of OSS enthusiasts in the cloud native ecosystem has users and community members around the globe leveraging its tools and frameworks.<br/>
-We encourage you to think of innovative ways to solve daily OSS & cloud native ecosystem challenges that can benefit everyone - from communication to collaboration, and more.
-
-<li><strong style="color: #ffd966; text-transform: uppercase; font-weight=400;"><span class="icon alt fa-rocket"></span> A Significant Product Enhancement</strong></li>
+<li><strong style="color: #turquoise; text-transform: uppercase; font-weight=400;"><span class="icon alt fa-code"></span> A Significant Product Enhancement</strong></li>
 What’s a hackathon without fun?! Sometimes we just want to play around with gadgets and gizmos, and put something together that can be useful or just for fun.<br/>
 If you have a significant product enhancement that brings direct value to OSS users, build ways to make these cloud native products even better.
 
-<li><strong style="color: turquoise; text-transform: uppercase; font-weight=400;"><span class="icon alt fa-bolt"></span> An Exciting Demonstration of Craft</strong> </li>
+<li><strong style="color: #ffd966; text-transform: uppercase; font-weight=400;"><span class="icon alt fa-bolt"></span> An Exciting Demonstration of Craft</strong> </li>
 Many times we have excellent ideas ways to improve the OSS tooling experience, but don’t necessarily have the time to work on them with our regular workloads, and so they remain in the backlog.<br/>
 You are more than encouraged to build something with any of the suggested OSS projects that does something unique, and is just super cool and nifty.
 </ul>
@@ -65,7 +61,7 @@ You are more than encouraged to build something with any of the suggested OSS pr
 <hr/>
 </details>
         
-<details><summary><strong style="color: turquoise; text-transform: uppercase; font-weight=600; font-size: 1.25em; line-height: 1.5em;">Guidelines & Criteria</strong></summary>
+<details><summary><strong style="color: turquoise; text-transform: uppercase; font-weight=600; font-size: 1.25em; line-height: 1.5em;"><span class="icon alt fa-info-circle"></span> Guidelines & Criteria</strong></summary>
 
 <h4 style="color: turquoise; text-transform: uppercase;">Project Criteria</h4>
 
@@ -82,7 +78,7 @@ You are more than encouraged to build something with any of the suggested OSS pr
 <hr/>
 </details>
 
-<details><summary><strong style="color: #ffd966; text-transform: uppercase; font-weight=600; font-size: 1.25em; line-height: 1.5em;">Bounties & Bonus Points</strong></summary>
+<details><summary><strong style="color: #ffd966; text-transform: uppercase; font-weight=600; font-size: 1.25em; line-height: 1.5em;"><span class="icon alt fa-star"></span> Bounties & Bonus Points</strong></summary>
 
 <h4>You can earn bonus points towards your project with the following advantages</h4>
 
@@ -97,7 +93,7 @@ You are more than encouraged to build something with any of the suggested OSS pr
 </details>
       
 
-<details><summary><strong style="color: turquoise; text-transform: uppercase; font-weight=600; font-size: 1.25em; line-height: 1.5em;">Timelines & Important Dates</strong></summary>
+<details><summary><strong style="color: turquoise; text-transform: uppercase; font-weight=600; font-size: 1.25em; line-height: 1.5em;"><span class="icon alt fa-clock"></span> Timelines & Important Dates</strong></summary>
 
 <ul>
 <li>February 6th - Call for participants and projects opens -  <a href="#propose">REGISTER OR PROPOSE HERE</a></li>
@@ -113,7 +109,7 @@ You are more than encouraged to build something with any of the suggested OSS pr
 
 
 <header class="major">      
-<h1>Prizes & Announcement</h1>
+<h1 style="color: turquoise; text-transform: uppercase;"><span class="icon alt fa-trophy"></span> Prizes & Announcement</h1>
 LOREM IPSUM ADD HERE....
 </header>
 
@@ -121,7 +117,7 @@ LOREM IPSUM ADD HERE....
 
 
 <header class="major">      
-<h1>Event Judges and Mentors</h1>
+<h1 style="color: turquoise; text-transform: uppercase;"><span class="icon alt fa-user-o"></span> Event Judges and Mentors</h1>
 
 [PLACEHOLDER FOR ACTUAL JUDGES AND MENTORS]
 
@@ -164,7 +160,7 @@ LOREM IPSUM ADD HERE....
 
 <hr/>
 
-<div class="inner" id="#sponsors">
+<div class="inner" id="sponsors">
 			<h2>Big thanks to our sponsors and hosts making the event happen!</h2>
               <a href="https://armosec.com" target="_blank"><img
                         src="/assets/images/sponsor-logos/armosec-SQ.png"
