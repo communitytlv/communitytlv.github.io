@@ -49,7 +49,7 @@ We encourage you to think about something that is useful on a daily basis, and c
 As a global community of OSS enthusiasts in the cloud native ecosystem, there are users and community members around the globe leveraging its tools and frameworks.<br/>
 We encourage you to think of innovative ways to solve daily OSS & cloud native ecosystem challenges that can benefit everyone - from communication to collaboration, useful examples and improvements and more.
 
-<li><strong style="color: #turquoise; text-transform: uppercase; font-weight=400;"><span class="icon alt fa-code"></span> A Significant Product Enhancement</strong></li>
+<li><strong style="color: turquoise; text-transform: uppercase; font-weight=400;"><span class="icon alt fa-code"></span> A Significant Product Enhancement</strong></li>
 What’s a hackathon without fun?! Sometimes we just want to play around with gadgets and gizmos, and put something together that can be useful or just for fun.<br/>
 If you have a significant product enhancement that brings direct value to OSS users, build ways to make these cloud native products even better.
 
