@@ -3,7 +3,7 @@ layout: landing
 title: CLOUD NATIVE & OSS HACK DAY TLV | 2023 
 menu_title: Cloud Native & OSS Hack Day TLV 2023
 description: Find more info, guidelines and how to participate in the Cloud Native & OSS TLV Hack Day! 
-cta: <br/><ul class="actions"><li><a href="" class="button special fit" target="_blank"> REGISTER NOW</a></li></ul>&nbsp;<ul class="actions"><li><a href="https://forms.gle/RZjcdwCHyEey1Zqm6" class="button fit"><span class="icon alt fa-star-o"></span> PROPOSE PROJECT </a></li></ul>
+cta: <br/><ul class="actions"><li><a href="" class="button special fit" target="_blank"><span class="icon alt fa-arrow-right-o"></span> REGISTER NOW</a></li></ul>&nbsp;<ul class="actions"><li><a href="https://airtable.com/shrJn7aoM0eGfdnZj" target="_blank" class="button fit"><span class="icon alt fa-star-o"></span> PROPOSE PROJECT </a></li></ul>
 image: 
 permalink: /cloud-native-oss-hackday-2023
 nav-menu: true
@@ -18,7 +18,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1 style="color: turquoise; text-transform: uppercase;"><span class="icon alt fa-lightning"></span>  SAVE THE DATE: [TARGET DATE] <a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=Nm9vdnY0ZXRrczhzODNxcmc2bWFtNnY5ZTggY2xvdWRuYXRpdmVpc3JhZWxAbQ&tmsrc=cloudnativeisrael%40gmail.com" target="_blank"> ADD TO CALENDAR</a></h1> 
+			<h1 style="color: turquoise; text-transform: uppercase;"><span class="icon alt fa-bolt"></span>  SAVE THE DATE: [TARGET DATE] <a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=Nm9vdnY0ZXRrczhzODNxcmc2bWFtNnY5ZTggY2xvdWRuYXRpdmVpc3JhZWxAbQ&tmsrc=cloudnativeisrael%40gmail.com" target="_blank"> ADD TO CALENDAR</a></h1> 
             <p>Join us for the first of its kind <em>distributed hackathon</em> led by our host and sponsor companies who will each be hosting teams at their offices –– with tasty snacks, networking, mentoring and a day filled with OSS fun.<br/></p>
 
 </header>
@@ -29,16 +29,16 @@ nav-menu: true
     <ul>
  	<li>Think out of the box about solving common problems</li>
  	<li>Get creative with Open Source & Cloud Native Dev Tools</li>
- 	<li>Bring back the joy in {code}.</li>
+ 	<li>Bring back the joy in <span style="color: #ffd966; font-family: monospace;">{code}</span>.</li>
 </ul>
 
- <a href="#" class="button next scrolly">REGISTER</a> 
+ <a href="#" class="button next scrolly"><span class="icon alt fa-arrow-right-o"></span> REGISTER</a> 
 		 <br/>
 <p>&nbsp;</p>
-	<ul class="actions"><li><a href="[#](https://forms.gle/RZjcdwCHyEey1Zqm6)" class="button fit"><span class="icon alt fa-star-o"></span> PROPOSE TOPIC </a></li></ul>
+	<ul class="actions"><li><a href="https://airtable.com/shrJn7aoM0eGfdnZj" target="_blank" class="button fit"><span class="icon alt fa-star-o"></span> PROPOSE TOPIC </a></li></ul>
 
     
- <h2 style="color: turquoise; text-transform: uppercase;">IMPORTANT INFO ABOUT THE HACKATHON</h2>
+ <h2 style="color: #ffd966; text-transform: uppercase;">IMPORTANT INFO ABOUT THE HACKATHON</h2>
 
 <details><summary><strong style="color: turquoise; text-transform: uppercase; font-weight=600; font-size: 1.25em; line-height: 1.5em;">Project Categories</strong></summary>
 
@@ -47,19 +47,19 @@ nav-menu: true
 In our day-to-day workflows we often find ourselves lacking a really simple tool or integration that could simplify our open source or dev work significantly.<br/>
 We encourage you to think about something that is useful on a daily basis, and can optimize work with common cloud native OSS tools.
 
-<li><strong style="color: turquoise; text-transform: uppercase; font-weight=600;">Solve a Universally felt Challenge</strong></li>
+<li><strong style="color: #ffd966; text-transform: uppercase; font-weight=600;">Solve a Universally felt Challenge</strong></li>
 As a global community of OSS enthusiasts in the cloud native ecosystem has users and community members around the globe leveraging its tools and frameworks.<br/>
 We encourage you to think of innovative ways to solve daily OSS & cloud native ecosystem challenges that can benefit everyone - from communication to collaboration, and more.
 
-<li> <strong style="color: turquoise; text-transform: uppercase; font-weight=400;">Solve a Universally felt Challenge</strong></li>
+<li><strong style="color: turquoise; text-transform: uppercase; font-weight=400;">Solve a Universally felt Challenge</strong></li>
 As a global community of OSS enthusiasts in the cloud native ecosystem has users and community members around the globe leveraging its tools and frameworks.<br/>
 We encourage you to think of innovative ways to solve daily OSS & cloud native ecosystem challenges that can benefit everyone - from communication to collaboration, and more.
 
-<li> <strong style="color: turquoise; text-transform: uppercase; font-weight=400;">A Significant Product Enhancement</strong></li>
+<li><strong style="color: #ffd966; text-transform: uppercase; font-weight=400;">A Significant Product Enhancement</strong></li>
 What’s a hackathon without fun?! Sometimes we just want to play around with gadgets and gizmos, and put something together that can be useful or just for fun.<br/>
 If you have a significant product enhancement that brings direct value to OSS users, build ways to make these cloud native products even better.
 
-<li> <strong style="color: turquoise; text-transform: uppercase; font-weight=400;">An Exciting Demonstration of Craft</strong> </li>
+<li><strong style="color: turquoise; text-transform: uppercase; font-weight=400;">An Exciting Demonstration of Craft</strong> </li>
 Many times we have excellent ideas ways to improve the OSS tooling experience, but don’t necessarily have the time to work on them with our regular workloads, and so they remain in the backlog.<br/>
 You are more than encouraged to build something with any of the suggested OSS projects that does something unique, and is just super cool and nifty.
 </ul>
@@ -67,7 +67,7 @@ You are more than encouraged to build something with any of the suggested OSS pr
 <hr/>
 </details>
         
-<details><summary><strong style="color: turquoise; text-transform: uppercase; font-weight=600; font-size: 1.25em; line-height: 1.5em;">Guidelines & Criteria</strong></summary>
+<details><summary><strong style="color: #ffd966; text-transform: uppercase; font-weight=600; font-size: 1.25em; line-height: 1.5em;">Guidelines & Criteria</strong></summary>
 
 <h4 style="color: turquoise; text-transform: uppercase;">Project Criteria</h4>
 
@@ -101,17 +101,22 @@ You are more than encouraged to build something with any of the suggested OSS pr
 
 <details><summary><strong style="color: turquoise; text-transform: uppercase; font-weight=600; font-size: 1.25em; line-height: 1.5em;">Timelines & Important Dates</strong></summary>
 
-- February 6th - Call for participants and projects opens -  <a href="#propose">REGISTER OR PROPOSE HERE</a>
-- March 1st - Project Ignites Meetup and Project Recruitment <a href="#propose">REGISTER</a>
-- 
+<ul>
+<li>February 6th - Call for participants and projects opens -  <a href="#propose">REGISTER OR PROPOSE HERE</a></li>
+<li>March 1st - Project Ignites Meetup and Project Recruitment <a href="#">REGISTER</a></li>
+<li>March 13th - HACK DAY!</li>
+<li>March 16th - Final Demos and Happy Hour</li>
+<li>March 23rd - Announce Winners at KCD Tel Aviv!</li>
+</ul>
+
 <hr/>
 </details>
       
-<details><summary><h3>Prizes & Announcement</h3></summary>
-
+<h2>Prizes & Announcement</h2>
+LOREM IPSUM ADD HERE....
 
 <hr/>
-</details>
+
       
 
 
@@ -127,14 +132,28 @@ You are more than encouraged to build something with any of the suggested OSS pr
                         src="/assets/images/sponsor-logos/permitio-SQ.png"
                         width="160px"></a>
                         <p>&nbsp;</p>
-                        <p>&nbsp;</p>
 
 <ul class="actions" id="propose">
-<p>&nbsp;</p>
-                    <li><a href="#" class="button next">REGISTER</a></li>                        
+<li><a href="#" class="button next">REGISTER</a></li>                        
 <br/>
-<li><a href="https://forms.gle/RZjcdwCHyEey1Zqm6" class="button special fit">PROPOSE PROJECT</a></li>
+
+<h4>View Project Proposals and Vote!</h4>
+
+<p>&nbsp;&nbsp;</p>
+ <ul class="actions">
+             <li><a href="https://airtable.com/shr9jpKvR8n92JAcb" class="button special fit" target="_blank">PROJECT PROPOSAL IDEA BOARD</a></li>
+
+           <!--  <li><a href="#" class="button special fit" target="_blank">VOTE FOR PROJECT >> COMING SOON</a></li> -->
+</ul>
+
+
+<li><a href="https://airtable.com/shrJn7aoM0eGfdnZj" target="_blank" class="button special fit">PROPOSE PROJECT</a></li>
                 </ul>
 
+<details><summary><strong style="color: turquoise; text-transform: uppercase; font-weight=600; font-size: 1.25em; line-height: 1.5em;">Project Proposal Form</strong></summary>
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrJn7aoM0eGfdnZj?backgroundColor=yellow" frameborder="0" onmousewheel="" width="100%" height="100%" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
+<hr/>
+</details>
 </div>
 </div>
