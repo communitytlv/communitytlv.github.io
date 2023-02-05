@@ -19,8 +19,8 @@ nav-menu: true
 	<div class="inner">
 		<header class="major">
 			<h1 style="color: turquoise; text-transform: uppercase;"><span class="icon alt fa-bolt"></span> </h1> 
-            <h4>SAVE THE DATE: [TARGET DATE] <a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=Nm9vdnY0ZXRrczhzODNxcmc2bWFtNnY5ZTggY2xvdWRuYXRpdmVpc3JhZWxAbQ&tmsrc=cloudnativeisrael%40gmail.com" target="_blank"> ADD TO CALENDAR</a></h4>
-            <p>Join us for the first of its kind <em>distributed hackathon</em> led by our host and sponsor companies who will each be hosting teams at their offices –– with tasty snacks, networking, mentoring and a day filled with OSS fun.<br/></p>
+            <h4>SAVE THE DATE: [TARGET DATE] <a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=Nm9vdnY0ZXRrczhzODNxcmc2bWFtNnY5ZTggY2xvdWRuYXRpdmVpc3JhZWxAbQ&tmsrc=cloudnativeisrael%40gmail.com" target="_blank"><span class="icon alt fa-calendar-o"></span> ADD TO CALENDAR</a></h4>
+            <p>Join us for the first of its kind <em>distributed hackathon</em> led by our host and <a href="#sponsors">sponsor companies</a> who will each be hosting teams at their offices –– with tasty snacks, networking, mentoring and a day filled with OSS fun.<br/></p>
 </header>
 <hr/>
 
@@ -165,7 +165,7 @@ LOREM IPSUM ADD HERE....
 </details>
 
 
-<div class="inner">
+<div class="inner" id="#sponsors">
 			<h2>Big thanks to our sponsors and hosts making the event happen!</h2>
               <a href="https://armosec.com" target="_blank"><img
                         src="/assets/images/sponsor-logos/armosec-SQ.png"
