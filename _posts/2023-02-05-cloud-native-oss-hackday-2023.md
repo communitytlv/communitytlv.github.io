@@ -128,8 +128,9 @@ LOREM IPSUM ADD HERE....
 
 <hr/>
       
-
-<ul class="actions" id="propose">
+<p id="propose">&nbsp;</p>
+<p>&nbsp;</p>
+<ul class="actions">
 <li><a href="https://airtable.com/shrzynWEKRMYcXJzo" class="button next" target="_blank">REGISTER</a></li>                        
 <br/>
 
@@ -153,14 +154,16 @@ LOREM IPSUM ADD HERE....
                 </ul>
 
 <details><summary><strong style="color: turquoise; text-transform: uppercase; font-weight=600; font-size: 1.25em; line-height: 1.5em;">Project Proposal Form</strong></summary>
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrJn7aoM0eGfdnZj?backgroundColor=yellow" frameborder="0" onmousewheel="" width="100%" height="1200px" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrJn7aoM0eGfdnZj?backgroundColor=yellow" frameborder="0" onmousewheel="" width="100%" height="1400px" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 <hr/>
 </details>
 
 <hr/>
 
-<div class="inner" id="sponsors">
+<p>&nbsp;</p>
+
+<div class="inner">
 			<h2>Big thanks to our sponsors and hosts making the event happen!</h2>
               <a href="https://armosec.com" target="_blank"><img
                         src="/assets/images/sponsor-logos/armosec-SQ.png"
