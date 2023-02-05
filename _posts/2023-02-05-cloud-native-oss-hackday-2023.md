@@ -32,9 +32,7 @@ nav-menu: true
  	<li>Bring back the joy in <span style="color: #ffd966; font-family: monospace;">{code}</span>.</li>
 </ul>
 
- <a href="https://airtable.com/shrzynWEKRMYcXJzo" class="button next scrolly"  target="_blank"><span class="icon alt fa-arrow-right-o"></span> REGISTER</a> 
- <br/>
-<ul class="actions"><li><a href="https://airtable.com/shrJn7aoM0eGfdnZj" target="_blank" class="button fit"><span class="icon alt fa-star-o"></span> PROPOSE TOPIC </a></li></ul>
+ <a href="https://airtable.com/shrzynWEKRMYcXJzo" class="button next scrolly"  target="_blank"><span class="icon alt fa-arrow-right-o"></span> REGISTER</a>&nbsp; &nbsp; &nbsp;<ul class="actions"><li><a href="https://airtable.com/shrJn7aoM0eGfdnZj" target="_blank" class="button fit"><span class="icon alt fa-star-o"></span> PROPOSE TOPIC </a></li></ul>
 
 <hr/>
 
@@ -164,6 +162,7 @@ LOREM IPSUM ADD HERE....
 <hr/>
 </details>
 
+<hr/>
 
 <div class="inner" id="#sponsors">
 			<h2>Big thanks to our sponsors and hosts making the event happen!</h2>
