@@ -3,7 +3,7 @@ layout: landing
 title: CLOUD NATIVE & OSS HACK DAY TLV | 2023 
 menu_title: Cloud Native & OSS Hack Day TLV 2023
 description: Find more info, guidelines and how to participate in the Cloud Native & OSS TLV Hack Day! 
-cta: <br/><ul class="actions"><li><a href="" class="button special fit" target="_blank"><span class="icon alt fa-arrow-right-o"></span> REGISTER NOW</a></li></ul>&nbsp;<ul class="actions"><li><a href="https://airtable.com/shrJn7aoM0eGfdnZj" target="_blank" class="button fit"><span class="icon alt fa-star-o"></span> PROPOSE PROJECT </a></li></ul>
+cta: <br/><ul class="actions"><li><a href="https://airtable.com/shrzynWEKRMYcXJzo" class="button special fit" target="_blank"><span class="icon alt fa-arrow-right-o"></span> REGISTER NOW</a></li></ul>&nbsp;<ul class="actions"><li><a href="https://airtable.com/shrJn7aoM0eGfdnZj" target="_blank" class="button fit"><span class="icon alt fa-star-o"></span> PROPOSE PROJECT </a></li></ul>
 image: 
 permalink: /cloud-native-oss-hackday-2023
 nav-menu: true
@@ -32,15 +32,15 @@ nav-menu: true
  	<li>Bring back the joy in <span style="color: #ffd966; font-family: monospace;">{code}</span>.</li>
 </ul>
 
- <a href="#" class="button next scrolly"><span class="icon alt fa-arrow-right-o"></span> REGISTER</a> 
+ <a href="https://airtable.com/shrzynWEKRMYcXJzo" class="button next scrolly"><span class="icon alt fa-arrow-right-o"></span> REGISTER</a> 
 		 <br/>
 <p>&nbsp;</p>
 	<ul class="actions"><li><a href="https://airtable.com/shrJn7aoM0eGfdnZj" target="_blank" class="button fit"><span class="icon alt fa-star-o"></span> PROPOSE TOPIC </a></li></ul>
 
     
- <h2 style="color: #ffd966; text-transform: uppercase;">IMPORTANT INFO ABOUT THE HACKATHON</h2>
+ <h2 style="color: turquoise; text-transform: uppercase;">IMPORTANT INFO ABOUT THE HACKATHON</h2>
 
-<details><summary><strong style="color: turquoise; text-transform: uppercase; font-weight=600; font-size: 1.25em; line-height: 1.5em;">Project Categories</strong></summary>
+<details><summary><strong style="color: #ffd966; text-transform: uppercase; font-weight=600; font-size: 1.25em; line-height: 1.5em;">Project Categories</strong></summary>
 
 <ul>
 <li><strong style="color: turquoise; text-transform: uppercase; font-weight=400;">A Useful Tool  or Integration for Everyone</strong></li>
@@ -134,7 +134,7 @@ LOREM IPSUM ADD HERE....
                         <p>&nbsp;</p>
 
 <ul class="actions" id="propose">
-<li><a href="#" class="button next">REGISTER</a></li>                        
+<li><a href="https://airtable.com/shrzynWEKRMYcXJzo" class="button next">REGISTER</a></li>                        
 <br/>
 
 <h4>View Project Proposals and Vote!</h4>
@@ -147,11 +147,11 @@ LOREM IPSUM ADD HERE....
 </ul>
 
 
-<li><a href="https://airtable.com/shrJn7aoM0eGfdnZj" target="_blank" class="button special fit">PROPOSE PROJECT</a></li>
+<li><a href="https://airtable.com/shrJn7aoM0eGfdnZj" target="_blank" class="button special fit">PROPOSE A PROJECT</a></li>
                 </ul>
 
 <details><summary><strong style="color: turquoise; text-transform: uppercase; font-weight=600; font-size: 1.25em; line-height: 1.5em;">Project Proposal Form</strong></summary>
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrJn7aoM0eGfdnZj?backgroundColor=yellow" frameborder="0" onmousewheel="" width="100%" height="100%" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrJn7aoM0eGfdnZj?backgroundColor=yellow" frameborder="0" onmousewheel="" width="100%" height="1200px" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 <hr/>
 </details>
