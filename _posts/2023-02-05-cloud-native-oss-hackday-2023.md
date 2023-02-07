@@ -49,12 +49,14 @@ As a global community of OSS enthusiasts in the cloud native ecosystem, there ar
 We encourage you to think of innovative ways to solve daily OSS & cloud native ecosystem challenges that can benefit everyone - from communication to collaboration, useful examples and improvements and more.
 
 <li><strong style="color: turquoise; text-transform: uppercase; font-weight=400;"><span class="icon alt fa-code"></span> A Significant Product Enhancement</strong></li>
+
+Many times we have excellent ideas ways to improve the OSS tooling experience, but don’t necessarily have the time to work on them with our regular workloads, and so they remain in the backlog.<br/>
+You are more than encouraged to build something with any of the suggested OSS projects that does something unique, and is just super cool and nifty.
+
+<li><strong style="color: #ffd966; text-transform: uppercase; font-weight=400;"><span class="icon alt fa-bolt"></span> An Exciting Demonstration of Craft</strong> </li>
 What’s a hackathon without fun?! Sometimes we just want to play around with gadgets and gizmos, and put something together that can be useful or just for fun.<br/>
 If you have a significant product enhancement that brings direct value to OSS users, build ways to make these cloud native products even better.
 
-<li><strong style="color: #ffd966; text-transform: uppercase; font-weight=400;"><span class="icon alt fa-bolt"></span> An Exciting Demonstration of Craft</strong> </li>
-Many times we have excellent ideas ways to improve the OSS tooling experience, but don’t necessarily have the time to work on them with our regular workloads, and so they remain in the backlog.<br/>
-You are more than encouraged to build something with any of the suggested OSS projects that does something unique, and is just super cool and nifty.
 </ul>
 
 <hr/>
@@ -69,6 +71,7 @@ You are more than encouraged to build something with any of the suggested OSS pr
 <li>The project needs to be reproducible & demoable in 5 minutes or less</li>
 <li>Planning & design can start from the moment of kickoff, all coding needs to be done during the two hack days</li>
 <li>The demo needs to be accompanied by a short presentation (as you wish - with or without slides)</li>
+<li>Team size should be between 3-6 participants.</li>
 
 </ul>
 
