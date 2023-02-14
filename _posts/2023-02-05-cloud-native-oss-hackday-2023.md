@@ -107,6 +107,19 @@ If you have a significant product enhancement that brings direct value to OSS us
 
 </details>
 
+<details><summary><strong style="color: turquoise; text-transform: uppercase; font-weight=600; font-size: 1.25em; line-height: 1.5em;"> PARTICIPATING IN THE HACKATHON</strong></summary>
+
+<ol>There are three ways you can choose to participate in the hackathon:
+<li>If you were BORN READY for this moment, and have your own project to suggest - feel free to <a href="#propose"><strong>register to the hackathon</strong></a> along with your team, and then submit your project viat the project proposal form, and select your team members from the list. </li>
+<li>If you would like to participate in the hackathon and DO NOT have a project idea, feel free to register and peruse the project proposals (including the HIGH BOUNTY projects and select a project you would like to participate in.</li>
+<li>If you would like to join the hackathon, and are still waiting to see which projects are interesting, you can peruse the list, join our Ignite Meetup on March 1st, and join the team that had the best project pitch.</li>
+
+<strong>Find all of the relevant resources for registering as a participant, proposing a project, and viewing the proposed projects below.</strong>
+
+</ol>
+
+</details>
+
 <hr/>
 
 
@@ -127,23 +140,12 @@ If you have a significant product enhancement that brings direct value to OSS us
 
 [PLACEHOLDER FOR ACTUAL JUDGES AND MENTORS]
 
-    {% include /2023-hackathon-judges.html %}
+    {% include 2023-hackathon-judges.html %}
 
 
 </header>
 
 <hr/>
-
-<h3 style="color: turquoise; text-transform: uppercase;">PARTICIPATING IN THE HACKATHON</h3>
-
-<ol>There are three ways you can choose to participate in the hackathon:
-<li>If you were BORN READY for this moment, and have your own project to suggest - feel free to register to the hackathon along with your team, and then submit your project viat the project proposal form, and select your team members from the list. </li>
-<li>If you would like to participate in the hackathon and DO NOT have a project idea, feel free to register and peruse the project proposals (including the HIGH BOUNTY projects and select a project you would like to participate in.</li>
-<li>If you would like to join the hackathon, and are still waiting to see which projects are interesting, you can peruse the list, join our Ignite Meetup on March 1st, and join the team that had the best project pitch.</li>
-
-<strong>Find all of the relevant resources for registering as a participant, proposing a project, and viewing the proposed projects below.</strong>
-
-</ol>
 
 <p id="propose">&nbsp;</p>
 <p>&nbsp;</p>
@@ -207,7 +209,7 @@ If you have a significant product enhancement that brings direct value to OSS us
 
 <h2>Events Locations</h2>
 
-    {% include /2023-locations.html %}
+    {% include 2023-locations.html %}
 
 
 </div>
