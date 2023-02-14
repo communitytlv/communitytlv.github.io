@@ -112,7 +112,11 @@ If you have a significant product enhancement that brings direct value to OSS us
 
 <header class="major">      
 <h1 style="color: turquoise; text-transform: uppercase;"><span class="icon alt fa-trophy"></span> Prizes & Announcement</h1>
-LOREM IPSUM ADD HERE....
+
+<h3 style="color: turquoise; text-transform: uppercase;"><span class="icon alt fa-trophy"></span> FIRST PLACE: 1000ILS Gift Card for Each Team Member</h3>
+<h3 style="color: #ffd966; text-transform: uppercase;"><span class="icon alt fa-trophy"></span> SECOND PLACE: 750ILS Gift Card for Each Team Member</h3>
+<h3 style="color: turquoise; text-transform: uppercase;"><span class="icon alt fa-trophy"></span> THIRD PLACE: 500ILS Gift Card for Each Team Member</h3>
+
 </header>
 
 <hr/>
@@ -129,7 +133,18 @@ LOREM IPSUM ADD HERE....
 </header>
 
 <hr/>
-      
+
+<h3 style="color: turquoise; text-transform: uppercase;">PARTICIPATING IN THE HACKATHON</h3>
+
+<ol>There are three ways you can choose to participate in the hackathon:
+<li>If you were BORN READY for this moment, and have your own project to suggest - feel free to register to the hackathon along with your team, and then submit your project viat the project proposal form, and select your team members from the list. </li>
+<li>If you would like to participate in the hackathon and DO NOT have a project idea, feel free to register and peruse the project proposals (including the HIGH BOUNTY projects and select a project you would like to participate in.</li>
+<li>If you would like to join the hackathon, and are still waiting to see which projects are interesting, you can peruse the list, join our Ignite Meetup on March 1st, and join the team that had the best project pitch.</li>
+
+<strong>Find all of the relevant resources for registering as a participant, proposing a project, and viewing the proposed projects below.</strong>
+
+</ol>
+
 <p id="propose">&nbsp;</p>
 <p>&nbsp;</p>
 <ul class="actions">
@@ -175,6 +190,9 @@ LOREM IPSUM ADD HERE....
                         width="160px"></a>&nbsp;<a
                     href="https://permit.io" target="_blank"><img
                         src="/assets/images/sponsor-logos/permitio-SQ.png"
+                        width="160px"></a>&nbsp;<a
+                    href="https://permit.io" target="_blank"><img
+                        src="/assets/images/sponsor-logos/terasky-SQ.png"
                         width="160px"></a>
 
 <hr/>
