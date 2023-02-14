@@ -138,8 +138,6 @@ If you have a significant product enhancement that brings direct value to OSS us
 <header class="major">      
 <h1 style="color: turquoise; text-transform: uppercase;"><span class="icon alt fa-user"></span> Event Judges and Mentors</h1>
 
-[PLACEHOLDER FOR ACTUAL JUDGES AND MENTORS]
-
     {% include 2023-hackathon-judges.html %}
 
 
