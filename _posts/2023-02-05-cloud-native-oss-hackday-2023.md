@@ -85,7 +85,7 @@ If you have a significant product enhancement that brings direct value to OSS us
 <h4>You can earn bonus points towards your project with the following advantages</h4>
 
 <ul>
-<li>Use of any of the following tools / projects in your final project (+2 points for each) - Kubescape, OPAL, ValidKube, Helm Dashboard, Backstage...</li>
+<li>Use of any of the following tools / projects in your final project (+2 points for each) - <a href="https://github.com/kubescape" target="_blank">Kubescape</a>, <a href="https://github.com/permitio/opal" target="_blank">OPAL</a>, <a href="https://github.com/komodorio/validkube" target="_blank">ValidKube</a>, <a href="https://github.com/komodorio/helm-dashboard" target="_blank">Helm Dashboard</a>, <a href="https://github.com/Opster/opensearch-k8s-operator" target="_blank">OpenSearch K8s Operator</a>, or CNCF projects such as Backstage, ArgoCD, and others.</li>
 <li>Diversity - Of people, companies and roles (+2 points)</li>
 <li>Selecting a high-bounty project from the proposals to work on (+5 points)</li>
 <li>A project focused on anything to help the greater good - from climate change to diversity and inclusion, accessibility, or any other socially conscious project. (+5 points)</li>
@@ -193,8 +193,11 @@ If you have a significant product enhancement that brings direct value to OSS us
                     href="https://permit.io" target="_blank"><img
                         src="/assets/images/sponsor-logos/permitio-SQ.png"
                         width="160px"></a>&nbsp;<a
-                    href="https://permit.io" target="_blank"><img
+                    href="https://terasky.com" target="_blank"><img
                         src="/assets/images/sponsor-logos/terasky-SQ.png"
+                        width="160px"></a>&nbsp;<a
+                    href="https://opster.com" target="_blank"><img
+                        src="/assets/images/sponsor-logos/opster-SQ.png"
                         width="160px"></a>
 
 <hr/>
