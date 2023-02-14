@@ -17,7 +17,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1 style="color: turquoise; text-transform: uppercase;"><span class="icon alt fa-anchor"></span> SAVE THE DATE: [TARGET DATE] </h1> 
+			<h1 style="color: turquoise; text-transform: uppercase;"><span class="icon alt fa-anchor"></span> SAVE THE DATE: MARCH 13, 2023 </h1> 
             <h4><a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=Nm9vdnY0ZXRrczhzODNxcmc2bWFtNnY5ZTggY2xvdWRuYXRpdmVpc3JhZWxAbQ&tmsrc=cloudnativeisrael%40gmail.com" target="_blank"><span class="icon alt fa-calendar-o"></span> ADD TO CALENDAR</a></h4>
             <p>Join us for the first of its kind <em>distributed hackathon</em> led by our host and <a href="#sponsors">sponsor companies</a> who will each be hosting teams at their offices –– with tasty snacks, networking, mentoring and a day filled with OSS fun.<br/></p>
 </header>
@@ -127,7 +127,7 @@ If you have a significant product enhancement that brings direct value to OSS us
 
 [PLACEHOLDER FOR ACTUAL JUDGES AND MENTORS]
 
-    {% include /devopsdays/2021/2021-speakers.html %}
+    {% include /2023-hackathon-judges.html %}
 
 
 </header>
@@ -147,6 +147,12 @@ If you have a significant product enhancement that brings direct value to OSS us
 
 <p id="propose">&nbsp;</p>
 <p>&nbsp;</p>
+
+<header class="major">      
+
+<h4>Register as a Participant</h4>
+
+</header>
 <ul class="actions">
 <li><a href="https://airtable.com/shrzynWEKRMYcXJzo" class="button next" target="_blank">REGISTER</a></li>                        
 <br/>
@@ -177,7 +183,7 @@ If you have a significant product enhancement that brings direct value to OSS us
 </details>
 
 <hr/>
-
+<div id="sponsors"></div>
 <p>&nbsp;</p>
 
 <div class="inner">
@@ -196,5 +202,13 @@ If you have a significant product enhancement that brings direct value to OSS us
                         width="160px"></a>
 
 <hr/>
+
+<div id="location"></div>
+
+<h2>Events Locations</h2>
+
+    {% include /2023-locations.html %}
+
+
 </div>
 </div>
