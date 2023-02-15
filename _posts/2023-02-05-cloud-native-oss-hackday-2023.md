@@ -180,7 +180,7 @@ If you have a significant product enhancement that brings direct value to OSS us
 <div id="sponsors"></div>
 <p>&nbsp;</p>
 
-<div class="inner">
+<div class="inner" style="width: 100%; text-align: center;">
 			<h2>Big thanks to our sponsors and hosts making the event happen!</h2>
               <a href="https://armosec.com" target="_blank"><img
                         src="/assets/images/sponsor-logos/armosec-SQ.png"
