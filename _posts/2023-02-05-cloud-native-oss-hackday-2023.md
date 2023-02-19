@@ -107,7 +107,7 @@ If you have a significant product enhancement that brings direct value to OSS us
 
 </details>
 
-<details><summary><strong style="color: turquoise; text-transform: uppercase; font-weight=600; font-size: 1.25em; line-height: 1.5em;"> PARTICIPATING IN THE HACKATHON</strong></summary>
+<details><summary><strong style="color: #ffd966; text-transform: uppercase; font-weight=600; font-size: 1.25em; line-height: 1.5em;"> PARTICIPATING IN THE HACKATHON</strong></summary>
 
 <ol>There are three ways you can choose to participate in the hackathon:
 <li>If you were BORN READY for this moment, and have your own project to suggest - feel free to <a href="#propose"><strong>register to the hackathon</strong></a> along with your team, and then submit your project viat the project proposal form, and select your team members from the list. </li>
