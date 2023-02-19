@@ -28,7 +28,7 @@ nav-menu: true
     <ul>
  	<li>Think out of the box about solving common problems</li>
  	<li>Get creative with Open Source & Cloud Native Dev Tools</li>
- 	<li>Bring back the joy in <span style="color: #ffd966; font-family: monospace;">{code}</span>.</li>
+ 	<li>To celebrate the joy in open source <span style="color: #ffd966; font-family: monospace;">{code}</span>.</li>
 </ul>
 
  <a href="https://airtable.com/shrzynWEKRMYcXJzo" class="button next scrolly"  target="_blank"><span class="icon alt fa-arrow-right-o"></span> REGISTER</a><br/><br/><ul class="actions"><li><a href="https://airtable.com/shrJn7aoM0eGfdnZj" target="_blank" class="button fit"><span class="icon alt fa-pencil-square-o"></span> PROPOSE TOPIC </a></li></ul>
