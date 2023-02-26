@@ -204,6 +204,7 @@ If you have a significant product enhancement that brings direct value to OSS us
 
 <h2>Events Locations</h2>
 
+    {% include 2023-hackathon-locations.html %}
 
 
 </div>
