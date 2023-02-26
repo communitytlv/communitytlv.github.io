@@ -99,7 +99,7 @@ If you have a significant product enhancement that brings direct value to OSS us
 
 <ul>
 <li>February 6th - Call for participants and projects opens -  <a href="#propose">REGISTER OR PROPOSE HERE</a></li>
-<li>March 1st - Project Ignites Meetup and Project Recruitment <a href="https://airtable.com/shrzynWEKRMYcXJzo"  target="_blank">REGISTER</a></li>
+<li>March 5th - Project Ignites Meetup and Project Recruitment <a href="https://airtable.com/shrzynWEKRMYcXJzo"  target="_blank">REGISTER</a></li>
 <li>March 13th - HACK DAY!</li>
 <li>March 16th - Final Demos and Happy Hour</li>
 <li>March 23rd - Announce Winners at KCD Tel Aviv!</li>
@@ -132,7 +132,7 @@ If you have a significant product enhancement that brings direct value to OSS us
 <hr/>
 
 
-<h1 style="color: turquoise; text-transform: uppercase;"><span class="icon alt fa-user"></span> Event Judges and Mentors</h1>
+<!-- Judges Section <h1 style="color: turquoise; text-transform: uppercase;"><span class="icon alt fa-user"></span> Event Judges and Mentors</h1> -->
 
     {% include 2023-hackathon-judges.html %}
 
