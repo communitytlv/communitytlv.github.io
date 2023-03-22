@@ -12,7 +12,7 @@ show_tile: false
 
 <div class="inner">
 
-      {% include /sponsors/devopsdays-2022-logos.html %}
+      {% include /sponsors/devopsdays-2023-logos.html %}
 
 
 
