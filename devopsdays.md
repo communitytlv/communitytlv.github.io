@@ -21,13 +21,11 @@ nav-menu: true
             <p>DevOpsDays Tel-Aviv is back for its <span style="font-weight: 800; color: #d95374;">TENTH ANNIVERSARY EVENT</span> to celebrate our <span style="font-weight: 600; color: #c0d44f;">AWESOME COMMUNITY</span> that will be co-located with both Cloud Native & OSS Day Tel Aviv and Statscraft.</p>
             <p>DevOpsDays Tel Aviv is part of the global <a href="https://devopsdays.org/" target="_blank">devopsdays event series</a>, bringing in participants from the entire global devopsdays community.  To learn more, you can visit our event on the main <a href="https://devopsdays.org/events/2023-tel-aviv/welcome/" target="_blank">devopsdays.org</a> website.</p>
             <p style="text-align: left; ">Join leading industry speakers along with DevOps, SRE, platform, production and operations engineers for two full days of sessions focusing on best practices in modern  engineering - from the infrastructure and operations to the systems and processes. 
-            <p style="text-align: center;"><img src="/assets/images/cloudnative-SQ.png" width="250" style="float: left; padding-right: 20px;"></p>
-
-            <p style="text-align: center; font-weight: 700; color: #d95374;">Join us for a single-track DevOpsDays with dedicated tracks for Cloud Native & OSS Day and Statscraft. </p>
-            DevOpsDays is a <a href="/team" target="_blank">volunteer-led event</a>, by the community for the community, with talks contributed by some of the best from our local community as well as the global DevOps community, with a variety of talks from beginner through advanced levels, so literally anyone can join and enjoy the sessions.</p>
+            <h3 style="text-align: center; font-weight: 700; color: #d95374;">Join us for a single-track DevOpsDays with dedicated tracks for Cloud Native & OSS Day and Statscraft. </h3>
+            <p><img src="/assets/images/cloudnative-SQ.png" width="250" style="float: center; padding-right: 20px;">&nbsp; <img src="/assets/images/statscraft-SQ.png" width="250" style="float: center; padding-right: 20px;"></p>DevOpsDays is a <a href="/team" target="_blank">volunteer-led event</a>, by the community for the community, with talks contributed by some of the best from our local community as well as the global DevOps community, with a variety of talks from beginner through advanced levels, so literally anyone can join and enjoy the sessions.</p>
 
         <br />
-<br/>
+<hr/>
 <a id="sponsor"></a>
 <br/>
 <br>
