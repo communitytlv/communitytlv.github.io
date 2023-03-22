@@ -17,7 +17,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1 style="color: turquoise; text-transform: uppercase;"><span class="icon alt fa-anchor"></span> POSTPONED - STAY TUNED FOR NEW DATES! </h1> 
+			<h1 style="color: turquoise; text-transform: uppercase;"><span class="icon alt fa-anchor"></span> SAVE THE DATE: MAY 22, 2023 </h1> 
             <h4><a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=Nm9vdnY0ZXRrczhzODNxcmc2bWFtNnY5ZTggY2xvdWRuYXRpdmVpc3JhZWxAbQ&tmsrc=cloudnativeisrael%40gmail.com" target="_blank"><span class="icon alt fa-calendar-o"></span> ADD TO CALENDAR</a></h4>
             <p>Join us for the first of its kind <em>distributed hackathon</em> led by our host and <a href="#sponsors">sponsor companies</a> who will each be hosting teams at their offices –– with tasty snacks, networking, mentoring and a day filled with OSS fun.<br/></p>
 </header>
