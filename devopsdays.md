@@ -40,8 +40,8 @@ nav-menu: true
 <br>
 
  <div class="box" style="width: 100%; text-align: left;">
-     <h1 style="text-transform: uppercase; color: yellow; text-align: center;"> CFP IS OPEN</h1>
-    <ul class="actions"><li><a href="https://sessionize.com/devopsdays-tel-aviv-2023/" class="button fit" target="_blank"> SUBMIT A TALK</a></li></ul>
+     <h1 style="text-transform: uppercase; color: #d95374; text-align: center;"> CFP IS OPEN</h1>
+    <ul class="actions" style="text-align: center;"><li><a href="https://sessionize.com/devopsdays-tel-aviv-2023/" class="button fit" target="_blank"> SUBMIT A TALK</a></li></ul>
    <h3 style="text-transform: uppercase; color: turquoise; text-align: center;"> CFP TIMELINES</h3>
     <ul>
     <li>CFP Opens: March 30, 2023</li>
