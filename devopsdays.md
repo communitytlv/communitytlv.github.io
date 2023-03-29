@@ -3,7 +3,7 @@ title: DevOpsDays Tel Aviv 2023 | October 30-31, 2023 | Expo TLV
 menu_title: DevOpsDays TLV 2023
 layout: landing
 description: <strong>October 30-31, 2023 | Expo Tel Aviv</strong>
-cta: <br/><ul class="actions"><li><a href="#videos" class="button special fit" target="_blank"> WATCH VIDEOS</a></li></ul><!--<ul class="actions"><li><a href="" class="button fit" target="_blank"> SUPER EARLY-BIRD TIX</a></li></ul>-->
+cta: <br/><ul class="actions"><li><a href="#videos" class="button special fit" target="_blank"> WATCH VIDEOS</a></li></ul><ul class="actions"><li><a href="#cfp" class="button fit" target="_blank"> CFP IS OPEN!</a></li></ul>
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -35,12 +35,16 @@ nav-menu: true
 
 </div>
 </div>
-
+<a id="cfp"></a>
+<br/>
+<br>
 
  <div class="box" style="width: 100%; text-align: left;">
-    <h1 style="text-transform: uppercase; color: turquoise; text-align: center;"> CFP TIMELINES</h1>
+     <h1 style="text-transform: uppercase; color: yellow; text-align: center;"> CFP IS OPEN</h1>
+    <ul class="actions"><li><a href="https://sessionize.com/devopsdays-tel-aviv-2023/" class="button fit" target="_blank"> SUBMIT A TALK</a></li></ul>
+   <h3 style="text-transform: uppercase; color: turquoise; text-align: center;"> CFP TIMELINES</h3>
     <ul>
-    <li>CFP Opens: March 31, 2023</li>
+    <li>CFP Opens: March 30, 2023</li>
     <li>CFP Closes: May 31, 2023</li>
     <li>Speaker Notifications: Mid-July</li>
     <li>Announce Agenda: Mid-August</li>
