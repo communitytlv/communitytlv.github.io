@@ -18,7 +18,7 @@ permalink: /live
      <div class="6u">
                     <h4> Watch our Live Events</h4> 
                     <div class="box">
-                        <p><span class="image fit" style="text-align: center; position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;"><iframe src="https://www.youtube.com/embed/videoseries?list=PLlhgd2ycH2eUw506cLHM-DXyQ1NmaqlD6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></span></p>
+                        <p><span class="image fit" style="text-align: center; position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;"><iframe src="https://www.youtube.com/embed/mq8pyl9yk34" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></span></p>
                            <!-- <div><h5 style="text-align: center; text-transform: uppercase;"><i class="fa fa-calendar"></i> Find the full agenda <a href="/agenda.html" target="_blank"> here</a>.</h5></div> -->
                     </div>
         </div>
@@ -49,7 +49,7 @@ permalink: /live
 
 <h3 style="text-transform: uppercase; color: turquoise;"><i class="fa fa-calendar"></i> Upcoming Community Events</h3>
         
- {% include /meetups/2022-sept-meetup.html %}
+ {% include /meetups/2023-APR-meetup.html %}
  
  </div>
 
@@ -61,6 +61,15 @@ permalink: /live
 <p></p>
 
 <div class="inner" style="padding: 20 20 20 20;">
+
+<div class="row">
+  <details><summary><strong>SEPTEMBER MEETUP - Q3 Community Blitz Hosted by ZipRecruiter</strong></summary>
+<i class="fa fa-video-camera"></i> <span style="color: turquoise; text-transform: uppercase; font-weight: 800;"><a href="https://youtu.be/tVHrc67UbcU" target="_blank"> &nbsp;&nbsp;Event Recording</a></span><br/> <br/>
+
+  <img src="/assets/images/community-tlv-meetup-SEP22.png" width="75%">
+
+ </details>
+</div>
 
 <div class="row">
   <details><summary><strong>JUNE MEETUP - Q2 Community Blitz Hosted by JFrog</strong></summary>
