@@ -50,7 +50,7 @@ permalink: /live
 <h3 style="text-transform: uppercase; color: turquoise;"><i class="fa fa-calendar"></i> Upcoming Community Events</h3>
         
  {% include /meetups/2023-APR-meetup.html %}
- 
+  <p>&nbsp; &nbsp;</p>
  </div>
 
   <div class="row">
