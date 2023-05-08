@@ -15,8 +15,8 @@ nav-menu: true
 <div class="inner">
     <div class="row">
     <div class="box" style="width: 100%; text-align: center;">
-    <h1 style="text-transform: uppercase; color: turquoise;">DEVOPSDAYS TEL AVIV 10TH ANNIVERSARY EVENT</h1>
-    <h2 style="text-transform: uppercase; color: #8d82c4;">October 30-31, 2023 - at Expo Tel Aviv!</h2>
+    <h1 style="text-transform: uppercase; color: turquoise;">DEVOPSDAYS TEL AVIV <strike>10TH ANNIVERSARY</strike><span style="font-family: 'Eater', cursive; color: #caff37;"> 🧙🏽‍♀️ ENCHANTING</span> EVENT 🧟‍♀️</h1>
+    <h2 style="text-transform: uppercase; color: #e102ff;">October 30-31, 2023 - at Expo Tel Aviv!</h2>
     <p>&nbsp;</p>
             <p>DevOpsDays Tel-Aviv is back for its <span style="font-weight: 800; color: #d95374;">TENTH ANNIVERSARY EVENT</span> to celebrate our <span style="font-weight: 600; color: #c0d44f;">AWESOME COMMUNITY</span> that will be co-located with both Cloud Native & OSS Day Tel Aviv and Statscraft.</p>
             <p>DevOpsDays Tel Aviv is part of the global <a href="https://devopsdays.org/" target="_blank">devopsdays event series</a>, bringing in participants from the entire global devopsdays community.  To learn more, you can visit our event on the main <a href="https://devopsdays.org/events/2023-tel-aviv/welcome/" target="_blank">devopsdays.org</a> website.</p>
@@ -40,7 +40,7 @@ nav-menu: true
 <br>
 
  <div class="box" style="width: 100%; text-align: left;">
-     <h1 style="text-transform: uppercase; color: #d95374; text-align: center;"> CFP IS OPEN</h1>
+     <h1 style="text-transform: uppercase; color: white; text-align: center;"> ⏳ LAST FEW WEEKS TO SUBMIT <span style="font-family: 'Creepster', cursive; color: #ff7100;">A CREEPY</span>, <span style="font-family: 'Butcherman', cursive; color: orangered;">SPOOKY,</span> <span style="font-family: 'Nosifer', cursive; color: red;">GHOULISH</span> CFP! 👻 </h1>
     <ul class="actions" style="text-align: center;"><li><a href="https://sessionize.com/devopsdays-tel-aviv-2023/" class="button fit" target="_blank"> SUBMIT A TALK</a></li></ul>
    <h3 style="text-transform: uppercase; color: turquoise; text-align: left;"> CFP TIMELINES</h3>
     <ul>
