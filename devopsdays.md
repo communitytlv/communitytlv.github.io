@@ -3,7 +3,7 @@ title: DevOpsDays Tel Aviv 2023 | October 30-31, 2023 | Expo TLV
 menu_title: DevOpsDays TLV 2023
 layout: landing
 description: <strong>October 30-31, 2023 | Expo Tel Aviv</strong>
-cta: <br/><ul class="actions"><li><a href="#videos" class="button special fit" target="_blank"> WATCH VIDEOS</a></li></ul><ul class="actions"><li><a href="#cfp" class="button fit" target="_blank"> CFP IS OPEN!</a></li></ul>
+cta: <br/><ul class="actions"><li><a href="#videos" class="button special fit" target="_blank"> WATCH VIDEOS</a></li></ul><ul class="actions"><li><a href="#sponsor" class="button fit" target="_blank"> SPONSOR EVENT!</a></li></ul>
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -40,7 +40,7 @@ nav-menu: true
 <br>
 
  <div class="box" style="width: 100%; text-align: left;">
-     <h1 style="text-transform: uppercase; color: white; text-align: center;"> <span style="font-family: 'Creepster', cursive; color: #ff7100;">CFP</span>, <span style="font-family: 'Butcherman', cursive; color: orangered;"> IS NOW</span> <span style="font-family: 'Nosifer', cursive; color: red;">CLOSED!</span> THANKS FOR ALL THE SPOOKY SUBMISSIONS! 👻 </h1>
+     <h1 style="text-transform: uppercase; color: white; text-align: center;"> <span style="font-family: 'Creepster', cursive; color: #ff7100;">CFP</span><span style="font-family: 'Butcherman', cursive; color: orangered;"> IS NOW</span> <span style="font-family: 'Nosifer', cursive; color: red;">CLOSED!</span> <br/>THANKS FOR ALL THE SPOOKY SUBMISSIONS! 👻 </h1>
 
    <h3 style="text-transform: uppercase; color: turquoise; text-align: left;"> CFP TIMELINES</h3>
     <ul>
