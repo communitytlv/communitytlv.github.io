@@ -40,8 +40,8 @@ nav-menu: true
 <br>
 
  <div class="box" style="width: 100%; text-align: left;">
-     <h1 style="text-transform: uppercase; color: white; text-align: center;"> ⏳ LAST FEW WEEKS TO SUBMIT <span style="font-family: 'Creepster', cursive; color: #ff7100;">A CREEPY</span>, <span style="font-family: 'Butcherman', cursive; color: orangered;">SPOOKY,</span> <span style="font-family: 'Nosifer', cursive; color: red;">GHOULISH</span> CFP! 👻 </h1>
-    <ul class="actions" style="text-align: center;"><li><a href="https://sessionize.com/devopsdays-tel-aviv-2023/" class="button fit" target="_blank"> SUBMIT A TALK</a></li></ul>
+     <h1 style="text-transform: uppercase; color: white; text-align: center;"> <span style="font-family: 'Creepster', cursive; color: #ff7100;">CFP</span>, <span style="font-family: 'Butcherman', cursive; color: orangered;"> IS NOW</span> <span style="font-family: 'Nosifer', cursive; color: red;">CLOSED!</span> THANKS FOR ALL THE SPOOKY SUBMISSIONS! 👻 </h1>
+
    <h3 style="text-transform: uppercase; color: turquoise; text-align: left;"> CFP TIMELINES</h3>
     <ul>
     <li>CFP Opens: March 30, 2023</li>
