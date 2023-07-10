@@ -3,7 +3,7 @@ title: DevOpsDays Tel Aviv 2023 | October 30-31, 2023 | Expo TLV
 menu_title: DevOpsDays TLV 2023
 layout: landing
 description: <strong>October 30-31, 2023 | Expo Tel Aviv</strong>
-cta: <br/><ul class="actions"><li><a href="#videos" class="button special fit" target="_blank"> WATCH VIDEOS</a></li></ul><ul class="actions"><li><a href="#regsiter" class="button fit" target="_blank"> REGISTER</a></li></ul>
+cta: <br/><ul class="actions"><li><a href="#sponsor" class="button special fit" target="_blank"> SPONSOR</a></li></ul><ul class="actions"><li><a href="#register" class="button fit" target="_blank"> REGISTER</a></li></ul>
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -26,6 +26,19 @@ nav-menu: true
 
         <br />
 
+        <a id="sponsor"></a>
+<br/>
+<br>
+    <h2 style="tex-transform: uppercase; color: #c0d44f;"> SPONSOR THE EVENT</h2>
+         <ul class="actions"><li><a href="https://drive.google.com/file/d/10Yglr9iSCQIC1XmaB4nT8sQCU3Dh0k47/view?usp=share_link" target="_blank" class="button fit"> SPONSORSHIP PROSPECTUS</a></li></ul>
+        <ul class="actions"><li><a href="https://forms.gle/zvoeqRtVmegYfUKj8" class="button fit"><span class="icon alt fa-lightbulb-o"></span> REQUEST SPONSORSHIP INFO </a></li></ul>
+
+
+
+<a id="cfp"></a>
+<br/>
+<br>
+
 </div>
 </div>
 <hr/>
@@ -47,19 +60,6 @@ nav-menu: true
 <br/>
 <hr/>
 
-
-<a id="sponsor"></a>
-<br/>
-<br>
-    <h2 style="tex-transform: uppercase; color: #c0d44f;"> SPONSOR THE EVENT</h2>
-         <ul class="actions"><li><a href="https://drive.google.com/file/d/10Yglr9iSCQIC1XmaB4nT8sQCU3Dh0k47/view?usp=share_link" target="_blank" class="button fit"> SPONSORSHIP PROSPECTUS</a></li></ul>
-        <ul class="actions"><li><a href="https://forms.gle/zvoeqRtVmegYfUKj8" class="button fit"><span class="icon alt fa-lightbulb-o"></span> REQUEST SPONSORSHIP INFO </a></li></ul>
-
-
-
-<a id="cfp"></a>
-<br/>
-<br>
 
  <div class="box" style="width: 100%; text-align: left;">
      <h1 style="text-transform: uppercase; color: white; text-align: center;"> <span style="font-family: 'Creepster', cursive; color: #ff7100;">CFP</span><span style="font-family: 'Butcherman', cursive; color: orangered;"> IS NOW</span> <span style="font-family: 'Nosifer', cursive; color: red;">CLOSED!</span> <br/>THANKS FOR ALL THE SPOOKY SUBMISSIONS! 👻 </h1>
