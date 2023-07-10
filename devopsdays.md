@@ -25,13 +25,16 @@ nav-menu: true
             <p><img src="/assets/images/cloudnative-SQ.png" width="250" style="float: center; padding-right: 20px;">&nbsp; <img src="/assets/images/statscraft-SQ.png" width="250" style="float: center; padding-right: 20px;"></p>DevOpsDays is a <a href="/team" target="_blank">volunteer-led event</a>, by the community for the community, with talks contributed by some of the best from our local community as well as the global DevOps community, with a variety of talks from beginner through advanced levels, so literally anyone can join and enjoy the sessions.</p>
 
         <br />
+
+</div>
+</div>
 <hr/>
 
 <a id="register"></a>
 <br/>
 <br>
- <div class="box" style="width: 100%; text-align: center; line-weight: 3px;"">
-     <h1 style="text-transform: uppercase; color: white; text-align: center;"> <span style="font-family: 'Creepster', cursive; color: #ff7100;">EARLY BIRD TICKETS</span><span style="font-family: 'Butcherman', cursive; color: orangered;"> NOW AVAILABLE</span> <span style="font-family: 'Nosifer', cursive; color: red;"> REGISTER TO JOIN US! 👻</span> <br/</h1>
+ <div class="box" style="width: 100%; text-align: center;">
+     <h1 style="text-transform: uppercase; color: white; text-align: center;"> <span style="font-family: 'Creepster', cursive; color: #ff7100;">EARLY BIRD TICKETS</span><span style="font-family: 'Butcherman', cursive; color: orangered;"> NOW AVAILABLE</span> <span style="font-family: 'Nosifer', cursive; color: red;"> REGISTER TO JOIN US! 👻</span></h1>
 
    <ul class="actions"><li><a href="https://app.icount.co.il/m/0a17a" class="button fit"><span class="icon alt fa-star"></span> REGISTER <span class="icon alt fa-star"></span></a></li></ul>
   
@@ -52,8 +55,8 @@ nav-menu: true
          <ul class="actions"><li><a href="https://drive.google.com/file/d/10Yglr9iSCQIC1XmaB4nT8sQCU3Dh0k47/view?usp=share_link" target="_blank" class="button fit"> SPONSORSHIP PROSPECTUS</a></li></ul>
         <ul class="actions"><li><a href="https://forms.gle/zvoeqRtVmegYfUKj8" class="button fit"><span class="icon alt fa-lightbulb-o"></span> REQUEST SPONSORSHIP INFO </a></li></ul>
 
-</div>
-</div>
+
+
 <a id="cfp"></a>
 <br/>
 <br>
