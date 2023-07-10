@@ -52,8 +52,7 @@ nav-menu: true
    <ul class="actions"><li><a href="https://app.icount.co.il/m/0a17a/c82642p21u64ac1b12f?lng=en" class="button fit"><span style="font-family: 'Nosifer', cursive; color: orangered;">  REGISTER </span></a></li></ul>
   
 <br/>
-     <h3>PLEASE NOTE THAT YOU WILL BE REDIRECTED TO REGISTER VIA A SEPARATE FORM AFTER PAYMENT.</h3>
-    <h4>PLEASE NOTE THAT YOU WILL BE REDIRECTED TO REGISTER VIA A SEPARATE FORM AFTER PAYMENT.</h4>
+    <h4>NOTE THAT YOU WILL BE REDIRECTED TO REGISTER YOUR TICKETS THROUGH A SEPARATE FORM (lu.ma) AFTER PAYMENT. PLEASE MAKE SURE TO COMPLETE THE ENTIRE REGISTRATION PROCESS.</h4>
 
 </div>
 
