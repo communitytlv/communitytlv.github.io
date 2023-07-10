@@ -34,9 +34,9 @@ nav-menu: true
 <br/>
 <br>
  <div class="box" style="width: 100%; text-align: center;">
-     <h1 style="text-transform: uppercase; color: white; text-align: center;"> <span style="font-family: 'Creepster', cursive; color: #ff7100;">EARLY BIRD TICKETS</span><span style="font-family: 'Butcherman', cursive; color: orangered;"> NOW AVAILABLE</span> <span style="font-family: 'Nosifer', cursive; color: red;"> REGISTER TO JOIN US! 👻</span></h1>
+     <h1 style="text-transform: uppercase; color: white; text-align: center;"> <span style="font-family: 'Creepster', cursive; color: #ff7100;">EARLY BIRD TICKETS NOW AVAILABLE</span> <span style="font-family: 'Nosifer', cursive; color: red;"> REGISTER TO JOIN US! 👻</span></h1>
 
-   <ul class="actions"><li><a href="https://app.icount.co.il/m/0a17a" class="button fit"><span class="icon alt fa-star"></span> REGISTER <span class="icon alt fa-star"></span></a></li></ul>
+   <ul class="actions"><li><a href="https://app.icount.co.il/m/0a17a" class="button fit"><span style="font-family: 'Butcherman', cursive; color: orangered;">  REGISTER </span></a></li></ul>
   
 <br/>
      <h3>PLEASE NOTE THAT YOU WILL BE REDIRECTED TO REGISTER VIA A SEPARATE FORM AFTER PAYMENT.</h3>
