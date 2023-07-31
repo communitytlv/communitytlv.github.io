@@ -74,7 +74,7 @@ nav-menu: true
      <p>Like every year, we'd like to request the you have patience during CFP review, as it is very difficult locking down an agenda. If you submitted a talk, we assure you, <strong>you will receive speaker feedback</strong>, as we very much appreciate the time and effort you took to submit.</p>
 </div>
 
-    {% include /devopsdays/2022/2022-speakers.html %}
+    {% include /devopsdays/2023/2023-top-speakers.html %}
     {% include /sponsors/devopsdays-2023-logos.html %}
 <br/>
 <hr/>
