@@ -3,7 +3,7 @@ title: DevOpsDays Tel Aviv 2023 | October 30-31, 2023 | Expo TLV
 menu_title: DevOpsDays TLV 2023
 layout: landing
 description: <strong>October 30-31, 2023 | Expo Tel Aviv</strong>
-cta: <br/><ul class="actions"><li><a href="#sponsor" class="button special fit" target="_blank"> SPONSOR</a></li></ul><ul class="actions"><li><a href="#register" class="button fit" target="_blank"> REGISTER</a></li></ul>
+cta: <br/><ul class="actions"><li><a href="/devopsday/agenda-2023" class="button special fit" target="_blank"> PROGRAM</a></li></ul><ul class="actions"><li><a href="#register" class="button fit" target="_blank"> REGISTER</a></li></ul>
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -58,21 +58,6 @@ nav-menu: true
 
 <br/>
 <hr/>
-
-
- <div class="box" style="width: 100%; text-align: left;">
-     <h1 style="text-transform: uppercase; color: white; text-align: center;"> <span style="font-family: 'Creepster', cursive; color: #ff7100;">CFP</span><span style="font-family: 'Butcherman', cursive; color: orangered;"> IS NOW</span> <span style="font-family: 'Nosifer', cursive; color: red;">CLOSED!</span> <br/>THANKS FOR ALL THE SPOOKY SUBMISSIONS! 👻 </h1>
-
-   <h3 style="text-transform: uppercase; color: turquoise; text-align: left;"> CFP TIMELINES</h3>
-    <ul>
-    <li>CFP Opens: March 30, 2023</li>
-    <li>CFP Closes: May 31, 2023</li>
-    <li>Speaker Notifications: Mid-July</li>
-    <li>Announce Agenda: Mid-August</li>
-    </ul>
-<br/>
-     <p>Like every year, we'd like to request the you have patience during CFP review, as it is very difficult locking down an agenda. If you submitted a talk, we assure you, <strong>you will receive speaker feedback</strong>, as we very much appreciate the time and effort you took to submit.</p>
-</div>
 
     {% include /devopsdays/2023/2023-top-speakers.html %}
     {% include /sponsors/devopsdays-2023-logos.html %}
