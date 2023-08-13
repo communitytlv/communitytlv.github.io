@@ -59,6 +59,9 @@ nav-menu: true
 <br/>
 <hr/>
 
+<a id="speakers"></a>
+
+
     {% include /devopsdays/2023/2023-top-speakers.html %}
     {% include /sponsors/devopsdays-2023-logos.html %}
 <br/>
