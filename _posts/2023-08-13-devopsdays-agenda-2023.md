@@ -30,7 +30,6 @@ nav-menu: true
 <script type="text/javascript" src="https://sessionize.com/api/v2/dhotxgef/view/GridSmart"></script>       
       
 </div>
-</div>
 
 <div class="inner">
 			<h2>We told you it was going to be great...so what are you waiting for?! Join us!</h2>
