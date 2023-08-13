@@ -19,7 +19,7 @@ nav-menu: true
 	<div class="inner">
 		<header class="major">
 			<h1>Agenda</h1> 
-         <a href="/devopsdays/speakers-2022" class="button next scrolly">CHECK OUT OUR SPEAKERS</a> 
+         <a href="/devopsdays/speakers-2023" class="button next scrolly">CHECK OUT OUR SPEAKERS</a> 
 		 <br/>
 		<p>&nbsp;</p>
 		 <ul class="actions"><li><a href="/devopsdays" class="button fit"><span class="icon alt fa-home"></span> DEVOPSDAYS HOME </a></li></ul>
