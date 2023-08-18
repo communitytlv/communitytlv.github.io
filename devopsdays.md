@@ -2,7 +2,7 @@
 title: DevOpsDays Tel Aviv 2023 | October 29-30, 2023 | Expo TLV
 menu_title: DevOpsDays TLV 2023
 layout: landing
-description: <strong>October 30-31, 2023 | Expo Tel Aviv</strong>
+description: <strong>October 29-30, 2023 | Expo Tel Aviv</strong>
 cta: <br/><ul class="actions"><li><a href="/devopsdays/agenda-2023" class="button special fit" target="_blank"> PROGRAM</a></li></ul><ul class="actions"><li><a href="#register" class="button fit" target="_blank"> REGISTER</a></li></ul>
 image: assets/images/pic07.jpg
 nav-menu: true
