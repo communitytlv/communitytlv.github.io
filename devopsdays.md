@@ -30,10 +30,7 @@ nav-menu: true
 <br/>
 <br>
     <h2 style="tex-transform: uppercase; color: #c0d44f;"> SPONSOR THE EVENT</h2>
-         <ul class="actions"><li><a href="https://drive.google.com/file/d/10Yglr9iSCQIC1XmaB4nT8sQCU3Dh0k47/view?usp=share_link" target="_blank" class="button fit"> SPONSORSHIP PROSPECTUS</a></li></ul>
-        <ul class="actions"><li><a href="https://forms.gle/zvoeqRtVmegYfUKj8" class="button fit"><span class="icon alt fa-lightbulb-o"></span> REQUEST SPONSORSHIP INFO </a></li></ul>
-
-
+    <h2 style="tex-transform: uppercase; color: #c0d44f;"> REQUEST SPONSORSHIP INFO FOR 2024 VIA DEVOPSDAYSTLV@GMAIL.COM </h2>
 
 <a id="cfp"></a>
 <br/>
