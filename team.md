@@ -95,11 +95,6 @@ nav-menu: true
 	        <!-- Break -->
     
     <div class="row 25% uniform">
-
-		<div class="3u"><span class="image fit"><img src="{% link assets/images/robert.jpg %}" alt="" /></span><ul class="icons">ROBERT BARRON | IBM <br/><li><a href="https://twitter.com/flyingbarron" target="_blank"  class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/flyingbarron/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/flyingbarron" target="_blank" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>	
-
-		
-
 		
     </div>
 	 
