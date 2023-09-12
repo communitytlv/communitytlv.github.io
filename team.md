@@ -87,7 +87,8 @@ nav-menu: true
 
 		<div class="3u"><span class="image fit"><img src="{% link assets/images/or-cohen.png %}" alt="" /></span><ul class="icons">OR COHEN | MELIO PAYMENTS<br/><li><a href="https://twitter.com/lightpriest" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/lightpriest/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/lightpriest" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
 
-		<div class="3u$"><span class="image fit"><img src="{% link assets/images/julia.jpg %}" alt="" /></span><ul class="icons">JULIA VOLVOVSKY | SECURITHINGS <br/><li><a href="https://twitter.com/JuliaVolvo" target="_blank"  class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/julia-shub-72418842/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/Juliavol" target="_blank" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>	
+
+		<div class="3u"><span class="image fit"><img src="{% link assets/images/julia.png %}" alt="" /></span><ul class="icons">JULIA VOLVOVSKY | SECURITHINGS <br/><li><a href="https://twitter.com/JuliaVolvo" target="_blank"  class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/julia-shub-72418842/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/Juliavol" target="_blank" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>	
 		
     </div>
 
