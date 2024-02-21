@@ -2,9 +2,10 @@
 .sass-cache/
 .jekyll-metadata
 .jekyll-cache
-.idea/*
+.idea
 *.xml
 _posts/2015-01-01-sandbox.md
 .DS_Store
 assets/.DS_Store
 assets/images/.DS_Store
+_site
