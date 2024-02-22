@@ -100,6 +100,93 @@ nav-menu: true
 	 
 
 </div>
+<br>
+
+<h2 id="elements">EMERITUS MEMBERS</h2>
+<div class="row 200%"></div>
+<div class="12u 12u$(small)"></div>
+
+<div class="box alt">
+	<div class="row uniform" style="display: flex; flex-wrap: wrap">
+
+        <!-- Person start -->
+        <div class="3u" style="flex: 0 1 20%;">
+            <span class="image"><img src="{% link assets/images/shahar_kedar.jpg %}" alt="" /></span>
+            <span >SHAHAR KEDAR | RISEUP</span>
+            <ul class="icons">
+                <li>
+                    <a href="https://twitter.com/shahar_kedar" target="_blank" target="_blank" class="icon fa-twitter">
+                        <span class="label"></span>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://www.linkedin.com/in/shaharke/" target="_blank" class="icon fa-linkedin">
+                    <span class="label"></span></a>
+                </li>
+                <li>
+                    <a href="https://github.com/shaharke" target="_blank" target="_blank" class="icon fa-github">
+                    <span class="label"></span></a>
+                </li>
+            </ul>
+        </div>
+        <!-- Person end -->
+
+        <!-- Person start -->
+        <div class="3u" style="flex: 0 1 20%;">
+            <span class="image"><img src="{% link assets/images/elena.jpg %}" alt="" /></span>
+            <span >ELENA LEVI | APPSFLYER</span>
+            <ul class="icons">
+                <li>
+                    <a href="https://x.com/elenalevii" target="_blank" target="_blank" class="icon fa-twitter">
+                        <span class="label"></span>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://www.linkedin.com/in/elena-levi-data/" target="_blank" class="icon fa-linkedin">
+                    <span class="label"></span></a>
+                </li>
+            </ul>
+        </div>
+        <!-- Person end -->
+
+        <!-- Person start -->
+        <div class="3u" style="flex: 0 1 20%;">
+            <span class="image"><img src="{% link assets/images/dan.jpg %}" alt="" /></span>
+            <span >DAN YELOVITCH | SENTINEL ONE</span> 
+            <ul class="icons">
+                <li>
+                    <a href="https://www.linkedin.com/in/dan-yelovitch/" target="_blank" class="icon fa-linkedin">
+                    <span class="label"></span></a>
+                </li>
+            </ul>
+        </div>
+        <!-- Person end -->
+
+        <!-- Person start -->
+        <div class="3u" style="flex: 0 1 20%;">
+            <span class="image"><img src="{% link assets/images/avishai.jpg %}" alt="" /></span>
+            <span>AVISHAI ISH-SHALOM</span>
+            <ul class="icons">
+                <li>
+                    <a href="https://x.com/nukemberg" target="_blank" target="_blank" class="icon fa-twitter">
+                        <span class="label"></span>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://www.linkedin.com/in/nukemberg/" target="_blank" class="icon fa-linkedin">
+                    <span class="label"></span></a>
+                </li>
+                <li>
+                    <a href="https://github.com/nukemberg" target="_blank" target="_blank" class="icon fa-github">
+                    <span class="label"></span></a>
+                </li>
+            </ul>
+        </div>
+        <!-- Person end -->
+
+    </div>
+</div>
+
 </div>
 
 </div>
