@@ -69,11 +69,12 @@ nav-menu: true
 
 		<div class="3u"><span class="image fit"><img src="{% link assets/images/tal.jpg %}" alt="" /></span><ul class="icons">TAL KIMHI | BIG PANDA <br/><li><a href="https://twitter.com/talkimhi" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/talkimhi/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/talkimhi" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
 
-		<div class="3u"><span class="image fit"><img src="{% link assets/images/eti.png %}" alt="" /></span><ul class="icons"> ETI DAHAN NOKED | WILCO <br/><li><a href="https://twitter.com/etinoked" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/eti-dahan-noked/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/etinoked" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>	 
+		<div class="3u"><span class="image fit"><img src="{% link assets/images/or-cohen.jpeg %}" alt="" /></span><ul class="icons">OR COHEN | 
+MELIO PAYMENTS<br/><li><a href="https://twitter.com/lightpriest" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/lightpriest/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/lightpriest" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>	 
 
-        <div class="3u"><span class="image fit"><img src="{% link assets/images/michael-arenzon.jpeg %}" alt="" /></span><ul class="icons">MICHAEL ARENZON | CONSULTANT <br/><li><a href="https://www.linkedin.com/in/arenzon/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/marenzo" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>	
-		
         <div class="3u"><span class="image fit"><img src="{% link assets/images/nati.jpg %}" alt="" /></span><ul class="icons"> NATI COHEN | AWS <br/><li><a href="https://twitter.com/nocoot" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/natict/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/natict" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
+
+        <div class="3u"><span class="image fit"><img src="{% link assets/images/julia.png %}" alt="" /></span><ul class="icons">JULIA VOLVOVSKY | SECURITHINGS <br/><li><a href="https://twitter.com/JuliaVolvo" target="_blank"  class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/julia-shub-72418842/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/Juliavol" target="_blank" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
 
     </div>
 
@@ -85,11 +86,6 @@ nav-menu: true
 
         <div class="3u"><span class="image fit"><img src="{% link assets/images/john.png %}" alt="" /></span><ul class="icons">JONATHANN ZENOU | WINDWARD <br/><li><a href="https://twitter.com/zenoujohn" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/jonathann-zenou-7b384727/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/ johnyzed" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>		
 
-		<div class="3u"><span class="image fit"><img src="{% link assets/images/or-cohen.png %}" alt="" /></span><ul class="icons">OR COHEN | MELIO PAYMENTS<br/><li><a href="https://twitter.com/lightpriest" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/lightpriest/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/lightpriest" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
-
-
-		<div class="3u"><span class="image fit"><img src="{% link assets/images/julia.png %}" alt="" /></span><ul class="icons">JULIA VOLVOVSKY | SECURITHINGS <br/><li><a href="https://twitter.com/JuliaVolvo" target="_blank"  class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/julia-shub-72418842/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/Juliavol" target="_blank" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>	
-		
     </div>
 
 	        <!-- Break -->
@@ -184,6 +180,45 @@ nav-menu: true
         </div>
         <!-- Person end -->
 
+
+        <!-- Person start -->
+        <div class="3u" style="flex: 0 1 20%;">
+            <span class="image"><img src="{% link assets/images/eti.png %}" alt="" /></span>
+            <span>ETI DAHAN NOKED | WILCO</span>
+            <ul class="icons">
+                <li>
+                    <a href="https://twitter.com/etinoked" target="_blank" target="_blank" class="icon fa-twitter">
+                        <span class="label"></span>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://www.linkedin.com/in/eti-dahan-noked/" target="_blank" class="icon fa-linkedin">
+                    <span class="label"></span></a>
+                </li>
+                <li>
+                    <a href="https://github.com/etinoked" target="_blank" target="_blank" class="icon fa-github">
+                    <span class="label"></span></a>
+                </li>
+            </ul>
+        </div>
+        <!-- Person end -->
+
+        <!-- Person start -->
+        <div class="3u" style="flex: 0 1 20%;">
+            <span class="image"><img src="{% link assets/images/michael-arenzon.jpeg %}" alt="" /></span>
+            <span>MICHAEL ARENZON | CONSULTANT</span>
+            <ul class="icons">
+                <li>
+                    <a href="https://www.linkedin.com/in/arenzon/" target="_blank" class="icon fa-linkedin">
+                    <span class="label"></span></a>
+                </li>
+                <li>
+                    <a href="https://github.com/marenzo" target="_blank" target="_blank" class="icon fa-github">
+                    <span class="label"></span></a>
+                </li>
+            </ul>
+        </div>
+        <!-- Person end -->
     </div>
 </div>
 
