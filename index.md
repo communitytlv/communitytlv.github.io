@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Welcome to the TLV Dev Community'
+landing-title: 'Welcome to the TLVCommunity'
 description: null
 image: null
 author: null
