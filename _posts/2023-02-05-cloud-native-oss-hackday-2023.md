@@ -133,7 +133,7 @@ If you have a significant product enhancement that brings direct value to OSS us
 
 <!-- Judges Section <h1 style="color: turquoise; text-transform: uppercase;"><span class="icon alt fa-user"></span> Event Judges and Mentors</h1> -->
 
-    {% include 2023-hackathon-judges.html %}
+    {% include previous-events/2023-hackathon-judges.html %}
 
 
 <hr/>
@@ -203,7 +203,7 @@ If you have a significant product enhancement that brings direct value to OSS us
 
 <h2>Events Locations</h2>
 
-    {% include 2023-hackathon-locations.html %}
+    {% include previous-events/2023-hackathon-locations.html %}
 
 
 </div>
