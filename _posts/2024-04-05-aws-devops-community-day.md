@@ -37,6 +37,8 @@ nav-menu: true
         target="_blank"><img src="/assets/images/sponsor-logos/pointfive-logo-SQ.png" width="150px"></a>&nbsp;&nbsp;<a
         href="https://jit.io"
         target="_blank"><img src="/assets/images/sponsor-logos/jit-SQ.png" width="150px"></a>&nbsp;&nbsp;<a
+        href="https://www.battery.com/"
+        target="_blank"><img src="/assets/images/sponsor-logos/battery-SQ.png" width="150px"></a>&nbsp;&nbsp;<a
         href="https://rtfmplease.dev"
         target="_blank"><img src="/assets/images/sponsor-logos/rtfm-SQ.png" width="150px"></a>
 
