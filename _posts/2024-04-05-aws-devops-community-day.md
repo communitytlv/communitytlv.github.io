@@ -3,7 +3,7 @@ layout: landing
 title: AWS & DevOps TLVCommunity Fest <br/> Byte-Sized DevOps for Startups 2024 
 menu_title: AWS Experience Floor28 | May 29, 2024
 description: <h3>AWS Experience Floor28 | May 29, 2024</h3>
-cta: <br/><ul class="actions"><li><a href="https://lu.ma/devops-community-day-2024" class="button special fit" target="_blank"> REGISTER NOW</a></li></ul>
+cta: <br/><ul class="actions"><li><a href="https://rtfmp.lease/AWS-DevOps-2024Event-Videos" class="button special fit" target="_blank"> WATCH VIDEOS</a></li><li><a href="https://rtfmp.lease/AWS-DevOps-2024Event-Pics" class="button fit" target="_blank"> VIEW PICS</a></li></ul>
 image: assets/images/pic07.jpg
 permalink: /aws-devops-community-day-2024
 nav-menu: true
