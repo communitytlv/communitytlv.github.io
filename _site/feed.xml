@@ -1,4 +1,101 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-04-15T22:10:36+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">TLVCommunity</title><subtitle>The place to get info about the leading dev communities in TLV.</subtitle><entry><title type="html">AWS &amp;amp; DevOps TLVCommunity Fest Byte-Sized DevOps for Startups 2024</title><link href="http://localhost:4000/aws-devops-community-day-2024" rel="alternate" type="text/html" title="AWS &amp;amp; DevOps TLVCommunity Fest Byte-Sized DevOps for Startups 2024" /><published>2024-04-05T00:00:00+03:00</published><updated>2024-04-05T00:00:00+03:00</updated><id>http://localhost:4000/aws-devops-community-day</id><content type="html" xml:base="http://localhost:4000/aws-devops-community-day-2024">&lt;!-- Main --&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4001/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4001/" rel="alternate" type="text/html" /><updated>2024-08-25T15:21:57+03:00</updated><id>http://localhost:4001/feed.xml</id><title type="html">TLVCommunity</title><subtitle>The place to get info about the leading dev communities in TLV.</subtitle><entry><title type="html">Grove Ventures + TLVCommunity + AWS for Startups = Happy Hour at AWS Re:Invent 2024</title><link href="http://localhost:4001/tlvcommunity-reinvent2024" rel="alternate" type="text/html" title="Grove Ventures + TLVCommunity + AWS for Startups = Happy Hour at AWS Re:Invent 2024" /><published>2024-08-20T00:00:00+03:00</published><updated>2024-08-20T00:00:00+03:00</updated><id>http://localhost:4001/tlvcommunity-reinvent2024</id><content type="html" xml:base="http://localhost:4001/tlvcommunity-reinvent2024">&lt;!-- Main --&gt;
+&lt;div id=&quot;main&quot; class=&quot;alt&quot;&gt;
+
+&lt;!-- One --&gt;
+&lt;section id=&quot;one&quot;&gt;
+	&lt;div class=&quot;inner&quot;&gt;
+
+
+ &lt;div class=&quot;box&quot; style=&quot;text-align: center;&quot;&gt;
+
+&lt;img src=&quot;/assets/images/reinvent-tlvcommunity2.png&quot; /&gt;	
+
+&lt;br /&gt;
+&lt;br /&gt;
+
+&lt;p&gt;Join us at the best cloud event of the year to &lt;strong style=&quot;text-transform: uppercase; color: #34b4dd&quot;&gt;celebrate cutting-edge Israeli technology&lt;/strong&gt; through an exclusive event, with distinguished AWS executives, speakers, investors, founders, and AWS practitioners.&lt;/p&gt;
+
+&lt;p&gt;
+Let’s take a moment, &lt;strong style=&quot;text-transform: uppercase; color: #34b4dd&quot;&gt;to take pride in and showcase &lt;/strong&gt; the innovation built in our very own TLVCommunity, learn why &lt;em&gt;NOW&lt;/em&gt; is a fantastic time to invest in and choose Israeli technology, as well as hear exciting stories of how Israeli technology is powering advancements and new frontiers around the globe.
+&lt;/p&gt;
+
+&lt;strong&gt;PARTICIPATION IS BY INVITATION ONLY.&lt;/strong&gt;
+&lt;hr /&gt;
+
+&lt;h3 style=&quot;text-transform: uppercase; color: #34b4dd&quot;&gt;SPECIAL GUESTS AND SPEAKERS INCLUDE&lt;/h3&gt;
+
+
+       &lt;div class=&quot;row 20% uniform&quot;&gt;
+           &lt;div class=&quot;2u&quot;&gt;
+           &lt;span class=&quot;image fit&quot;&gt;&lt;img src=&quot;/assets/images/speakers/lotan.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
+           &lt;ul class=&quot;icons&quot;&gt;LOTAN LEVKOWITZ, GROVE VC&lt;/ul&gt;&lt;/div&gt;
+   
+           &lt;div class=&quot;2u&quot;&gt;
+           &lt;span class=&quot;image fit&quot;&gt;&lt;img src=&quot;/assets/images/speakers/boaz.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
+           &lt;ul class=&quot;icons&quot;&gt;BOAZ ZINIMAN, HEAD OF DEVELOPER RELATIONS, EMEA&lt;/ul&gt;&lt;/div&gt;
+   
+           &lt;div class=&quot;2u&quot;&gt;
+           &lt;span class=&quot;image fit&quot;&gt;&lt;img src=&quot;/assets/images/speakers/corey.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
+           &lt;ul class=&quot;icons&quot;&gt;COREY QUINN | THE DUCKBILL GROUP &lt;/ul&gt;&lt;/div&gt;
+   
+          &lt;div class=&quot;2u&quot;&gt;
+          &lt;span class=&quot;image fit&quot;&gt;&lt;img src=&quot;/assets/images/speakers/charity.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
+          &lt;ul class=&quot;icons&quot;&gt;CHARITY MAJORS | HONEYCOMB.IO &lt;/ul&gt;&lt;/div&gt;
+   
+          &lt;div class=&quot;2u&quot;&gt;
+          &lt;span class=&quot;image fit&quot;&gt;&lt;img src=&quot;/assets/images/speakers/benr.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
+          &lt;ul class=&quot;icons&quot;&gt;BEN ROCKWOOD | EQUINIX &lt;/ul&gt;&lt;/div&gt;
+
+          &lt;div class=&quot;2u&quot;&gt;
+           &lt;span class=&quot;image fit&quot;&gt;&lt;img src=&quot;/assets/images/speakers/gwen.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
+           &lt;ul class=&quot;icons&quot;&gt;GWEN SHAPIRA | CONFLUENT &lt;/ul&gt;&lt;/div&gt;
+   
+           
+        &lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt; A Huge Thanks to Our Sponsors Who Make Our Events Possible &lt;/h2&gt;
+ &lt;!--&lt;a href=&quot;https://wing.cloud&quot;
+        target=&quot;_blank&quot;&gt;&lt;img src=&quot;/assets/images/sponsor-logos/wing-2-logo-SQ.png&quot;
+             width=&quot;150px&quot;&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;a
+        href=&quot;https://firefly.ai&quot;
+        target=&quot;_blank&quot;&gt;&lt;img src=&quot;/assets/images/sponsor-logos/firefly-logo-SQ.png&quot; width=&quot;150px&quot;&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;a
+        href=&quot;https://raven.io&quot;
+        target=&quot;_blank&quot;&gt;&lt;img src=&quot;/assets/images/sponsor-logos/raven-logo-SQ.png&quot; width=&quot;150px&quot;&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;a
+        href=&quot;https://aerospike.com&quot;
+        target=&quot;_blank&quot;&gt;&lt;img src=&quot;/assets/images/sponsor-logos/aerospike-SQ.png&quot; width=&quot;150px&quot;&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;a
+        href=&quot;https://pointfive.co&quot;
+        target=&quot;_blank&quot;&gt;&lt;img src=&quot;/assets/images/sponsor-logos/pointfive-logo-SQ.png&quot; width=&quot;150px&quot;&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;a
+        href=&quot;https://jit.io&quot;
+        target=&quot;_blank&quot;&gt;&lt;img src=&quot;/assets/images/sponsor-logos/jit-SQ.png&quot; width=&quot;150px&quot;&gt;&lt;/a&gt;--&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;https://www.grovevc.com/&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/assets/images/sponsor-logos/grove-SQ.png&quot; width=&quot;150px&quot; /&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;https://aws.amazon.com/local/israel/&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/assets/images/sponsor-logos/aws-SQ.png&quot; width=&quot;150px&quot; /&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;https://www.battery.com/&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/assets/images/sponsor-logos/battery-SQ.png&quot; width=&quot;150px&quot; /&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;https://rtfmplease.dev&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/assets/images/sponsor-logos/rtfm-SQ.png&quot; width=&quot;150px&quot; /&gt;&lt;/a&gt;
+
+&lt;/div&gt;
+               
+&lt;div class=&quot;inner&quot;&gt;
+
+ &lt;div class=&quot;box&quot; style=&quot;text-align: center;&quot;&gt;
+       &lt;h2 style=&quot;text-transform: uppercase; color: turquoise;&quot;&gt;EVENT LOCATION&lt;/h2&gt;
+       &lt;h4&gt;The LOFT, at Cabo Wabo Cantina, 3663 S Las Vegas Blvd, Las Vegas, NV 89109&lt;/h4&gt;
+       &lt;p&gt;(&lt;a href=&quot;https://maps.app.goo.gl/XBFe52gFTqcos43UA&quot; target=&quot;_blank&quot;&gt;map&lt;/a&gt;)&lt;/p&gt;
+  
+   &lt;p style=&quot;text-align: center;&quot;&gt; &lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3223.2783728729764!2d-115.17506562369411!3d36.11107530624113!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c8c4313c6cb1b5%3A0xc229bda6c7f630b4!2sThe%20LOFT%20at%20Cabo%20Wabo%20Cantina!5e0!3m2!1sen!2sil!4v1724586261735!5m2!1sen!2sil&quot; width=&quot;100%&quot; height=&quot;400&quot; style=&quot;border:0;&quot; allowfullscreen=&quot;&quot; loading=&quot;lazy&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+
+
+&lt;/div&gt;
+
+
+&lt;a id=&quot;register&quot;&gt;&lt;/a&gt;
+
+			&lt;h2&gt;We told you it was going to be great...so what are you waiting for?! Join us!&lt;/h2&gt;
+&lt;ul class=&quot;actions&quot;&gt;
+                    &lt;li&gt;&lt;a href=&quot;https://lu.ma/devops-community-day-2024&quot; class=&quot;button next&quot;&gt;REGISTER&lt;/a&gt;&lt;/li&gt;
+                &lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;&lt;/section&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4001/assets/images/reinvent-tlvcommunity2.jpeg" /><media:content medium="image" url="http://localhost:4001/assets/images/reinvent-tlvcommunity2.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">AWS &amp;amp; DevOps TLVCommunity Fest Byte-Sized DevOps for Startups 2024</title><link href="http://localhost:4001/aws-devops-community-day-2024" rel="alternate" type="text/html" title="AWS &amp;amp; DevOps TLVCommunity Fest Byte-Sized DevOps for Startups 2024" /><published>2024-04-05T00:00:00+03:00</published><updated>2024-04-05T00:00:00+03:00</updated><id>http://localhost:4001/aws-devops-community-day</id><content type="html" xml:base="http://localhost:4001/aws-devops-community-day-2024">&lt;!-- Main --&gt;
 &lt;div id=&quot;main&quot; class=&quot;alt&quot;&gt;
 
 &lt;!-- One --&gt;
@@ -11,7 +108,7 @@
 &lt;img src=&quot;/assets/images/devops-community-day-crop2.jpg&quot; /&gt;		
 
 &lt;h2&gt; A Huge Thanks to Our Sponsors Who Make Our Events Possible &lt;/h2&gt;
- &lt;a href=&quot;https://wing.cloud&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/assets/images/sponsor-logos/wing-2-logo-SQ.png&quot; width=&quot;150px&quot; /&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;https://firefly.ai&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/assets/images/sponsor-logos/firefly-logo-SQ.png&quot; width=&quot;150px&quot; /&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;https://raven.io&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/assets/images/sponsor-logos/raven-logo-SQ.png&quot; width=&quot;150px&quot; /&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;https://aerospike.com&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/assets/images/sponsor-logos/aerospike-SQ.png&quot; width=&quot;150px&quot; /&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;https://pointfive.co&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/assets/images/sponsor-logos/pointfive-logo-SQ.png&quot; width=&quot;150px&quot; /&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;https://jit.io&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/assets/images/sponsor-logos/jit-SQ.png&quot; width=&quot;150px&quot; /&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;https://rtfmplease.dev&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/assets/images/sponsor-logos/rtfm-SQ.png&quot; width=&quot;150px&quot; /&gt;&lt;/a&gt;
+ &lt;a href=&quot;https://wing.cloud&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/assets/images/sponsor-logos/wing-2-logo-SQ.png&quot; width=&quot;150px&quot; /&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;https://firefly.ai&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/assets/images/sponsor-logos/firefly-logo-SQ.png&quot; width=&quot;150px&quot; /&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;https://raven.io&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/assets/images/sponsor-logos/raven-logo-SQ.png&quot; width=&quot;150px&quot; /&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;https://aerospike.com&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/assets/images/sponsor-logos/aerospike-SQ.png&quot; width=&quot;150px&quot; /&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;https://pointfive.co&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/assets/images/sponsor-logos/pointfive-logo-SQ.png&quot; width=&quot;150px&quot; /&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;https://jit.io&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/assets/images/sponsor-logos/jit-SQ.png&quot; width=&quot;150px&quot; /&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;https://www.battery.com/&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/assets/images/sponsor-logos/battery-SQ.png&quot; width=&quot;150px&quot; /&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;https://rtfmplease.dev&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/assets/images/sponsor-logos/rtfm-SQ.png&quot; width=&quot;150px&quot; /&gt;&lt;/a&gt;
 
 &lt;/div&gt;
 
@@ -44,7 +141,7 @@
 
 &lt;/div&gt;
 
-&lt;/section&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/pic07.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/pic07.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">DevOpsDays Tel Aviv 2024 | AGENDA</title><link href="http://localhost:4000/devopsdays/agenda-2023" rel="alternate" type="text/html" title="DevOpsDays Tel Aviv 2024 | AGENDA" /><published>2023-08-13T00:00:00+03:00</published><updated>2023-08-13T00:00:00+03:00</updated><id>http://localhost:4000/devopsdays/devopsdays-agenda-2023</id><content type="html" xml:base="http://localhost:4000/devopsdays/agenda-2023">&lt;!-- Main --&gt;
+&lt;/section&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4001/assets/images/pic07.jpg" /><media:content medium="image" url="http://localhost:4001/assets/images/pic07.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">DevOpsDays Tel Aviv 2024 | AGENDA</title><link href="http://localhost:4001/devopsdays/agenda-2023" rel="alternate" type="text/html" title="DevOpsDays Tel Aviv 2024 | AGENDA" /><published>2023-08-13T00:00:00+03:00</published><updated>2023-08-13T00:00:00+03:00</updated><id>http://localhost:4001/devopsdays/devopsdays-agenda-2023</id><content type="html" xml:base="http://localhost:4001/devopsdays/agenda-2023">&lt;!-- Main --&gt;
 &lt;div id=&quot;main&quot; class=&quot;alt&quot;&gt;
 
 &lt;!-- One --&gt;
@@ -70,7 +167,7 @@
                     &lt;li&gt;&lt;a href=&quot;/devopsdays#register&quot; class=&quot;button next&quot;&gt;REGISTER&lt;/a&gt;&lt;/li&gt;
                 &lt;/ul&gt;
 
-&lt;/div&gt;&lt;/section&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/pic07.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/pic07.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">DevOpsDays Tel Aviv 2024 | SPEAKER LINEUP</title><link href="http://localhost:4000/devopsdays/speakers-2023" rel="alternate" type="text/html" title="DevOpsDays Tel Aviv 2024 | SPEAKER LINEUP" /><published>2023-08-12T00:00:00+03:00</published><updated>2023-08-12T00:00:00+03:00</updated><id>http://localhost:4000/devopsdays/devopsdays-speakers-2023</id><content type="html" xml:base="http://localhost:4000/devopsdays/speakers-2023">&lt;!-- Main --&gt;
+&lt;/div&gt;&lt;/section&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4001/assets/images/pic07.jpg" /><media:content medium="image" url="http://localhost:4001/assets/images/pic07.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">DevOpsDays Tel Aviv 2024 | SPEAKER LINEUP</title><link href="http://localhost:4001/devopsdays/speakers-2023" rel="alternate" type="text/html" title="DevOpsDays Tel Aviv 2024 | SPEAKER LINEUP" /><published>2023-08-12T00:00:00+03:00</published><updated>2023-08-12T00:00:00+03:00</updated><id>http://localhost:4001/devopsdays/devopsdays-speakers-2023</id><content type="html" xml:base="http://localhost:4001/devopsdays/speakers-2023">&lt;!-- Main --&gt;
 &lt;div id=&quot;main&quot; class=&quot;alt&quot;&gt;
 
 &lt;!-- One --&gt;
@@ -98,7 +195,7 @@
 
 &lt;/div&gt;
 
-&lt;/section&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/pic07.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/pic07.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">CLOUD NATIVE &amp;amp; OSS HACK DAY TLV | 2023</title><link href="http://localhost:4000/cloud-native-oss-hackday-2023" rel="alternate" type="text/html" title="CLOUD NATIVE &amp;amp; OSS HACK DAY TLV | 2023" /><published>2023-02-05T00:00:00+02:00</published><updated>2023-02-05T00:00:00+02:00</updated><id>http://localhost:4000/cloud-native-oss-hackday-2023</id><content type="html" xml:base="http://localhost:4000/cloud-native-oss-hackday-2023">&lt;!-- Main --&gt;
+&lt;/section&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4001/assets/images/pic07.jpg" /><media:content medium="image" url="http://localhost:4001/assets/images/pic07.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">CLOUD NATIVE &amp;amp; OSS HACK DAY TLV | 2023</title><link href="http://localhost:4001/cloud-native-oss-hackday-2023" rel="alternate" type="text/html" title="CLOUD NATIVE &amp;amp; OSS HACK DAY TLV | 2023" /><published>2023-02-05T00:00:00+02:00</published><updated>2023-02-05T00:00:00+02:00</updated><id>http://localhost:4001/cloud-native-oss-hackday-2023</id><content type="html" xml:base="http://localhost:4001/cloud-native-oss-hackday-2023">&lt;!-- Main --&gt;
 &lt;div id=&quot;main&quot; class=&quot;alt&quot;&gt;
 
 &lt;!-- One --&gt;
@@ -662,7 +759,7 @@ If you have a significant product enhancement that brings direct value to OSS us
 
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;/section&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">DevOpsDays Tel Aviv 2022</title><link href="http://localhost:4000/devopsdays-tlv-2022" rel="alternate" type="text/html" title="DevOpsDays Tel Aviv 2022" /><published>2022-12-15T00:00:00+02:00</published><updated>2022-12-15T00:00:00+02:00</updated><id>http://localhost:4000/devopsdays-tlv-2022</id><content type="html" xml:base="http://localhost:4000/devopsdays-tlv-2022">&lt;!-- Main --&gt;
+&lt;/section&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">DevOpsDays Tel Aviv 2022</title><link href="http://localhost:4001/devopsdays-tlv-2022" rel="alternate" type="text/html" title="DevOpsDays Tel Aviv 2022" /><published>2022-12-15T00:00:00+02:00</published><updated>2022-12-15T00:00:00+02:00</updated><id>http://localhost:4001/devopsdays-tlv-2022</id><content type="html" xml:base="http://localhost:4001/devopsdays-tlv-2022">&lt;!-- Main --&gt;
 &lt;div id=&quot;main&quot;&gt;
 
 &lt;!-- One --&gt;
@@ -798,7 +895,7 @@ If you have a significant product enhancement that brings direct value to OSS us
 
   
 	
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/pic07.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/pic07.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">DevOpsDays 2022 Event Quick Links</title><link href="http://localhost:4000/devopsdays-quicklinks-2022.html" rel="alternate" type="text/html" title="DevOpsDays 2022 Event Quick Links" /><published>2022-11-26T00:00:00+02:00</published><updated>2022-11-26T00:00:00+02:00</updated><id>http://localhost:4000/devopsdays-quicklinks-2022</id><content type="html" xml:base="http://localhost:4000/devopsdays-quicklinks-2022.html">&lt;p&gt;&lt;a href=&quot;/devopsdays&quot;&gt;&lt;img src=&quot;/assets/images/devopstlv-SQ.png&quot; width=&quot;450&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4001/assets/images/pic07.jpg" /><media:content medium="image" url="http://localhost:4001/assets/images/pic07.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">DevOpsDays 2022 Event Quick Links</title><link href="http://localhost:4001/devopsdays-quicklinks-2022.html" rel="alternate" type="text/html" title="DevOpsDays 2022 Event Quick Links" /><published>2022-11-26T00:00:00+02:00</published><updated>2022-11-26T00:00:00+02:00</updated><id>http://localhost:4001/devopsdays-quicklinks-2022</id><content type="html" xml:base="http://localhost:4001/devopsdays-quicklinks-2022.html">&lt;p&gt;&lt;a href=&quot;/devopsdays&quot;&gt;&lt;img src=&quot;/assets/images/devopstlv-SQ.png&quot; width=&quot;450&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;ul class=&quot;actions&quot;&gt;&lt;li&gt;&lt;a href=&quot;/devopsdays&quot; class=&quot;button fit&quot;&gt;&lt;span class=&quot;icon alt fa-home&quot;&gt;&lt;/span&gt; BACK TO DEVOPSDAYS &lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
 
 &lt;h2 id=&quot;event-agenda&quot;&gt;Event Agenda&lt;/h2&gt;
@@ -994,7 +1091,7 @@ If you have a significant product enhancement that brings direct value to OSS us
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/sponsor-logos/sponsor-ads/Wizards.jpg&quot; width=&quot;50%&quot; /&gt;&lt;/p&gt;
 
-&lt;hr /&gt;</content><author><name></name></author><category term="core" /><category term="core" /><summary type="html">BACK TO DEVOPSDAYS</summary></entry><entry><title type="html">DevOpsDays Tel Aviv 2022 | SPEAKER LINEUP</title><link href="http://localhost:4000/devopsdays/speakers-2022" rel="alternate" type="text/html" title="DevOpsDays Tel Aviv 2022 | SPEAKER LINEUP" /><published>2022-10-19T00:00:00+03:00</published><updated>2022-10-19T00:00:00+03:00</updated><id>http://localhost:4000/devopsdays/devopsdays-speakers-2022</id><content type="html" xml:base="http://localhost:4000/devopsdays/speakers-2022">&lt;!-- Main --&gt;
+&lt;hr /&gt;</content><author><name></name></author><category term="core" /><category term="core" /><summary type="html">BACK TO DEVOPSDAYS</summary></entry><entry><title type="html">DevOpsDays Tel Aviv 2022 | SPEAKER LINEUP</title><link href="http://localhost:4001/devopsdays/speakers-2022" rel="alternate" type="text/html" title="DevOpsDays Tel Aviv 2022 | SPEAKER LINEUP" /><published>2022-10-19T00:00:00+03:00</published><updated>2022-10-19T00:00:00+03:00</updated><id>http://localhost:4001/devopsdays/devopsdays-speakers-2022</id><content type="html" xml:base="http://localhost:4001/devopsdays/speakers-2022">&lt;!-- Main --&gt;
 &lt;div id=&quot;main&quot; class=&quot;alt&quot;&gt;
 
 &lt;!-- One --&gt;
@@ -1022,7 +1119,7 @@ If you have a significant product enhancement that brings direct value to OSS us
 
 &lt;/div&gt;
 
-&lt;/section&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/pic07.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/pic07.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">DevOpsDays Tel Aviv 2022 | AGENDA</title><link href="http://localhost:4000/devopsdays/agenda-2022" rel="alternate" type="text/html" title="DevOpsDays Tel Aviv 2022 | AGENDA" /><published>2022-10-19T00:00:00+03:00</published><updated>2022-10-19T00:00:00+03:00</updated><id>http://localhost:4000/devopsdays/devopsdays-agenda-2022</id><content type="html" xml:base="http://localhost:4000/devopsdays/agenda-2022">&lt;!-- Main --&gt;
+&lt;/section&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4001/assets/images/pic07.jpg" /><media:content medium="image" url="http://localhost:4001/assets/images/pic07.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">DevOpsDays Tel Aviv 2022 | AGENDA</title><link href="http://localhost:4001/devopsdays/agenda-2022" rel="alternate" type="text/html" title="DevOpsDays Tel Aviv 2022 | AGENDA" /><published>2022-10-19T00:00:00+03:00</published><updated>2022-10-19T00:00:00+03:00</updated><id>http://localhost:4001/devopsdays/devopsdays-agenda-2022</id><content type="html" xml:base="http://localhost:4001/devopsdays/agenda-2022">&lt;!-- Main --&gt;
 &lt;div id=&quot;main&quot; class=&quot;alt&quot;&gt;
 
 &lt;!-- One --&gt;
@@ -1050,7 +1147,7 @@ If you have a significant product enhancement that brings direct value to OSS us
                     &lt;li&gt;&lt;a href=&quot;https://bit.ly/DEVOPSDAYS-2022-TIX&quot; class=&quot;button next&quot;&gt;REGISTER&lt;/a&gt;&lt;/li&gt;
                 &lt;/ul&gt;
 
-&lt;/div&gt;&lt;/section&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/pic07.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/pic07.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">DevOpsDays Tel Aviv 2021 Program</title><link href="http://localhost:4000/devopsdays/agenda-2021" rel="alternate" type="text/html" title="DevOpsDays Tel Aviv 2021 Program" /><published>2021-11-24T00:00:00+02:00</published><updated>2021-11-24T00:00:00+02:00</updated><id>http://localhost:4000/devopsdays/devopdays-agenda-2021</id><content type="html" xml:base="http://localhost:4000/devopsdays/agenda-2021">&lt;!-- Main --&gt;
+&lt;/div&gt;&lt;/section&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4001/assets/images/pic07.jpg" /><media:content medium="image" url="http://localhost:4001/assets/images/pic07.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">DevOpsDays Tel Aviv 2021 Program</title><link href="http://localhost:4001/devopsdays/agenda-2021" rel="alternate" type="text/html" title="DevOpsDays Tel Aviv 2021 Program" /><published>2021-11-24T00:00:00+02:00</published><updated>2021-11-24T00:00:00+02:00</updated><id>http://localhost:4001/devopsdays/devopdays-agenda-2021</id><content type="html" xml:base="http://localhost:4001/devopsdays/agenda-2021">&lt;!-- Main --&gt;
 &lt;div id=&quot;main&quot;&gt;
 
 &lt;!-- One --&gt;
@@ -3370,91 +3467,4 @@ If you have a significant product enhancement that brings direct value to OSS us
 &lt;/div&gt; --&gt;
 
 &lt;/div&gt;
-&lt;/div&gt;</content><author><name></name></author><category term="core" /><category term="core" /><summary type="html"></summary></entry><entry><title type="html">DevOpsDays 2021 Event Quick Links</title><link href="http://localhost:4000/devopsdays-quicklinks.html" rel="alternate" type="text/html" title="DevOpsDays 2021 Event Quick Links" /><published>2021-10-20T00:00:00+03:00</published><updated>2021-10-20T00:00:00+03:00</updated><id>http://localhost:4000/devopsdays-quicklinks</id><content type="html" xml:base="http://localhost:4000/devopsdays-quicklinks.html">&lt;p&gt;&lt;a href=&quot;/devopsdays&quot;&gt;&lt;img src=&quot;/assets/images/devopstlv-SQ.png&quot; width=&quot;450&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;event-agenda&quot;&gt;Event Agenda&lt;/h2&gt;
-&lt;ul class=&quot;actions&quot;&gt;
-            &lt;li&gt;&lt;a href=&quot;/devopsdays/agenda-2021.html&quot; class=&quot;button special fit&quot; target=&quot;_blank&quot;&gt;VIEW EVENT PROGRAM &lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;open-spaces-topic-forms&quot;&gt;Open Spaces Topic Forms&lt;/h2&gt;
-
-&lt;ul class=&quot;actions&quot;&gt;
-            &lt;li&gt;&lt;a href=&quot;https://airtable.com/shrLiV0XmFNPIvrpF&quot; class=&quot;button special fit&quot; target=&quot;_blank&quot;&gt;SUBMIT OPEN
-                    SPACE IDEA&lt;/a&gt;&lt;/li&gt;
-            &lt;li&gt;&lt;a href=&quot;https://airtable.com/shrK8sRhhUHVEulw6&quot; class=&quot;button special fit&quot; target=&quot;_blank&quot;&gt;VOTE FOR OPEN
-                    SPACE IDEA&lt;/a&gt;&lt;/li&gt;
-            &lt;li&gt;&lt;a href=&quot;https://airtable.com/shrPWVlAfVpMoLeNv&quot; class=&quot;button special fit&quot; target=&quot;_blank&quot;&gt;IDEA BOARD&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;workshop-registration-form&quot;&gt;Workshop Registration Form&lt;/h2&gt;
-
-&lt;ul class=&quot;actions&quot;&gt;
-&lt;li&gt;&lt;a href=&quot;https://forms.gle/9Acpjn6MJEpa5nRE9&quot; class=&quot;button special fit&quot; target=&quot;_blank&quot;&gt;RESERVE YOUR SPOT &lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;sponsor-links&quot;&gt;Sponsor Links&lt;/h2&gt;
-
-&lt;h3 id=&quot;appsflyer-raffle&quot;&gt;APPSFLYER RAFFLE&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLScqBs4cJ3WL5_v6uWyBZgwV_90HO-9Y2j4HY8BxfSiTYSpSeA/viewform?usp=sf_link&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/assets/images/sponsor-logos/sponsor-ads/appsflyer-devopsdays.png&quot; width=&quot;50%&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul class=&quot;actions&quot;&gt;
-            &lt;li&gt;&lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLScqBs4cJ3WL5_v6uWyBZgwV_90HO-9Y2j4HY8BxfSiTYSpSeA/viewform?usp=sf_link&quot; class=&quot;button special fit&quot; target=&quot;_blank&quot;&gt;ENTER APPSFLYER RAFFLE! &lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;coralogix-raffle---nintendo-switch&quot;&gt;CORALOGIX RAFFLE - NINTENDO SWITCH&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://land.coralogix.com/devopsdays-swag-raffle/&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/assets/images/sponsor-logos/sponsor-ads/coralogix.png&quot; width=&quot;30%&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul class=&quot;actions&quot;&gt;
-            &lt;li&gt;&lt;a href=&quot;https://land.coralogix.com/devopsdays-swag-raffle/&quot; class=&quot;button special fit&quot; target=&quot;_blank&quot;&gt;ENTER CORALOGIX RAFFLE! &lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;snappy-raffle&quot;&gt;SNAPPY RAFFLE&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://forms.gle/RD9HQuwzfpAQnnf76&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/assets/images/sponsor-logos/sponsor-ads/snappy.png&quot; width=&quot;50%&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul class=&quot;actions&quot;&gt;
-            &lt;li&gt;&lt;a href=&quot;https://forms.gle/RD9HQuwzfpAQnnf76&quot; class=&quot;button special fit&quot; target=&quot;_blank&quot;&gt;ENTER SNAPPY RAFFLE! &lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;linearb-raffle&quot;&gt;LINEARB RAFFLE&lt;/h3&gt;
-
-&lt;h4 id=&quot;enter-for-your-chance-to-win-a-pair-of-apple-airpod-pros&quot;&gt;Enter for your chance to win a pair of Apple AirPod Pros&lt;/h4&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://share.hsforms.com/1W2sA2tqgSt60-xFJm0EPCQ32d21?utm_source=DevOpsDays%20Tel%20Aviv&amp;amp;utm_medium=referral&amp;amp;utm_campaign=202111%20-%20Event%20-%20External%20-%20DevOpsDays%20Tel%20Aviv&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/assets/images/sponsor-logos/sponsor-ads/LinearB.png&quot; width=&quot;30%&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul class=&quot;actions&quot;&gt;
-    &lt;li&gt;&lt;a href=&quot;https://share.hsforms.com/1W2sA2tqgSt60-xFJm0EPCQ32d21?utm_source=DevOpsDays%20Tel%20Aviv&amp;amp;utm_medium=referral&amp;amp;utm_campaign=202111%20-%20Event%20-%20External%20-%20DevOpsDays%20Tel%20Aviv&quot; class=&quot;button special fit&quot; target=&quot;_blank&quot;&gt;ENTER LINEARB RAFFLE! &lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;jfrog-raffle&quot;&gt;JFROG RAFFLE&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/images/sponsor-logos/sponsor-ads/jfrog.png&quot; width=&quot;30%&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;kaltura-raffle&quot;&gt;Kaltura RAFFLE&lt;/h3&gt;
-
-&lt;h4 id=&quot;enter-for-your-chance-to-win-an-oculus-rift&quot;&gt;Enter for your chance to win an Oculus Rift!&lt;/h4&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSfBXvd-Y4UNfC2209LI_LkOC_KraDcEKRrH7boTdEIVH0Ab-A/viewform&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/assets/images/sponsor-logos/sponsor-ads/kaltura1.png&quot; width=&quot;30%&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/sponsor-logos/sponsor-ads/kaltura2.png&quot; width=&quot;30%&quot; /&gt;&lt;/p&gt;
-
-&lt;ul class=&quot;actions&quot;&gt;
-    &lt;li&gt;&lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSfBXvd-Y4UNfC2209LI_LkOC_KraDcEKRrH7boTdEIVH0Ab-A/viewform&quot; class=&quot;button special fit&quot; target=&quot;_blank&quot;&gt;ENTER KALTURA RAFFLE! &lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;swag-shop---quick-payment-link&quot;&gt;Swag Shop - Quick Payment Link&lt;/h2&gt;
-&lt;ul class=&quot;actions&quot;&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.paypal.com/paypalme/rtfmplease&quot; class=&quot;button special fit&quot; target=&quot;_blank&quot;&gt;NAB YOUR LIMITED EDITION SWAG &lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;</content><author><name></name></author><category term="core" /><category term="core" /><summary type="html"></summary></entry></feed>
+&lt;/div&gt;</content><author><name></name></author><category term="core" /><category term="core" /><summary type="html"></summary></entry></feed>
