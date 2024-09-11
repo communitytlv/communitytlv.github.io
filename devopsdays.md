@@ -3,7 +3,7 @@ title: DevOpsDays Tel Aviv 2024 | October 30-31, 2024 | Expo TLV
 menu_title: DevOpsDays TLV 2024
 layout: landing
 description: <strong>October 30-31, 2024 | Expo Tel Aviv</strong>
-cta: <br/><ul class="actions"><li><a href="/devopsdays/agenda-2023" class="button special fit" target="_blank"> PROGRAM</a></li></ul><ul class="actions"><li><a href="#register" class="button fit" target="_blank"> REGISTER</a></li></ul>
+cta: <br/><ul class="actions"><li><a href="/devopsdays/agenda-2024" class="button special fit" target="_blank"> PROGRAM</a></li></ul><ul class="actions"><li><a href="#register" class="button fit" target="_blank"> REGISTER</a></li></ul>
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
