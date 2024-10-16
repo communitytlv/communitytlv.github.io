@@ -1,5 +1,5 @@
 ---
-layout: redirect
+layout: landing
 title: DevOpsDays Tel Aviv 2024 | AGENDA 
 menu_title: DevOpsDays TLV 2024 Agenda
 description: Check out the speaker lineup - and find out who is speaking at DevOpsDays TLV 2024 with co-located events Cloud Native & OSS Day and Statscraft! 
