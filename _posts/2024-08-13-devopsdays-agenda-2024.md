@@ -27,7 +27,8 @@ nav-menu: true
 		</header>
 
         
-<script type="text/javascript" src="https://sessionize.com/api/v2/dhotxgef/view/GridSmart"></script>       
+<script src="https://static.elfsight.com/platform/platform.js" async></script>
+<div class="elfsight-app-e0e8b4b4-54d8-4a8a-ab08-a15509b32a9d" data-elfsight-app-lazy></div>
       
 </div>
 
