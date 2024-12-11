@@ -8,7 +8,6 @@ nav-menu: true
 
 <div id="main" class="alt">
     <!-- One -->
-    <section id="one">
         <div class="inner" style="text-transform: uppercase;">
             <h1>Videos & Pics from Previous Events</h1>
         </div>
@@ -128,5 +127,4 @@ nav-menu: true
             </ul>
         </div>
         </div>
-    </section>
 </div>
