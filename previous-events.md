@@ -1,16 +1,16 @@
-    ---
-    layout: page
-    title: Previous Events
-    description: Find Videos & Pictures from Previous Community Events
-    image: assets/images/pic10.jpg
-    nav-menu: true
-    ---
+---
+layout: page
+title: Previous Events
+description: Find Videos & Pictures from Previous Community Events
+image: assets/images/pic10.jpg
+nav-menu: true
+---
 
-    <!-- Main -->
-    <div id="main" class="alt">
-
-    <!-- One -->
-    <section id="one">
+<!-- Main -->
+ <div id="main" class="alt">
+    
+<!-- One -->
+<section id="one">
         <div class="inner">
             <header class="major">
                 <h1>Videos & Pics from Previous Events</h1>
@@ -38,9 +38,7 @@
                         </a>
                     </h4>
                 </div>
-
-                <br/>
-                
+<br/>
                 <div class="row" style="text-align: center;">
                     <h4><span class="icon fa-camera-retro"></span> Pictures</h4>
                     <br/>
@@ -90,8 +88,7 @@
                     <script src="https://static.elfsight.com/platform/platform.js" async></script>
                     <div class="elfsight-app-783a0426-6754-4211-8292-021bd98a6c7b" data-elfsight-app-lazy></div>
                 </div>
-
-                <br/>                  
+<br/>                  
             <div class="row" style="text-align: center;"> 
                 <h4 id="stream"><span class="icon fa-camera-retro"></span> Pictures</h4>
                 <ul class="icons">
@@ -133,9 +130,7 @@
                     </li>
                 </ul>
             </div>
-
     </div>
-
     </div>
     </section>
     </div>
