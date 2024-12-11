@@ -25,6 +25,7 @@ nav-menu: true
                     <div class="elfsight-app-1501873f-a705-4e3b-95e4-b207e742f3c9" data-elfsight-app-lazy></div>
                 </div>
                 <br/>
+            </div>
                 <div class="row" style="text-align: center;">
                 <h4><span class="icon fa-camera-retro"></span> DEVOPSDAYS PICTURES</h4>
                 </div>
@@ -52,8 +53,6 @@ nav-menu: true
                     </ul>
                 </div>
                 <br/>
-                <hr class="major"/>
-            </div>
             <!-- Statscraft Tel Aviv -->
             <img src="/assets/images/statscraft-SQ.png" width="150" alt="Statscraft">
             <div class="box">
@@ -64,6 +63,7 @@ nav-menu: true
                     <div class="elfsight-app-1c704def-3ec1-4e5e-b630-3ecfe362c7a0" data-elfsight-app-lazy></div>
                 </div>
                 <br/>
+                </div>
                 <div class="row" style="text-align: center;">
                     <h4><span class="icon fa-camera-retro"></span> STATSCRAFT PICTURES</h4>
                     </div>
@@ -73,17 +73,15 @@ nav-menu: true
                             <span class="icon fa-camera-retro"></span> Statscraft 2022
                         </a>
                     </h4>&nbsp;<h4>
-                        <a href="https://www.facebook.com/media/set/?vanity=statscraft.il&set=a.2638884022848649" target="_blank">
+                        <a href="https://www.facebook.com/media/set/?set=a.2638884022848649&type=3" target="_blank">
                             <span class="icon fa-camera-retro"></span> Statscraft 2019
                         </a>
                     </h4>&nbsp;<h4>
-                        <a href="https://www.facebook.com/media/set/?vanity=statscraft.il&set=a.884839651586437" target="_blank">
-                            <span class="icon fa-camera-retro"></span> Statscraft 2016
+                        <a href="https://www.facebook.com/media/set/?set=a.884839651586437&type=3" target="_blank">
+                            <span class="icon fa-camera-retro"></span> Statscraft 2015
                         </a>
                     </h4>
                 </div>
-                <hr class="major"/>
-            </div>
             <!-- Cloud Native + TLVCommunity -->
             <img src="/assets/images/cloudnative-SQ.png" width="150" alt="Cloud Native">
             <div class="box">
@@ -92,7 +90,8 @@ nav-menu: true
                     <script src="https://static.elfsight.com/platform/platform.js" async></script>
                     <div class="elfsight-app-783a0426-6754-4211-8292-021bd98a6c7b" data-elfsight-app-lazy></div>
                 </div>
-<br/>                  
+<br/> 
+    </div>
             <div class="row" style="text-align: center;"> 
                 <h4 id="stream"><span class="icon fa-camera-retro"></span> TLVCOMMUNITY + CLOUD NATIVE IL Pictures</h4>
             </div>
@@ -136,7 +135,6 @@ nav-menu: true
                     </li>
                 </ul>
             </div>
-    </div>
     </div>
     </section>
     </div>
