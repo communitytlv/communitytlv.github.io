@@ -3,7 +3,7 @@ title: DevOpsDays Tel Aviv 2024 | October 30-31, 2024 | Expo TLV
 menu_title: DevOpsDays TLV 2024
 layout: landing
 description: <strong>October 30-31, 2024 | Expo Tel Aviv</strong>
-cta: <br/><ul class="actions"><li><a href="/devopsdays/agenda-2024" class="button special fit" target="_blank"> PROGRAM</a></li></ul><ul class="actions"><li><a href="#register" class="button fit" target="_blank"> REGISTER</a></li></ul>
+cta: <br/><ul class="actions"><li><a href="/devopsdays/agenda-2024" class="button special fit" target="_blank"> WATCH VIDEOS</a></li></ul><ul class="actions"><li><a href="https://photos.google.com/share/AF1QipOpUTN9sigVsGqRXhu9q0iFwhh_1tx5079duMT2nO8Gf68YdvpcwSs17Io37QNsTQ?key=OEttZkRtbjRiS29vNklmeHRuN08tVkk1cFc5dkhn" class="button fit" target="_blank"> VIEW PICTURES</a></li></ul>
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -26,35 +26,28 @@ nav-menu: true
 
         <br />
 
-        <a id="sponsor"></a>
+         <a id="sponsor"></a>
 <br/>
 <br>
-    <h2 style="tex-transform: uppercase; color: #c0d44f;"> SPONSOR THE EVENT</h2>
-         <ul class="actions"><li><a href="https://drive.google.com/file/d/1cIs4uqsFZ76TnGMGDbZSBPLX1KiBubQE/view?usp=sharing" target="_blank" class="button fit"> SPONSORSHIP PROSPECTUS</a></li></ul>
+   <!-- <h2 style="tex-transform: uppercase; color: #c0d44f;"> SPONSOR THE EVENT</h2>
+         <ul class="actions"><li><a href="https://drive.google.com/file/d/1cIs4uqsFZ76TnGMGDbZSBPLX1KiBubQE/view?usp=sharing" target="_blank" class="button fit"> SPONSORSHIP PROSPECTUS</a></li></ul> -->
        
 
 
 
 <a id="cfp"></a>
-<br/>
-<br>
 
 </div>
 </div>
-<hr/>
 
 <a id="register"></a>
 <br/>
-<br>
- <div class="box" style="width: 100%; text-align: center;">
+
+ <!-- <div class="box" style="width: 100%; text-align: center;">
      <h1 style="text-transform: uppercase; color: white; text-align: center;"> <span style="font-family: 'Creepster', cursive; color: #ff7100;">TICKETS NOW AVAILABLE</span> <span style="font-family: 'Nosifer', cursive; color: red;"> REGISTER TO JOIN US! 👻</span></h1>
-
-   <ul class="actions"><li><a href="https://app.icount.co.il/m/0a17a/c82642p21u64ac1b12f?lng=en" class="button fit"><span style="font-family: 'Nosifer', cursive; color: orangered;">  REGISTER </span></a></li></ul>
-  
-<br/>
+   <ul class="actions"><li><a href="https://app.icount.co.il/m/0a17a/c82642p21u64ac1b12f?lng=en" class="button fit"><span style="font-family: 'Nosifer', cursive; color: orangered;">  REGISTER </span></a></li></ul>   
     <h4>NOTE THAT YOU WILL BE REDIRECTED TO REGISTER YOUR TICKETS THROUGH A SEPARATE FORM (lu.ma) AFTER PAYMENT. PLEASE MAKE SURE TO COMPLETE THE ENTIRE REGISTRATION PROCESS.</h4>
-
-</div>
+</div> -->
 
 <br/>
 <hr/>
