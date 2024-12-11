@@ -53,6 +53,8 @@ nav-menu: true
                     </ul>
                 </div>
                 <br/>
+        <hr class="major" />
+        <br/>        
             <!-- Statscraft Tel Aviv -->
             <img src="/assets/images/statscraft-SQ.png" width="150" alt="Statscraft">
             <div class="box">
@@ -82,6 +84,9 @@ nav-menu: true
                         </a>
                     </h4>
                 </div>
+                <br/>
+                <hr class="major" />
+        <br/>  
             <!-- Cloud Native + TLVCommunity -->
             <img src="/assets/images/cloudnative-SQ.png" width="150" alt="Cloud Native">
             <div class="box">
