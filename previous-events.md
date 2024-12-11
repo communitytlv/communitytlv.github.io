@@ -27,6 +27,8 @@ nav-menu: true
                 <br/>
                 <div class="row" style="text-align: center;">
                 <h4><span class="icon fa-camera-retro"></span> DEVOPSDAYS PICTURES</h4>
+                </div>
+                <div class="row" style="text-align: center;"> 
                     <h4><a href="https://photos.google.com/share/AF1QipOpUTN9sigVsGqRXhu9q0iFwhh_1tx5079duMT2nO8Gf68YdvpcwSs17Io37QNsTQ?key=OEttZkRtbjRiS29vNklmeHRuN08tVkk1cFc5dkhn" target="_blank">
                             <span class="icon fa-camera-retro"></span> DevOpsDays TLV 2024
                         </a></h4>&nbsp;<h4>
@@ -64,6 +66,8 @@ nav-menu: true
                 <br/>
                 <div class="row" style="text-align: center;">
                     <h4><span class="icon fa-camera-retro"></span> STATSCRAFT PICTURES</h4>
+                    </div>
+                    <div class="row" style="text-align: center;"> 
                     <h4>
                         <a href="https://www.facebook.com/media/set/?set=a.7750540041682996&type=3" target="_blank">
                             <span class="icon fa-camera-retro"></span> Statscraft 2022
@@ -91,6 +95,8 @@ nav-menu: true
 <br/>                  
             <div class="row" style="text-align: center;"> 
                 <h4 id="stream"><span class="icon fa-camera-retro"></span> TLVCOMMUNITY + CLOUD NATIVE IL Pictures</h4>
+            </div>
+            <div class="row" style="text-align: center;"> 
                 <ul class="icons">
                     <li>
                         <span class="icon fa-smile-o"></span> 
