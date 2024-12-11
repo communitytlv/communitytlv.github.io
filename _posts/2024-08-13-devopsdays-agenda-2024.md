@@ -3,7 +3,7 @@ layout: landing
 title: DevOpsDays Tel Aviv 2024 | AGENDA 
 menu_title: DevOpsDays TLV 2024 Agenda
 description: Check out the speaker lineup - and find out who is speaking at DevOpsDays TLV 2024 with co-located events Cloud Native & OSS Day and Statscraft! 
-cta: <br/><ul class="actions"><li><a href="/devopsdays#register" class="button special fit" target="_blank"> REGISTER NOW</a></li></ul>&nbsp;<ul class="actions"><li><a href="/devopsdays" class="button fit"><span class="icon alt fa-home"></span> BACK TO DEVOPSDAYS </a></li></ul>
+cta: <br/><ul class="actions"><li><a href="https://photos.google.com/share/AF1QipOpUTN9sigVsGqRXhu9q0iFwhh_1tx5079duMT2nO8Gf68YdvpcwSs17Io37QNsTQ?key=OEttZkRtbjRiS29vNklmeHRuN08tVkk1cFc5dkhn" class="button special fit" target="_blank"> VIEW PICS</a></li></ul>&nbsp;<ul class="actions"><li><a href="/devopsdays" class="button fit"><span class="icon alt fa-home"></span> BACK TO DEVOPSDAYS </a></li></ul>
 image: assets/images/pic07.jpg
 permalink: /devopsdays/agenda-2024
 nav-menu: true
