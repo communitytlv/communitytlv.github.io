@@ -2,7 +2,7 @@
 title: TLVCommunity
 subtitle: by the Community for the Community
 email: 
-description: The place to get info about the leading dev communities in TLV.
+description: The place to get info about the leading DevOps communities in TLV.
 baseurl: # the subpath of your site, e.g. /blog
 url: https://tlvcommunity.dev # the base hostname & protocol for your site
 author:
