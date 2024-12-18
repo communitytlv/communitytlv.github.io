@@ -13,10 +13,10 @@ image: assets/images/pic08.jpg
 	<div class="inner">
 
 	<header class="major">
-			<h2>SPONSOR DEVOPSDAYS TEL AVIV 2021</h2>
+			<h2>SPONSOR DEVOPSDAYS TEL AVIV</h2>
 	</header>
 
-	 <ul class="actions" style="text-transform: uppercase; color: turquoise; text-align: left;"><li><a href="/devopsdays" class="button next">LEARN MORE</a></li></ul> 
+	 <ul class="actions" style="text-transform: uppercase; color: turquoise; text-align: left;"><li><a href="/devopsdays#sponsor" class="button next">LEARN MORE</a></li></ul> 
 		<header class="major">
 			<h2>SPONSOR THE COMMUNITY</h2>
 		</header>
@@ -51,7 +51,7 @@ image: assets/images/pic08.jpg
         {% include /sponsors/previous-sponsors.html %}
 		
 
-		  <h2 style="text-transform: uppercase;"><span class="icon fa-star" style="color: turquoise;"></span>&nbsp; DevOpsDays Tel Aviv 2021 Sponsors &nbsp;<span class="icon fa-star" style="color: turquoise;"></span></h2>
+		  <h2 style="text-transform: uppercase;"><span class="icon fa-star" style="color: turquoise;"></span>&nbsp; DevOpsDays Tel Aviv Sponsors &nbsp;<span class="icon fa-star" style="color: turquoise;"></span></h2>
 
 
 
