@@ -55,7 +55,7 @@ image: assets/images/pic08.jpg
 
 
 
-		 {% include /sponsors/devopsdays-2021-logos.html %}
+		 {% include /sponsors/devopsdays-2023-logos.html %}
 
 		<br/>
         <br/>
