@@ -30,7 +30,7 @@ image: assets/images/pic08.jpg
             
             <h3>Sponsorship Opps</h3>
                 <ul>
-                <li>If you would like the TLV Community to create and promote your event (social media channels, newsletter), sponsorship is <em style="font-weight: 700; color: turquoise;">1000ILS an event</em>.</li>
+                <li>If you have not previously sponsored any of our events, and would like the TLVCommunity to create and promote your event (social media channels, newsletter), sponsorship is <em style="font-weight: 700; color: turquoise;">1000ILS an event</em>.</li>
                 <li> If you are interested in promoting something through our 2700+ mailing list, sponsorship is <em style="font-weight: 700; color: turquoise;">500 ILS</em> for a sponsor slot.</li>
                 </ul>
             
@@ -59,7 +59,7 @@ image: assets/images/pic08.jpg
 
 		<br/>
         <br/>
-        <h2>And Many More Who Make Our Amazing Community Possible</h2>
+       
 	</div>
 </section>
 
