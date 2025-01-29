@@ -12,7 +12,7 @@ nav-menu: true
 <!-- One -->
 <section id="one">
 	<div class="inner">
-    <img src="/assets/images/cloudnative-SQ.png" width="250" alt="Cloud Native">
+   <a href="https://x.com/cloudnativeIL" target="_blank"> <img src="/assets/images/cloudnative-SQ.png" width="250" alt="Cloud Native & OSS IL"></a>
 		<header class="major">
 			<h1>ABOUT CLOUD NATIVE & OSS TLV</h1>
 		</header>
@@ -73,11 +73,11 @@ nav-menu: true
                         </a>
                     </li>
                 </ul>
-            </div>
-                       
-   
-
-     
+            </div>  
+    <div class="box">
+    <h2>Follow Cloud Native & OSS IL on Social Media</h2>
+	<ul class="icons"><li><a href="https://x.com/cloudnativeIL" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/company/devopsdays-tel-aviv" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://instagram.com/rtfm.please" target="_blank" class="icon fa-instagram"><span class="label"></span></a></li></ul>
+</div>
 
 
 </div>

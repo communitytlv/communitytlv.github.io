@@ -12,7 +12,7 @@ nav-menu: true
 <!-- One -->
 <section id="one">
 	<div class="inner">
-     <img src="/assets/images/statscraft-SQ.png" width="250" alt="Statscraft">
+     <a href="https://statscraft.org.il" target="_blank"><img src="/assets/images/statscraft-SQ.png" width="250" alt="Statscraft"></a>
 		<header class="major">
 			<h1>ABOUT STATSCRAFT</h1>
 		</header>
@@ -52,8 +52,10 @@ nav-menu: true
                     </h4>
                 </div>
                 <br/>
-                       
-   
+                <div class="box">
+    <h2>Follow Statscraft on Social Media</h2>
+	<ul class="icons"><li><a href="https://x.com/statscraft" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/company/statscraft-monitoring-conference/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://www.facebook.com/statscraft.il" target="_blank" class="icon fa-facebook"><span class="label"></span></a></li></ul>
+</div>
 
      
 </div>
