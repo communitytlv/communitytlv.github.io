@@ -4,7 +4,7 @@ menu_title: DevOpsDays TLV 2024
 layout: landing
 description: <strong>October 30-31, 2024 | Expo Tel Aviv</strong>
 cta: <br/><ul class="actions"><li><a href="/devopsdays/agenda-2024" class="button special fit" target="_blank"> WATCH VIDEOS</a></li></ul><ul class="actions"><li><a href="https://photos.google.com/share/AF1QipOpUTN9sigVsGqRXhu9q0iFwhh_1tx5079duMT2nO8Gf68YdvpcwSs17Io37QNsTQ?key=OEttZkRtbjRiS29vNklmeHRuN08tVkk1cFc5dkhn" class="button fit" target="_blank"> VIEW PICTURES</a></li></ul>
-image: assets/images/pic13.jpg
+image: assets/images/pic08-3.jpg
 nav-menu: true
 ---
 
