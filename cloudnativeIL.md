@@ -3,6 +3,7 @@ layout: page
 title: CLOUD NATIVE & OPEN SOURCE ISRAEL
 menu_title: CLOUD NATIVE & OSS TLV 
 description: 'THE COMMUNITY BRINGING TOGETHER CLOUD NATIVE & OSS ENTHUSIASTS IN TLV'
+image: assets/images/pic12.jpg
 nav-menu: true
 ---
 
@@ -19,7 +20,7 @@ nav-menu: true
 
 <!-- Content -->
 <div class="box">
-	<p>Cloud Native and Open Source TLV is the community that started its journey as the OpenStack Israel Community as early as 2104, and has been running since then.  Over the years it evolved and expanded to include all of the awesome cloud and open source technology our community loves to learn about and build together.<br/>
+	<p>Cloud Native and Open Source TLV is the community that started its journey as the OpenStack Israel Community as early as 2104, and has been running since then.  Over the years it evolved and expanded to include all of the awesome cloud and open source technology our community loves to learn about and build together. <br/>
     <em>You can find all of our previous event videos and pics below</em>.</p>
 </div>
 <!-- Cloud Native + TLVCommunity -->
