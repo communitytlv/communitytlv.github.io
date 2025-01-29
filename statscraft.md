@@ -13,16 +13,18 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
+        <img src="/assets/images/statscraft-SQ.png" width="250" alt="Statscraft">
+
 			<h1>ABOUT STATSCRAFT</h1>
 		</header>
 
 <!-- Content -->
 <div class="box">
-    <img src="https://www.statscraft.org.il/images/about-topics.png" width="200px" text-align="left">
-	<p>This conference is all about making monitoring easier, more accessible and more productive Monitoring is crucial for detecting problems, optimizing performance, capacity planning, improving user experience and business impact... Yet in many companies, monitoring is an afterthought leading companies to miss out on the value of the data they collected. We often hear that "monitoring is hard" - and it can be, unless we do something about it.</p>
+	<p>Statscraft has been running since 2015, as the conference that is all about making monitoring easier, more accessible and more productive Monitoring is crucial for detecting problems, optimizing performance, capacity planning, improving user experience and business impact... Yet in many companies, monitoring is an afterthought leading companies to miss out on the value of the data they collected. We often hear that "monitoring is hard" - and it can be, unless we do something about it.</br>
+    <em>Find all of our previous event videos and pics below.</em>
+    </p>
 </div>
 <!-- Statscraft Tel Aviv -->
-            <img src="/assets/images/statscraft-SQ.png" width="150" alt="Statscraft">
             <div class="box">
                 <div class="row" style="text-align: center;">
                     <h4><span class="icon fa-video-camera"></span> STATSCRAFT VIDEOS</h4>
@@ -55,10 +57,4 @@ nav-menu: true
    
 
      
-</div>
-
-</div>
-
-</div>
-
 </div>
