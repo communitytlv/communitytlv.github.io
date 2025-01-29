@@ -2,7 +2,7 @@
 layout: page
 title: Previous Events
 description: Find Videos & Pictures from Previous Community Events
-image: assets/images/pic10.jpg
+image: assets/images/pic14.jpg
 nav-menu: true
 ---
 
