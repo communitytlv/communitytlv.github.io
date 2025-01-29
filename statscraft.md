@@ -12,9 +12,8 @@ nav-menu: true
 <!-- One -->
 <section id="one">
 	<div class="inner">
+     <img src="/assets/images/statscraft-SQ.png" width="250" alt="Statscraft">
 		<header class="major">
-        <img src="/assets/images/statscraft-SQ.png" width="250" alt="Statscraft">
-
 			<h1>ABOUT STATSCRAFT</h1>
 		</header>
 

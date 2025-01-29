@@ -12,9 +12,8 @@ nav-menu: true
 <!-- One -->
 <section id="one">
 	<div class="inner">
+    <img src="/assets/images/cloudnative-SQ.png" width="250" alt="Cloud Native">
 		<header class="major">
-        <img src="/assets/images/cloudnative-SQ.png" width="250" alt="Cloud Native">
-
 			<h1>ABOUT CLOUD NATIVE & OSS TLV</h1>
 		</header>
 
