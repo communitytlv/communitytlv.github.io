@@ -19,7 +19,7 @@ nav-menu: true
 
 <!-- Content -->
 <div class="box">
-	<p>Statscraft has been running since 2015, as the conference that is all about making monitoring easier, more accessible and more productive Monitoring is crucial for detecting problems, optimizing performance, capacity planning, improving user experience and business impact... Yet in many companies, monitoring is an afterthought leading companies to miss out on the value of the data they collected. We often hear that "monitoring is hard" - and it can be, unless we do something about it.</br>
+	<p>Statscraft has been running since 2015, as the conference that is all about making monitoring easier, more accessible and more productive Monitoring is crucial for detecting problems, optimizing performance, capacity planning, improving user experience and business impact... Yet in many companies, monitoring is an afterthought leading companies to miss out on the value of the data they collected. We often hear that "monitoring is hard" - and it can be, unless we do something about it.<br/>
     <em>Find all of our previous event videos and pics below.</em>
     </p>
 </div>
