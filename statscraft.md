@@ -3,6 +3,7 @@ layout: page
 title: Statscraft
 menu_title: Statscraft 
 description: 'Your favorite Monitoring & Observability conference for Ops, developers, PMs and everyone else'
+image: assets/images/pic09.jpg
 nav-menu: true
 ---
 
