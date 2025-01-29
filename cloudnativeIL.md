@@ -13,15 +13,17 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
+        <img src="/assets/images/cloudnative-SQ.png" width="250" alt="Cloud Native">
+
 			<h1>ABOUT CLOUD NATIVE & OSS TLV</h1>
 		</header>
 
 <!-- Content -->
 <div class="box">
-	<p>Cloud Native and Open Source TLV is the community that started its journey as the OpenStack Israel Community, and over the years evolved and expanded to include all of the awesome cloud and open source technology our community loves to learn about and build together.  You can find all of our previous event videos and pics below.</p>
+	<p>Cloud Native and Open Source TLV is the community that started its journey as the OpenStack Israel Community as early as 2104, and has been running since then.  Over the years it evolved and expanded to include all of the awesome cloud and open source technology our community loves to learn about and build together.<br/>
+    <em>You can find all of our previous event videos and pics below</em>.</p>
 </div>
 <!-- Cloud Native + TLVCommunity -->
-            <img src="/assets/images/cloudnative-SQ.png" width="150" alt="Cloud Native">
             <div class="box">
                 <div class="row" style="text-align: center;">
                     <h4><span class="icon fa-video-camera"></span> TLVCommunity | Cloud Native Day | OpenStack Israel Videos</h4>
@@ -77,10 +79,6 @@ nav-menu: true
    
 
      
-</div>
 
-</div>
-
-</div>
 
 </div>
