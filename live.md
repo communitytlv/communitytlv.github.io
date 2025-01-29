@@ -2,7 +2,7 @@
 layout: post-noimg
 title: DEV Community TLV LIVE EVENT
 description: Join our live events & stay up to date on [Discord]().
-image: assets/images/pic08-3.jpg
+show_tile: false
 permalink: /live
 
 ---
