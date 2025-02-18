@@ -83,7 +83,7 @@ nav-menu: true
 <br/>
 
    <h2> <span class="icon alt fa-video-camera"></span> 2024 EVENT VIDEOS ARE LIVE >> CHECK THEM OUT </h2>
-    <iframe width="100%" height="700" src="https://www.youtube.com/embed/videoseries?si=6bgw0fquD7gNDHEb&amp;list=PL8tivQAdoavNs2xQkQXC4f9Wdtc2CuMe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="100%" height="700" src="https://www.youtube.com/embed/videoseries?si=6bgw0fquD7gNDHEb&amp;list=PL8tivQAdoavNs2xQkQXC4f9Wdtc2CuMeT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     <br/>
      <hr/>
     <br/>
