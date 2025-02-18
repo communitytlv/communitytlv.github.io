@@ -64,10 +64,12 @@ image: assets/images/pic13.jpg
 
 <p>If you are interested in sponsoring, please drop us an email:</p>
 	 <ul class="actions" style="text-transform: uppercase; color: turquoise; text-align: left;"><li><a href="mailto:tel-aviv@devopsdays.org?subject=I would like to learn more about sponsoring DevOpsDays" class="button next">LEARN MORE</a></li></ul> 
+		
+<hr/>
+	
 		<header class="major">
 			<h2>SPONSOR THE COMMUNITY</h2>
 		</header>
-<hr/>
 <br/>
 
 
