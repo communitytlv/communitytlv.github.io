@@ -23,7 +23,7 @@ nav-menu: true
             <p style="text-align: left; ">Join leading industry speakers along with DevOps, SRE, platform, production and operations engineers for two full days of sessions focusing on best practices in modern  engineering - from the infrastructure and operations to the systems and processes. 
             <h3 style="text-align: center; font-weight: 700; color: #d95374;">We want to go deeper and more technical this year - so we're looking for your best talks to share with us. </h3>
             <p>DevOpsDays is a <a href="/team" target="_blank">volunteer-led event</a>, by the community for the community, with talks contributed by some of the best from our local community as well as the global DevOps community, with a variety of talks from beginner through advanced levels, so literally anyone can join and enjoy the sessions.</p>
-            <p>This year we have decided to SPLIT the DAYS of DevOpsDays, and hold two single-day events distributed across the year.  Join us on April 29, 2025 at AWS Floor 28 for the <span style="color: #faa344" font-weight: 400;><a href="https://lu.ma/aws-devops-2025" target="_blank">DevOps X AWS Startup Circuit event</a></span>, and on December 11th at Expo Tel Aviv for our larger summit.</p>
+            <p>This year we have decided to SPLIT the DAYS of DevOpsDays, and hold two single-day events distributed across the year.  Join us on April 29, 2025 at AWS Floor 28 for the <span style="color: #faa344; font-weight: 400;"><a href="https://lu.ma/aws-devops-2025" target="_blank">DevOps X AWS Startup Circuit event</a></span>, and on December 11th at Expo Tel Aviv for our larger summit.</p>
 
         <br />
 
