@@ -3,7 +3,7 @@ title: DevOpsDays Tel Aviv 2024 | December 11, 2025 | Expo TLV
 menu_title: DevOpsDays TLV 2025
 layout: landing
 description: <strong>December 11, 2025 | Expo Tel Aviv</strong>
-cta: <br/><ul class="actions"><li><a href="https://sessionize.com/devopsdays-tel-aviv-2025/" class="button fit" target="_blank"> SUBMIT A TALK</a></li></ul><ul class="actions"><li><a href="/devopsdays#videos class="button special fit" target="_blank"> WATCH 2024 VIDEOS</a></li></ul>
+cta: <br/><ul class="actions"><li><a href="https://sessionize.com/devopsdays-tel-aviv-2025/" class="button fit" target="_blank"> SUBMIT A TALK</a></li></ul><ul class="actions"><li><a href="/devopsdays#videos" class="button special fit" target="_blank"> WATCH 2024 VIDEOS</a></li></ul>
 image: assets/images/pic08-3.jpg
 nav-menu: true
 ---
@@ -23,7 +23,7 @@ nav-menu: true
             <p style="text-align: left; ">Join leading industry speakers along with DevOps, SRE, platform, production and operations engineers for two full days of sessions focusing on best practices in modern  engineering - from the infrastructure and operations to the systems and processes. 
             <h3 style="text-align: center; font-weight: 700; color: #d95374;">We want to go deeper and more technical this year - so we're looking for your best talks to share with us. </h3>
             <p>DevOpsDays is a <a href="/team" target="_blank">volunteer-led event</a>, by the community for the community, with talks contributed by some of the best from our local community as well as the global DevOps community, with a variety of talks from beginner through advanced levels, so literally anyone can join and enjoy the sessions.</p>
-            <p>This year we have decided to SPLIT the DAYS of DevOpsDays, and hold two single-day events distributed across the year.  Join us on April 29, 2025 at AWS Floor 28 for the <span style="color: #faa344" font-weight: 400;><a href="https://lu.ma/aws-devops-2025" target="_blank">DevOps X AWS Startup Circuit event</a></span>, and on December 11th at Expo Tel Aviv for our larger summit.</p>
+            <p>This year we have decided to SPLIT the DAYS of DevOpsDays, and hold two single-day events distributed across the year.  Join us on April 29, 2025 at AWS Floor 28 for the <span style="color: #faa344; font-weight: 400;"><a href="https://lu.ma/aws-devops-2025" target="_blank">DevOps X AWS Startup Circuit event</a></span>, and on December 11th at Expo Tel Aviv for our larger summit.</p>
 
         <br />
 
@@ -31,7 +31,7 @@ nav-menu: true
 <br/>
 <br>
    <h2 style="tex-transform: uppercase; color: #c0d44f;"> SPONSOR THE EVENT</h2>
-         <ul class="actions"><li><a href="/sponsor" target="_blank" class="button fit"> CHECK OUT THE SPONSORSHIP OPPS</a></li></ul> -->
+         <ul class="actions"><li><a href="/sponsor" target="_blank" class="button fit"> CHECK OUT THE SPONSORSHIP OPPS</a></li></ul> 
        
 
 
