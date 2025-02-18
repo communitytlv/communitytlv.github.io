@@ -74,27 +74,23 @@ nav-menu: true
 <br/>
 <hr/>
 
-<a id="speakers"></a> -->
+<a id="speakers"></a> 
 
 
     {% include /devopsdays/2023/2023-top-speakers.html %}
-    {% include /sponsors/devopsdays-2023-logos.html %}
+    {% include /sponsors/devopsdays-2023-logos.html %} -->
 <br/>
-<hr/>
-
-<br/>
-<a id="videos"></a>
 <br/>
 
    <h2> <span class="icon alt fa-video-camera"></span> 2024 EVENT VIDEOS ARE LIVE >> CHECK THEM OUT </h2>
-    <iframe width="100%" height="700" src="https://www.youtube.com/embed/videoseries?si=6bgw0fquD7gNDHEb&amp;list=PL8tivQAdoavNs2xQkQXC4f9Wdtc2CuMeT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+   <a id="videos"></a>
+    <iframe width="75%" height="700" src="https://www.youtube.com/embed/videoseries?si=6bgw0fquD7gNDHEb&amp;list=PL8tivQAdoavNs2xQkQXC4f9Wdtc2CuMeT" title="DevOpsDays TLV 2025 YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     <br/>
-     <hr/>
     <br/>
-    <h2><span class="icon alt fa-camera-retro"></span> CHECK OUT THE 2024 EVENT PICTURES</h2>
-    <ul class="actions"><li><a href="https://photos.app.goo.gl/GoT8DRVP9ecbPrXBA" class="button fit" target="_blank"> <span class="icon alt fa-camera-o"></span> EVENT PICS</a></li></ul>
+    <h2>CHECK OUT THE 2024 EVENT PICTURES</h2>
+    <ul class="actions"><li><a href="https://photos.app.goo.gl/GoT8DRVP9ecbPrXBA" class="button fit" target="_blank"> <span class="icon alt fa-camera-o"></span><span class="icon alt fa-camera-retro"></span> EVENT PICS</a></li></ul>
+    <hr/>
     <br/>
-
 
 </div> 
 
