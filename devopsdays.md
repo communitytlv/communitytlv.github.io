@@ -36,10 +36,24 @@ nav-menu: true
 
 
 
-<a id="cfp"></a>
+<a id="cfp">
 
-</div>
-</div>
+   <h2 style="tex-transform: uppercase; color: #c0d44f;"> CALL FOR PAPERS OPENS IN FEBRUARY/h2>
+
+   <h3>Call for Papers Schedule:</h3>
+   <ul>
+   <li>Call for Papers opens February 2025 and also includes DevOps X AWS event in April.  (CFPs for April event will be reviewed until mid-March)</li>
+   <li>Call for Papers closes June-July 2025</li>
+   <li>Speaker notifications by End of August/Early September 2025</li>
+   </ul>
+   <br />
+    <h3>Based on attendee feedback, we are optimizing for advanced content this year.  Please take the time to review the CFP guidelines before submitting. </h3>
+    <ul class="actions"><li><a href="https://sessionize.com/devopsdays-tel-aviv-2025/" target="_blank" class="button fit"> SUBMIT A TALK</a></li></ul> 
+    <br />
+    <h3>Best of luck and looking forward to receiving your excellent talks!</h3>
+
+
+</a>
 
 <a id="register"></a>
 <br/>
