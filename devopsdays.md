@@ -31,7 +31,7 @@ nav-menu: true
 <br/>
 <br>
    <h2 style="tex-transform: uppercase; color: #c0d44f;"> SPONSOR THE EVENT</h2>
-         <ul class="actions"><li><a href="/sponsor.md" target="_blank" class="button fit"> CHECK OUT THE SPONSORSHIP OPPS</a></li></ul> -->
+         <ul class="actions"><li><a href="/sponsor" target="_blank" class="button fit"> CHECK OUT THE SPONSORSHIP OPPS</a></li></ul> -->
        
 
 
