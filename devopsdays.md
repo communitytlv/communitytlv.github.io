@@ -72,13 +72,14 @@ nav-menu: true
 </div> 
 
 <br/>
-<hr/>
+<hr/> -->
 
-<a id="speakers"></a> 
+<!-- <a id="speakers"></a> -->
 
 
     {% include /devopsdays/2023/2023-top-speakers.html %}
-    {% include /sponsors/devopsdays-2023-logos.html %} -->
+    {% include /sponsors/devopsdays-2023-logos.html %} 
+
 <br/>
 <br/>
 
