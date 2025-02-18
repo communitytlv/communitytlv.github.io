@@ -26,15 +26,18 @@ nav-menu: true
             <p>This year we have decided to SPLIT the DAYS of DevOpsDays, and hold two single-day events distributed across the year.  Join us on April 29, 2025 at AWS Floor 28 for the <span style="color: #faa344; font-weight: 400;"><a href="https://lu.ma/aws-devops-2025" target="_blank">DevOps X AWS Startup Circuit event</a></span>, and on December 11th at Expo Tel Aviv for our larger summit.</p>
 
         <br />
+        </div>
+        </div>
 
          <a id="sponsor"></a>
 <br/>
 <br>
+<div class="inner">
+    <div class="row">
+
    <h2 style="tex-transform: uppercase; color: #c0d44f;"> SPONSOR THE EVENT</h2>
          <ul class="actions"><li><a href="/sponsor" target="_blank" class="button fit"> CHECK OUT THE SPONSORSHIP OPPS</a></li></ul> 
-       
-
-
+<hr />     
 
 <a id="cfp">
 
@@ -52,8 +55,7 @@ nav-menu: true
     <br />
     <h3>Best of luck and looking forward to receiving your excellent talks!</h3>
 
-
-</a>
+<hr />
 
 <a id="register"></a>
 <br/>
