@@ -16,6 +16,9 @@ image: assets/images/pic13.jpg
 			<h2>SPONSOR DEVOPSDAYS TEL AVIV</h2>
 	</header>
 
+	<p>&nbsp;</p>
+		 <ul class="actions"><li><a href="/devopsdays" class="button fit"><span class="icon alt fa-home"></span> DEVOPSDAYS HOME </a></li></ul>
+
 
 <strong>We greatly value sponsors for our community events.</strong>
 
