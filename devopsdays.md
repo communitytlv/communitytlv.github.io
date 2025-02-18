@@ -3,7 +3,7 @@ title: DevOpsDays Tel Aviv 2024 | December 11, 2025 | Expo TLV
 menu_title: DevOpsDays TLV 2025
 layout: landing
 description: <strong>December 11, 2025 | Expo Tel Aviv</strong>
-cta: <br/><ul class="actions"><li><a href="https://sessionize.com/devopsdays-tel-aviv-2025/" class="button fit" target="_blank"> SUBMIT A TALK</a></li></ul><ul class="actions"><li><a href="/devopsdays#videos class="button special fit" target="_blank"> WATCH 2024 VIDEOS</a></li></ul>
+cta: <br/><ul class="actions"><li><a href="https://sessionize.com/devopsdays-tel-aviv-2025/" class="button fit" target="_blank"> SUBMIT A TALK</a></li></ul><ul class="actions"><li><a href="/devopsdays#videos" class="button special fit" target="_blank"> WATCH 2024 VIDEOS</a></li></ul>
 image: assets/images/pic08-3.jpg
 nav-menu: true
 ---
@@ -31,7 +31,7 @@ nav-menu: true
 <br/>
 <br>
    <h2 style="tex-transform: uppercase; color: #c0d44f;"> SPONSOR THE EVENT</h2>
-         <ul class="actions"><li><a href="/sponsor" target="_blank" class="button fit"> CHECK OUT THE SPONSORSHIP OPPS</a></li></ul> -->
+         <ul class="actions"><li><a href="/sponsor" target="_blank" class="button fit"> CHECK OUT THE SPONSORSHIP OPPS</a></li></ul> 
        
 
 
