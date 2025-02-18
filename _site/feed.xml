@@ -1,4 +1,30 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4001/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4001/" rel="alternate" type="text/html" /><updated>2024-10-01T14:39:05+03:00</updated><id>http://localhost:4001/feed.xml</id><title type="html">TLVCommunity</title><subtitle>The place to get info about the leading dev communities in TLV.</subtitle><entry><title type="html">Grove Ventures + TLVCommunity + AWS for Startups = Happy Hour at AWS Re:Invent 2024</title><link href="http://localhost:4001/tlvcommunity-reinvent2024" rel="alternate" type="text/html" title="Grove Ventures + TLVCommunity + AWS for Startups = Happy Hour at AWS Re:Invent 2024" /><published>2024-08-20T00:00:00+03:00</published><updated>2024-08-20T00:00:00+03:00</updated><id>http://localhost:4001/tlvcommunity-reinvent2024</id><content type="html" xml:base="http://localhost:4001/tlvcommunity-reinvent2024">&lt;!-- Main --&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-02-02T18:18:35+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">TLVCommunity</title><subtitle>The place to get info about the leading DevOps communities in TLV.</subtitle><entry><title type="html">DevOpsDays Tel Aviv 2024 | AGENDA</title><link href="http://localhost:4000/devopsdays/agenda-2024-TEST" rel="alternate" type="text/html" title="DevOpsDays Tel Aviv 2024 | AGENDA" /><published>2024-10-13T00:00:00+03:00</published><updated>2024-10-13T00:00:00+03:00</updated><id>http://localhost:4000/devopsdays/devopsdays-agenda-202-TEST</id><content type="html" xml:base="http://localhost:4000/devopsdays/agenda-2024-TEST">&lt;!-- Main --&gt;
+&lt;div id=&quot;main&quot; class=&quot;alt&quot;&gt;
+
+&lt;!-- One --&gt;
+&lt;section id=&quot;one&quot;&gt;
+	&lt;div class=&quot;inner&quot;&gt;
+		&lt;header class=&quot;major&quot;&gt;
+			&lt;h1&gt;Agenda&lt;/h1&gt; 
+         &lt;a href=&quot;/devopsdays/speakers-2024&quot; class=&quot;button next scrolly&quot;&gt;CHECK OUT OUR SPEAKERS&lt;/a&gt; 
+		 &lt;br /&gt;
+		&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+		 &lt;ul class=&quot;actions&quot;&gt;&lt;li&gt;&lt;a href=&quot;/devopsdays&quot; class=&quot;button fit&quot;&gt;&lt;span class=&quot;icon alt fa-home&quot;&gt;&lt;/span&gt; DEVOPSDAYS HOME &lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+		&lt;/header&gt;
+
+&lt;script type=&quot;text/javascript&quot; src=&quot;https://sessionize.com/api/v2/dhotxgef/view/GridSmart&quot;&gt;&lt;/script&gt;       
+        
+
+&lt;/div&gt;
+
+&lt;div class=&quot;inner&quot;&gt;
+			&lt;h2&gt;We told you it was going to be great...so what are you waiting for?! Join us!&lt;/h2&gt;
+&lt;ul class=&quot;actions&quot;&gt;
+                    &lt;li&gt;&lt;a href=&quot;/devopsdays#register&quot; class=&quot;button next&quot;&gt;REGISTER&lt;/a&gt;&lt;/li&gt;
+                &lt;/ul&gt;
+
+&lt;/div&gt;&lt;/section&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/pic07.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/pic07.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Grove Ventures + TLVCommunity + AWS for Startups = Happy Hour at AWS Re:Invent 2024</title><link href="http://localhost:4000/tlvcommunity-reinvent2024" rel="alternate" type="text/html" title="Grove Ventures + TLVCommunity + AWS for Startups = Happy Hour at AWS Re:Invent 2024" /><published>2024-08-20T00:00:00+03:00</published><updated>2024-08-20T00:00:00+03:00</updated><id>http://localhost:4000/tlvcommunity-reinvent2024</id><content type="html" xml:base="http://localhost:4000/tlvcommunity-reinvent2024">&lt;!-- Main --&gt;
 &lt;div id=&quot;main&quot; class=&quot;alt&quot;&gt;
 
 &lt;!-- One --&gt;
@@ -95,7 +121,7 @@ Let’s take a moment, &lt;strong style=&quot;text-transform: uppercase; color: 
 
 &lt;/div&gt;
 
-&lt;/div&gt;&lt;/section&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4001/assets/images/reinvent-tlvcommunity2.jpeg" /><media:content medium="image" url="http://localhost:4001/assets/images/reinvent-tlvcommunity2.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">DevOpsDays Tel Aviv 2024 | AGENDA</title><link href="http://localhost:4001/devopsdays/agenda-2024" rel="alternate" type="text/html" title="DevOpsDays Tel Aviv 2024 | AGENDA" /><published>2024-08-13T00:00:00+03:00</published><updated>2024-08-13T00:00:00+03:00</updated><id>http://localhost:4001/devopsdays/devopsdays-agenda-2024</id><content type="html" xml:base="http://localhost:4001/devopsdays/agenda-2024">&lt;!-- Main --&gt;
+&lt;/div&gt;&lt;/section&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/reinvent-tlvcommunity2.jpeg" /><media:content medium="image" url="http://localhost:4000/assets/images/reinvent-tlvcommunity2.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">DevOpsDays Tel Aviv 2024 | AGENDA</title><link href="http://localhost:4000/devopsdays/agenda-2024" rel="alternate" type="text/html" title="DevOpsDays Tel Aviv 2024 | AGENDA" /><published>2024-08-13T00:00:00+03:00</published><updated>2024-08-13T00:00:00+03:00</updated><id>http://localhost:4000/devopsdays/devopsdays-agenda-2024</id><content type="html" xml:base="http://localhost:4000/devopsdays/agenda-2024">&lt;!-- Main --&gt;
 &lt;div id=&quot;main&quot; class=&quot;alt&quot;&gt;
 
 &lt;!-- One --&gt;
@@ -111,7 +137,8 @@ Let’s take a moment, &lt;strong style=&quot;text-transform: uppercase; color: 
 		&lt;/header&gt;
 
         
-&lt;script type=&quot;text/javascript&quot; src=&quot;https://sessionize.com/api/v2/dhotxgef/view/GridSmart&quot;&gt;&lt;/script&gt;       
+&lt;script src=&quot;https://static.elfsight.com/platform/platform.js&quot; async=&quot;&quot;&gt;&lt;/script&gt;
+&lt;div class=&quot;elfsight-app-e0e8b4b4-54d8-4a8a-ab08-a15509b32a9d&quot; data-elfsight-app-lazy=&quot;&quot;&gt;&lt;/div&gt;
       
 &lt;/div&gt;
 
@@ -121,7 +148,7 @@ Let’s take a moment, &lt;strong style=&quot;text-transform: uppercase; color: 
                     &lt;li&gt;&lt;a href=&quot;/devopsdays#register&quot; class=&quot;button next&quot;&gt;REGISTER&lt;/a&gt;&lt;/li&gt;
                 &lt;/ul&gt;
 
-&lt;/div&gt;&lt;/section&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4001/assets/images/pic07.jpg" /><media:content medium="image" url="http://localhost:4001/assets/images/pic07.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">AWS &amp;amp; DevOps TLVCommunity Fest Byte-Sized DevOps for Startups 2024</title><link href="http://localhost:4001/aws-devops-community-day-2024" rel="alternate" type="text/html" title="AWS &amp;amp; DevOps TLVCommunity Fest Byte-Sized DevOps for Startups 2024" /><published>2024-04-05T00:00:00+03:00</published><updated>2024-04-05T00:00:00+03:00</updated><id>http://localhost:4001/aws-devops-community-day</id><content type="html" xml:base="http://localhost:4001/aws-devops-community-day-2024">&lt;!-- Main --&gt;
+&lt;/div&gt;&lt;/section&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/pic07.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/pic07.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">AWS &amp;amp; DevOps TLVCommunity Fest Byte-Sized DevOps for Startups 2024</title><link href="http://localhost:4000/aws-devops-community-day-2024" rel="alternate" type="text/html" title="AWS &amp;amp; DevOps TLVCommunity Fest Byte-Sized DevOps for Startups 2024" /><published>2024-04-05T00:00:00+03:00</published><updated>2024-04-05T00:00:00+03:00</updated><id>http://localhost:4000/aws-devops-community-day</id><content type="html" xml:base="http://localhost:4000/aws-devops-community-day-2024">&lt;!-- Main --&gt;
 &lt;div id=&quot;main&quot; class=&quot;alt&quot;&gt;
 
 &lt;!-- One --&gt;
@@ -167,7 +194,7 @@ Let’s take a moment, &lt;strong style=&quot;text-transform: uppercase; color: 
 
 &lt;/div&gt;
 
-&lt;/section&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4001/assets/images/pic07.jpg" /><media:content medium="image" url="http://localhost:4001/assets/images/pic07.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">DevOpsDays Tel Aviv 2024 | AGENDA</title><link href="http://localhost:4001/devopsdays/agenda-2023" rel="alternate" type="text/html" title="DevOpsDays Tel Aviv 2024 | AGENDA" /><published>2023-08-13T00:00:00+03:00</published><updated>2023-08-13T00:00:00+03:00</updated><id>http://localhost:4001/devopsdays/devopsdays-agenda-2023</id><content type="html" xml:base="http://localhost:4001/devopsdays/agenda-2023">&lt;!-- Main --&gt;
+&lt;/section&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/pic07.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/pic07.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">DevOpsDays Tel Aviv 2024 | AGENDA</title><link href="http://localhost:4000/devopsdays/agenda-2023" rel="alternate" type="text/html" title="DevOpsDays Tel Aviv 2024 | AGENDA" /><published>2023-08-13T00:00:00+03:00</published><updated>2023-08-13T00:00:00+03:00</updated><id>http://localhost:4000/devopsdays/devopsdays-agenda-2023</id><content type="html" xml:base="http://localhost:4000/devopsdays/agenda-2023">&lt;!-- Main --&gt;
 &lt;div id=&quot;main&quot; class=&quot;alt&quot;&gt;
 
 &lt;!-- One --&gt;
@@ -193,7 +220,7 @@ Let’s take a moment, &lt;strong style=&quot;text-transform: uppercase; color: 
                     &lt;li&gt;&lt;a href=&quot;/devopsdays#register&quot; class=&quot;button next&quot;&gt;REGISTER&lt;/a&gt;&lt;/li&gt;
                 &lt;/ul&gt;
 
-&lt;/div&gt;&lt;/section&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4001/assets/images/pic07.jpg" /><media:content medium="image" url="http://localhost:4001/assets/images/pic07.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">DevOpsDays Tel Aviv 2024 | SPEAKER LINEUP</title><link href="http://localhost:4001/devopsdays/speakers-2024" rel="alternate" type="text/html" title="DevOpsDays Tel Aviv 2024 | SPEAKER LINEUP" /><published>2023-08-12T00:00:00+03:00</published><updated>2023-08-12T00:00:00+03:00</updated><id>http://localhost:4001/devopsdays/devopsdays-speakers-2023</id><content type="html" xml:base="http://localhost:4001/devopsdays/speakers-2024">&lt;!-- Main --&gt;
+&lt;/div&gt;&lt;/section&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/pic07.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/pic07.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">DevOpsDays Tel Aviv 2024 | SPEAKER LINEUP</title><link href="http://localhost:4000/devopsdays/speakers-2024" rel="alternate" type="text/html" title="DevOpsDays Tel Aviv 2024 | SPEAKER LINEUP" /><published>2023-08-12T00:00:00+03:00</published><updated>2023-08-12T00:00:00+03:00</updated><id>http://localhost:4000/devopsdays/devopsdays-speakers-2023</id><content type="html" xml:base="http://localhost:4000/devopsdays/speakers-2024">&lt;!-- Main --&gt;
 &lt;div id=&quot;main&quot; class=&quot;alt&quot;&gt;
 
 &lt;!-- One --&gt;
@@ -221,7 +248,7 @@ Let’s take a moment, &lt;strong style=&quot;text-transform: uppercase; color: 
 
 &lt;/div&gt;
 
-&lt;/section&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4001/assets/images/pic07.jpg" /><media:content medium="image" url="http://localhost:4001/assets/images/pic07.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">CLOUD NATIVE &amp;amp; OSS HACK DAY TLV | 2023</title><link href="http://localhost:4001/cloud-native-oss-hackday-2023" rel="alternate" type="text/html" title="CLOUD NATIVE &amp;amp; OSS HACK DAY TLV | 2023" /><published>2023-02-05T00:00:00+02:00</published><updated>2023-02-05T00:00:00+02:00</updated><id>http://localhost:4001/cloud-native-oss-hackday-2023</id><content type="html" xml:base="http://localhost:4001/cloud-native-oss-hackday-2023">&lt;!-- Main --&gt;
+&lt;/section&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/pic07.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/pic07.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">CLOUD NATIVE &amp;amp; OSS HACK DAY TLV | 2023</title><link href="http://localhost:4000/cloud-native-oss-hackday-2023" rel="alternate" type="text/html" title="CLOUD NATIVE &amp;amp; OSS HACK DAY TLV | 2023" /><published>2023-02-05T00:00:00+02:00</published><updated>2023-02-05T00:00:00+02:00</updated><id>http://localhost:4000/cloud-native-oss-hackday-2023</id><content type="html" xml:base="http://localhost:4000/cloud-native-oss-hackday-2023">&lt;!-- Main --&gt;
 &lt;div id=&quot;main&quot; class=&quot;alt&quot;&gt;
 
 &lt;!-- One --&gt;
@@ -546,7 +573,7 @@ If you have a significant product enhancement that brings direct value to OSS us
                                 Government Relations industry. Skilled in
                                 Kubernetes, OpenShift, Bash, Puppet, Linux and
                                 Windows. Strong engineering professional with a
-                                Engineer's degree focused in Computer Science
+                                Engineer&apos;s degree focused in Computer Science
                                 from Gimnasia Realit. &lt;/small&gt;&lt;/div&gt;
                     &lt;/div&gt;
                 &lt;/div&gt;
@@ -645,7 +672,7 @@ If you have a significant product enhancement that brings direct value to OSS us
                 &lt;div id=&quot;open-modal-33&quot; class=&quot;modal-window&quot;&gt;
                     &lt;div&gt;&lt;a href=&quot;#33&quot; title=&quot;Close&quot; class=&quot;modal-close&quot;&gt;X&lt;/a&gt;
                                               
-                        &lt;div&gt;&lt;small&gt;Experienced Executive Vice President Engineering with a demonstrated history of working in the computer software industry. Skilled in DevOps, Databases, Management, Engineering Leadership, Software as a Service (SaaS), and Scale. Strong engineering professional graduated from TAU and the Technion-Machon Technologi Le' Israel. &lt;br /&gt;
+                        &lt;div&gt;&lt;small&gt;Experienced Executive Vice President Engineering with a demonstrated history of working in the computer software industry. Skilled in DevOps, Databases, Management, Engineering Leadership, Software as a Service (SaaS), and Scale. Strong engineering professional graduated from TAU and the Technion-Machon Technologi Le&apos; Israel. &lt;br /&gt;
 
                             Adi has had the experience in working in hyper growth companies including LivePerson, AppsFlyer and Lemonade. During my time I was responsible of scaling the engineering team, the system and the engineering infrastructure. 
                             Expert in scaling teams, working with the product team to scale the business offering and scale the system and its infrastructure. During the years, I also developed a methodology to handle the technical backlog while en-corporate the explicit business requirement and the underline-requirement one. &lt;/small&gt;&lt;/div&gt;
@@ -773,7 +800,7 @@ If you have a significant product enhancement that brings direct value to OSS us
 
             &lt;div class=&quot;row&quot; style=&quot;text-align: center;&quot;&gt;
 
-                &lt;h4 style=&quot;text-transform: uppercase;&quot;&gt; Terasky Offices | Yegi'a
+                &lt;h4 style=&quot;text-transform: uppercase;&quot;&gt; Terasky Offices | Yegi&apos;a
                     Kapayim St 17, Petah Tikva&lt;/h4&gt;
 
                 &lt;p&gt; &lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3379.956603364706!2d34.85386361548945!3d32.09745852562924!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x151d49f9a97605e9%3A0xd24fc3d600f4e0f0!2sTeraSky!5e0!3m2!1sen!2sil!4v1677413328848!5m2!1sen!2sil&quot; width=&quot;600&quot; height=&quot;450&quot; style=&quot;border:0;&quot; allowfullscreen=&quot;&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer-when-downgrade&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
@@ -785,14 +812,14 @@ If you have a significant product enhancement that brings direct value to OSS us
 
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;/section&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">DevOpsDays Tel Aviv 2022</title><link href="http://localhost:4001/devopsdays-tlv-2022" rel="alternate" type="text/html" title="DevOpsDays Tel Aviv 2022" /><published>2022-12-15T00:00:00+02:00</published><updated>2022-12-15T00:00:00+02:00</updated><id>http://localhost:4001/devopsdays-tlv-2022</id><content type="html" xml:base="http://localhost:4001/devopsdays-tlv-2022">&lt;!-- Main --&gt;
+&lt;/section&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">DevOpsDays Tel Aviv 2022</title><link href="http://localhost:4000/devopsdays-tlv-2022" rel="alternate" type="text/html" title="DevOpsDays Tel Aviv 2022" /><published>2022-12-15T00:00:00+02:00</published><updated>2022-12-15T00:00:00+02:00</updated><id>http://localhost:4000/devopsdays-tlv-2022</id><content type="html" xml:base="http://localhost:4000/devopsdays-tlv-2022">&lt;!-- Main --&gt;
 &lt;div id=&quot;main&quot;&gt;
 
 &lt;!-- One --&gt;
 &lt;div class=&quot;inner&quot;&gt;
     &lt;div class=&quot;row&quot;&gt;
     &lt;div class=&quot;box&quot; style=&quot;width: 100%; text-align: center;&quot;&gt;
-    &lt;h2 style=&quot;text-transform: uppercase; color: turquoise;&quot;&gt;IT'S A WRAP ON DEVOPSDAYS TEL AVIV 2022!&lt;/h2&gt;
+    &lt;h2 style=&quot;text-transform: uppercase; color: turquoise;&quot;&gt;IT&apos;S A WRAP ON DEVOPSDAYS TEL AVIV 2022!&lt;/h2&gt;
     &lt;h3 style=&quot;text-transform: uppercase;&quot;&gt;December 14-15, 2022 - at Expo Tel Aviv!&lt;/h3&gt;
     &lt;p&gt;&amp;nbsp;&lt;/p&gt;
     &lt;a id=&quot;videos&quot;&gt;&lt;/a&gt;
@@ -821,10 +848,10 @@ If you have a significant product enhancement that brings direct value to OSS us
     &lt;h2 style=&quot;text-transform: uppercase;&quot;&gt; SPEAKER HIGHLIGHTS FROM PREVIOUS
         EVENTS
     &lt;/h2&gt;
-    &lt;p&gt;This year's theme is bringing the senior perspective, after &lt;strong style=&quot;color:
-            turquoise;&quot;&gt;more than a decade of DevOps.&lt;/strong&gt; &lt;br /&gt; We'll hear
+    &lt;p&gt;This year&apos;s theme is bringing the senior perspective, after &lt;strong style=&quot;color:
+            turquoise;&quot;&gt;more than a decade of DevOps.&lt;/strong&gt; &lt;br /&gt; We&apos;ll hear
             from some of the most seasoned technology professionals, and gain an
-            understanding of how far we've  come, and where we go from here.&lt;br /&gt;
+            understanding of how far we&apos;ve  come, and where we go from here.&lt;br /&gt;
                 &lt;br /&gt;
                 &lt;/p&gt;
 
@@ -921,7 +948,7 @@ If you have a significant product enhancement that brings direct value to OSS us
 
   
 	
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4001/assets/images/pic07.jpg" /><media:content medium="image" url="http://localhost:4001/assets/images/pic07.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">DevOpsDays 2022 Event Quick Links</title><link href="http://localhost:4001/devopsdays-quicklinks-2022.html" rel="alternate" type="text/html" title="DevOpsDays 2022 Event Quick Links" /><published>2022-11-26T00:00:00+02:00</published><updated>2022-11-26T00:00:00+02:00</updated><id>http://localhost:4001/devopsdays-quicklinks-2022</id><content type="html" xml:base="http://localhost:4001/devopsdays-quicklinks-2022.html">&lt;p&gt;&lt;a href=&quot;/devopsdays&quot;&gt;&lt;img src=&quot;/assets/images/devopstlv-SQ.png&quot; width=&quot;450&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/pic07.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/pic07.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">DevOpsDays 2022 Event Quick Links</title><link href="http://localhost:4000/devopsdays-quicklinks-2022.html" rel="alternate" type="text/html" title="DevOpsDays 2022 Event Quick Links" /><published>2022-11-26T00:00:00+02:00</published><updated>2022-11-26T00:00:00+02:00</updated><id>http://localhost:4000/devopsdays-quicklinks-2022</id><content type="html" xml:base="http://localhost:4000/devopsdays-quicklinks-2022.html">&lt;p&gt;&lt;a href=&quot;/devopsdays&quot;&gt;&lt;img src=&quot;/assets/images/devopstlv-SQ.png&quot; width=&quot;450&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;ul class=&quot;actions&quot;&gt;&lt;li&gt;&lt;a href=&quot;/devopsdays&quot; class=&quot;button fit&quot;&gt;&lt;span class=&quot;icon alt fa-home&quot;&gt;&lt;/span&gt; BACK TO DEVOPSDAYS &lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
 
 &lt;h2 id=&quot;event-agenda&quot;&gt;Event Agenda&lt;/h2&gt;
@@ -1117,35 +1144,7 @@ If you have a significant product enhancement that brings direct value to OSS us
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/sponsor-logos/sponsor-ads/Wizards.jpg&quot; width=&quot;50%&quot; /&gt;&lt;/p&gt;
 
-&lt;hr /&gt;</content><author><name></name></author><category term="core" /><category term="core" /><summary type="html">BACK TO DEVOPSDAYS</summary></entry><entry><title type="html">DevOpsDays Tel Aviv 2022 | AGENDA</title><link href="http://localhost:4001/devopsdays/agenda-2022" rel="alternate" type="text/html" title="DevOpsDays Tel Aviv 2022 | AGENDA" /><published>2022-10-19T00:00:00+03:00</published><updated>2022-10-19T00:00:00+03:00</updated><id>http://localhost:4001/devopsdays/devopsdays-agenda-2022</id><content type="html" xml:base="http://localhost:4001/devopsdays/agenda-2022">&lt;!-- Main --&gt;
-&lt;div id=&quot;main&quot; class=&quot;alt&quot;&gt;
-
-&lt;!-- One --&gt;
-&lt;section id=&quot;one&quot;&gt;
-	&lt;div class=&quot;inner&quot;&gt;
-		&lt;header class=&quot;major&quot;&gt;
-			&lt;h1&gt;Agenda&lt;/h1&gt; 
-         &lt;a href=&quot;/devopsdays/speakers-2022&quot; class=&quot;button next scrolly&quot;&gt;CHECK OUT OUR SPEAKERS&lt;/a&gt; 
-		 &lt;br /&gt;
-		&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-		 &lt;ul class=&quot;actions&quot;&gt;&lt;li&gt;&lt;a href=&quot;/devopsdays-quicklinks-2022&quot; class=&quot;button fit&quot;&gt;&lt;span class=&quot;icon alt fa-lightbulb-o&quot;&gt;&lt;/span&gt; EVENT QUICK LINKS &lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-
-		&lt;/header&gt;
-
-        
-        &lt;script type=&quot;text/javascript&quot; src=&quot;https://sessionize.com/api/v2/wbusfxdw/view/GridSmart&quot;&gt;&lt;/script&gt;
-       
-      
-&lt;/div&gt;
-&amp;lt;/div&amp;gt;
-
-&lt;div class=&quot;inner&quot;&gt;
-			&lt;h2&gt;We told you it was going to be great...so what are you waiting for?! Join us!&lt;/h2&gt;
-&lt;ul class=&quot;actions&quot;&gt;
-                    &lt;li&gt;&lt;a href=&quot;https://bit.ly/DEVOPSDAYS-2022-TIX&quot; class=&quot;button next&quot;&gt;REGISTER&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;
-
-&lt;/div&gt;&lt;/section&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4001/assets/images/pic07.jpg" /><media:content medium="image" url="http://localhost:4001/assets/images/pic07.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">DevOpsDays Tel Aviv 2022 | SPEAKER LINEUP</title><link href="http://localhost:4001/devopsdays/speakers-2022" rel="alternate" type="text/html" title="DevOpsDays Tel Aviv 2022 | SPEAKER LINEUP" /><published>2022-10-19T00:00:00+03:00</published><updated>2022-10-19T00:00:00+03:00</updated><id>http://localhost:4001/devopsdays/devopsdays-speakers-2022</id><content type="html" xml:base="http://localhost:4001/devopsdays/speakers-2022">&lt;!-- Main --&gt;
+&lt;hr /&gt;</content><author><name></name></author><category term="core" /><category term="core" /><summary type="html">BACK TO DEVOPSDAYS</summary></entry><entry><title type="html">DevOpsDays Tel Aviv 2022 | SPEAKER LINEUP</title><link href="http://localhost:4000/devopsdays/speakers-2022" rel="alternate" type="text/html" title="DevOpsDays Tel Aviv 2022 | SPEAKER LINEUP" /><published>2022-10-19T00:00:00+03:00</published><updated>2022-10-19T00:00:00+03:00</updated><id>http://localhost:4000/devopsdays/devopsdays-speakers-2022</id><content type="html" xml:base="http://localhost:4000/devopsdays/speakers-2022">&lt;!-- Main --&gt;
 &lt;div id=&quot;main&quot; class=&quot;alt&quot;&gt;
 
 &lt;!-- One --&gt;
@@ -1173,4 +1172,4 @@ If you have a significant product enhancement that brings direct value to OSS us
 
 &lt;/div&gt;
 
-&lt;/section&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4001/assets/images/pic07.jpg" /><media:content medium="image" url="http://localhost:4001/assets/images/pic07.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;/section&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/pic07.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/pic07.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
