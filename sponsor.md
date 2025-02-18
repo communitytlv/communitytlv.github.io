@@ -16,6 +16,47 @@ image: assets/images/pic13.jpg
 			<h2>SPONSOR DEVOPSDAYS TEL AVIV</h2>
 	</header>
 
+
+## We greatly value sponsors for our community events.  
+
+### You are also welcome to view our <a href="https://drive.google.com/file/d/18MCIMUhiArIp0pa1VF4FQh9GtxUz4X7Z/view?usp=sharing" target="_blank">sponsorship brochure</a>, and if you are interested in sponsoring, please drop us an email at <a href="mailto:tel-aviv@devopsdays.org?subject=I would like to learn more about sponsoring DevOpsDays">tel-aviv@devopsdays.org</a>.
+
+<hr>
+
+## Diamond Booth Sample
+<img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/Diamond-Booth.JPG?raw=true" width="500">
+
+<br/>
+
+## Platinum Booth Sample
+<img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/Platinum-1.JPG?raw=true" width="500">&nbpsp;<img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/Platinum-3.JPG?raw=true" width="500">&nbpsp;<img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/Platinum-2.JPG?raw=true" width="500">
+
+<br/>
+
+
+## Gold Booth Sample
+<img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/Gold.JPG?raw=true" width="500">
+
+<br/>
+
+
+## Demo Theater
+<img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/Demo-Theater.JPG?raw=true" width="500">
+
+<br/>
+
+## Coffee Sponsor
+<img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/coffee-1.JPG?raw=true" width="500">&nbpsp;<img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/Coffee-2.JPG?raw=true" width="500">
+
+<br/>
+
+## Happy Hour Sponsor
+<img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/Happy-Hour-Sponsor.JPG?raw=true" width="500">
+
+
+<hr/>
+<br/>
+
 	 <ul class="actions" style="text-transform: uppercase; color: turquoise; text-align: left;"><li><a href="/devopsdays#sponsor" class="button next">LEARN MORE</a></li></ul> 
 		<header class="major">
 			<h2>SPONSOR THE COMMUNITY</h2>
