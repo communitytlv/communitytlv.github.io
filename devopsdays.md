@@ -15,7 +15,7 @@ nav-menu: true
     <div class="row">
     <div class="box" style="width: 100%; text-align: center;">
     <h1 style="text-transform: uppercase; color: turquoise;">DEVOPSDAYS TEL AVIV 2025</h1>
-    <h2 style="text-transform: uppercase; color: #e102ff;">December 11, 2025 at Expo Tel Aviv!</h2>
+    <h2 style="text-transform: uppercase; color:rgb(201, 97, 236);">December 11, 2025 at Expo Tel Aviv!</h2>
 
 <br/>            
             <p>DevOpsDays Tel-Aviv is back for its <span style="font-weight: 800; color: #d95374;">ELEVENTH EVENT</span> to celebrate our <span style="font-weight: 600; color: #c0d44f;">AWESOME TLVCOMMUNITY</span> representing all topics from DevOps Tel Aviv to Cloud Native & OSS Day Tel Aviv, Serverless TLV, and Statscraft.</p>
