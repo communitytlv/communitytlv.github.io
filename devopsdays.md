@@ -1,5 +1,5 @@
 ---
-title: DevOpsDays Tel Aviv 2024 | December 11, 2025 | Expo TLV
+title: DevOpsDays Tel Aviv | December 11, 2025 | Expo TLV
 menu_title: DevOpsDays TLV 2025
 layout: landing
 description: <strong>December 11, 2025 | Expo Tel Aviv</strong>
@@ -14,7 +14,7 @@ nav-menu: true
 <div class="inner">
     <div class="row">
     <div class="box" style="width: 100%; text-align: center;">
-    <h1 style="text-transform: uppercase; color: turquoise;">DEVOPSDAYS TEL AVIV  EVENT 🧟‍♀️</h1>
+    <h1 style="text-transform: uppercase; color: turquoise;">DEVOPSDAYS TEL AVIV 2025</h1>
     <h2 style="text-transform: uppercase; color: #e102ff;">December 11, 2025 at Expo Tel Aviv!</h2>
 
 <br/>            
@@ -48,7 +48,7 @@ nav-menu: true
    <br/>
 
    <ul>
-   <li>Call for Papers opens February 2025 and also includes DevOps X AWS event in April.  (CFPs for April event will be reviewed until mid-March)</li>
+   <li>Call for Papers opens February 2025 and also includes the <span style="color: #faa344; font-weight: 400;"><a href="https://lu.ma/aws-devops-2025" target="_blank">DevOps X AWS Startup Circuit event</a></span> in April.  (CFPs for April event will be reviewed until mid-March)</li>
    <li>Call for Papers closes June-July 2025</li>
    <li>Speaker notifications by End of August/Early September 2025</li>
    </ul>
