@@ -29,12 +29,14 @@ image: assets/images/pic13.jpg
 <img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/Diamond-Booth.JPG?raw=true" width="500">
 
 <br/>
+<br/>
 
 <h3>Platinum Booth Sample</h3>
 <br/>
 
 <img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/Platinum-1.JPG?raw=true" width="500">&nbsp;<img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/Platinum-3.JPG?raw=true" width="500">&nbsp;<img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/Platinum-2.JPG?raw=true" width="500">
 
+<br/>
 <br/>
 
 
@@ -44,12 +46,13 @@ image: assets/images/pic13.jpg
 <img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/Gold.JPG?raw=true" width="500">
 
 <br/>
-
+<br/>
 
 <h3>Demo Theater</h3>
 <br/>
 <img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/Demo-Theater.JPG?raw=true" width="500">
 
+<br/>
 <br/>
 
 <h3> Coffee Sponsor</h3>
@@ -57,19 +60,23 @@ image: assets/images/pic13.jpg
 <img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/coffee-1.JPG?raw=true" width="500">&nbsp;<img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/Coffee-2.JPG?raw=true" width="500">
 
 <br/>
+<br/>
 
-<h3>> Happy Hour Sponsor</h3>
+<h3> Happy Hour Sponsor</h3>
 <br/>
 <img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/Happy-Hour-Sponsor.JPG?raw=true" width="500">
 
-
+<p>If you are interested in sponsoring, please drop us an email:</p>
+	 <ul class="actions" style="text-transform: uppercase; color: turquoise; text-align: left;"><li><a href="mailto:tel-aviv@devopsdays.org?subject=I would like to learn more about sponsoring DevOpsDays" class="button next">LEARN MORE</a></li></ul> 
+		
 <hr/>
-<br/>
-
-	 <ul class="actions" style="text-transform: uppercase; color: turquoise; text-align: left;"><li><a href="/devopsdays#sponsor" class="button next">LEARN MORE</a></li></ul> 
+	
 		<header class="major">
 			<h2>SPONSOR THE COMMUNITY</h2>
 		</header>
+<br/>
+
+
 <!-- Content -->
 <h4 id="content">In order to sustain our community in the long-term we always welcome <strong style="font-family: monospace; color: turquoise;">COMMUNITY SPONSORS</strong> </h4>
 <hr class="major" />

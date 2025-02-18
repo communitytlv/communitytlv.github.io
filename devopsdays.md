@@ -26,20 +26,36 @@ nav-menu: true
             <p>This year we have decided to SPLIT the DAYS of DevOpsDays, and hold two single-day events distributed across the year.  Join us on April 29, 2025 at AWS Floor 28 for the <span style="color: #faa344; font-weight: 400;"><a href="https://lu.ma/aws-devops-2025" target="_blank">DevOps X AWS Startup Circuit event</a></span>, and on December 11th at Expo Tel Aviv for our larger summit.</p>
 
         <br />
+        </div>
+        </div>
 
          <a id="sponsor"></a>
 <br/>
 <br>
+<div class="inner">
+    <div class="row">
+
    <h2 style="tex-transform: uppercase; color: #c0d44f;"> SPONSOR THE EVENT</h2>
          <ul class="actions"><li><a href="/sponsor" target="_blank" class="button fit"> CHECK OUT THE SPONSORSHIP OPPS</a></li></ul> 
-       
+<hr />     
 
+<a id="cfp">
 
+   <h2 style="tex-transform: uppercase; color: #c0d44f;"> CALL FOR PAPERS OPENS IN FEBRUARY/h2>
 
-<a id="cfp"></a>
+   <h3>Call for Papers Schedule:</h3>
+   <ul>
+   <li>Call for Papers opens February 2025 and also includes DevOps X AWS event in April.  (CFPs for April event will be reviewed until mid-March)</li>
+   <li>Call for Papers closes June-July 2025</li>
+   <li>Speaker notifications by End of August/Early September 2025</li>
+   </ul>
+   <br />
+    <h3>Based on attendee feedback, we are optimizing for advanced content this year.  Please take the time to review the CFP guidelines before submitting. </h3>
+    <ul class="actions"><li><a href="https://sessionize.com/devopsdays-tel-aviv-2025/" target="_blank" class="button fit"> SUBMIT A TALK</a></li></ul> 
+    <br />
+    <h3>Best of luck and looking forward to receiving your excellent talks!</h3>
 
-</div>
-</div>
+<hr />
 
 <a id="register"></a>
 <br/>
