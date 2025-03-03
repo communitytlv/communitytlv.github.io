@@ -1,4 +1,65 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-02-18T15:48:22+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">TLVCommunity</title><subtitle>The place to get info about the leading DevOps communities in TLV.</subtitle><entry><title type="html">DevOpsDays Tel Aviv 2024 | AGENDA</title><link href="http://localhost:4000/devopsdays/agenda-2024-TEST" rel="alternate" type="text/html" title="DevOpsDays Tel Aviv 2024 | AGENDA" /><published>2024-10-13T00:00:00+03:00</published><updated>2024-10-13T00:00:00+03:00</updated><id>http://localhost:4000/devopsdays/devopsdays-agenda-202-TEST</id><content type="html" xml:base="http://localhost:4000/devopsdays/agenda-2024-TEST">&lt;!-- Main --&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-03-03T17:49:14+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">TLVCommunity</title><subtitle>The place to get info about the leading DevOps communities in TLV.</subtitle><entry><title type="html">DevOps X AWS Startup Circuit | 2025</title><link href="http://localhost:4000/aws-devops-community-day-2025" rel="alternate" type="text/html" title="DevOps X AWS Startup Circuit | 2025" /><published>2025-02-24T00:00:00+02:00</published><updated>2025-02-24T00:00:00+02:00</updated><id>http://localhost:4000/aws-devops-community-day-25</id><content type="html" xml:base="http://localhost:4000/aws-devops-community-day-2025">&lt;!-- Main --&gt;
+&lt;div id=&quot;main&quot; class=&quot;alt&quot;&gt;
+
+&lt;!-- One --&gt;
+&lt;section id=&quot;one&quot;&gt;
+	&lt;div class=&quot;inner&quot;&gt;
+
+
+ &lt;div class=&quot;box&quot; style=&quot;text-align: center;&quot;&gt;
+
+&lt;img src=&quot;/assets/images/devops-community-day-crop2.jpg&quot; /&gt;		
+
+&lt;h2&gt; A Huge Thanks to Our Sponsors Who Make Our Events Possible &lt;/h2&gt;
+ &lt;a href=&quot;https://terasky.com&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/assets/images/sponsor-logos/terasky-SQ.png&quot; width=&quot;150px&quot; /&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;https://quali.com&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/assets/images/sponsor-logos/quali-SQ.png&quot; width=&quot;150px&quot; /&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;https://baz.co&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/assets/images/sponsor-logos/baz-SQ.png&quot; width=&quot;150px&quot; /&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;https://rtfmplease.dev&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/assets/images/sponsor-logos/rtfm-SQ.png&quot; width=&quot;150px&quot; /&gt;&lt;/a&gt;
+
+&lt;/div&gt;
+
+               
+&lt;a id=&quot;agenda&quot;&gt;&lt;/a&gt;
+
+&lt;!--&lt;script src=&quot;https://static.elfsight.com/platform/platform.js&quot; data-use-service-core defer&gt;&lt;/script&gt;
+&lt;div class=&quot;elfsight-app-03ed32cd-8162-4e3d-b015-e473714a328f&quot; data-elfsight-app-lazy&gt;&lt;/div&gt; 
+
+&lt;/div&gt;--&gt;
+
+&lt;div class=&quot;box&quot;&gt;
+&lt;p&gt;​The DevOpsTLV Community is joining forces once again with AWS for Startups to bring you a full day DevOps x Startup showcase - with some fun byte-sized stories from our very own ecosystem, to get you pumped before AWS Summit TLV.&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img src=&quot;https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=400,height=400/event-covers/h8/935d2b7e-f12b-4067-9afd-eb27ec3a4ae1.png&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center;&quot;&gt;​Space is limited to the AWS Experience Floor28 capacity, so grab your spot early!&lt;/p&gt;
+
+&lt;ul style=&quot;text-align: center;&quot; class=&quot;actions&quot;&gt;&lt;li&gt;&lt;a href=&quot;https://lu.ma/aws-devops-2025&quot; class=&quot;button fit&quot; target=&quot;_blank&quot;&gt; REGISTER&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+
+&lt;h3 style=&quot;text-align: center;&quot;&gt;​This is the first of TWO single-day &lt;a href=&quot;/devopsdays&quot; target=&quot;_blank&quot;&gt;DevOpsDays TLV Community&lt;/a&gt; events this year, and we are accepting CFPs for this event until March 10th - submit here:&lt;/h3&gt;
+
+&lt;ul style=&quot;text-align: center;&quot; class=&quot;actions&quot;&gt;&lt;li&gt;&lt;a href=&quot;https://sessionize.com/devopsdays-tel-aviv-2025/&quot; class=&quot;button fit&quot; target=&quot;_blank&quot;&gt; SUBMIT TALK&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+ &lt;/div&gt;
+
+
+ &lt;div class=&quot;box&quot; style=&quot;text-align: center;&quot;&gt;
+       &lt;h2 style=&quot;text-transform: uppercase; color: turquoise;&quot;&gt;EVENT LOCATION&lt;/h2&gt;
+       &lt;h4&gt;AWS Experience Floor28, Azriel Sarona, 121 Derech Menachem Begin Blvd, Tel Aviv&lt;/h4&gt;
+       &lt;p&gt;(&lt;a href=&quot;https://maps.app.goo.gl/wb6LNQ1GHuvdSLsVA&quot; target=&quot;_blank&quot;&gt;map&lt;/a&gt;)&lt;/p&gt;
+  
+   &lt;p style=&quot;text-align: center;&quot;&gt; &lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3380.905497353656!2d34.786448976433775!3d32.071804673966376!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x151d4b9c4620ee5b%3A0xa060857953cd4476!2sAzrieli%20Sarona%20Tower!5e0!3m2!1sen!2sil!4v1712752726113!5m2!1sen!2sil&quot; width=&quot;100%&quot; height=&quot;400&quot; style=&quot;border:0;&quot; allowfullscreen=&quot;&quot; loading=&quot;lazy&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;a id=&quot;register&quot;&gt;&lt;/a&gt;
+
+			&lt;h2&gt;We told you it was going to be great...so what are you waiting for?! Join us!&lt;/h2&gt;
+&lt;ul class=&quot;actions&quot;&gt;
+                    &lt;li&gt;&lt;a href=&quot;https://lu.ma/devops-community-day-2024&quot; class=&quot;button next&quot;&gt;REGISTER&lt;/a&gt;&lt;/li&gt;
+                &lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;/section&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/pic07.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/pic07.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">DevOpsDays Tel Aviv 2024 | AGENDA</title><link href="http://localhost:4000/devopsdays/agenda-2024-TEST" rel="alternate" type="text/html" title="DevOpsDays Tel Aviv 2024 | AGENDA" /><published>2024-10-13T00:00:00+03:00</published><updated>2024-10-13T00:00:00+03:00</updated><id>http://localhost:4000/devopsdays/devopsdays-agenda-202-TEST</id><content type="html" xml:base="http://localhost:4000/devopsdays/agenda-2024-TEST">&lt;!-- Main --&gt;
 &lt;div id=&quot;main&quot; class=&quot;alt&quot;&gt;
 
 &lt;!-- One --&gt;
@@ -1144,32 +1205,4 @@ If you have a significant product enhancement that brings direct value to OSS us
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/sponsor-logos/sponsor-ads/Wizards.jpg&quot; width=&quot;50%&quot; /&gt;&lt;/p&gt;
 
-&lt;hr /&gt;</content><author><name></name></author><category term="core" /><category term="core" /><summary type="html">BACK TO DEVOPSDAYS</summary></entry><entry><title type="html">DevOpsDays Tel Aviv 2022 | SPEAKER LINEUP</title><link href="http://localhost:4000/devopsdays/speakers-2022" rel="alternate" type="text/html" title="DevOpsDays Tel Aviv 2022 | SPEAKER LINEUP" /><published>2022-10-19T00:00:00+03:00</published><updated>2022-10-19T00:00:00+03:00</updated><id>http://localhost:4000/devopsdays/devopsdays-speakers-2022</id><content type="html" xml:base="http://localhost:4000/devopsdays/speakers-2022">&lt;!-- Main --&gt;
-&lt;div id=&quot;main&quot; class=&quot;alt&quot;&gt;
-
-&lt;!-- One --&gt;
-&lt;section id=&quot;one&quot;&gt;
-	&lt;div class=&quot;inner&quot;&gt;
-		&lt;header class=&quot;major&quot;&gt;
-			&lt;h1&gt;MEET OUR SPEAKERS&lt;/h1&gt; 
-                &lt;a href=&quot;/devopsdays/agenda-2022&quot; class=&quot;button next scrolly&quot;&gt;CHECK OUT THE AGENDA&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-				&lt;ul class=&quot;actions&quot;&gt;&lt;li&gt;&lt;a href=&quot;/devopsdays-quicklinks-2022&quot; class=&quot;button fit&quot;&gt;&lt;span class=&quot;icon alt fa-lightbulb-o&quot;&gt;&lt;/span&gt; EVENT QUICK LINKS &lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-
-	&lt;/header&gt;
-               
-
-        &lt;script type=&quot;text/javascript&quot; src=&quot;https://sessionize.com/api/v2/wbusfxdw/view/SpeakerWall&quot;&gt;&lt;/script&gt;
-
-&lt;/div&gt;
-
-&lt;div class=&quot;inner&quot;&gt;
-			&lt;h2&gt;We told you it was going to be great...so what are you waiting for?! Join us!&lt;/h2&gt;
-&lt;ul class=&quot;actions&quot;&gt;
-                    &lt;li&gt;&lt;a href=&quot;https://bit.ly/DEVOPSDAYS-2022-TIX&quot; class=&quot;button next&quot;&gt;REGISTER&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;
-
-&lt;/div&gt;
-
-&lt;/section&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/pic07.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/pic07.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;hr /&gt;</content><author><name></name></author><category term="core" /><category term="core" /><summary type="html">BACK TO DEVOPSDAYS</summary></entry></feed>
