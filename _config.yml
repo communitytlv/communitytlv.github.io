@@ -20,13 +20,12 @@ tiles-count: 6
 # social settings
 facebook_url:
 github_url: https://github.com/communitytlv
-linkedin_url: https://www.linkedin.com/in/communityTLV
+linkedin_url: https://www.linkedin.com/company/devopsdays-tel-aviv/
 discord_url: https://discord.gg/jFqCBBG5xx
 twitter_url: https://twitter.com/TLVCommunity
-devopsdays_url: https://devopsdays.org/events/tel-aviv
-cloudnative_url: https://cloudnativeisrael.com
+devopsdays_url: https://devopsdays.org/tel-aviv
+cloudnative_url: /cloudnativeIL
 statscraft_url: http://statscraft.org.il
-devseccon_url: https://devseccon.com
 telegram_url: https://t.me/tlvcommunitydev
 whatsapp_url: https://rtfmp.lease/tlvcommunity-whatsapp
 newsletter_url: https://rtfmp.lease/tlvcommunity-newsletter
