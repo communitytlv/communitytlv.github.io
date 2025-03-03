@@ -4,7 +4,7 @@ title: CLOUD NATIVE & OPEN SOURCE ISRAEL
 menu_title: CLOUD NATIVE & OSS TLV 
 description: 'THE COMMUNITY BRINGING TOGETHER CLOUD NATIVE & OSS ENTHUSIASTS IN TLV'
 image: assets/images/pic12.jpg
-nav-menu: true
+nav-menu: false
 ---
 
 <!-- Main -->

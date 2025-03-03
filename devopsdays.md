@@ -3,7 +3,7 @@ title: DevOpsDays Tel Aviv ○ December 11, 2025
 menu_title: DevOpsDays TLV 2025
 layout: landing
 description: 
-cta: <br/><ul class="actions"><li><a href="https://sessionize.com/devopsdays-tel-aviv-2025/" class="button fit" target="_blank"> SUBMIT A TALK</a></li></ul><ul class="actions"><li><a href="/devopsdays#videos" class="button special fit" target="_blank"> WATCH 2024 VIDEOS</a></li></ul>
+cta: <br/><ul class="actions"><li><a href="https://sessionize.com/devopsdays-tel-aviv-2025/" class="button fit" target="_blank"> SUBMIT A TALK</a></li></ul><ul class="actions"><li><a href="https://rtfmp.lease/devopsdaystlv-2025-tix" class="button special fit" target="_blank"> REGISTER</a></li></ul>
 image: assets/images/pic08-3.jpg
 nav-menu: true
 ---
@@ -83,12 +83,14 @@ nav-menu: true
 <br/>
 <br/>
 
-   <h2> <span class="icon alt fa-video-camera"></span> 2024 EVENT VIDEOS ARE LIVE >> CHECK THEM OUT </h2>
+   <h2> <span class="icon alt fa-video-camera"></span> 2024 EVENT VIDEOS </h2>
    <a id="videos"></a>
     <iframe width="75%" height="700" src="https://www.youtube.com/embed/videoseries?si=6bgw0fquD7gNDHEb&amp;list=PL8tivQAdoavNs2xQkQXC4f9Wdtc2CuMeT" title="DevOpsDays TLV 2025 YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    <br/>
-    <br/>
+    <p>&nbsp;</p>
+    <p></p>
     <h2>CHECK OUT THE 2024 EVENT PICTURES</h2>
+    <br/>
+    <p>&nbsp;</p>
     <ul class="actions"><li><a href="https://photos.app.goo.gl/GoT8DRVP9ecbPrXBA" class="button fit" target="_blank"> <span class="icon alt fa-camera-o"></span><span class="icon alt fa-camera-retro"></span> EVENT PICS</a></li></ul>
     <hr/>
     <br/>
