@@ -15,7 +15,7 @@ image: assets/images/pic13.jpg
 	<header class="major">
 			<h2>SPONSOR DEVOPSDAYS TEL AVIV</h2>
 	</header>
-
+	
 	<p>&nbsp;</p>
 		 <ul class="actions"><li><a href="/devopsdays" class="button fit"><span class="icon alt fa-home"></span> DEVOPSDAYS HOME </a></li></ul>
 
@@ -115,7 +115,7 @@ image: assets/images/pic13.jpg
 
 
 
-		 {% include /sponsors/devopsdays-2023-logos.html %}
+		 {% include /sponsors/devopsdays-2024-logos.html %}
 
 		<br/>
         <br/>
