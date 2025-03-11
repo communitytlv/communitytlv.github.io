@@ -52,7 +52,7 @@ nav-menu: true
 <ul style="text-align: center;" class="actions"><li><a href="https://lu.ma/aws-devops-2025" class="button fit" target="_blank"> REGISTER</a></li></ul>
 
 
-<h3 style="text-align: center;">​This is the first of TWO single-day <a href="/devopsdays" target="_blank">DevOpsDays TLV Community</a> events this year, and we are accepting CFPs for this event until March 10th - submit here:</h3>
+<h3 style="text-align: center;">​This is the first of TWO single-day <a href="/devopsdays" target="_blank">DevOpsDays TLV Community</a> events this year, and we are accepting CFPs for this event until March 15th - submit here:</h3>
 
 <ul style="text-align: center;" class="actions"><li><a href="https://sessionize.com/devopsdays-tel-aviv-2025/" class="button fit" target="_blank"> SUBMIT TALK</a></li></ul>
 
