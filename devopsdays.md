@@ -78,7 +78,7 @@ nav-menu: true
 
 
     {% include /devopsdays/2023/2023-top-speakers.html %}
-    {% include /sponsors/devopsdays-2024-logos.html %} 
+    {% include /sponsors/devopsdays-2025-logos.html %} 
 
 <br/>
 <br/>
