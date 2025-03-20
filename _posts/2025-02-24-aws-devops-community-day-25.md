@@ -29,6 +29,8 @@ nav-menu: true
         target="_blank"><img src="/assets/images/sponsor-logos/quali-SQ.png" width="150px"></a>&nbsp;&nbsp;<a
         href="https://baz.co"
         target="_blank"><img src="/assets/images/sponsor-logos/baz-SQ.png" width="150px"></a>&nbsp;&nbsp;<a
+        href="https://firefly.ai"
+        target="_blank"><img src="/assets/images/sponsor-logos/firefly-SQ.png" width="150px"></a>&nbsp;&nbsp;<a
         href="https://rtfmplease.dev"
         target="_blank"><img src="/assets/images/sponsor-logos/rtfm-SQ.png" width="150px"></a>
 
