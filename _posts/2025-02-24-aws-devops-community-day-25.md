@@ -22,6 +22,9 @@ nav-menu: true
 <img src="/assets/images/devops-community-day-crop2.jpg">		
 
 <h2> A Huge Thanks to Our Sponsors Who Make Our Events Possible </h2>
+<a href="https://scylladb.com"
+        target="_blank"><img src="/assets/images/sponsor-logos/scylla-SQ.png"
+             width="150px"></a>&nbsp;&nbsp;
  <a href="https://terasky.com"
         target="_blank"><img src="/assets/images/sponsor-logos/terasky-SQ.png"
              width="150px"></a>&nbsp;&nbsp;<a

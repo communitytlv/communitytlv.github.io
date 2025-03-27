@@ -28,7 +28,7 @@ nav-menu: true
         target="_blank"><img src="/assets/images/sponsor-logos/wing-2-logo-SQ.png"
              width="150px"></a>&nbsp;&nbsp;<a
         href="https://firefly.ai"
-        target="_blank"><img src="/assets/images/sponsor-logos/firefly-logo-SQ.png" width="150px"></a>&nbsp;&nbsp;<a
+        target="_blank"><img src="/assets/images/sponsor-logos/firefly-SQ.png" width="150px"></a>&nbsp;&nbsp;<a
         href="https://raven.io"
         target="_blank"><img src="/assets/images/sponsor-logos/raven-logo-SQ.png" width="150px"></a>&nbsp;&nbsp;<a
         href="https://aerospike.com"
