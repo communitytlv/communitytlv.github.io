@@ -57,7 +57,7 @@ nav-menu: true
 <ul style="text-align: center;" class="actions"><li><a href="https://lu.ma/aws-devops-2025" class="button fit" target="_blank"> REGISTER</a></li></ul>
 
 
-<h3 style="text-align: center;">​This is the first of TWO single-day <a href="/devopsdays" target="_blank">DevOpsDays TLV Community</a> events this year––and we're excited to announced the EXCELLENT lineup for this event:
+<h3 style="text-align: center;">​This is the first of TWO single-day <a href="/devopsdays" target="_blank">DevOpsDays TLV Community</a> events this year––and we're excited to announced the EXCELLENT lineup for this event:</h3>
 
 <!-- Elfsight Event Calendar | AWS + DevOps Community Day 2025 -->
 <script src="https://static.elfsight.com/platform/platform.js" async></script>
