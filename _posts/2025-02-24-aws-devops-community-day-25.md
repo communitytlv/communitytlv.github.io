@@ -2,7 +2,7 @@
 layout: landing
 title: DevOps X AWS Startup Circuit | 2025 
 menu_title: AWS Experience Floor28 | April 29, 2025
-description: <h3>AWS Experience Floor28 | May 29, 2024</h3>
+description: <h3>AWS Experience Floor28 | April 29, 2025</h3>
 cta: <br/><ul class="actions"><li><a href="https://lu.ma/aws-devops-2025" class="button special fit" target="_blank"> REGISTER</a></li></ul>
 image: assets/images/pic07.jpg
 permalink: /aws-devops-community-day-2025
