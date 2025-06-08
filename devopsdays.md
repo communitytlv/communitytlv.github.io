@@ -23,19 +23,26 @@ nav-menu: true
             <p>DevOpsDays Tel Aviv is part of the global <a href="https://devopsdays.org/tel-aviv" target="_blank">devopsdays event series</a>, bringing in participants from the entire global devopsdays community.  To learn more, you can visit our event on the main <a href="https://devopsdays.org/" target="_blank">devopsdays.org</a> website.</p>
 
             <p style="text-align: left; ">Join leading industry speakers along with DevOps, SRE, platform, production and operations engineers for two full days of sessions focusing on best practices in modern  engineering - from the infrastructure and operations to the systems and processes.</p>
+           
 
-            <h3 style="text-align: center; font-weight: 700; color: #d95374;">We want to go deeper and more technical this year - so we're looking for your best talks to share with us. </h3>
-
-            <p>DevOpsDays is a <a href="/team" target="_blank">volunteer-led event</a>, by the community for the community, with talks contributed by some of the best from our local community as well as the global DevOps community, with a variety of talks from beginner through advanced levels, so literally anyone can join and enjoy the sessions.</p>
-
-            <p>This year we have decided to SPLIT the DAYS of DevOpsDays, and hold two single-day events distributed across the year.  Join us on April 29, 2025 at AWS Floor 28 for the <span style="color: #faa344; font-weight: 400;"><a href="https://lu.ma/aws-devops-2025" target="_blank">DevOps X AWS Startup Circuit event</a></span>, and on December 11th at Expo Tel Aviv for our larger summit.</p>
-
-		 <ul class="actions"><li><a href="https://lu.ma/aws-devops-2025" class="button fit"><span class="icon alt fa-star" style="color: #faa344;"></span> REGISTER FOR AWS X DEVOPS </a></li></ul>
+		 <ul class="actions"><li><a href="https://rtfmp.lease/devopsdaystlv-2025-tix" class="button fit"><span class="icon alt fa-star" style="color: #faa344;"></span> GET EARLY BIRD TIX </a></li></ul>
             </div>
         <br />
         </div>
         <br/>
         <br>
+<a id="keynote"></a>
+    <div class="row">
+    <div class="box" style="width: 100%; background-color: #A06AC6;"><h2 style="color: #2a2f4a; text-transform: uppercase; text-align: center;"><span class="icon fa-star"></span> KEYNOTE SPEAKER <span class="icon fa-star"></span></h2></div>
+    <div class="box" style="width: 100%; text-align: center;">
+    <img src="/assets/images/speakers/solomon-hykes.png" width="250px">
+    <ul class="icons"><li><a href="https://x.com/solomonstre" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/solomonhykes/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/shykes" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul>
+    <h4>We are thrilled to announced that <span style="font-weight: 800; color: #A06AC6;">Solomon Hykes, creator of Docker, CEO and Co-Founder of Dagger</span> will be taking the stage at the upcoming DevOpsDays TLV as our KEYNOTE SPEAKER!</h4>
+    <h5>We have been waiting for years to welcome Solomon to our stage, so let's show him some fine TLV hospitality!</h5>
+    <h5>Early Bird tickets are still on sale - so now's the time to register!</h5>
+    <ul class="actions"><li><a href="https://rtfmp.lease/devopsdaystlv-2025-tix" target="_blank" class="button fit"> REGISTER</a></li></ul> 
+    </div>
+
 <a id="sponsor"></a>
     <div class="row">
     <div class="box" style="width: 100%; text-align: center;">
@@ -46,6 +53,12 @@ nav-menu: true
 <div class="box" style="width: 100%;">
 <a id="cfp"></a>
    <h2 style="tex-transform: uppercase; color: #c0d44f;"> CALL FOR PAPERS OPENS IN FEBRUARY</h2>
+    <h3 style="text-align: center; font-weight: 700; color: #d95374;">We want to go deeper and more technical this year - so we're looking for your best talks to share with us. </h3>
+
+    <p>DevOpsDays is a <a href="/team" target="_blank">volunteer-led event</a>, by the community for the community, with talks contributed by some of the best from our local community as well as the global DevOps community, with a variety of talks from beginner through advanced levels, so literally anyone can join and enjoy the sessions.</p>
+
+    <p>This year we have decided to SPLIT the DAYS of DevOpsDays, and hold two single-day events distributed across the year.  Join us on April 29, 2025 at AWS Floor 28 for the <span style="color: #faa344; font-weight: 400;"><a href="https://lu.ma/aws-devops-2025" target="_blank">DevOps X AWS Startup Circuit event</a></span>, and on December 11th at Expo Tel Aviv for our larger summit.</p>
+    
    <h4>Call for Papers Schedule:</h4>
    <br/>
 
@@ -82,20 +95,16 @@ nav-menu: true
 
 <br/>
 <br/>
-
+    <div class="box" style="width: 100%; text-align: center;">
+    <div class="row" style="text-align: center;">
    <h2> <span class="icon alt fa-video-camera"></span> 2024 EVENT VIDEOS </h2>
    <a id="videos"></a>
-    <iframe width="75%" height="700" src="https://www.youtube.com/embed/videoseries?si=6bgw0fquD7gNDHEb&amp;list=PL8tivQAdoavNs2xQkQXC4f9Wdtc2CuMeT" title="DevOpsDays TLV 2025 YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    <p>&nbsp;</p>
-    <p></p>
+    <iframe width="100%" height="650" style="text-align: center" src="https://www.youtube.com/embed/videoseries?si=6bgw0fquD7gNDHEb&amp;list=PL8tivQAdoavNs2xQkQXC4f9Wdtc2CuMeT" title="DevOpsDays TLV 2025 YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+   <br/>
     <h2>CHECK OUT THE 2024 EVENT PICTURES</h2>
+    <p><ul class="actions"><li><a href="https://photos.app.goo.gl/GoT8DRVP9ecbPrXBA" class="button fit" target="_blank"><span class="icon alt fa-camera-retro"></span> EVENT PICS</a></li></ul></p>
     <br/>
-    <p>&nbsp;</p>
-    <ul class="actions"><li><a href="https://photos.app.goo.gl/GoT8DRVP9ecbPrXBA" class="button fit" target="_blank"> <span class="icon alt fa-camera-o"></span><span class="icon alt fa-camera-retro"></span> EVENT PICS</a></li></ul>
-    <hr/>
-    <br/>
-
-</div> 
+    </div>
 
 <!--  <hr class="major">
 
