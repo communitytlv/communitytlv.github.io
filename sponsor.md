@@ -26,7 +26,7 @@ image: assets/images/pic13.jpg
 
 <hr>
 
-<h3> Diamond Booth Sample</h3>
+<h3> Diamond Booth Sample [<span style="font-weight: 800; color:rgb(175, 11, 11);">SOLD OUT</span> >> THANKS <a href="https://scylladb.com" target="_blank">SCYLLADB</a>!]</h3> 
 <br/>
 
 <img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/Diamond-Booth.JPG?raw=true" width="500">
@@ -34,7 +34,7 @@ image: assets/images/pic13.jpg
 <br/>
 <br/>
 
-<h3>Platinum Booth Sample</h3>
+<h3>Platinum Booth Sample [<span style="font-weight: 800; color:rgb(175, 11, 11);">3 LEFT</span>]</h3>
 <br/>
 
 <img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/Platinum-1.JPG?raw=true" width="500">&nbsp;<img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/Platinum-3.JPG?raw=true" width="500">&nbsp;<img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/Platinum-2.JPG?raw=true" width="500">
@@ -58,7 +58,7 @@ image: assets/images/pic13.jpg
 <br/>
 <br/>
 
-<h3> Coffee Sponsor</h3>
+<h3> Coffee Sponsor [<span style="font-weight: 800; color:rgb(175, 11, 11);">SOLD OUT</span>]</h3>
 <br/>
 <img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/coffee-1.JPG?raw=true" width="500">&nbsp;<img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/Coffee-2.JPG?raw=true" width="500">
 
