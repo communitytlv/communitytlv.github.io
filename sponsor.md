@@ -34,7 +34,7 @@ image: assets/images/pic13.jpg
 <br/>
 <br/>
 
-<h3>Platinum Booth Sample [<span style="font-weight: 800; color:rgb(175, 11, 11);">3 LEFT</span>]</h3>
+<h3>Platinum Booth Sample [<span style="font-weight: 800; color:rgb(175, 11, 11);">SOLD OUT</span>]</h3>
 <br/>
 
 <img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/Platinum-1.JPG?raw=true" width="500">&nbsp;<img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/Platinum-3.JPG?raw=true" width="500">&nbsp;<img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/Platinum-2.JPG?raw=true" width="500">
