@@ -53,7 +53,7 @@ nav-menu: true
 <div class="box" style="width: 100%;">
 <a id="cfp"></a>
    <h2 style="tex-transform: uppercase; color: #c0d44f;"> CALL FOR PAPERS IS NOW CLOSED</h2>
-    <h3 style="text-align: center; font-weight: 700; color: #d95374;">We want to go deeper and more technical this year - so we're looking to reviewing your excellent talks that you have shared with us. </h3>
+    <h3 style="text-align: center; font-weight: 700; color: #d95374;">We want to go deeper and more technical this year - and we're looking forward to reviewing your excellent talks that you have shared with us. </h3>
 
     <p>DevOpsDays is a <a href="/team" target="_blank">volunteer-led event</a>, by the community for the community, with talks contributed by some of the best from our local community as well as the global DevOps community, with a variety of talks from beginner through advanced levels, so literally anyone can join and enjoy the sessions.</p>
 
