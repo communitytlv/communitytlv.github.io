@@ -65,7 +65,7 @@ nav-menu: true
    <ul>
    <li>Call for Papers opens February 2025 and also includes the <span style="color: #faa344; font-weight: 400;"><a href="https://lu.ma/aws-devops-2025" target="_blank">DevOps X AWS Startup Circuit event</a></span> in April.  (CFPs for April event will be reviewed until mid-March)</li>
    <li>Call for Papers closes June-July 2025</li>
-   <li>Speaker notifications by End of August/Early September 2025</li>
+   <li>Speaker notifications by End of September 2025</li>
    </ul>
    <br />
     <h3>Based on attendee feedback, we are optimizing for advanced content this year.  Please take the time to review the CFP guidelines before submitting. </h3>

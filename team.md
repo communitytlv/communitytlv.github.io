@@ -72,7 +72,7 @@ nav-menu: true
 
 		<div class="3u"><span class="image fit"><img src="{% link assets/images/or-cohen.png %}" alt="" /></span><ul class="icons">OR COHEN | MELIO PAYMENTS<br/><li><a href="https://twitter.com/lightpriest" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/lightpriest/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/lightpriest" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
 
-        <div class="3u"><span class="image fit"><img src="/assets/images/David_Melamed-SQ.jpeg" alt="" /></span><ul class="icons">DAVID MELAMED | JIT<br /><li><a href="https://x.com/dvdmelamed" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/mlmd/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/dvdmelamed" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
+        <div class="3u"><span class="image fit"><img src="/assets/images/david_melamed-SQ.jpeg" alt="" /></span><ul class="icons">DAVID MELAMED | JIT<br /><li><a href="https://x.com/dvdmelamed" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/mlmd/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/dvdmelamed" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
 
 
     </div>
