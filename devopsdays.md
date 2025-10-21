@@ -3,7 +3,7 @@ title: DevOpsDays Tel Aviv ○ December 11, 2025
 menu_title: DevOpsDays TLV 2025
 layout: landing
 description: 
-cta: <br/><ul class="actions"><li><a href="https://sessionize.com/devopsdays-tel-aviv-2025/" class="button fit" target="_blank"> SUBMIT A TALK</a></li></ul><ul class="actions"><li><a href="https://rtfmp.lease/devopsdaystlv-2025-tix" class="button special fit" target="_blank"> REGISTER</a></li></ul>
+cta: <br/><ul class="actions"><li><a href="/devopsdays/agenda-2025" class="button fit" target="_blank"> VIEW AGENDA</a></li></ul><ul class="actions"><li><a href="https://rtfmp.lease/devopsdaystlv-2025-tix" class="button special fit" target="_blank"> REGISTER</a></li></ul>
 image: assets/images/pic08-3.jpg
 nav-menu: true
 ---
