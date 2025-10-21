@@ -52,6 +52,15 @@ nav-menu: true
 
 
 
+<!-- <a id="speakers"></a> -->
+
+
+    {% include /devopsdays/2025/2025-top-speakers.html %}
+
+<br/>
+<hr/> 
+
+
 <a id="register"></a>
 <br/>
 
@@ -60,14 +69,8 @@ nav-menu: true
    <ul class="actions"><li><a href="https://rtfmp.lease/devopsdaystlv-2025-tix" class="button fit"><span style="font-family: 'Nosifer', cursive; color: orangered;">  REGISTER </span></a></li></ul>   
 </div> 
 
-<br/>
-<hr/> -->
-
-<!-- <a id="speakers"></a> -->
-
-
-    {% include /devopsdays/2025/2025-top-speakers.html %}
     {% include /sponsors/devopsdays-2025-logos.html %} 
+
 
 <br/>
 <br/>
