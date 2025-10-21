@@ -39,11 +39,11 @@ nav-menu: true
     <ul class="actions"><li><a href="https://rtfmp.lease/devopsdaystlv-2025-tix" target="_blank" class="button fit"> REGISTER</a></li></ul> 
     </div>
 
-<a id="sponsor"></a>
+<!-- <a id="sponsor"></a>
     <div class="box" style="width: 100%; text-align: center;">
    <h2 style="tex-transform: uppercase; color: #c0d44f;"> SPONSOR THE EVENT</h2>
          <ul class="actions"><li><a href="/sponsor" target="_blank" class="button fit"> CHECK OUT THE SPONSORSHIP OPPS</a></li></ul> 
-    </div>
+    </div> -->
 
 
 <!-- <a id="speakers"></a> -->
@@ -52,11 +52,13 @@ nav-menu: true
     {% include /devopsdays/2025/2025-top-speakers.html %}
 
 <a id="register"></a>
+<div class="box" style="width: 100%; text-align: center;">
+
 <br/>
      <h3 style="text-transform: uppercase; color: white; text-align: center;"> <span style="color: turquoise;">TICKETS NOW AVAILABLE - REGISTER TO JOIN US! </span></h3>
-     <br/><br/>
-
-   <ul class="actions"><li><a href="https://rtfmp.lease/devopsdaystlv-2025-tix" class="button fit">  REGISTER</a></li></ul>   
+     <br/>
+<p>   <ul class="actions"><li><a href="https://rtfmp.lease/devopsdaystlv-2025-tix" class="button fit">  REGISTER</a></li></ul>  </p>
+</div>
 
 
     {% include /sponsors/devopsdays-2025-logos.html %} 
