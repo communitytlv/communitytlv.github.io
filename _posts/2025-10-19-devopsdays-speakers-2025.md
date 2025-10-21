@@ -32,7 +32,7 @@ nav-menu: true
 <div class="inner">
 			<h2>We told you it was going to be great...so what are you waiting for?! Join us!</h2>
 <ul class="actions">
-                    <li><a href="https://bit.ly/DEVOPSDAYS-2022-TIX" class="button next">REGISTER</a></li>
+                    <li><a href="https://rtfmp.lease/devopsdaystlv-2025-tix" class="button next">REGISTER</a></li>
                 </ul>
 
 </div>
