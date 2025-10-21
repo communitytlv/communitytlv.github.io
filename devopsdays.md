@@ -19,11 +19,8 @@ nav-menu: true
 
 <br/>            
             <p>DevOpsDays Tel-Aviv is back for its <span style="font-weight: 800; color: #d95374;">ELEVENTH EVENT</span> to celebrate our <span style="font-weight: 600; color: #c0d44f;">AWESOME TLVCOMMUNITY</span> representing all topics from DevOps Tel Aviv to Cloud Native & OSS Day Tel Aviv, Serverless TLV, and Statscraft.</p>
-
             <p>DevOpsDays Tel Aviv is part of the global <a href="https://devopsdays.org/tel-aviv" target="_blank">devopsdays event series</a>, bringing in participants from the entire global devopsdays community.  To learn more, you can visit our event on the main <a href="https://devopsdays.org/" target="_blank">devopsdays.org</a> website.</p>
-
             <p style="text-align: left; ">Join leading industry speakers along with DevOps, SRE, platform, production and operations engineers for two full days of sessions focusing on best practices in modern  engineering - from the infrastructure and operations to the systems and processes.</p>           
-
             </div>
         <br />
         </div>
@@ -66,7 +63,7 @@ nav-menu: true
 
  <div class="box" style="width: 100%; text-align: center;">
      <h1 style="text-transform: uppercase; color: white; text-align: center;"> <span style="font-family: 'Quicksand', cursive; color: turquoise;">TICKETS NOW AVAILABLE - REGISTER TO JOIN US! </span></h1>
-   <ul class="actions"><li><a href="https://rtfmp.lease/devopsdaystlv-2025-tix" class="button fit"><span style="font-family: 'Nosifer', cursive; color: orangered;">  REGISTER </span></a></li></ul>   
+   <ul class="actions"><li><a href="https://rtfmp.lease/devopsdaystlv-2025-tix" class="button fit">  REGISTER</a></li></ul>   
 </div> 
 
     {% include /sponsors/devopsdays-2025-logos.html %} 
