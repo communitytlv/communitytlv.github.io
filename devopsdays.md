@@ -50,37 +50,14 @@ nav-menu: true
          <ul class="actions"><li><a href="/sponsor" target="_blank" class="button fit"> CHECK OUT THE SPONSORSHIP OPPS</a></li></ul> 
     </div>
 
-<div class="box" style="width: 100%;">
-<a id="cfp"></a>
-   <h2 style="tex-transform: uppercase; color: #c0d44f;"> CALL FOR PAPERS IS NOW CLOSED</h2>
-    <h3 style="text-align: center; font-weight: 700; color: #d95374;">We want to go deeper and more technical this year - and we're looking forward to reviewing your excellent talks that you have shared with us. </h3>
-
-    <p>DevOpsDays is a <a href="/team" target="_blank">volunteer-led event</a>, by the community for the community, with talks contributed by some of the best from our local community as well as the global DevOps community, with a variety of talks from beginner through advanced levels, so literally anyone can join and enjoy the sessions.</p>
-
-    <p>As every year year, we have received an impressive number of submissions on a diversity of topics from our awesome local and global community.  Please make note of the review and notification schedule below, that we intend to uphold.  Best of luck on your submission!</p>
-    
-   <h4>Call for Papers Schedule:</h4>
-   <br/>
-
-   <ul>
-   <li>Call for Papers opens February 2025 and also includes the <span style="color: #faa344; font-weight: 400;"><a href="https://lu.ma/aws-devops-2025" target="_blank">DevOps X AWS Startup Circuit event</a></span> in April.  (CFPs for April event will be reviewed until mid-March)</li>
-   <li>Call for Papers closed August 15, 2025</li>
-   <li>Speaker notifications will be received by End of September 2025</li>
-   </ul>
-   <br />
-    <h3>Based on attendee feedback, we are optimizing for advanced content this year.  Please take the time to review the CFP guidelines before submitting. </h3>
-    <br />
-    <h3>Best of luck and thanks to everyone for submitting your excellent talks!</h3>
-    </div>
 
 
-<!-- <a id="register"></a>
-<br/> -->
+<a id="register"></a>
+<br/>
 
- <!-- <div class="box" style="width: 100%; text-align: center;">
-     <h1 style="text-transform: uppercase; color: white; text-align: center;"> <span style="font-family: 'Creepster', cursive; color: #ff7100;">TICKETS NOW AVAILABLE</span> <span style="font-family: 'Nosifer', cursive; color: red;"> REGISTER TO JOIN US! 👻</span></h1>
-   <ul class="actions"><li><a href="https://app.icount.co.il/m/0a17a/c82642p21u64ac1b12f?lng=en" class="button fit"><span style="font-family: 'Nosifer', cursive; color: orangered;">  REGISTER </span></a></li></ul>   
-    <h4>NOTE THAT YOU WILL BE REDIRECTED TO REGISTER YOUR TICKETS THROUGH A SEPARATE FORM (lu.ma) AFTER PAYMENT. PLEASE MAKE SURE TO COMPLETE THE ENTIRE REGISTRATION PROCESS.</h4>
+ <div class="box" style="width: 100%; text-align: center;">
+     <h1 style="text-transform: uppercase; color: white; text-align: center;"> <span style="font-family: 'Quicksand', cursive; color: turquoise;">TICKETS NOW AVAILABLE - REGISTER TO JOIN US! </span></h1>
+   <ul class="actions"><li><a href="https://rtfmp.lease/devopsdaystlv-2025-tix" class="button fit"><span style="font-family: 'Nosifer', cursive; color: orangered;">  REGISTER </span></a></li></ul>   
 </div> 
 
 <br/>
@@ -89,7 +66,7 @@ nav-menu: true
 <!-- <a id="speakers"></a> -->
 
 
-    {% include /devopsdays/2023/2023-top-speakers.html %}
+    {% include /devopsdays/2025/2025-top-speakers.html %}
     {% include /sponsors/devopsdays-2025-logos.html %} 
 
 <br/>
