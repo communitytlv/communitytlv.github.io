@@ -62,7 +62,7 @@ nav-menu: true
 <br/>
 
  <div class="box" style="width: 100%; text-align: center;">
-     <h1 style="text-transform: uppercase; color: white; text-align: center;"> <span style="font-family: 'Quicksand', cursive; color: turquoise;">TICKETS NOW AVAILABLE - REGISTER TO JOIN US! </span></h1>
+     <h1 style="text-transform: uppercase; color: white; text-align: center;"> <span style="color: turquoise;">TICKETS NOW AVAILABLE - REGISTER TO JOIN US! </span></h1>
    <ul class="actions"><li><a href="https://rtfmp.lease/devopsdaystlv-2025-tix" class="button fit">  REGISTER</a></li></ul>   
 </div> 
 
