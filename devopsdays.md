@@ -14,7 +14,7 @@ nav-menu: true
 <div class="inner">
     <div class="row">
     <div class="box" style="width: 100%; text-align: center;">
-    <img src="assets/images/devopsdays-SQ.png" width="100">
+    <img src="assets/images/devopsdays-SQ.png" width="200">
     <br/>
     <h1 style="text-transform: uppercase; color: turquoise;">DEVOPSDAYS TEL AVIV 2025</h1>
     <h2 style="text-transform: uppercase; color:rgb(201, 97, 236);">December 11, 2025 at Expo Tel Aviv!</h2>
