@@ -27,6 +27,8 @@ nav-menu: true
     <div class="row">
     <div class="box" style="width: 100%; background-color: #A06AC6;"><h2 style="color: #2a2f4a; text-transform: uppercase; text-align: center;"><span class="icon fa-star"></span> KEYNOTE SPEAKER <span class="icon fa-star"></span></h2></div>
     <div class="box" style="width: 100%; text-align: center;">
+    <h3 style="color: #2a2f4a; text-transform: uppercase; text-align: center;"><span class="icon fa-star"></span> Building Docker: Behind the Scenes of the Container Revolution <span class="icon fa-star"></span></h3></div>
+    <div class="box" style="width: 100%; text-align: center;">
     <img src="/assets/images/speakers/solomon-hykes.png" width="250px">
     <ul class="icons"><li><a href="https://x.com/solomonstre" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/solomonhykes/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/shykes" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul>
     <h4>We are thrilled to announce that <span style="font-weight: 800; color: #A06AC6;">Solomon Hykes, creator of Docker, CEO and Co-Founder of Dagger</span> will be taking the stage at the upcoming DevOpsDays TLV as our KEYNOTE SPEAKER!</h4>
