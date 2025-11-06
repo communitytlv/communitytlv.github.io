@@ -25,8 +25,8 @@ nav-menu: true
         <br/>
 <a id="keynote"></a>
     <div class="row">
-    <div class="box" style="width: 100%; background-color: #A06AC6;"><h2 style="color: #2a2f4a; text-transform: uppercase; text-align: center;"><span class="icon fa-star"></span> KEYNOTE SPEAKER <span class="icon fa-star"></span></h2></div>
-    <div class="box" style="width: 100%; text-align: center;">
+    <div class="box" style="width: 100%; background-color: #A06AC6;">
+    <h2 style="color: #2a2f4a; text-transform: uppercase; text-align: center;"><span class="icon fa-star"></span> KEYNOTE SPEAKER <span class="icon fa-star"></span></h2>
     <h3 style="color: #2a2f4a; text-transform: uppercase; text-align: center;"><span class="icon fa-star"></span> Building Docker: Behind the Scenes of the Container Revolution <span class="icon fa-star"></span></h3></div>
     <div class="box" style="width: 100%; text-align: center;">
     <img src="/assets/images/speakers/solomon-hykes.png" width="250px">
