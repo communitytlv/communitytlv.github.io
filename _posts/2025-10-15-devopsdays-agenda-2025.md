@@ -28,7 +28,7 @@ nav-menu: true
         
 <!-- <script type="text/javascript" src="https://sessionize.com/api/v2/rq3qkxj1/view/GridSmart"></script> -->
 
-<div id="eventzilla-widget-container-a-2138680871"></div> <script src="https://d2poexpdc5y9vj.cloudfront.net/embed/js/ez_widgets_v2.js" data-widget-type="ez-schedule"   data-state="buttonColor=WidgetPinkTheme" data-target-title="AGENDA" data-agenta-theme="Classic" data-target-id="2138680871"></script>
+<div id="eventzilla-widget-container-a-2138680871"></div> <script src="https://d2poexpdc5y9vj.cloudfront.net/embed/js/ez_widgets_v2.js" data-widget-type="ez-schedule"   data-state="buttonColor=WidgetPinkTheme" data-agenta-theme="Classic" data-target-id="2138680871"></script>
       
 </div>
 
