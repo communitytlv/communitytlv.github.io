@@ -3,7 +3,7 @@ title: DevOpsDays Tel Aviv ○ December 11, 2025
 menu_title: DevOpsDays TLV 2025
 layout: landing
 description: 
-cta: <br/><ul class="actions"><li><a href="/devopsdays/agenda-2025" class="button fit" target="_blank"> VIEW AGENDA</a></li></ul><ul class="actions"><li><a href="https://rtfmp.lease/devopsdaystlv-2025-tix" class="button special fit" target="_blank"> REGISTER</a></li></ul>
+cta: <br/><ul class="actions"><li><a href="/devopsdays/agenda-2025" class="button fit" target="_blank"> VIEW AGENDA</a></li></ul><ul class="actions"><li><a href="https://events.devopsdaystlv.com/e/2138680871" class="button special fit" target="_blank"> REGISTER</a></li></ul>
 image: assets/images/pic08-3.jpg
 nav-menu: true
 ---
@@ -40,7 +40,7 @@ nav-menu: true
             <p style="text-align: left; ">Join leading industry speakers along with DevOps, SRE, platform, production and operations engineers for two full days of sessions focusing on best practices in modern  engineering - from the infrastructure and operations to the systems and processes.</p>    
 
  <h5>Tickets are now on sale - so now's the time to register!</h5>
-    <ul class="actions"><li><a href="https://rtfmp.lease/devopsdaystlv-2025-tix" target="_blank" class="button fit"> REGISTER</a></li></ul> 
+    <ul class="actions"><li><a href="https://events.devopsdaystlv.com/e/2138680871" target="_blank" class="button fit"> REGISTER</a></li></ul> 
     </div>
 
 <!-- <a id="sponsor"></a>

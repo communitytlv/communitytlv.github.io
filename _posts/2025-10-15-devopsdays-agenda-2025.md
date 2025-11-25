@@ -3,7 +3,7 @@ layout: landing
 title: DevOpsDays Tel Aviv 2025 | AGENDA 
 menu_title: DevOpsDays TLV 2025 Agenda
 description: Check out the speaker lineup - and find out who is speaking at DevOpsDays TLV 2025 with a Cloud Native & OSS  + Serverless Day Track! 
-cta: <br/><ul class="actions"><li><a href="https://rtfmp.lease/devopsdaystlv-2025-tix" class="button special fit" target="_blank"> REGISTER NOW</a></li></ul>&nbsp;<ul class="actions"><li><a href="/devopsdays" class="button fit"><span class="icon alt fa-home"></span> BACK TO DEVOPSDAYS </a></li></ul>
+cta: <br/><ul class="actions"><li><a href="https://events.devopsdaystlv.com/e/2138680871" class="button special fit" target="_blank"> REGISTER NOW</a></li></ul>&nbsp;<ul class="actions"><li><a href="/devopsdays" class="button fit"><span class="icon alt fa-home"></span> BACK TO DEVOPSDAYS </a></li></ul>
 image: assets/images/pic07.jpg
 permalink: /devopsdays/agenda-2025
 nav-menu: true
