@@ -54,7 +54,7 @@ nav-menu: true
 
 		<!-- Break -->
 
-		<div class="3u"><span class="image fit"><img src="{% link assets/images/gil.jpg %}" alt="Gil Zellner" /></span><ul class="icons">GIL ZELLNER | GOOGLE <br/><li><a href="https://twitter.com/Heathenaspargus" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/gilzellner/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/gilzellner/sessions-and-bio" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>	
+		<div class="3u"><span class="image fit"><img src="{% link assets/images/gil.jpg %}" alt="Gil Zellner" /></span><ul class="icons">GIL ZELLNER | EshOS <br/><li><a href="https://twitter.com/Heathenaspargus" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/gilzellner/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/gilzellner/sessions-and-bio" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>	
 
 		<div class="3u"><span class="image fit"><img src="{% link assets/images/andrei.jpg %}" alt="Andrei Burd" /></span><ul class="icons">ANDREI BURD | HASHICORP <br/><li><a href="https://twitter.com/burdandrei" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/burdandrei/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/burdandrei" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
 
