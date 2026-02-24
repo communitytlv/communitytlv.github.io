@@ -1,0 +1,24 @@
+<section id="two">
+  <div class="inner">
+
+    <header class="major">
+      <h2>Upcoming Events</h2>
+    </header>
+    <p>Join us at one of our upcoming meetups, conferences and workshops.</p>
+
+    <!-- Luma embed — auto-updates from your Luma calendar -->
+    <div style="overflow: hidden; border: 1px solid rgba(255,255,255,0.1);">
+      <iframe
+        src="https://lu.ma/embed/calendar/{{ site.luma_calendar_id | default: 'cal-qmBCPYlhYzHECCs' }}/events?lt=dark"
+        width="100%"
+        height="600"
+        frameborder="0"
+        style="border: none; background: #242943;"
+        allowfullscreen
+        aria-label="Upcoming events calendar"
+        loading="lazy"
+      ></iframe>
+    </div>
+
+  </div>
+</section>
