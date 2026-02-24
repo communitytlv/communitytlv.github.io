@@ -17,12 +17,13 @@
 		background-size: cover;
 		border-bottom: 0 !important;
 		cursor: default;
-		height: 60vh;
-		margin-bottom: -3.25em;
-		max-height: 32em;
-		min-height: 22em;
+		height: auto;
+		min-height: 60vh;
+		max-height: none;
 		position: relative;
 		top: -3.25em;
+		margin-bottom: -3.25em;
+
 
 		&:after {
 			@include vendor('transition', 'opacity #{_duration(banner)} ease');
@@ -46,7 +47,7 @@
 
 		> .inner {
 			@include vendor('transition', (
-				'opacity 1.5s ease',
+				'opacity 0.5s ease',
 				'transform 0.5s ease-out',
 				'filter 0.5s ease',
 				'-webkit-filter 0.5s ease'
@@ -54,6 +55,7 @@
 			padding: 0 !important;
 			position: relative;
 			z-index: 2;
+			padding-bottom: 2em !important;
 
 			.image {
 				display: none;
@@ -68,6 +70,39 @@
 					&:after {
 						max-width: 100%;
 					}
+				}
+			}
+
+			.glass-card {
+				background: rgba(255, 255, 255, 0.06);
+				backdrop-filter: blur(16px);
+				-webkit-backdrop-filter: blur(16px);
+				border: 1px solid rgba(255, 255, 255, 0.1);
+				border-radius: 0;
+				padding: 2em;
+				margin-top: 2em;
+
+				h3 {
+					font-size: 0.8em;
+					letter-spacing: _font(letter-spacing-alt);
+					text-transform: uppercase;
+					color: _palette(accent5);
+					margin-bottom: 0.75em;
+				}
+
+				h2 {
+					font-size: 1.5em;
+					margin-bottom: 0.5em;
+				}
+
+				p {
+					font-size: 0.9em;
+					opacity: 0.7;
+					margin-bottom: 1.5em;
+				}
+
+				.actions {
+					margin-top: 1.5em;
 				}
 			}
 
@@ -95,12 +130,12 @@
 		}
 
 		&.major {
-			height: 75vh;
-			min-height: 30em;
-			max-height: 50em;
+			height: auto;
+			min-height: 75vh;
+			max-height: none;
 
 			&.alt {
-				  opacity: 0.75;
+				opacity: 0.75;
 			}
 		}
 
@@ -117,9 +152,8 @@
 			}
 
 			> .inner {
-				@include vendor('filter', 'blur(0.125em)');
-				@include vendor('transform', 'translateX(-0.5em)');
-				opacity: 0;
+				@include vendor('filter', 'blur(0.25em)');
+				@include vendor('transform', 'translateY(0.5em)');
 			}
 		}
 
@@ -132,7 +166,7 @@
 			height: auto;
 			margin-bottom: -2.75em;
 			max-height: none;
-			min-height: 0;
+			min-height: auto;
 			top: -2.75em;
 
 			h1 {
@@ -140,6 +174,11 @@
 			}
 
 			> .inner {
+				.glass-card {
+					padding: 1.5em;
+					margin-top: 1.5em;
+				}
+
 				.content {
 					display: block;
 

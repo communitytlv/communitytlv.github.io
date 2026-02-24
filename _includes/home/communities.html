@@ -1,0 +1,44 @@
+<section id="communities">
+  <div class="inner">
+
+    <header class="major">
+      <h2>Our Community Groups</h2>
+    </header>
+    <p>Join one of our community groups and connect with like-minded professionals in the Israeli tech ecosystem.</p>
+
+    <div style="text-align: center; padding: 2em 0;">
+      {% for community in site.data.communities %}
+      <a href="{{ community.url }}" target="_blank" rel="noopener noreferrer"
+         title="{{ community.name }} — {{ community.description }}"
+         style="display: inline-block; margin: 0.75em;">
+        {% if community.logo %}
+        <img src="{{ community.logo | relative_url }}" alt="{{ community.name }}" width="130" loading="lazy"
+             style="border-radius: 50%; max-height: 130px; object-fit: cover;" />
+        {% endif %}
+      </a>
+      {% endfor %}
+    </div>
+
+     <ul class="actions" style="margin-top: 2em;">
+      <li>
+        <a href="https://lu.ma/{{ site.luma_calendar_id | default: 'tlvcommunity' }}"
+           class="button next" target="_blank" rel="noopener noreferrer">
+          View All Events
+        </a>
+      </li>
+      <li>
+        <a href="https://lu.ma/{{ site.luma_calendar_id | default: 'tlvcommunity' }}"
+           class="button" target="_blank" rel="noopener noreferrer">
+          Subscribe to Calendar
+        </a>
+      </li>
+      <li>
+        <a href="{{ site.papercall_url | default: 'https://sessionize.com/tlvcommunity-meetups/' }}"
+           class="button" target="_blank" rel="noopener noreferrer">
+          Submit a Talk
+        </a>
+      </li>
+    </ul>
+
+  </div>
+</section>

@@ -1,0 +1,39 @@
+- name: "DevOps Israel"
+  description: "The largest DevOps community in Israel"
+  logo: "/assets/images/devopstlv-SQ.png"
+  url: "devopsdays"
+
+- name: "Cloud Native & OSS Israel"
+  description: "Cloud Native and Open Source community"
+  logo: "/assets/images/cloudnative-oss-SQ.png"
+  url: "/cloudnativeIL"
+
+- name: "StatsCraft"
+  description: "Monitoring and observability meetups"
+  logo: "/assets/images/statscraft-SQ.png"
+  url: "/statscraft"
+
+#- name: "Production Jungle"
+#  description: "Production engineering community"
+#  logo: "/assets/images/production-jungle.png"
+#  url: 
+
+#- name: "The Big Web Theory"
+#  description: "Web development and architecture"
+#  logo: "/assets/images/big-web.png"
+# url: 
+
+- name: "Serverless TLV"
+  description: "Serverless architecture and FaaS"
+  logo: "/assets/images/serverless-nights.png"
+  url: "https://www.meetup.com/ServerlessTLV/"
+
+# - name: "DevRel Israel"
+# description: "Developer Relations community"
+#  logo: "/assets/images/devrel-il-SQ.png"
+# url: "#"
+
+- name: "RTFM Please"
+  description: "Event organizers and community builders"
+  logo: "/assets/images/sponsor-logos/RTFM.png"
+  url: "https://rtfmplease.dev/"

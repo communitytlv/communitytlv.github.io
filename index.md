@@ -12,12 +12,7 @@ show_tile: false
 
 <div class="inner">
 
-      {% include /sponsors/devopsdays-2025-logos.html %}
-
-
-
-
-
+      {% include /sponsors/sponsors.html %}
 
 
 <h2 style="text-transform: uppercase; color: turquoise; text-align: center;">SPONSOR OUR COMMUNITY</h2>       
