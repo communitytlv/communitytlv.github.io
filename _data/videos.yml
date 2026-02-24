@@ -1,0 +1,12 @@
+# TLVCommunity Video Playlists
+# ============================================================
+# Edit this file to add/remove/update video playlists.
+# The _includes/home/videos.html template reads this automatically.
+# Fields: title, playlist_id, channel_url (optional)
+# ============================================================
+
+- title: "DevOpsDays TLV 2025"
+  playlist_id: "PL8tivQAdoavMttbcb875zvINwJOqAEYCD"
+
+- title: "DevOps x AWS Startup Circuit"
+  playlist_id: "PL8tivQAdoavMQyyr5W5j48-LPdLF8GRnY"
