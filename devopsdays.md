@@ -64,21 +64,16 @@ nav-menu: true
 <p>   <ul class="actions"><li><a href="https://rtfmp.lease/devopsdaystlv-2025-tix" class="button fit">  REGISTER</a></li></ul>  </p>
 </div>
 
+<div class="box" style="width: 100%;">
 
-    {% include /sponsors/devopsdays-2025-logos.html %} 
+      {% include /sponsors/sponsors.html %}
 
-<br/>
-<br/>
-    <div class="box" style="width: 100%; text-align: center;">
-    <div class="row" style="text-align: center;">
-   <h2> <span class="icon alt fa-video-camera"></span> 2024 EVENT VIDEOS </h2>
-   <a id="videos"></a>
-    <iframe width="100%" height="650" style="text-align: center" src="https://www.youtube.com/embed/videoseries?si=6bgw0fquD7gNDHEb&amp;list=PL8tivQAdoavNs2xQkQXC4f9Wdtc2CuMeT" title="DevOpsDays TLV 2025 YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
-   <br/>
-    <h2>CHECK OUT THE 2024 EVENT PICTURES</h2>
-    <p><ul class="actions"><li><a href="https://photos.app.goo.gl/GoT8DRVP9ecbPrXBA" class="button fit" target="_blank"><span class="icon alt fa-camera-retro"></span> EVENT PICS</a></li></ul></p>
-    <br/>
-    </div>
+</div>
+
+<div class="box" style="width: 100%;">
+              {% include /home/videos.html %}
+
+</div>
 
 <!--  <hr class="major">
 

@@ -81,3 +81,251 @@
 	@import 'layout/footer';
 	@import 'layout/wrapper';
 	@import 'layout/menu';
+
+// CUSTOM PROPERTIES (add to :root)
+
+:root {
+  /* Forty accent HSL values for utility use */
+  --accent1: 195 60% 65%;
+  --accent2: 257 30% 64%;
+  --accent3: 7 72% 72%;
+  --accent4: 27 68% 72%;
+  --accent5: 218 60% 72%;
+  --accent6: 150 30% 65%;
+
+  /* Gradient tokens */
+  --gradient-sunset: linear-gradient(135deg, #ec8d81 0%, #8d82c4 50%, #6fc3df 100%);
+
+  /* Glow shadow */
+  --shadow-glow: 0 0 60px rgba(155, 241, 255, 0.15);
+
+  /* Display font */
+  --font-display: 'Space Grotesk', 'Source Sans Pro', sans-serif;
+
+  /* Timing */
+  --duration-transition: 0.2s;
+  --duration-banner: 2.5s;
+}
+
+
+// DISPLAY FONT FOR HEADINGS (optional)
+.section-title,
+h1, h2 {
+  font-family: var(--font-display);
+}
+
+
+
+// GLASSMORPHISM UTILITY
+.glass {
+  background: rgba(42, 47, 74, 0.6);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(212, 212, 255, 0.1);
+}
+
+
+//GRADIENT TEXT UTILITY
+.text-gradient-sunset {
+  background: var(--gradient-sunset);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+
+// TILE OVERLAY SYSTEM (for page navigation tiles)
+.tile-overlay {
+  position: relative;
+  overflow: hidden;
+}
+
+.tile-overlay::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  opacity: 0.85;
+  transition: opacity 0.5s ease;
+  z-index: 2;
+}
+
+.tile-overlay:hover::before {
+  opacity: 0;
+}
+
+.tile-overlay > * {
+  position: relative;
+  z-index: 3;
+}
+
+/* Accent color cycling */
+.tile-accent-1::before { background-color: #6fc3df; }
+.tile-accent-2::before { background-color: #8d82c4; }
+.tile-accent-3::before { background-color: #ec8d81; }
+.tile-accent-4::before { background-color: #e7b788; }
+.tile-accent-5::before { background-color: #8ea9e8; }
+.tile-accent-6::before { background-color: #87c5a4; }
+
+
+// HEADER LOGO BADGE
+   
+/* Wrap logo text in a span.logo-badge for the inverted badge style */
+.logo-badge {
+  display: inline-block;
+  background: #ffffff;
+  color: #242943;
+  padding: 0 0.375em;
+  line-height: 1.65em;
+  margin-right: 0.25em;
+  transition: background-color 0.2s ease;
+}
+
+.logo-badge:hover,
+a:hover .logo-badge {
+  background-color: #9bf1ff;
+}
+
+
+// FEATURED EVENT CARD (inside banner)
+.featured-event {
+  background: rgba(42, 47, 74, 0.6);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(212, 212, 255, 0.1);
+  padding: 2em;
+}
+
+.featured-event .event-label {
+  font-size: 0.8em;
+  font-weight: 600;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+  color: #9bf1ff;
+  margin-bottom: 0.5em;
+}
+
+.featured-event h3 {
+  font-size: 1.5em;
+  margin-bottom: 0.75em;
+}
+
+.featured-event .event-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5em;
+  font-size: 0.875em;
+  color: rgba(244, 244, 255, 0.5);
+}
+
+
+// FOOTER 60/40 CONTACT SPLIT
+.footer-split {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.footer-split > .footer-form {
+  width: 60%;
+  padding: 4em;
+  border-right: 1px solid rgba(212, 212, 255, 0.1);
+}
+
+.footer-split > .footer-connect {
+  width: 40%;
+  padding: 4em;
+}
+
+@media screen and (max-width: 980px) {
+  .footer-split > .footer-form,
+  .footer-split > .footer-connect {
+    width: 100%;
+    border-right: none;
+  }
+  .footer-split > .footer-form {
+    border-bottom: 1px solid rgba(212, 212, 255, 0.1);
+  }
+}
+
+/* Social link list */
+.social-links a {
+  display: flex;
+  align-items: center;
+  gap: 0.75em;
+  padding: 1em 0;
+  color: #ffffff;
+  font-size: 0.8em;
+  font-weight: 600;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.social-links a + a {
+  border-top: 1px solid rgba(212, 212, 255, 0.1);
+}
+
+.social-links a:hover {
+  color: #9bf1ff;
+}
+
+.social-links a .icon {
+  color: #9bf1ff;
+  width: 1.25em;
+  height: 1.25em;
+}
+
+
+// HEADER REVEAL ANIMATION
+@keyframes reveal-header {
+  0%   { top: -4em; opacity: 0; }
+  100% { top: 0; opacity: 1; }
+}
+
+/* Apply to #header when page is scrolled:
+   document.getElementById('header').classList.add('is-revealed'); */
+#header.is-revealed {
+  animation: reveal-header 0.35s ease forwards;
+}
+
+
+//  BANNER LOADING ANIMATION
+@keyframes banner-load {
+  0%   { filter: blur(0.125em); transform: translateX(-0.5em); opacity: 0; }
+  100% { filter: none; transform: translateX(0); opacity: 1; }
+}
+
+/* Apply to inner content of #banner */
+#banner .inner {
+  animation: banner-load 1.5s ease-out forwards;
+}
+
+
+// SECTION HEADER UNDERLINE
+/* Adds a cyan underline after section h2s.
+   Add class .has-underline to any h2 you want this on,
+   or scope it to .major h2 in Forty's convention. */
+h2.has-underline::after,
+.major h2::after {
+  content: '';
+  display: block;
+  width: 4rem;
+  height: 2px;
+  background: #9bf1ff;
+  margin-top: 0.75em;
+}
+
+// GRADIENT BUTTONS
+.button.next,
+.button.primary {
+  background: var(--gradient-sunset);
+  border: none;
+  color: #ffffff;
+  transition: opacity 0.3s ease, box-shadow 0.3s ease;
+}
+
+.button.next:hover,
+.button.primary:hover {
+  opacity: 0.85;
+  box-shadow: 0 0 30px rgba(155, 241, 255, 0.2);
+}
