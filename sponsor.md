@@ -115,7 +115,7 @@ image: assets/images/pic13.jpg
 
 
 
-		 {% include /sponsors/devopsdays-2025-logos.html %}
+		 {% include /sponsors/sponsors.html %}
 
 		<br/>
         <br/>

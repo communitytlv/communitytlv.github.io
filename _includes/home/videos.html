@@ -13,7 +13,7 @@
       </a>
     </header>
 
-    <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 2em; margin-top: 2em;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 2em; margin-top: 2em;">
       {% for video in site.data.videos %}
       <a href="https://www.youtube.com/watch?v={{ video.thumbnail_video_id }}&amp;list={{ video.playlist_id }}"
          target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
