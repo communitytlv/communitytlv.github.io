@@ -14,10 +14,7 @@ nav-menu: false
 <section id="one">
 	<div class="inner">
    <a href="https://x.com/cloudnativeIL" target="_blank"> <img src="/assets/images/cloudnative-SQ.png" width="250" alt="Cloud Native & OSS IL"></a>
-		<header class="major">
-			<h1>ABOUT CLOUD NATIVE & OSS TLV</h1>
-		</header>
-
+		
 <!-- Content -->
 <div class="box">
 	{% include community-media.html data=site.data.cloudnative %}
