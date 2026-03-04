@@ -73,8 +73,7 @@ nav-menu: true
 
 <br/>
      <h3 style="text-transform: uppercase; color: text-gradient-sunset; text-align: center;"> <span style="color: turquoise;">IT'S A WRAP ON DEVOPSDAYS TEL AVIV 2025! </span></h3>
-     <br/>
-{% include devopsdays/2025/videos.html video_id="huRfsLMK5sA" playlist_id="PL8tivQAdoavMttbcb875zvINwJOqAEYCD" title="DevOpsDays TLV 2025" %}
+{% include videos/video.html video_id="huRfsLMK5sA" playlist_id="PL8tivQAdoavMttbcb875zvINwJOqAEYCD" title="DevOpsDays TLV 2025" %}
 
 
 </div>
