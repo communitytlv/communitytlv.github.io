@@ -1,0 +1,153 @@
+{% assign d = include.data %}
+{% assign uid = d.title | slugify %}
+
+<!-- About -->
+{% if d.description %}
+<section class="cm-section cm-section--about">
+  <div class="inner">
+    <h2>{{ d.title }}</h2>
+    {{ d.description | markdownify }}
+  </div>
+</section>
+{% endif %}
+
+<!-- Video Playlists -->
+{% if d.playlists.size > 0 %}
+<section class="cm-section cm-section--videos">
+  <div class="inner">
+    <header class="cm-heading">
+      <h2>🎬 {{ d.title }} Videos</h2>
+    </header>
+
+    <div class="cm-playlist-grid">
+      {% for item in d.playlists %}
+      <div role="button" tabindex="0"
+         class="cm-playlist-card"
+         onclick="openCmLightbox('{{ item.playlist_id }}', '{{ item.name | escape }}', '{{ item.thumbnail_video_id }}')"
+         onkeydown="if(event.key==='Enter')this.click()">
+        <div class="cm-playlist-card__thumb">
+          {% if item.thumbnail %}
+          <img src="{{ item.thumbnail }}" alt="{{ item.name }}" loading="lazy" />
+          {% elsif item.thumbnail_video_id %}
+          <img src="https://img.youtube.com/vi/{{ item.thumbnail_video_id }}/mqdefault.jpg" alt="{{ item.name }}" loading="lazy" />
+          {% endif %}
+          <span class="cm-playlist-card__play">▶</span>
+          <span class="cm-playlist-card__badge">Watch Playlist</span>
+        </div>
+        <div class="cm-playlist-card__body">
+          <h3>{{ item.name }}</h3>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+
+    {% if d.youtube_channel %}
+    <p class="cm-channel-link">
+      <a href="{{ d.youtube_channel }}" target="_blank" rel="noopener noreferrer">
+        View all videos on our YouTube channel →
+      </a>
+    </p>
+    {% endif %}
+  </div>
+</section>
+{% endif %}
+
+<!-- Photo Albums -->
+{% if d.photos.size > 0 %}
+<section class="cm-section cm-section--photos">
+  <div class="inner">
+    <header class="cm-heading">
+      <h2>📸 {{ d.title }} Pictures</h2>
+    </header>
+
+    <ul class="cm-photo-list">
+      {% for album in d.photos %}
+      <li>
+        <a href="{{ album.url }}" target="_blank" rel="noopener noreferrer">
+          {{ album.name }}
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>
+{% endif %}
+
+<!-- Social Links -->
+{% if d.social.size > 0 %}
+<section class="cm-section cm-section--social">
+  <div class="inner">
+    <header class="cm-heading">
+      <h2>Follow {{ d.title }} on Social Media</h2>
+    </header>
+
+    <ul class="cm-social-links">
+      {% for link in d.social %}
+      <li>
+        <a href="{{ link.url }}" target="_blank" rel="noopener noreferrer"
+           title="{{ link.label }}">
+          {% if link.platform == "twitter" %}
+            <i class="fa fa-twitter"></i>
+          {% elsif link.platform == "linkedin" %}
+            <i class="fa fa-linkedin"></i>
+          {% elsif link.platform == "instagram" %}
+            <i class="fa fa-instagram"></i>
+          {% elsif link.platform == "facebook" %}
+            <i class="fa fa-facebook"></i>
+          {% elsif link.platform == "youtube" %}
+            <i class="fa fa-youtube"></i>
+          {% elsif link.platform == "github" %}
+            <i class="fa fa-github"></i>
+          {% else %}
+            <i class="fa fa-link"></i>
+          {% endif %}
+          <span>{{ link.label }}</span>
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>
+{% endif %}
+
+<!-- Lightbox (rendered once, shared by all cards) -->
+<div id="cm-lightbox" class="cm-lightbox" onclick="closeCmLightbox(event)">
+  <div class="cm-lightbox__dialog" onclick="event.stopPropagation()">
+    <div class="cm-lightbox__header">
+      <h3 id="cm-lightbox-title"></h3>
+      <button type="button" class="cm-lightbox__close" onclick="closeCmLightbox()" aria-label="Close">&times;</button>
+    </div>
+    <div class="cm-lightbox__body">
+      <iframe id="cm-lightbox-iframe"
+              src=""
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen></iframe>
+    </div>
+  </div>
+</div>
+
+<script>
+function openCmLightbox(playlistId, title, videoId) {
+  var lightbox = document.getElementById('cm-lightbox');
+  var iframe   = document.getElementById('cm-lightbox-iframe');
+  var heading  = document.getElementById('cm-lightbox-title');
+  heading.textContent = title;
+  if (videoId) {
+    iframe.src = 'https://www.youtube.com/embed/' + videoId + '?list=' + playlistId + '&autoplay=1';
+  } else {
+    iframe.src = 'https://www.youtube.com/embed?listType=playlist&list=' + playlistId + '&autoplay=1';
+  }
+  lightbox.classList.add('cm-lightbox--open');
+  document.body.style.overflow = 'hidden';
+  document.body.style.overflow = 'hidden';
+}
+function closeCmLightbox(e) {
+  if (e && e.target !== document.getElementById('cm-lightbox')) return;
+  var lightbox = document.getElementById('cm-lightbox');
+  var iframe   = document.getElementById('cm-lightbox-iframe');
+  iframe.src = '';
+  lightbox.classList.remove('cm-lightbox--open');
+  document.body.style.overflow = '';
+}
+</script>

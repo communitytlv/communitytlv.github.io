@@ -1,0 +1,37 @@
+{% assign v_title       = include.title %}
+{% assign v_id          = include.video_id %}
+{% assign v_playlist    = include.playlist_id %}
+{% assign v_description = include.description %}
+{% assign v_speaker     = include.speaker %}
+{% assign v_date        = include.date %}
+
+{% if v_playlist %}
+  {% assign embed_src = "https://www.youtube.com/embed?listType=playlist&list=" | append: v_playlist %}
+{% else %}
+  {% assign embed_src = "https://www.youtube.com/embed/" | append: v_id %}
+{% endif %}
+
+<div class="glass video-embed">
+
+  {% if v_title or v_speaker %}
+  <div class="video-embed__header">
+    {% if v_title %}<h3 class="video-embed__title">{{ v_title }}</h3>{% endif %}
+    {% if v_speaker %}<p class="video-embed__meta">{{ v_speaker }}{% if v_date %} &middot; {{ v_date }}{% endif %}</p>{% endif %}
+  </div>
+  {% endif %}
+
+  <div class="video-embed__player">
+    <iframe
+      src="{{ embed_src }}"
+      title="{{ v_title | default: 'Video' }}"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen
+      loading="lazy">
+    </iframe>
+  </div>
+
+  {% if v_description %}
+  <p class="video-embed__description">{{ v_description }}</p>
+  {% endif %}
+
+</div>

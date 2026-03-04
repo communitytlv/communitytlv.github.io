@@ -1,0 +1,43 @@
+# Statscraft — Community media data
+# Usage: {% include community-media.html data=site.data.statscraft %}
+
+title: "About Statscraft"
+description: >
+  Statscraft has been running since 2015, as the conference that is all about making
+  monitoring easier, more accessible and more productive. Monitoring is crucial for
+  detecting problems, optimizing performance, capacity planning, improving user
+  experience and business impact... Yet in many companies, monitoring is an afterthought
+  leading companies to miss out on the value of the data they collected.
+  *Find all of our previous event videos and pics below.*
+
+youtube_channel: "https://www.youtube.com/@Statscraft"
+
+playlists:
+  - name: "Statscraft 2022"
+    playlist_id: "PLlhgd2ycH2eUw506cLHM-DXyQ1NmaqlD6"
+    thumbnail_video_id: "MqE5x4hAqIw"
+  - name: "Statscraft 2019"
+    playlist_id: "PLlhgd2ycH2eVLcuTtWjnd3SAnthYDnV5-"
+    thumbnail_video_id: "RX-Ow6xB8T8"
+  - name: "Statscraft 2016"
+    playlist_id: "PLlhgd2ycH2eXx0e5FajrTi7Z7KcVxk1cG"
+    thumbnail_video_id: "XI32yrTXPaY"
+
+photos:
+  - name: "Statscraft 2022"
+    url: "https://www.facebook.com/media/set/?set=a.7750540041682996&type=3"
+  - name: "Statscraft 2019"
+    url: "https://www.facebook.com/media/set/?set=a.2638884022848649&type=3"
+  - name: "Statscraft 2015"
+    url: "https://www.facebook.com/media/set/?set=a.884839651586437&type=3"
+
+social:
+  - platform: twitter
+    url: "https://x.com/statscraft"
+    label: "Twitter"
+  - platform: linkedin
+    url: "https://www.linkedin.com/company/statscraft-monitoring-conference/"
+    label: "LinkedIn"
+  - platform: facebook
+    url: "https://www.facebook.com/statscraft.il"
+    label: "Facebook"
