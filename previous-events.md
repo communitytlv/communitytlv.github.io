@@ -31,7 +31,7 @@ nav-menu: true
                                 {% include community-media.html data=site.data.cloudnative_short %}
     </div>
      <!-- TLVCommunity -->
-           <img src="/assets/images/communitytlv-events.png" width="150" alt="Cloud Native">
+           <img src="/assets/images/comm" width="150" alt="Cloud Native">
             <div class="box">
           {% include community-media.html data=site.data.tlvcommunity %}
     </div>

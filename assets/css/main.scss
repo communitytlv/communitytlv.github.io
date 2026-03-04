@@ -762,8 +762,10 @@ h2.has-underline::after,
 
 .video-embed {
   margin: 2em auto;
-  padding: 2.5em;
+  padding: 1.25em;
   max-width: 720px;
+  width: 100%;
+  box-sizing: border-box;
   background: hsla(222, 47%, 11%, 0.65);
   backdrop-filter: blur(16px);
   -webkit-backdrop-filter: blur(16px);
@@ -772,6 +774,10 @@ h2.has-underline::after,
     0 0 0 1px hsla(222, 30%, 25%, 0.3),
     0 8px 32px hsla(222, 47%, 4%, 0.5),
     inset 0 1px 0 hsla(210, 40%, 98%, 0.05);
+
+  @media screen and (min-width: 480px) {
+    padding: 2.5em;
+  }
 }
 
 .video-embed__header {
@@ -853,7 +859,7 @@ h2.has-underline::after,
 // ---- Playlist Grid ----
 .cm-playlist-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(min(280px, 100%), 1fr));
   gap: 1.5em;
   margin-top: 1.5em;
 }
