@@ -1,0 +1,188 @@
+memorial:
+  heading: "In Loving Memory of Our Co-Organizer Ariel Moskovich––You Are Missed."
+  photo: "/assets/images/ariel.png"
+
+team:
+  - name: "Sharone Zitzman"
+    role: "RTFM Please Ltd."
+    photo: "/assets/images/shar.jpg"
+    bio: ""
+    social:
+      twitter: "https://twitter.com/shar1z"
+      linkedin: "https://www.linkedin.com/in/sharonez/"
+      github: "https://github.com/shar1z"
+
+  - name: "Jeremy Hess"
+    role: "Marketing Cookie"
+    photo: "/assets/images/jeremy.jpg"
+    bio: ""
+    social:
+      twitter: "https://twitter.com/jphess2"
+      linkedin: "https://www.linkedin.com/in/jeremyphess/"
+      github: "https://github.com/yeshess"
+
+  - name: "Hila Fish"
+    role: "AWS"
+    photo: "/assets/images/hila.jpg"
+    bio: ""
+    social:
+      twitter: "https://twitter.com/hilafish1"
+      linkedin: "https://www.linkedin.com/in/hila-fish/"
+      github: "https://github.com/hilafish"
+
+  - name: "Erik Zaadi"
+    role: "Port"
+    photo: "/assets/images/erik.jpg"
+    bio: ""
+    social:
+      twitter: "https://twitter.com/erikzaadi"
+      linkedin: "https://www.linkedin.com/in/erikzaadi/"
+      github: "https://github.com/erikzaadi"
+
+  - name: "Gil Zellner"
+    role: "EshOS"
+    photo: "/assets/images/gil.jpg"
+    bio: ""
+    social:
+      twitter: "https://twitter.com/Heathenaspargus"
+      linkedin: "https://www.linkedin.com/in/gilzellner/"
+      github: "https://github.com/gilzellner/sessions-and-bio"
+
+  - name: "Andrei Burd"
+    role: "HashiCorp"
+    photo: "/assets/images/andrei.jpg"
+    bio: ""
+    social:
+      twitter: "https://twitter.com/burdandrei"
+      linkedin: "https://www.linkedin.com/in/burdandrei/"
+      github: "https://github.com/burdandrei"
+
+  - name: "Boris Cherkasky"
+    role: "Finout"
+    photo: "/assets/images/boris.jpeg"
+    bio: ""
+    social:
+      twitter: "https://x.com/cherkaskyb"
+      linkedin: "https://www.linkedin.com/in/cherkaskyb/"
+      github: "https://github.com/borischerkasky"
+
+  - name: "Tal Kimhi"
+    role: "Draftt"
+    photo: "/assets/images/tal.jpg"
+    bio: ""
+    social:
+      twitter: "https://twitter.com/talkimhi"
+      linkedin: "https://www.linkedin.com/in/talkimhi/"
+      github: "https://github.com/talkimhi"
+
+  - name: "Irit Garin"
+    role: "Done4U with RTFM Please"
+    photo: "/assets/images/irit.jpeg"
+    bio: ""
+    social:
+      linkedin: "https://www.linkedin.com/in/irit-garin-621445a7/"
+
+  - name: "Or Cohen"
+    role: "Melio Payments"
+    photo: "/assets/images/or-cohen.png"
+    bio: ""
+    social:
+      twitter: "https://twitter.com/lightpriest"
+      linkedin: "https://www.linkedin.com/in/lightpriest/"
+      github: "https://github.com/lightpriest"
+
+emeritus:
+  - name: "Nati Cohen"
+    role: "AWS"
+    photo: "/assets/images/nati.jpg"
+    social:
+      twitter: "https://twitter.com/nocoot"
+      linkedin: "https://www.linkedin.com/in/natict/"
+      github: "https://github.com/natict"
+
+  - name: "Shahar Kedar"
+    role: "Riseup"
+    photo: "/assets/images/shahar_kedar.jpg"
+    social:
+      twitter: "https://twitter.com/shahar_kedar"
+      linkedin: "https://www.linkedin.com/in/shaharke/"
+      github: "https://github.com/shaharke"
+
+  - name: "Eti Dahan Noked"
+    role: "Wilco (now Booking.com)"
+    photo: "/assets/images/eti.png"
+    social:
+      twitter: "https://twitter.com/etinoked"
+      linkedin: "https://www.linkedin.com/in/eti-dahan-noked/"
+      github: "https://github.com/etinoked"
+
+  - name: "Lev Andelman"
+    role: "Terasky"
+    photo: "/assets/images/lev.jpeg"
+    social:
+      linkedin: "https://www.linkedin.com/in/levandelman/"
+
+  - name: "Dotan Horovits"
+    role: "Logz.io"
+    photo: "/assets/images/dotan.jpg"
+    social:
+      twitter: "https://twitter.com/horovits"
+      linkedin: "https://www.linkedin.com/in/horovits/"
+      github: "https://github.com/horovits"
+
+  - name: "Michael Zion"
+    role: "MeteorOps"
+    photo: "/assets/images/michael-zion.png"
+    social:
+      linkedin: "https://www.linkedin.com/in/michael-zion/"
+
+  - name: "Elena Levi"
+    role: "AppsFlyer"
+    photo: "/assets/images/elena.jpg"
+    social:
+      twitter: "https://x.com/elenalevii"
+      linkedin: "https://www.linkedin.com/in/elena-levi-data/"
+
+  - name: "Dan Yelovitch"
+    role: "Sentinel One"
+    photo: "/assets/images/dan.jpg"
+    social:
+      linkedin: "https://www.linkedin.com/in/dan-yelovitch/"
+
+  - name: "Avishai Ish-Shalom"
+    role: ""
+    photo: "/assets/images/avishai.jpg"
+    social:
+      twitter: "https://x.com/nukemberg"
+      linkedin: "https://www.linkedin.com/in/nukemberg/"
+      github: "https://github.com/nukemberg"
+
+  - name: "Robert Barron"
+    role: ""
+    photo: "/assets/images/robert.jpg"
+    social:
+      twitter: "https://x.com/flyingbarron"
+      linkedin: "https://www.linkedin.com/in/flyingbarron/"
+
+  - name: "Michael Arenzon"
+    role: "Consultant"
+    photo: "/assets/images/michael-arenzon.jpeg"
+    social:
+      linkedin: "https://www.linkedin.com/in/arenzon/"
+      github: "https://github.com/marenzo"
+
+  - name: "Roman Roberman"
+    role: "AppsFlyer"
+    photo: "/assets/images/roman-roberman.jpeg"
+    social:
+      twitter: "https://twitter.com/RomiRommm"
+      linkedin: "https://www.linkedin.com/in/roman-roberman/"
+      github: "https://github.com/Rommmmm"
+
+  - name: "Jonathann Zenou"
+    role: "Windward"
+    photo: "/assets/images/john.png"
+    social:
+      twitter: "https://twitter.com/zenoujohn"
+      linkedin: "https://www.linkedin.com/in/jonathann-zenou-7b384727/"
+      github: "https://github.com/johnyzed"
