@@ -329,3 +329,799 @@ h2.has-underline::after,
   opacity: 0.85;
   box-shadow: 0 0 30px rgba(155, 241, 255, 0.2);
 }
+
+//Agenda Widget
+
+.agenda-widget {
+  padding: 3em 0;
+}
+
+/* ---- Timeline ---- */
+.agenda-timeline {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75em;
+  margin-top: 2em;
+}
+
+/* ---- Card ---- */
+.agenda-card {
+  display: flex;
+  align-items: center;
+  gap: 1em;
+  background: rgba(255,255,255,0.04);
+  border-radius: 6px;
+  padding: 1em 1.25em;
+  transition: background 0.2s ease, transform 0.15s ease;
+}
+.agenda-card[role="button"] {
+  cursor: pointer;
+}
+.agenda-card[role="button"]:hover {
+  background: rgba(255,255,255,0.09);
+  transform: translateX(4px);
+}
+.agenda-card--break {
+  opacity: 0.7;
+  font-style: italic;
+}
+
+/* Avatars */
+.agenda-card__avatars {
+  display: grid;
+  grid-template-columns: 40px 40px;
+  flex-shrink: 0;
+  gap: 0.25em;
+}
+.agenda-card__avatar {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid rgba(255,255,255,0.15);
+}
+.agenda-card__avatar--placeholder {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(255,255,255,0.12);
+  color: #fff;
+  font-weight: 600;
+  font-size: 0.9em;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+
+/* Body */
+.agenda-card__body {
+  flex: 1;
+  min-width: 0;
+}
+.agenda-card__track {
+  font-size: 0.7em;
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  font-weight: 600;
+}
+.agenda-card__title {
+  margin: 0.25em 0 0.35em;
+  font-size: 1em;
+  line-height: 1.3;
+  color: #fff;
+}
+.agenda-card__speakers {
+  margin: 0 0 0.4em;
+  font-size: 0.82em;
+  opacity: 0.7;
+}
+.agenda-card__meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1em;
+  font-size: 0.78em;
+  opacity: 0.6;
+}
+.agenda-card__tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4em;
+  margin-top: 0.5em;
+}
+.agenda-card__tag {
+  font-size: 0.7em;
+  padding: 0.15em 0.6em;
+  border-radius: 3px;
+  background: rgba(255,255,255,0.08);
+  color: rgba(255,255,255,0.7);
+}
+.agenda-card__expand {
+  font-size: 1.2em;
+  opacity: 0.3;
+  flex-shrink: 0;
+  transition: opacity 0.2s;
+}
+.agenda-card:hover .agenda-card__expand {
+  opacity: 0.7;
+}
+
+/* ---- Modal ---- */
+.agenda-modal {
+  display: none;
+  position: fixed;
+  inset: 0;
+  z-index: 10000;
+  background: rgba(0,0,0,0.6);
+  backdrop-filter: blur(6px);
+  align-items: center;
+  justify-content: center;
+  padding: 2em;
+}
+.agenda-modal.is-visible {
+  display: flex;
+}
+.agenda-modal__content {
+  background: #2a2f4a;
+  border: 1px solid rgba(255,255,255,0.1);
+  border-radius: 10px;
+  padding: 2em 2.5em;
+  max-width: 560px;
+  width: 100%;
+  max-height: 85vh;
+  overflow-y: auto;
+  position: relative;
+  animation: agendaModalIn 0.25s ease;
+}
+@keyframes agendaModalIn {
+  from { opacity: 0; transform: translateY(16px) scale(0.97); }
+  to   { opacity: 1; transform: translateY(0) scale(1); }
+}
+
+.agenda-modal__close {
+  position: absolute;
+  top: 0.75em;
+  right: 0.75em;
+  background: none;
+  border: none;
+  color: rgba(255,255,255,0.5);
+  font-size: 1.6em;
+  cursor: pointer;
+  line-height: 1;
+  padding: 0.2em;
+}
+.agenda-modal__close:hover {
+  color: #fff;
+}
+.agenda-modal__title {
+  margin: 0.3em 0 0.75em;
+  font-size: 1.35em;
+  color: #fff;
+  padding-right: 1.5em;
+}
+.agenda-modal__speakers {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75em;
+  margin-bottom: 1.25em;
+}
+.agenda-modal__speaker {
+  display: flex;
+  align-items: center;
+  gap: 0.75em;
+}
+.agenda-modal__speaker-photo {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid rgba(255,255,255,0.12);
+}
+.agenda-modal__speaker small {
+  opacity: 0.6;
+  font-size: 0.85em;
+}
+.agenda-modal__desc {
+  font-size: 0.92em;
+  opacity: 0.8;
+  line-height: 1.6;
+  margin-bottom: 1.25em;
+}
+.agenda-modal__details {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1em;
+  padding: 1em 0;
+  border-top: 1px solid rgba(255,255,255,0.08);
+  font-size: 0.88em;
+}
+.agenda-modal__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75em;
+  margin-top: 1.5em;
+  padding-top: 1em;
+  border-top: 1px solid rgba(255,255,255,0.08);
+}
+
+.agenda-modal__video {
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%; // 16:9
+  margin-bottom: 1.25em;
+  border-radius: _size(border-radius);
+  overflow: hidden;
+  background: rgba(255, 255, 255, 0.04);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(212, 212, 255, 0.1);
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);
+
+  iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: _size(border-radius);
+  }
+}
+
+/* ---- Responsive ---- */
+@media screen and (max-width: 736px) {
+  .agenda-card {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .agenda-card__avatars {
+    margin-bottom: 0.25em;
+  }
+  .agenda-card__expand {
+    display: none;
+  }
+  .agenda-modal__content {
+    padding: 1.5em;
+  }
+  .agenda-modal__details {
+    grid-template-columns: 1fr;
+  }
+}
+
+//Team Widget
+
+.team-widget {
+  @include inner;
+}
+
+// ---- Memorial ----
+.team-memorial {
+  text-align: center;
+  margin-bottom: 3em;
+  padding-bottom: 2em;
+  border-bottom: 1px solid _palette(border);
+}
+
+.team-memorial__heading {
+  color: _palette(accent1);
+  font-size: 1em;
+  text-transform: uppercase;
+  letter-spacing: _font(letter-spacing-alt);
+  font-weight: _font(weight-bold);
+  margin-bottom: 1em;
+}
+
+.team-memorial__photo {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid _palette(accent1);
+}
+
+// ---- Grid ----
+.team-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 1.5em;
+  margin-top: 2em;
+}
+
+// ---- Card ----
+.team-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 1.5em 1em;
+  transition: transform _duration(transition) ease, box-shadow _duration(transition) ease;
+  position: relative;
+
+  &[role="button"] {
+    cursor: pointer;
+  }
+
+  &:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.3);
+  }
+
+  &--emeritus {
+    opacity: 0.75;
+
+    &:hover {
+      opacity: 1;
+    }
+  }
+}
+
+// Photo
+.team-card__photo {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid rgba(255, 255, 255, 0.15);
+  margin-bottom: 1em;
+
+  &--placeholder {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(255, 255, 255, 0.12);
+    color: _palette(fg);
+    font-weight: _font(weight-bold);
+    font-size: 2em;
+  }
+}
+
+// Name & Role
+.team-card__name {
+  font-size: 0.95em;
+  margin: 0 0 0.25em;
+  color: _palette(fg);
+}
+
+.team-card__role {
+  font-size: 0.78em;
+  opacity: 0.6;
+  text-transform: uppercase;
+  letter-spacing: _font(letter-spacing-alt);
+  margin: 0 0 0.75em;
+}
+
+// Social links
+.team-card__social {
+  display: flex;
+  gap: 0.75em;
+  margin-top: auto;
+
+  a {
+    color: _palette(fg-light);
+    font-size: 1em;
+    transition: color _duration(transition) ease;
+
+    &:hover {
+      color: _palette(accent1);
+    }
+  }
+
+  &--modal {
+    justify-content: center;
+    margin-top: 1.5em;
+    padding-top: 1em;
+    border-top: 1px solid _palette(border);
+
+    a {
+      font-size: 1.25em;
+    }
+  }
+}
+
+// Expand hint
+.team-card__expand {
+  position: absolute;
+  top: 0.5em;
+  right: 0.75em;
+  font-size: 0.9em;
+  opacity: 0.2;
+  transition: opacity _duration(transition);
+
+  .team-card:hover & {
+    opacity: 0.6;
+  }
+}
+
+// Modal photo (larger)
+.team-modal__photo {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid _palette(border);
+  display: block;
+  margin: 0 auto 1em;
+}
+
+// ---- Responsive ----
+@include breakpoint(small) {
+  .team-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1em;
+  }
+
+  .team-card {
+    padding: 1em 0.75em;
+  }
+
+  .team-card__photo {
+    width: 80px;
+    height: 80px;
+  }
+}
+
+// Video Widget
+
+.video-embed {
+  margin: 2em auto;
+  padding: 2.5em;
+  max-width: 720px;
+  background: hsla(222, 47%, 11%, 0.65);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid hsla(222, 30%, 30%, 0.4);
+  box-shadow:
+    0 0 0 1px hsla(222, 30%, 25%, 0.3),
+    0 8px 32px hsla(222, 47%, 4%, 0.5),
+    inset 0 1px 0 hsla(210, 40%, 98%, 0.05);
+}
+
+.video-embed__header {
+  margin-bottom: 1em;
+  text-align: center;
+}
+
+.video-embed__title {
+  margin: 0 0 0.25em;
+  font-family: var(--font-display);
+  background: var(--gradient-sunset);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.video-embed__meta {
+  opacity: 0.7;
+  font-size: 0.9em;
+  margin: 0;
+  color: var(--color-fg-muted);
+}
+
+.video-embed__player {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 */
+  height: 0;
+  overflow: hidden;
+}
+
+.video-embed__player iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+.video-embed__description {
+  margin: 1em 0 0;
+  opacity: 0.8;
+  font-size: 0.9em;
+  color: var(--color-fg-muted);
+}
+
+
+// Community Media Widget  (_includes/community-media.html)
+// BEM-style classes, Forty theme conventions
+// ============================================================
+
+// ---- Section wrappers ----
+.cm-section {
+  @include inner;
+}
+
+.cm-section--about {
+  background: rgba(42, 47, 74, 0.5);
+}
+
+.cm-section--videos {
+  background: rgba(36, 41, 67, 0.8);
+}
+
+.cm-section--photos {
+  background: rgba(42, 47, 74, 0.7);
+}
+
+.cm-section--social {
+  background: rgba(36, 41, 67, 0.9);
+}
+
+// ---- Section Heading ----
+.cm-heading h2 {
+  font-family: var(--font-display);
+  font-size: 1.25em;
+  letter-spacing: _font(letter-spacing-alt);
+}
+
+// ---- Playlist Grid ----
+.cm-playlist-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.5em;
+  margin-top: 1.5em;
+}
+
+// ---- Playlist Card (now a <button>) ----
+.cm-playlist-card {
+  display: block;
+  width: 100%;
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(212, 212, 255, 0.08);
+  overflow: hidden;
+  text-decoration: none;
+  cursor: pointer;
+  padding: 0;
+  font-family: inherit;
+  color: inherit;
+  text-align: left;
+  transition: border-color _duration(transition) ease,
+              transform _duration(transition) ease,
+              box-shadow _duration(transition) ease;
+
+  &:hover {
+    border-color: _palette(accent1);
+    transform: translateY(-3px);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.35);
+  }
+}
+
+// Thumbnail
+.cm-playlist-card__thumb {
+  display: block;
+  position: relative;
+  width: 100%;
+  padding-top: 56.25%; // 16:9 ratio
+  overflow: hidden;
+  background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+
+  img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    opacity: 0.7;
+    transition: opacity _duration(transition) ease;
+  }
+
+  .cm-playlist-card:hover & img {
+    opacity: 1;
+  }
+}
+
+// Play button overlay
+.cm-playlist-card__play {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) scale(1);
+  width: 3.5em;
+  height: 3.5em;
+  border-radius: 50%;
+  background: #e52d27;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2em;
+  padding-left: 0.15em;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+  transition: transform _duration(transition) ease;
+
+  .cm-playlist-card:hover & {
+    transform: translate(-50%, -50%) scale(1.12);
+  }
+}
+
+// Badge
+.cm-playlist-card__badge {
+  position: absolute;
+  bottom: 0.75em;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 0.75em;
+  font-weight: 600;
+  color: #fff;
+  background: rgba(0, 0, 0, 0.6);
+  padding: 0.3em 0.75em;
+  white-space: nowrap;
+}
+
+// Card body
+.cm-playlist-card__body {
+  padding: 1em 1.25em;
+
+  h3 {
+    font-size: 1em;
+    margin: 0;
+    color: _palette(fg);
+    transition: color _duration(transition) ease;
+  }
+
+  .cm-playlist-card:hover & h3 {
+    color: _palette(accent1);
+  }
+}
+
+// ---- Channel link ----
+.cm-channel-link {
+  text-align: center;
+  margin-top: 1.5em;
+  font-size: 0.9em;
+
+  a {
+    color: _palette(fg-light);
+    text-decoration: none;
+    transition: color _duration(transition) ease;
+
+    &:hover {
+      color: _palette(accent1);
+    }
+  }
+}
+
+// ---- Photo Album List ----
+.cm-photo-list {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5em 1.5em;
+  margin-top: 1em;
+
+  a {
+    color: _palette(accent1);
+    text-decoration: none;
+    transition: color _duration(transition) ease;
+
+    &::before {
+      content: '◎ ';
+      margin-right: 0.25em;
+    }
+
+    &:hover {
+      color: lighten(#6fc3df, 15%);
+    }
+  }
+}
+
+// ---- Social Links ----
+.cm-social-links {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  gap: 1.5em;
+  margin-top: 1em;
+
+  a {
+    display: flex;
+    align-items: center;
+    gap: 0.5em;
+    color: _palette(fg);
+    text-decoration: none;
+    font-size: 0.85em;
+    font-weight: 600;
+    letter-spacing: _font(letter-spacing-alt);
+    text-transform: uppercase;
+    transition: color _duration(transition) ease;
+
+    .fa {
+      font-size: 1.4em;
+      color: _palette(accent1);
+    }
+
+    &:hover {
+      color: _palette(accent1);
+    }
+  }
+}
+
+// ---- Responsive ----
+@include breakpoint(small) {
+  .cm-playlist-grid {
+    grid-template-columns: 1fr;
+    gap: 1em;
+  }
+
+  .cm-social-links {
+    flex-wrap: wrap;
+    gap: 1em;
+  }
+}
+
+// ---- Lightbox ----
+.cm-lightbox {
+  display: none;
+  position: fixed;
+  inset: 0;
+  z-index: 10000;
+  background: rgba(0, 0, 0, 0.85);
+  align-items: center;
+  justify-content: center;
+  padding: 2em;
+
+  &--open {
+    display: flex;
+  }
+}
+
+.cm-lightbox__dialog {
+  width: 100%;
+  max-width: 960px;
+  background: #1a1a2e;
+  border: 1px solid rgba(212, 212, 255, 0.12);
+  border-radius: 0;
+  overflow: hidden;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.6);
+}
+
+.cm-lightbox__header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.75em 1.25em;
+  background: rgba(36, 41, 67, 0.95);
+
+  h3 {
+    margin: 0;
+    font-size: 1em;
+    color: #fff;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+}
+
+.cm-lightbox__close {
+  background: none;
+  border: none;
+  color: rgba(255, 255, 255, 0.6);
+  font-size: 1.75em;
+  line-height: 1;
+  cursor: pointer;
+  padding: 0 0.25em;
+  transition: color 0.2s ease;
+
+  &:hover {
+    color: #fff;
+  }
+}
+
+.cm-lightbox__body {
+  position: relative;
+  width: 100%;
+  padding-top: 56.25%; // 16:9
+
+  iframe {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+  }
+}
+
+@include breakpoint(small) {
+  .cm-lightbox {
+    padding: 1em;
+  }
+}

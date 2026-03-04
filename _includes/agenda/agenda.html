@@ -1,0 +1,188 @@
+
+{% assign agenda = include.data %}
+
+<section id="agenda" class="agenda-widget">
+  <div class="inner">
+
+    <header class="major">
+      <h2>{{ agenda.event_title | default: "Event Agenda" }}</h2>
+      {% if agenda.event_date or agenda.event_location %}
+      <p>
+        {% if agenda.event_date %}📅 {{ agenda.event_date }}{% endif %}
+        {% if agenda.event_location %} · 📍 {{ agenda.event_location }}{% endif %}
+      </p>
+      {% endif %}
+    </header>
+
+    <div class="agenda-timeline">
+      {% for session in agenda.sessions %}
+      <div class="agenda-card{% if session.type == 'break' %} agenda-card--break{% endif %}"
+           style="border-left: 4px solid {{ session.track_color | default: '#6fc3df' }};"
+           {% if session.type != 'break' %}onclick="document.getElementById('agenda-modal-s{{ forloop.index }}').classList.add('is-visible');history.replaceState(null,null,'#s{{ forloop.index }}')"{% endif %}
+           {% if session.type != 'break' %}role="button" tabindex="0"{% endif %}>
+
+        {% if session.speakers %}
+        <div class="agenda-card__avatars">
+          {% for speaker in session.speakers %}
+          {% if speaker.photo and speaker.photo != "" %}
+          <img src="{{ speaker.photo | relative_url }}"
+               alt="{{ speaker.name }}"
+               class="agenda-card__avatar"
+               loading="lazy" />
+          {% else %}
+          <span class="agenda-card__avatar agenda-card__avatar--placeholder">
+            {{ speaker.name | truncate: 1, "" }}
+          </span>
+          {% endif %}
+          {% endfor %}
+        </div>
+        {% endif %}
+
+        <div class="agenda-card__body">
+          <span class="agenda-card__track" style="color: {{ session.track_color | default: '#6fc3df' }};">
+            {{ session.track }}
+          </span>
+          <h4 class="agenda-card__title">{{ session.title }}</h4>
+
+          {% if session.speakers %}
+          <p class="agenda-card__speakers">
+            {% for speaker in session.speakers %}
+            {{ speaker.name }}{% if speaker.role %}, {{ speaker.role }}{% endif %}{% unless forloop.last %} · {% endunless %}
+            {% endfor %}
+          </p>
+          {% endif %}
+
+          <div class="agenda-card__meta">
+            <span class="agenda-card__time">🕐 {{ session.time_display }}</span>
+            {% if session.location %}
+            <span class="agenda-card__location">📍 {{ session.location }}</span>
+            {% endif %}
+          </div>
+
+          {% if session.tags or session.video_url %}
+          <div class="agenda-card__tags">
+            {% if session.video_url and session.video_url != "" %}
+            <span class="agenda-card__tag agenda-card__tag--video">🎬 Watch</span>
+            {% endif %}
+            {% if session.tags %}
+            {% for tag in session.tags %}
+            <span class="agenda-card__tag">{{ tag }}</span>
+            {% endfor %}
+            {% endif %}
+          </div>
+          {% endif %}
+        </div>
+
+        {% if session.type != 'break' %}
+        <span class="agenda-card__expand" aria-hidden="true">▸</span>
+        {% endif %}
+      </div>
+
+      {% if session.type != 'break' %}
+      <div id="agenda-modal-s{{ forloop.index }}" class="agenda-modal" onclick="if(event.target===this){this.classList.remove('is-visible');history.replaceState(null,null,' ')}">
+        <div class="agenda-modal__content">
+          <button class="agenda-modal__close" onclick="this.closest('.agenda-modal').classList.remove('is-visible');history.replaceState(null,null,' ')" aria-label="Close">&times;</button>
+
+          <span class="agenda-card__track" style="color: {{ session.track_color | default: '#6fc3df' }};">
+            {{ session.track }}
+          </span>
+          <h3 class="agenda-modal__title">{{ session.title }}</h3>
+
+          {% if session.description %}
+          <p class="agenda-modal__desc">{{ session.description }}</p>
+          {% endif %}
+
+          {% if session.speakers %}
+          <div class="agenda-modal__speakers">
+            {% for speaker in session.speakers %}
+            <div class="agenda-modal__speaker">
+              {% if speaker.photo and speaker.photo != "" %}
+              <img src="{{ speaker.photo | relative_url }}" alt="{{ speaker.name }}" class="agenda-modal__speaker-photo" loading="lazy" />
+              {% else %}
+              <span class="agenda-card__avatar agenda-card__avatar--placeholder" style="width:72px;height:72px;font-size:1.4em;">
+                {{ speaker.name | truncate: 1, "" }}
+              </span>
+              {% endif %}
+              <div>
+                <strong>{{ speaker.name }}</strong>
+                {% if speaker.role %}<br><small>{{ speaker.role }}</small>{% endif %}
+              </div>
+            </div>
+            {% if speaker.bio %}
+            <p class="agenda-modal__bio">{{ speaker.bio }}</p>
+            {% endif %}
+            {% endfor %}
+          </div>
+          {% endif %}
+
+          {% if session.video_url and session.video_url != "" %}
+          <div class="agenda-modal__video">
+            {% assign vid_id = session.video_url | split: "v=" | last | split: "&" | first %}
+            {% if session.video_url contains "youtu.be" %}
+              {% assign vid_id = session.video_url | split: "youtu.be/" | last | split: "?" | first %}
+            {% endif %}
+            <iframe src="https://www.youtube.com/embed/{{ vid_id }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+          </div>
+          {% endif %}
+
+          <div class="agenda-modal__details">
+            <div>
+              <strong>🕐 WHEN</strong><br>
+              {{ session.time_display }}
+            </div>
+            {% if session.location %}
+            <div>
+              <strong>📍 WHERE</strong><br>
+              {{ session.location }}
+            </div>
+            {% endif %}
+          </div>
+
+          {% if session.tags %}
+          <div class="agenda-card__tags" style="margin-top:1em;">
+            {% for tag in session.tags %}
+            <span class="agenda-card__tag">{{ tag }}</span>
+            {% endfor %}
+          </div>
+          {% endif %}
+
+          {% if session.time_start and session.time_end %}
+          {% assign cal_start = session.time_start | remove: "-" | remove: ":" | append: "00" %}
+          {% assign cal_end   = session.time_end   | remove: "-" | remove: ":" | append: "00" %}
+          <div class="agenda-modal__actions">
+            <a class="button small"
+               href="https://www.google.com/calendar/render?action=TEMPLATE&text={{ session.title | url_encode }}&dates={{ cal_start }}/{{ cal_end }}&location={{ session.location | default: agenda.event_location | url_encode }}&details={{ session.description | default: '' | url_encode }}"
+               target="_blank" rel="noopener noreferrer">
+              📅 Add to Calendar
+            </a>
+            <button class="button small" onclick="navigator.clipboard.writeText(window.location.origin+window.location.pathname+'#s{{ forloop.index }}');this.textContent='✅ Copied!';setTimeout(()=>this.textContent='🔗 Share',2000)">
+              🔗 Share
+            </button>
+            {% if session.feedback_url and session.feedback_url != "" %}
+            <a class="button small special" href="{{ session.feedback_url }}" target="_blank" rel="noopener noreferrer">
+              💬 Session Feedback
+            </a>
+            {% endif %}
+          </div>
+          {% endif %}
+
+        </div>
+      </div>
+      {% endif %}
+
+      {% endfor %}
+    </div>
+
+  </div>
+</section>
+
+<script>
+// Auto-open modal if URL has #s1, #s2, etc.
+(function(){
+  var h = window.location.hash;
+  if (h && h.match(/^#s\d+$/)) {
+    var el = document.getElementById('agenda-modal-' + h.substring(1));
+    if (el) el.classList.add('is-visible');
+  }
+})();
+</script>

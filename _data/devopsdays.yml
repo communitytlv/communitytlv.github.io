@@ -1,0 +1,73 @@
+title: "DevOpsDays TLV"
+description: >
+  <a href="https://devopsdays.org" target="_blank">DevOpsDays</a> is a worldwide series of technical conferences covering topics of software
+  development, IT infrastructure operations, and the intersection between them.
+  DevOpsDays Tel Aviv is one of the largest DevOpsDays events globally, featuring
+  world-class speakers, hands-on workshops, and unparalleled networking opportunities.
+  <br/>*Find all of our previous event videos and pics below.*
+
+youtube_channel: "https://www.youtube.com/@DevOpsDaysTelAviv"
+
+playlists:
+  - name: "DevOpsDays TLV 2025"
+    playlist_id: "PL8tivQAdoavMttbcb875zvINwJOqAEYCD"
+    thumbnail_video_id: "huRfsLMK5sA"
+  - name: "DevOpsDays Tel Aviv 2024"
+    playlist_id: "PL8tivQAdoavNs2xQkQXC4f9Wdtc2CuMeT"
+    thumbnail_video_id: "bhzF_pHoM-M"
+  - name: "DevOpsDays TLV 2022 + CloudNativeIL & OSS IL 2022"
+    playlist_id: "PL8tivQAdoavNHBVaiDiadxLiVtdH7xPJH"
+    thumbnail_video_id: "ZQ09Yapq1ws"
+  - name: "DevOpsDays Tel Aviv 2021"
+    playlist_id: "PL8tivQAdoavO5l6n-qusWvOtzu7BmKK22"
+    thumbnail_video_id: "RTrmlVIfylw"
+  - name: "DevOpsDays Tel Aviv 2019"
+    playlist_id: "PL8tivQAdoavPh74xwoPI23CW-ToU-2oIM"
+    thumbnail_video_id: "gIGIdPWhjcc"
+  - name: "DevOpsDays Tel Aviv 2018"
+    playlist_id: "PL8tivQAdoavO1h9DLI6SGNf517QDLa6kM"
+    thumbnail_video_id: "7WVaijojl9w"
+  - name: "DevOpsDays Tel Aviv 2017"
+    playlist_id: "PL8tivQAdoavMyd5qrMszXYaN6TVRuMrDq"
+    thumbnail_video_id: "We-v-v1Ds7A"
+  - name: "DevOps Days Tel Aviv 2016"
+    playlist_id: "PL8tivQAdoavPk7UOjmYjmfSZxBEJZEC9B"
+    thumbnail_video_id: "jEgPbOMgKqk"
+  - name: "DevOps Days Tel Aviv 2015"
+    playlist_id: "PL8tivQAdoavOglNSmL4NsEKb78Rqdqtw8"
+    thumbnail_video_id: "0RGi6wQQPZo"
+  - name: "DevOps Days Tel Aviv — September 2013"
+    playlist_id: "PL8tivQAdoavPwbSEdssQyDLvXppXLy1D8"
+    thumbnail_video_id: "RUuz_dnp5mo"
+  - name: "DevOps Con — January 2013"
+    playlist_id: "PL8tivQAdoavMONeNcYq3WD35QN4s_PZwM"
+    thumbnail_video_id: "OJea7eEp8rk"
+
+photos:
+  - name: "DevOpsDays TLV 2024"
+    url: "https://photos.google.com/share/AF1QipOpUTN9sigVsGqRXhu9q0iFwhh_1tx5079duMT2nO8Gf68YdvpcwSs17Io37QNsTQ?key=OEttZkRtbjRiS29vNklmeHRuN08tVkk1cFc5dkhn"
+  - name: "DevOpsDays TLV 2022"
+    url: "https://rtfmp.lease/devopsdaystlv-2022-photos"
+  - name: "DevOpsDays TLV 2021"
+    url: "https://photos.app.goo.gl/EiUmrW4QwigR1oQ27"
+  - name: "DevOpsDays 2019"
+    url: "https://photos.google.com/u/1/share/AF1QipPUaxMui5bLi5I9NNJ_LXLSCtYqF0QCYD_Xwu2WXjRKLJCOdkNOI0eCu7ph0nwsXA?key=X2FXbzRXaXNIN3Nabk9IM21TY0ZYeDVpZ2NUZi1n"
+  - name: "DevOpsDays 2018"
+    url: "https://photos.google.com/u/1/share/AF1QipOi37lys5fOHziSrw7l-p5b4wa9m6UiTTgAhEioBBI-40NbSJVlN2gwloq8ekidww?key=ZktvaEZyTUkzVUt0MzFqX2RPY1JGaGMzT2duN2Zn"
+  - name: "DevOpsDays 2017"
+    url: "https://photos.google.com/u/3/share/AF1QipPFd9YVSwBkMq06sk6QbU8tg0IwiwU8SB9hCau7eH2pNVYGd3vzfyMeK1U1UrovFw?key=N3ZDNXRYZ0ZhVmwyQWY4STVpRFBhaVB4enM5MzBn"
+  - name: "DevOpsDays 2016"
+    url: "https://photos.google.com/u/3/share/AF1QipM5Zk63YXq57EmpWoPIAEbTZcuZOXAS0LB2eHCyRAfFCU72Z7-2QGNCK6dFYyxFkA?key=LXgxVHFaQy03YnJFdDkyT3pqX05Ya0I5VTM1aTNR"
+  - name: "DevOpsDays 2014"
+    url: "https://photos.google.com/u/1/album/AF1QipNWLYZEFTHcNpBfJufCsyiVGUnjrt3SgNLSvnyJ"
+
+social:
+  - platform: twitter
+    url: "https://x.com/DevOpsDaysTLV"
+    label: "Twitter"
+  - platform: linkedin
+    url: "https://www.linkedin.com/company/devopsdays-tel-aviv"
+    label: "LinkedIn"
+  - platform: instagram
+    url: "https://instagram.com/rtfm.please"
+    label: "Instagram"

@@ -1,0 +1,63 @@
+# Cloud Native & OSS IL — Community media data
+
+title: "Cloud Native & OSS IL"
+description: >
+  Cloud Native and Open Source TLV is the community that started its journey as the
+  OpenStack Israel Community as early as 2014, and has been running since then. Over
+  the years it evolved and expanded to include all of the awesome cloud and open source
+  technology our community loves to learn about and build together.
+  *Find all of our previous event videos and pics below.*
+
+youtube_channel: "https://www.youtube.com/@TLVCommunity"
+
+playlists:
+  - name: "Cloud Native & OSS Day Tel Aviv 2019"
+    playlist_id: "PLBbbxYi2GRdaF8rF0wrQtS7vxb4sSsvos"
+    thumbnail_video_id: "RoFgiIC2Dy0"
+  - name: "Cloud Native Day Tel Aviv 2018"
+    playlist_id: "PLBbbxYi2GRdY-vrCdgZwOG-E0AIUgVipU"
+    thumbnail_video_id: "A4FYR__cRWA"
+  - name: "OpenStack Day Tel Aviv 2017"
+    playlist_id: "PLBbbxYi2GRdaqAaIInX4QnUH2dwkOshRN"
+    thumbnail_video_id: "3rP1c96bfpY"    
+  - name: "OpenStack Days Tel Aviv 2016"
+    playlist_id: "PLBbbxYi2GRda5BGGVYWPS8qk7e50IqRP6"
+    thumbnail_video_id: "MigADVropSc"
+  - name: "OpenStack Days Tel Aviv 2015"
+    playlist_id: "PLBbbxYi2GRdaPOfQ-NKjC7A5yaMnjYSbV"
+    thumbnail_video_id: "W2Xp6AgDeRU"
+  - name: "OpenStack Israel 2014"
+    playlist_id: "PLBbbxYi2GRdbf55SR0IG0k1XxmSpLyvlh"
+    thumbnail_video_id: "EflJnbuVdmU"
+  - name: "OpenStack Israel- December 2013"
+    playlist_id: "PLBbbxYi2GRdYzlj77lY8r1tcToV0PxpDG"
+    thumbnail_video_id: "UQh8d1v9ulM"
+  - name: "OpenStack Israel- May 2013"
+    playlist_id: "PLBbbxYi2GRdYCP7QhlwdxsVmP5qh61_-l"
+    thumbnail_video_id: "a8hNVTbd5SA"
+
+
+photos:
+  - name: "Cloud Native and OSS Day Tel Aviv 2019"
+    url: "https://photos.google.com/u/1/share/AF1QipOqO2xpMomL_qnzbnGRc8o86E9-fZe_qR9HtPLxAt8lPBanXkIkYEGyQfL1e-eeKA?key=UEU4UUNmdjdjcmhLVXE1bFVsWWJUcWhLV3k3anR3"
+  - name: "Cloud Native Day Tel Aviv 2018"
+    url: "https://photos.google.com/u/4/share/AF1QipMvguSJe_8ubACkriI8BYtpYCw-Bnov6oVEOxWe52Mjhvk6ZLfZMkNHxxcnCC_HOg?key=QkFPNlR4Q2xoVm1pcl84elpxMUpKRXBlZFBBUU5B"
+  - name: "OpenStack Day Tel Aviv 2017"
+    url: "https://photos.google.com/u/5/share/AF1QipNATFNzlPt3jgogv-V5053jpk6dVaRE66YkpWjKh72yT0liH7c9ZPbvBbGMe2cRjg?key=TFhvZTdOLU5Mdm9NMk1ZUkNyZlc2Y01YUlBIZVl3"
+  - name: "OpenStack Day Tel Aviv 2016"
+    url: "https://photos.google.com/u/5/share/AF1QipNupkVAR4qo-7fEf2YytfhNjDeN0ccXQ7wRY1AnAW5iBvh8zKJ1HoB4W9WR119dnA?key=NjVlZHBYeXFpUkhPbjUyU2NUYmsxY1VxSHUxNGlR"
+  - name: "OpenStack Day Tel Aviv 2015"
+    url: "https://photos.google.com/u/5/share/AF1QipNkDI2u05uxOQ4c2bnLVKWz_35zb5jlY4y5gVqnqPCC2up8qjIuBOoCEu-67MIeTA?key=OHN1akx4Y196eC1QSXpoRXFDSERlZU9oLXlEOHBn"
+  - name: "OpenStack Day Tel Aviv 2014"
+    url: "https://photos.app.goo.gl/B7R27A6FpzJPeWZC9"
+
+social:
+  - platform: twitter
+    url: "https://x.com/cloudnativeIL"
+    label: "Twitter"
+  - platform: linkedin
+    url: "https://linkedin.com/company/tlvcommunity"
+    label: "LinkedIn"
+  - platform: instagram
+    url: "https://instagram.com/rtfm.please"
+    label: "Instagram"

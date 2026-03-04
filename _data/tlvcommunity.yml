@@ -1,0 +1,68 @@
+title: "TLVCommunity"
+description: >
+  Below you'll find all of the additional TLVCommunity events and ongoing meetups.
+
+youtube_channel: "https://www.youtube.com/@DevOpsDaysTelAviv"
+
+playlists:
+  - name: "DevOps x AWS Startup Circuit 2025"
+    playlist_id: "PL8tivQAdoavMQyyr5W5j48-LPdLF8GRnY"
+    thumbnail_video_id: "gdJkJk3NP7I"
+    video_count: 18
+
+  - name: "AWS Summit TLV — Community Track"
+    playlist_id: "PL8tivQAdoavMPaKFw4sA5B8rKt6CC79-3"
+    thumbnail_video_id: "xfHu2R70ZgU"
+    video_count: 7
+
+  - name: "AWS & DevOps TLVCommunity Fest 2024"
+    playlist_id: "PL8tivQAdoavNVyx22B35z9Y6sg1bBBSqE"
+    thumbnail_video_id: "tIlkK9W0sWQ"
+    video_count: 20
+
+  - name: "Ariel Moskovich Memorial Award @ DevOpsDays TLV"
+    playlist_id: "PL8tivQAdoavN0HgfbRNahDfkXb4HZnYvY"
+    thumbnail_video_id: "nYxBNx7Wvjg"
+    video_count: 4
+  
+  - name: "Community Summit TLV 2020"
+    playlist_id: "PL8tivQAdoavOgOaqBjMX725nwkqntp9EM"
+    thumbnail_video_id: "vUYj4mz2H34"
+
+  - name: "Community Summit TLV — Sponsor Track"
+    playlist_id: "PL8tivQAdoavNzrbSbosZyfHYZpHSYzZPo"
+    thumbnail_video_id: "wotu1IZAlv0"
+    video_count: 13
+
+  - name: "TLVCommunity Meetups"
+    playlist_id: "PL8tivQAdoavNr3ni4JlxxIZG157lAEHw5"
+    thumbnail_video_id: "j7nAddjcrNM"
+    video_count: 13
+
+photos:
+  - name: "DevOps X AWS Startup Circuit | 2025"
+    url: "https://www.instagram.com/stories/highlights/17930321091042525/"
+  - name: "AWS & DevOps TLVCommunity Fest Byte-Sized DevOps for Startups 2024"
+    url: "https://photos.app.goo.gl/mdiptLt31iYeLSTC6"
+  - name: "Q1 TLVCommunity Blitz @ Island"
+    url: "https://www.instagram.com/stories/highlights/18059042320817183/"
+  - name: "Fireside Chat & Panel: The Impact of AI on Engineering Orgs"
+    url: "https://www.instagram.com/stories/highlights/18138171739378460/"
+  - name: "Celebrating Kubescape: A Journey into CNCF Incubation"
+    url: "https://www.instagram.com/stories/highlights/17904476508101627/"
+  - name: "AWS Community Day TLV 2024"
+    url: "https://www.instagram.com/stories/highlights/18046235993184566/"
+  
+  
+  
+
+social:
+  - platform: twitter
+    url: "https://x.com/TLVCommunity"
+    label: "Twitter"
+  - platform: linkedin
+    url: "https://www.linkedin.com/company/devopsdays-tel-aviv"
+    label: "LinkedIn"
+  - platform: instagram
+    url: "https://instagram.com/rtfm.please"
+    label: "Instagram"
