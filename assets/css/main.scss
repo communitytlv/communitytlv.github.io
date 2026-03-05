@@ -590,6 +590,14 @@ h2.has-underline::after,
 
 .team-widget {
   @include inner;
+  width: 100%;
+  box-sizing: border-box;
+
+  > .inner {
+    width: 100%;
+    padding-left: 0;
+    padding-right: 0;
+  }
 }
 
 // ---- Memorial ----
@@ -620,9 +628,12 @@ h2.has-underline::after,
 // ---- Grid ----
 .team-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(min(200px, 100%), 1fr));
   gap: 1.5em;
   margin-top: 2em;
+  max-width: 100%;
+  overflow: hidden;
+  box-sizing: border-box;
 }
 
 // ---- Card ----
@@ -632,6 +643,9 @@ h2.has-underline::after,
   align-items: center;
   text-align: center;
   padding: 1.5em 1em;
+  min-width: 0;
+  max-width: 100%;
+  overflow: visible;
   transition: transform _duration(transition) ease, box-shadow _duration(transition) ease;
   position: relative;
 
@@ -678,6 +692,10 @@ h2.has-underline::after,
   font-size: 0.95em;
   margin: 0 0 0.25em;
   color: _palette(fg);
+  max-width: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 .team-card__role {
@@ -686,11 +704,16 @@ h2.has-underline::after,
   text-transform: uppercase;
   letter-spacing: _font(letter-spacing-alt);
   margin: 0 0 0.75em;
+  max-width: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 // Social links
 .team-card__social {
   display: flex;
+  justify-content: center;
   gap: 0.75em;
   margin-top: auto;
 
@@ -744,12 +767,13 @@ h2.has-underline::after,
 // ---- Responsive ----
 @include breakpoint(small) {
   .team-grid {
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: 1fr;
     gap: 1em;
   }
 
   .team-card {
     padding: 1em 0.75em;
+    overflow: visible;
   }
 
   .team-card__photo {
@@ -762,8 +786,10 @@ h2.has-underline::after,
 
 .video-embed {
   margin: 2em auto;
-  padding: 2.5em;
+  padding: 1.25em;
   max-width: 720px;
+  width: 100%;
+  box-sizing: border-box;
   background: hsla(222, 47%, 11%, 0.65);
   backdrop-filter: blur(16px);
   -webkit-backdrop-filter: blur(16px);
@@ -772,6 +798,10 @@ h2.has-underline::after,
     0 0 0 1px hsla(222, 30%, 25%, 0.3),
     0 8px 32px hsla(222, 47%, 4%, 0.5),
     inset 0 1px 0 hsla(210, 40%, 98%, 0.05);
+
+  @media screen and (min-width: 480px) {
+    padding: 2.5em;
+  }
 }
 
 .video-embed__header {
@@ -853,7 +883,7 @@ h2.has-underline::after,
 // ---- Playlist Grid ----
 .cm-playlist-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(min(280px, 100%), 1fr));
   gap: 1.5em;
   margin-top: 1.5em;
 }
@@ -1123,5 +1153,226 @@ h2.has-underline::after,
 @include breakpoint(small) {
   .cm-lightbox {
     padding: 1em;
+  }
+}
+
+//  Sponsors Section
+
+#sponsors {
+  background-color: #242943;
+  padding: 4em 0;
+  overflow-x: clip;
+  box-sizing: border-box;
+}
+
+.sponsors__inner {
+  max-width: 75rem;
+  margin: 0 auto;
+  padding: 0 2em;
+  box-sizing: border-box;
+}
+
+/* ---- Tier header ---- */
+.sponsors__tier-header {
+  display: flex;
+  align-items: center;
+  gap: 1em;
+  margin-bottom: 2em;
+}
+
+.sponsors__tier-line {
+  flex: 1;
+  min-width: 0;
+  height: 1px;
+  background: rgba(212, 212, 255, 0.15);
+}
+
+.sponsors__tier-label {
+  text-transform: uppercase;
+  letter-spacing: 0.25em;
+  font-size: 0.85em;
+  color: rgba(244, 244, 255, 0.65);
+  margin: 0;
+  text-align: center;
+  flex-shrink: 0;
+}
+
+/* ---- Sponsor card grid ---- */
+.sponsors__grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.25em;
+  justify-content: center;
+  margin-bottom: 3em;
+}
+
+.sponsors__grid--lg {
+  gap: 1.5em;
+}
+
+/* ---- Sponsor card — matches original inline styles exactly ---- */
+.sponsors__card {
+  display: block;
+  background: rgba(212, 212, 255, 0.06);
+  border: 1px solid rgba(212, 212, 255, 0.1);
+  border-radius: 6px;
+  padding: 1em 1.25em;
+  transition: border-color 0.3s ease, background 0.3s ease;
+  text-decoration: none;
+  box-sizing: border-box;
+
+  &:hover {
+    border-color: rgba(212, 212, 255, 0.3);
+    background: rgba(212, 212, 255, 0.1);
+  }
+}
+
+.sponsors__card--organizer,
+.sponsors__card--diamond {
+  padding: 1.5em;
+}
+
+.sponsors__card--platinum {
+  padding: 1.25em;
+}
+
+/* ---- Sponsor logos ---- */
+.sponsors__logo {
+  display: block;
+  object-fit: contain;
+  max-width: 100%;
+  height: auto;
+}
+
+.sponsors__logo--organizer  { width: 9.375rem; }
+.sponsors__logo--diamond    { width: 15.625rem; }
+.sponsors__logo--platinum   { width: 13.125rem; }
+.sponsors__logo--gold       { width: 10rem; }
+.sponsors__logo--community  { width: 8.75rem; }
+
+/* ---- CTA ---- */
+.sponsors__cta {
+  text-align: center;
+  padding-top: 1em;
+}
+
+.sponsors__cta h3 {
+  color: rgba(244, 244, 255, 0.85);
+}
+
+.sponsors__cta .actions {
+  justify-content: center;
+}
+
+/* =============================================
+   Responsive — Sponsors
+   ============================================= */
+@media screen and (max-width: 48em) {
+  .sponsors__inner {
+    padding: 0 1em;
+  }
+
+  .sponsors__tier-label {
+    letter-spacing: 0.1em;
+    font-size: 0.75em;
+  }
+
+  /* Two-column grid on mobile */
+  .sponsors__grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0.75em;
+    justify-items: center;
+  }
+
+  .sponsors__card {
+    max-width: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  /* Organizer/Diamond stay full-width single column */
+  .sponsors__grid--lg {
+    grid-template-columns: 1fr;
+  }
+
+  .sponsors__logo--organizer  { width: 7.5rem; }
+  .sponsors__logo--diamond    { width: 10rem; }
+  .sponsors__logo--platinum   { width: 8rem; }
+  .sponsors__logo--gold       { width: 6.5rem; }
+  .sponsors__logo--community  { width: 6rem; }
+}
+
+@media screen and (max-width: 30em) {
+  .sponsors__tier-line {
+    display: none;
+  }
+
+  .sponsors__tier-header {
+    justify-content: center;
+  }
+
+  .sponsors__logo--organizer  { width: 6rem; }
+  .sponsors__logo--diamond    { width: 8rem; }
+  .sponsors__logo--platinum   { width: 6.5rem; }
+  .sponsors__logo--gold       { width: 5rem; }
+  .sponsors__logo--community  { width: 4.5rem; }
+}
+
+
+/* =============================================
+   GLOBAL MOBILE OVERFLOW SAFETY
+   ============================================= */
+html, body {
+  overflow-x: hidden;
+  max-width: 100vw;
+}
+
+#wrapper {
+  overflow-x: hidden;
+  max-width: 100%;
+}
+
+@media screen and (max-width: 48em) {
+  /* Forty's .inner uses calc() widths that can exceed viewport */
+  #main .inner,
+  #main > * > .inner {
+    width: 100% !important;
+    max-width: 100% !important;
+    padding-left: 1em !important;
+    padding-right: 1em !important;
+    box-sizing: border-box !important;
+  }
+
+  /* Banner text */
+  #banner .inner,
+  #banner h1,
+  #banner h2,
+  #banner .content {
+    max-width: 100% !important;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+
+  /* Video embed */
+  .video-embed {
+    padding: 0.75em !important;
+    margin-left: 0;
+    margin-right: 0;
+    max-width: 100% !important;
+    box-sizing: border-box !important;
+  }
+
+  /* Lightbox */
+  .cm-lightbox__dialog {
+    max-width: 100%;
+  }
+
+  /* Sponsors */
+  #sponsors {
+    max-width: 100% !important;
+    overflow-x: hidden;
   }
 }
