@@ -5,21 +5,24 @@ year: 2026
 
 custom_tiers:
   - label: "Event Sponsors"
-    style: lg          # optional: lg | (default)
+    style: lg
     items:
-      - { name: DoIT, url: "https://doit.com", "/assets/images/sponsor-logos/doit-SQ.png" }
-      - { name: Innocom, url: "https://innocom.co.il", "/assets/images/sponsor-logos/innocom-SQ.png" }
-
+      - name: "DoIT"
+        url: "https://doit.com"
+        logo: "/assets/images/sponsor-logos/doit-SQ.png"
+      - name: "Innocom"
+        url: "https://innocom.co.il"
+        logo: "/assets/images/sponsor-logos/innocom-SQ.png"
 
 host:
   - name: "AWS"
     url: "https://aws.amazon.com/local/israel/"
     logo: "/assets/images/sponsor-logos/aws-SQ.png"
 
-organizer:
-  - name: "RTFM Please"
-    url: "https://rtfmplease.dev"
-    logo: "/assets/images/sponsor-logos/RTFM.png"
-
-
-
+custom_tiers:
+  - label: "Event Organizer"
+    style: default
+    items:
+      - name: "RTFM Please"
+        url: "https://rtfmplease.dev"
+        logo: "/assets/images/sponsor-logos/RTFM.png"
