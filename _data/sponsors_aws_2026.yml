@@ -13,16 +13,16 @@ custom_tiers:
       - name: "Innocom"
         url: "https://innocom.co.il"
         logo: "/assets/images/sponsor-logos/innocom-SQ.png"
+  - label: "Organized By"
+    style: md
+    items:
+      - name: "RTFM Please"
+        url: "https://rtfmplease.dev"
+        logo: "/assets/images/sponsor-logos/RTFM.png"
 
 host:
   - name: "AWS"
     url: "https://aws.amazon.com/local/israel/"
     logo: "/assets/images/sponsor-logos/aws-SQ.png"
 
-custom_tiers:
-  - label: "Event Organizer"
-    style: lg
-    items:
-      - name: "RTFM Please"
-        url: "https://rtfmplease.dev"
-        logo: "/assets/images/sponsor-logos/RTFM.png"
+ 
