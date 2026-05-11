@@ -1,15 +1,59 @@
 <section id="sponsors">
   <div class="sponsors__inner">
 
+    {% assign sd = include.data | default: site.data.sponsors %}
+
+    <!-- Host -->
+    {% if sd.host and sd.host.size > 0 %}
+    <div class="sponsors__tier-header">
+      <div class="sponsors__tier-line"></div>
+      <h3 class="sponsors__tier-label">Host</h3>
+      <div class="sponsors__tier-line"></div>
+    </div>
+    <div class="sponsors__grid sponsors__grid--lg">
+      {% for s in sd.host %}
+      <a href="{{ s.url }}" target="_blank" rel="noopener noreferrer" class="sponsors__card sponsors__card--lg">
+        <img src="{{ s.logo }}" alt="{{ s.name }}" class="sponsors__logo sponsors__logo--lg" loading="lazy" />
+      </a>
+      {% endfor %}
+    </div>
+    {% endif %}
+
+    <!-- Custom Tiers (supports multiple, each with style: lg | md | sm) -->
+    {% if sd.custom_tiers %}
+      {% for tier in sd.custom_tiers %}
+        {% assign sz = tier.style | default: "sm" %}
+        {% if sz == "lg" or sz == "md" %}
+          {% assign grid_class = "sponsors__grid sponsors__grid--lg" %}
+        {% else %}
+          {% assign grid_class = "sponsors__grid" %}
+        {% endif %}
+        {% if tier.items and tier.items.size > 0 %}
+        <div class="sponsors__tier-header">
+          <div class="sponsors__tier-line"></div>
+          <h3 class="sponsors__tier-label">{{ tier.label }}</h3>
+          <div class="sponsors__tier-line"></div>
+        </div>
+        <div class="{{ grid_class }}">
+          {% for s in tier.items %}
+          <a href="{{ s.url }}" target="_blank" rel="noopener noreferrer" class="sponsors__card sponsors__card--{{ sz }}">
+            <img src="{{ s.logo }}" alt="{{ s.name }}" class="sponsors__logo sponsors__logo--{{ sz }}" loading="lazy" />
+          </a>
+          {% endfor %}
+        </div>
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+
     <!-- Event Organizer -->
-    {% if site.data.sponsors.organizer.size > 0 %}
+    {% if sd.organizer and sd.organizer.size > 0 %}
     <div class="sponsors__tier-header">
       <div class="sponsors__tier-line"></div>
       <h3 class="sponsors__tier-label">Event Organizer</h3>
       <div class="sponsors__tier-line"></div>
     </div>
     <div class="sponsors__grid sponsors__grid--lg">
-      {% for s in site.data.sponsors.organizer %}
+      {% for s in sd.organizer %}
       <a href="{{ s.url }}" target="_blank" rel="noopener noreferrer" class="sponsors__card sponsors__card--organizer">
         <img src="{{ s.logo }}" alt="{{ s.name }}" class="sponsors__logo sponsors__logo--organizer" loading="lazy" />
       </a>
@@ -18,14 +62,14 @@
     {% endif %}
 
     <!-- Diamond -->
-    {% if site.data.sponsors.diamond.size > 0 %}
+    {% if sd.diamond and sd.diamond.size > 0 %}
     <div class="sponsors__tier-header">
       <div class="sponsors__tier-line"></div>
       <h3 class="sponsors__tier-label">Diamond Sponsor</h3>
       <div class="sponsors__tier-line"></div>
     </div>
     <div class="sponsors__grid sponsors__grid--lg">
-      {% for s in site.data.sponsors.diamond %}
+      {% for s in sd.diamond %}
       <a href="{{ s.url }}" target="_blank" rel="noopener noreferrer" class="sponsors__card sponsors__card--diamond">
         <img src="{{ s.logo }}" alt="{{ s.name }}" class="sponsors__logo sponsors__logo--diamond" loading="lazy" />
       </a>
@@ -34,14 +78,14 @@
     {% endif %}
 
     <!-- Platinum -->
-    {% if site.data.sponsors.platinum.size > 0 %}
+    {% if sd.platinum and sd.platinum.size > 0 %}
     <div class="sponsors__tier-header">
       <div class="sponsors__tier-line"></div>
       <h3 class="sponsors__tier-label">Platinum Sponsors</h3>
       <div class="sponsors__tier-line"></div>
     </div>
     <div class="sponsors__grid sponsors__grid--lg">
-      {% for s in site.data.sponsors.platinum %}
+      {% for s in sd.platinum %}
       <a href="{{ s.url }}" target="_blank" rel="noopener noreferrer" class="sponsors__card sponsors__card--platinum">
         <img src="{{ s.logo }}" alt="{{ s.name }}" class="sponsors__logo sponsors__logo--platinum" loading="lazy" />
       </a>
@@ -50,14 +94,14 @@
     {% endif %}
 
     <!-- Gold -->
-    {% if site.data.sponsors.gold.size > 0 %}
+    {% if sd.gold and sd.gold.size > 0 %}
     <div class="sponsors__tier-header">
       <div class="sponsors__tier-line"></div>
       <h3 class="sponsors__tier-label">Gold Sponsors</h3>
       <div class="sponsors__tier-line"></div>
     </div>
     <div class="sponsors__grid">
-      {% for s in site.data.sponsors.gold %}
+      {% for s in sd.gold %}
       <a href="{{ s.url }}" target="_blank" rel="noopener noreferrer" class="sponsors__card">
         <img src="{{ s.logo }}" alt="{{ s.name }}" class="sponsors__logo sponsors__logo--gold" loading="lazy" />
       </a>
@@ -66,14 +110,14 @@
     {% endif %}
 
     <!-- Community & Media Partners -->
-    {% if site.data.sponsors.community.size > 0 %}
+    {% if sd.community and sd.community.size > 0 %}
     <div class="sponsors__tier-header">
       <div class="sponsors__tier-line"></div>
       <h3 class="sponsors__tier-label">Community &amp; Media Partners</h3>
       <div class="sponsors__tier-line"></div>
     </div>
     <div class="sponsors__grid">
-      {% for s in site.data.sponsors.community %}
+      {% for s in sd.community %}
       <a href="{{ s.url }}" target="_blank" rel="noopener noreferrer" class="sponsors__card">
         <img src="{{ s.logo }}" alt="{{ s.name }}" class="sponsors__logo sponsors__logo--community" loading="lazy" />
       </a>

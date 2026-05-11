@@ -1,0 +1,28 @@
+# Grouped by tier. Just add/remove entries under each tier.
+# The include loops through each group directly — no filters needed.
+
+year: 2026
+
+custom_tiers:
+  - label: "Event Sponsors"
+    style: lg
+    items:
+      - name: "DoIT"
+        url: "https://doit.com"
+        logo: "/assets/images/sponsor-logos/doit-SQ.png"
+      - name: "Innocom"
+        url: "https://innocom.co.il"
+        logo: "/assets/images/sponsor-logos/innocom-SQ.png"
+  - label: "Organized By"
+    style: md
+    items:
+      - name: "RTFM Please"
+        url: "https://rtfmplease.dev"
+        logo: "/assets/images/sponsor-logos/RTFM.png"
+
+host:
+  - name: "AWS"
+    url: "https://aws.amazon.com/local/israel/"
+    logo: "/assets/images/sponsor-logos/aws-SQ.png"
+
+ 
