@@ -1,0 +1,28 @@
+# Grouped by tier. Just add/remove entries under each tier.
+# The include loops through each group directly — no filters needed.
+
+year: 2026
+
+diamond:
+  - name: "DoIT"
+    url: "https://doit.com"
+    logo: "/assets/images/sponsor-logos/doit-SQ.png"
+
+diamond:
+  - name: "Innocom"
+    url: "https://innocom.co.il"
+    logo: "/assets/images/sponsor-logos/innocom-SQ.png"
+
+
+organizer:
+  - name: "AWS"
+    url: "https://aws.amazon.com/local/israel/"
+    logo: "/assets/images/sponsor-logos/aws-SQ.png"
+
+organizer:
+  - name: "RTFM Please"
+    url: "https://rtfmplease.dev"
+    logo: "/assets/images/sponsor-logos/RTFM.png"
+
+
+
