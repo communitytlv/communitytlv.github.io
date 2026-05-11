@@ -112,6 +112,7 @@ sessions:
       - name: "TBD"
         role: "Harmony"
         photo: "/assets/images/speakers/placeholder.jpg"
+    description: "Most AI agents start the same way: a single prompt, a growing list of tools, and increasingly fragile behavior as complexity creeps in. Ours did too - until it became unmaintainable. In this talk, I'll show how we refactored our production IT helpdesk agent into a composable toolkit architecture using AWS Bedrock, where each capability - password resets, app provisioning, device recovery, knowledge base search, ticket management - is an independent, self-contained module with its own tools, prompts, dependencies, and runtime activation gates. Skills assemble dynamically per-request based on tenant configuration, user roles, and identity provider capabilities. I'll cover the engineering patterns that made it work: runtime gating, lazy dependency injection, streaming responses, and how we keep a multi-tenant agent from doing things it shouldn't. Real production code, real lessons learned."
 
   - title: "May Walter"
     track: "Track 2 - TLVCommunity"
@@ -205,11 +206,11 @@ sessions:
     location: "Track 1 – AWS Experience"
     type: "talk"
     speakers:
-      - name: "Asaf Peleg"
-        role: "CATO Networks"
-        photo: "/assets/images/speakers/placeholder.jpg"
+      - name: "Assaf Peleg"
+        role: "Cato Networks"
+        photo: "/assets/images/speakers/assaf-peleg.jpg"
       - name: "Tomer Doitshman"
-        role: "CATO Networks"
+        role: "Cato Networks"
         photo: "/assets/images/speakers/tomer-doitshman.jpeg"
     description: "SOC & NOC teams aren't short on data - they're short on signal. With overwhelming alerts & logs, the challenge is improving Signal-to-Noise Ratio (SNR): isolating what truly matters. <br/><br/> This session presents an automated RCA framework running on Amazon EKS that amplifies signal from network and security incidents. By combining trend detection with GenAI on Amazon Bedrock, the framework transforms complex network and security data into clear, actionable explanations of why incidents occur—and what is likely to happen next.<br/><br/> Our customizable, tool-driven architecture builds tailored RCA workflows per story type, increasing SNR precision. Amazon Bedrock AgentCore provides secure runtime, contextual memory, observability, operationalizing high-SNR insights into RCA-driven actions.<br/> Detection creates data. RCA creates signal."
     
@@ -249,7 +250,7 @@ sessions:
     speakers:
       - name: "Asaf Savich"
         role: "AI Engineering Group Manager, Komodor"
-        photo: "/assets/images/speakers/asaf-savich.png"
+        photo: "/assets/images/speakers/asaf-savich.jpg"
     description: We've analyzed over 1 million production K8s failures across thousands of clusters. The data reveals something striking - the vast majority of incidents fall into predictable, preventable categories. By the law of large numbers, if we address these recurring issues, we can drastically improve production reliability. <br/><br/>This talk presents the most common K8s failure patterns backed by real data at scale. We'll cover 6 major categories - Resource Exhaustion (OOMKilled pods, memory leaks, GPU thermal throttling), Image & Deployment Issues (ImagePullBackOff, stuck rollouts), Config & Secret Management (rotation breaking apps, ConfigMap drift), Cascading Failures (missing ConfigMaps triggering multi-pod failures, dependency chains), Storage & Persistence (PVC conflicts, CSI driver issues), & App vs Infra Debugging (CrashLoopBackOff mysteries, GPU XID errors).<br/><br/>For each category, we'll show real K8s events, explain why these failures are so common, and provide actionable prevention strategies."
 
   - title: "10 Min Break"
