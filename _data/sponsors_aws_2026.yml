@@ -3,18 +3,15 @@
 
 year: 2026
 
-diamond:
-  - name: "DoIT"
-    url: "https://doit.com"
-    logo: "/assets/images/sponsor-logos/doit-SQ.png"
-
-diamond:
-  - name: "Innocom"
-    url: "https://innocom.co.il"
-    logo: "/assets/images/sponsor-logos/innocom-SQ.png"
+custom_tiers:
+  - label: "Event Sponsors"
+    style: lg          # optional: lg | (default)
+    items:
+      - { name: DoIT, url: "https://doit.com", "/assets/images/sponsor-logos/doit-SQ.png" }
+      - { name: Innocom, url: "https://innocom.co.il", "/assets/images/sponsor-logos/innocom-SQ.png" }
 
 
-organizer:
+host:
   - name: "AWS"
     url: "https://aws.amazon.com/local/israel/"
     logo: "/assets/images/sponsor-logos/aws-SQ.png"
