@@ -68,18 +68,7 @@ sessions:
     type: "break"
     description: "10-minute break before splitting into parallel tracks."
 
-  - title: "Agentic Chaos - What 86K+ Agent Codebases Reveal About 700K+ Exposed AI Systems"
-    track: "Track 2 - TLVCommunity"
-    track_color: "#e91e90"
-    time_start: "2026-06-11T11:10"
-    time_end: "2026-06-11T11:35"
-    time_display: "11:10 AM – 11:35 AM"
-    location: "Track 2 – TLVCommunity"
-    type: "talk"
-    speakers:
-      - name: "Bar Kaduri"
-        role: "Principal Researcher, Capsule Security"
-        photo: "/assets/images/speakers/bar-kaduri.png"
+#Tracks 1
 
   - title: "Building a Multi-Agent Research System on AWS"
     track: "Track 1 - AWS Experience"
@@ -92,6 +81,36 @@ sessions:
     speakers:
       - name: "Din Shor"
         role: "Director of DevOps, Tavily"
+        photo: "/assets/images/speakers/placeholder.jpg"
+    description: "Building a multi-agent research system on AWS - our LangGraph-based research agent with parallel sub-agents, async SQS processing, triple-layer model fallbacks, S3 storage, LangSmith observability. Architecture deep dive."
+
+  - title: "Agentic Chaos - What 86K+ Agent Codebases Reveal About 700K+ Exposed AI Systems"
+    track: "Track 2 - TLVCommunity"
+    track_color: "#e91e90"
+    time_start: "2026-06-11T11:10"
+    time_end: "2026-06-11T11:35"
+    time_display: "11:10 AM – 11:35 AM"
+    location: "Track 2 – TLVCommunity"
+    type: "talk"
+    speakers:
+      - name: "Bar Kaduri"
+        role: "Principal Researcher, Capsule Security"
+        photo: "/assets/images/speakers/bar-kaduri.png"
+    description: "Over the past two years, AI agents have been stealthily becoming the new backbone of the global internet infrastructure. Autonomous systems capable of invoking tools, executing code, orchestrating workflows, and interacting with external services are now being built and deployed across production environments, developer workflows and tools, automation platforms, data pipelines, and enterprise systems as a whole.<br/>What’s become glaringly obvious is that despite the speed of this adoption, almost nothing is known about how these systems are actually built or secured in the wild.<br/>To answer that question, we conducted one of the largest first-of-its-kind empirical studies of the agent ecosystem. We analyzed more than 86,000 public repositories implementing agent logic across frameworks including LangChain, LangGraph, CrewAI, AutoGen, and Model Context Protocol (MCP). We examined prompt construction patterns, tool implementations, authentication models, execution capabilities, and permission boundaries to understand how developers are building agents in practice.<br/>We paired this code-level analysis with internet-wide infrastructure measurement using Shodan, Censys, and ShadowServer to map where agent platforms are actually running in the wild. The research surfaced more than 700,000 exposed agent-related systems on the public internet, including Ollama inference servers, Ray clusters, n8n automation platforms, and MCP tool servers. Many of these systems were directly exposed to the internet with little or no authentication and, in numerous cases, were vulnerable to known high-impact CVEs.<br/>Together, these two datasets reveal a striking pattern. The same architectural assumptions and security shortcuts visible in agent codebases appear repeatedly in real deployments at internet scale.<br/>This talk presents the data, visualizations, and insights produced from this research.<br/>Using examples drawn directly from the dataset, we reconstruct several representative attack paths created by common agent design patterns. We show how seemingly harmless implementation choices, such as tool exposure, prompt construction shortcuts, and weak capability boundaries - can cascade into exploitable conditions once agents are deployed in real environments. We’ll wrap up with practical architectural changes that agent frameworks and platform teams can adopt to prevent these patterns from becoming the next generation of supply-chain vulnerabilities."
+
+#Tracks 2
+
+  - title: "Your AI Agent Is a Monolith — Here's How We Made Ours Modular"
+    track: "Track 1 - AWS Experience"
+    track_color: "#00bfa5"
+    time_start: "2026-06-11T11:35"
+    time_end: "2026-06-11T12:00"
+    time_display: "11:35 AM – 12:00 PM"
+    location: "Track 1 – AWS Experience"
+    type: "talk"
+    speakers:
+      - name: "TBD"
+        role: "Harmony"
         photo: "/assets/images/speakers/placeholder.jpg"
 
   - title: "May Walter"
@@ -107,18 +126,7 @@ sessions:
         role: "CTO & Co-Founder, Hud"
         photo: "/assets/images/speakers/may-walter.png"
       
-  - title: "Your AI Agent Is a Monolith — Here's How We Made Ours Modular"
-    track: "Track 1 - AWS Experience"
-    track_color: "#00bfa5"
-    time_start: "2026-06-11T11:35"
-    time_end: "2026-06-11T12:00"
-    time_display: "11:35 AM – 12:00 PM"
-    location: "Track 1 – AWS Experience"
-    type: "talk"
-    speakers:
-      - name: "TBD"
-        role: "Harmony"
-        photo: "/assets/images/speakers/placeholder.jpg"
+  #Tracks 3
 
   - title: "From Black Box to Glass Box: Observability for LLMs"
     track: "Track 1 - AWS Experience"
@@ -148,8 +156,9 @@ sessions:
         photo: "/assets/images/speakers/issac-goldstand.png"
     description: "As we enter the 'Agentic Era' of software engineering, we are replacing deterministic programming languages with natural language and replacing traditional flow control with non-deterministic LLMs. But are we throwing away a decade of architectural best practices? While the talk will focus on high-level architecture principles, we will briefly dip into code written using the AWS Strands SDK to understand the basics of writing AI Agents that can run on AWS Bedrock. We'll also understand how this relates to writing code with Agentic AI IDEs, such as AWS Kiro or VS Code."
 
+#Tracks 4
 
-  - title: "Talk 4 – Impala AI"
+  - title: "Running 100M prompts on EC2 under GPU capacity constraints"
     track: "Track 1 - AWS Experience"
     track_color: "#00bfa5"
     time_start: "2026-06-11T12:25"
@@ -161,7 +170,7 @@ sessions:
       - name: "Boaz Touito"
         role: "CTO, Impala AI"
         photo: "/assets/images/speakers/boaz-touito.jpeg"
-    description: "Running 100M prompts on EC2 under GPU capacity constraints."
+    description: "This session is a technical customer story about running a 100M-image multimodal inference workload on Amazon EKS with vLLM under real GPU capacity constraints. It starts with a straightforward capacity plan based on B200 machines and a GPU-hour calculation, then shows why that plan breaks down in practice when ideal capacity is not consistently available. From there, the talk explains how the hardware strategy expands across multiple AWS GPU families, why NVFP4 changes the economics, and why vLLM serving strategy has to be adapted to the topology of each machine type. The session closes with the final architecture and an additional slide on how Impala productizes this approach for production workloads."
 
   - title: "RAG on Your Data Lake"
     track: "Track 2 - TLVCommunity"
@@ -185,7 +194,9 @@ sessions:
     time_display: "12:50 PM – 2:00 PM"
     type: "break"
 
-  - title: "Talk 5 – CATO Networks"
+#Tracks 5
+
+  - title: "Raising the Signal: Improving SNR with Automated Root Cause Analysis on AWS"
     track: "Track 1 - AWS Experience"
     track_color: "#00bfa5"
     time_start: "2026-06-11T14:00"
@@ -194,9 +205,13 @@ sessions:
     location: "Track 1 – AWS Experience"
     type: "talk"
     speakers:
-      - name: "TBD"
+      - name: "Asaf Peleg"
         role: "CATO Networks"
         photo: "/assets/images/speakers/placeholder.jpg"
+      - name: "Tomer Doitshman"
+        role: "CATO Networks"
+        photo: "/assets/images/speakers/placeholder.jpg"
+    description: "SOC & NOC teams aren't short on data - they're short on signal. With overwhelming alerts & logs, the challenge is improving Signal-to-Noise Ratio (SNR): isolating what truly matters. <br/> This session presents an automated RCA framework running on Amazon EKS that amplifies signal from network and security incidents. By combining trend detection with GenAI on Amazon Bedrock, the framework transforms complex network and security data into clear, actionable explanations of why incidents occur—and what is likely to happen next.<br/> Our customizable, tool-driven architecture builds tailored RCA workflows per story type, increasing SNR precision. Amazon Bedrock AgentCore provides secure runtime, contextual memory, observability, operationalizing high-SNR insights into RCA-driven actions.<br/> Detection creates data. RCA creates signal."
     
   - title: "Talk 5 – TBD"
     track: "Track 2 - TLVCommunity"
@@ -206,6 +221,8 @@ sessions:
     time_display: "2:00 PM – 2:25 PM"
     location: "Track 2 – TLVCommunity"
     type: "talk"
+
+  #Tracks 6
 
   - title: "AI-Driven DevOps: From Operational Overload to Continuous Optimization (Cost, Security, Reliability)"
     track: "Track 1 - AWS Experience"
@@ -232,7 +249,7 @@ sessions:
       - name: "Asaf Savich"
         role: "AI Engineering Group Manager, Komodor"
         photo: "/assets/images/speakers/asaf-savich.png"
-    description: We've analyzed over 1 million production K8s failures across thousands of clusters. The data reveals something striking: the vast majority of incidents fall into predictable, preventable categories. By the law of large numbers, if we address these recurring issues, we can drastically improve production reliability. <br/> This talk presents the most common K8s failure patterns backed by real data at scale. We'll cover 6 major categories: Resource Exhaustion (OOMKilled pods, memory leaks, GPU thermal throttling), Image & Deployment Issues (ImagePullBackOff, stuck rollouts), Config & Secret Management (rotation breaking apps, ConfigMap drift), Cascading Failures (missing ConfigMaps triggering multi-pod failures, dependency chains), Storage & Persistence (PVC conflicts, CSI driver issues), & App vs Infra Debugging (CrashLoopBackOff mysteries, GPU XID errors).<br/>For each category, we'll show real K8s events, explain why these failures are so common, and provide actionable prevention strategies."
+    description: We've analyzed over 1 million production K8s failures across thousands of clusters. The data reveals something striking - the vast majority of incidents fall into predictable, preventable categories. By the law of large numbers, if we address these recurring issues, we can drastically improve production reliability. <br/> This talk presents the most common K8s failure patterns backed by real data at scale. We'll cover 6 major categories - Resource Exhaustion (OOMKilled pods, memory leaks, GPU thermal throttling), Image & Deployment Issues (ImagePullBackOff, stuck rollouts), Config & Secret Management (rotation breaking apps, ConfigMap drift), Cascading Failures (missing ConfigMaps triggering multi-pod failures, dependency chains), Storage & Persistence (PVC conflicts, CSI driver issues), & App vs Infra Debugging (CrashLoopBackOff mysteries, GPU XID errors).<br/>For each category, we'll show real K8s events, explain why these failures are so common, and provide actionable prevention strategies."
 
   - title: "10 Min Break"
     track: "Main Stage"
