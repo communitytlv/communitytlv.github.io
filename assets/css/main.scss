@@ -1268,6 +1268,28 @@ h2.has-underline::after,
 .sponsors__logo--gold       { width: 10rem; }
 .sponsors__logo--community  { width: 8.75rem; }
 
+/* ---- Custom tier sizes (lg = diamond, md = platinum, sm = gold) ---- */
+.sponsors__card--lg { padding: 1.5em; }
+.sponsors__card--md { padding: 1.25em; }
+.sponsors__card--sm { padding: 1em 1.25em; }
+
+.sponsors__logo--lg { width: 15.625rem; }
+.sponsors__logo--md { width: 13.125rem; }
+.sponsors__logo--sm { width: 10rem; }
+
+@media screen and (max-width: 48em) {
+  .sponsors__logo--lg { width: 10rem; }
+  .sponsors__logo--md { width: 8rem; }
+  .sponsors__logo--sm { width: 6.5rem; }
+}
+
+@media screen and (max-width: 30em) {
+  .sponsors__logo--lg { width: 8rem; }
+  .sponsors__logo--md { width: 6.5rem; }
+  .sponsors__logo--sm { width: 5rem; }
+}
+
+
 /* ---- CTA ---- */
 .sponsors__cta {
   text-align: center;

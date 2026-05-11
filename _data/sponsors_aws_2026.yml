@@ -21,7 +21,7 @@ host:
 
 custom_tiers:
   - label: "Event Organizer"
-    style: default
+    style: lg
     items:
       - name: "RTFM Please"
         url: "https://rtfmplease.dev"
