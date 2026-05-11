@@ -1,10 +1,10 @@
 event_title: "AWS X DevOps: The 2026 Stack"
-event_date: "2026-06-11"
+event_date: "JUNE 11, 2026"
 event_location: "AWS Experience Floor28, Tel Aviv"
 
 sessions:
   - title: "Doors Open & Registration"
-    track: "Main Stage"
+    track: "FOYER"
     track_color: "#6fc3df"
     time_start: "2026-06-11T08:45"
     time_end: "2026-06-11T10:00"
@@ -36,7 +36,7 @@ sessions:
     speakers:
       - name: "Anton Weiss"
         role: "Developer Advocate, DoIT"
-        photo: "/assets/images/sponsor-logos/DoIT-SQ.png"
+        photo: "/assets/images/sponsor-logos/doit-SQ.png"
       - name: ""
         role: "Innocom"
         photo:  "/assets/images/sponsor-logos/innocom-SQ.png"
@@ -60,7 +60,7 @@ sessions:
     description: "Full crowd talk."
 
   - title: "Break – Split to Tracks"
-    track: "Main Stage"
+    track: "FOYER"
     track_color: "#6fc3df"
     time_start: "2026-06-11T11:00"
     time_end: "2026-06-11T11:10"
@@ -153,7 +153,7 @@ sessions:
     speakers:
       - name: "Issac Goldstand"
         role: "Field CTO, CloudEx"
-        photo: "/assets/images/speakers/issac-goldstand.png"
+        photo: "/assets/images/speakers/issac-goldstand.jpg"
     description: "As we enter the 'Agentic Era' of software engineering, we are replacing deterministic programming languages with natural language and replacing traditional flow control with non-deterministic LLMs. But are we throwing away a decade of architectural best practices? While the talk will focus on high-level architecture principles, we will briefly dip into code written using the AWS Strands SDK to understand the basics of writing AI Agents that can run on AWS Bedrock. We'll also understand how this relates to writing code with Agentic AI IDEs, such as AWS Kiro or VS Code."
 
 #Tracks 4
@@ -187,7 +187,7 @@ sessions:
     description: "Most data lakes aren’t LLM-ready. Without structure, metadata, and governance, connecting generative AI to S3 data creates risk, cost, and unreliable results. This session walks through an end-to-end Retrieval-Augmented Generation (RAG) architecture on AWS. We’ll cover ingestion and preprocessing of structured and unstructured data from Amazon S3, building embeddings with Amazon Bedrock or SageMaker, and choosing vector storage with OpenSearch or Aurora pgvector. You’ll see how retrieval orchestration and inference run securely with Bedrock, alongside IAM, PII, and governance controls. We’ll also examine cost, latency, freshness trade-offs—and when RAG beats fine-tuning or search-only approaches."
 
   - title: "Lunch"
-    track: "Main Stage"
+    track: "FOYER"
     track_color: "#6fc3df"
     time_start: "2026-06-11T12:50"
     time_end: "2026-06-11T14:00"
@@ -210,7 +210,7 @@ sessions:
         photo: "/assets/images/speakers/placeholder.jpg"
       - name: "Tomer Doitshman"
         role: "CATO Networks"
-        photo: "/assets/images/speakers/placeholder.jpg"
+        photo: "/assets/images/speakers/tomer-doitshman.jpeg"
     description: "SOC & NOC teams aren't short on data - they're short on signal. With overwhelming alerts & logs, the challenge is improving Signal-to-Noise Ratio (SNR): isolating what truly matters. <br/><br/> This session presents an automated RCA framework running on Amazon EKS that amplifies signal from network and security incidents. By combining trend detection with GenAI on Amazon Bedrock, the framework transforms complex network and security data into clear, actionable explanations of why incidents occur—and what is likely to happen next.<br/><br/> Our customizable, tool-driven architecture builds tailored RCA workflows per story type, increasing SNR precision. Amazon Bedrock AgentCore provides secure runtime, contextual memory, observability, operationalizing high-SNR insights into RCA-driven actions.<br/> Detection creates data. RCA creates signal."
     
   - title: "Talk 5 – TBD"
@@ -253,7 +253,7 @@ sessions:
     description: We've analyzed over 1 million production K8s failures across thousands of clusters. The data reveals something striking - the vast majority of incidents fall into predictable, preventable categories. By the law of large numbers, if we address these recurring issues, we can drastically improve production reliability. <br/><br/>This talk presents the most common K8s failure patterns backed by real data at scale. We'll cover 6 major categories - Resource Exhaustion (OOMKilled pods, memory leaks, GPU thermal throttling), Image & Deployment Issues (ImagePullBackOff, stuck rollouts), Config & Secret Management (rotation breaking apps, ConfigMap drift), Cascading Failures (missing ConfigMaps triggering multi-pod failures, dependency chains), Storage & Persistence (PVC conflicts, CSI driver issues), & App vs Infra Debugging (CrashLoopBackOff mysteries, GPU XID errors).<br/><br/>For each category, we'll show real K8s events, explain why these failures are so common, and provide actionable prevention strategies."
 
   - title: "10 Min Break"
-    track: "Main Stage"
+    track: "FOYER"
     track_color: "#6fc3df"
     time_start: "2026-06-11T14:50"
     time_end: "2026-06-11T15:00"
