@@ -3,8 +3,24 @@
 <section id="sponsors">
   <div class="sponsors__inner">
 
+    <!-- Event Host -->
+    {% if sponsors.host and sponsors.host.size > 0 %}
+    <div class="sponsors__tier-header">
+      <div class="sponsors__tier-line"></div>
+      <h3 class="sponsors__tier-label">Event Host</h3>
+      <div class="sponsors__tier-line"></div>
+    </div>
+    <div class="sponsors__grid sponsors__grid--lg">
+      {% for s in sponsors.host %}
+      <a href="{{ s.url }}" target="_blank" rel="noopener noreferrer" class="sponsors__card sponsors__card--organizer">
+        <img src="{{ s.logo }}" alt="{{ s.name }}" class="sponsors__logo sponsors__logo--organizer" loading="lazy" />
+      </a>
+      {% endfor %}
+    </div>
+    {% endif %}
+
     <!-- Event Organizer -->
-    {% if sponsors.organizer.size > 0 %}
+    {% if sponsors.organizer and sponsors.organizer.size > 0 %}
     <div class="sponsors__tier-header">
       <div class="sponsors__tier-line"></div>
       <h3 class="sponsors__tier-label">Event Organizer</h3>
@@ -20,7 +36,7 @@
     {% endif %}
 
     <!-- Diamond -->
-    {% if sponsors.diamond.size > 0 %}
+    {% if sponsors.diamond and sponsors.diamond.size > 0 %}
     <div class="sponsors__tier-header">
       <div class="sponsors__tier-line"></div>
       <h3 class="sponsors__tier-label">Diamond Sponsor</h3>
@@ -36,7 +52,7 @@
     {% endif %}
 
     <!-- Platinum -->
-    {% if sponsors.platinum.size > 0 %}
+    {% if sponsors.platinum and sponsors.platinum.size > 0 %}
     <div class="sponsors__tier-header">
       <div class="sponsors__tier-line"></div>
       <h3 class="sponsors__tier-label">Platinum Sponsors</h3>
@@ -52,7 +68,7 @@
     {% endif %}
 
     <!-- Gold -->
-    {% if sponsors.gold.size > 0 %}
+    {% if sponsors.gold and sponsors.gold.size > 0 %}
     <div class="sponsors__tier-header">
       <div class="sponsors__tier-line"></div>
       <h3 class="sponsors__tier-label">Gold Sponsors</h3>
@@ -67,8 +83,28 @@
     </div>
     {% endif %}
 
+    <!-- Custom tiers (label + items defined in YAML) -->
+    {% if sponsors.custom_tiers %}
+      {% for tier in sponsors.custom_tiers %}
+        {% if tier.items.size > 0 %}
+        <div class="sponsors__tier-header">
+          <div class="sponsors__tier-line"></div>
+          <h3 class="sponsors__tier-label">{{ tier.label }}</h3>
+          <div class="sponsors__tier-line"></div>
+        </div>
+        <div class="sponsors__grid{% if tier.style == 'lg' %} sponsors__grid--lg{% endif %}">
+          {% for s in tier.items %}
+          <a href="{{ s.url }}" target="_blank" rel="noopener noreferrer" class="sponsors__card">
+            <img src="{{ s.logo }}" alt="{{ s.name }}" class="sponsors__logo" loading="lazy" />
+          </a>
+          {% endfor %}
+        </div>
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+
     <!-- Community & Media Partners -->
-    {% if sponsors.community.size > 0 %}
+    {% if sponsors.community and sponsors.community.size > 0 %}
     <div class="sponsors__tier-header">
       <div class="sponsors__tier-line"></div>
       <h3 class="sponsors__tier-label">Community &amp; Media Partners</h3>
