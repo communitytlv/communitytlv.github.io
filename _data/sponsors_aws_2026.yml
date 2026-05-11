@@ -14,7 +14,7 @@ custom_tiers:
         url: "https://innocom.co.il"
         logo: "/assets/images/sponsor-logos/innocom-SQ.png"
   - label: "Organized By"
-    style: md
+    style: sm
     items:
       - name: "RTFM Please"
         url: "https://rtfmplease.dev"

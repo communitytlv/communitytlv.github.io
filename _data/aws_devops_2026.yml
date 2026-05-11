@@ -114,7 +114,7 @@ sessions:
         photo: "/assets/images/speakers/placeholder.jpg"
     description: "Most AI agents start the same way: a single prompt, a growing list of tools, and increasingly fragile behavior as complexity creeps in. Ours did too - until it became unmaintainable. In this talk, I'll show how we refactored our production IT helpdesk agent into a composable toolkit architecture using AWS Bedrock, where each capability - password resets, app provisioning, device recovery, knowledge base search, ticket management - is an independent, self-contained module with its own tools, prompts, dependencies, and runtime activation gates. Skills assemble dynamically per-request based on tenant configuration, user roles, and identity provider capabilities. I'll cover the engineering patterns that made it work: runtime gating, lazy dependency injection, streaming responses, and how we keep a multi-tenant agent from doing things it shouldn't. Real production code, real lessons learned."
 
-  - title: "May Walter"
+  - title: "What Production Knows: Closing the Loop Between AI Agents and the Systems They Build"
     track: "Track 2 - TLVCommunity"
     track_color: "#e91e90"
     time_start: "2026-06-11T11:35"
@@ -126,6 +126,7 @@ sessions:
       - name: "May Walter"
         role: "CTO & Co-Founder, Hud"
         photo: "/assets/images/speakers/may-walter.jpg"
+    description: "Most of the AI-for-engineering conversation runs in one direction: humans tell agents what to do, and agents produce code. But for high-velocity teams, the more interesting flow runs the other way,  production telling the agents what is actually happening, so they can fix, refactor, and keep shipping without drifting away from reality.<br/><br/>This talk is about that reverse loop. It looks at what changes when the systems we operate start moving faster than the people who own them, the failure modes that quietly become normal when agents work without ground truth, and the durable plumbing that keeps them honest: traces, error budgets, customer signal, SLO breaches, incident timelines, all fed back as first-class inputs to the tools doing the writing.<br/><br/>If the broader AI shift is changing what it means to author code, this is the operational half of that story: the feedback infrastructure that makes the new way of working actually safe to run."
       
   #Tracks 3
 
