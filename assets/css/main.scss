@@ -372,25 +372,43 @@ h2.has-underline::after,
   grid-template-columns: 40px 40px;
   flex-shrink: 0;
   gap: 0.25em;
+
+  // Single-speaker sessions: render one larger thumbnail
+  &:has(> .agenda-card__avatar:only-child) {
+    grid-template-columns: 72px;
+  }
 }
+
 .agenda-card__avatar {
   width: 40px;
   height: 40px;
   border-radius: 50%;
   object-fit: cover;
-  border: 2px solid rgba(255,255,255,0.15);
-}
-.agenda-card__avatar--placeholder {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  background: rgba(255,255,255,0.12);
-  color: #fff;
-  font-weight: 600;
-  font-size: 0.9em;
-  width: 40px;
-  height: 40px;
-  border-radius: 50%;
+  border: 2px solid rgba(255, 255, 255, 0.15);
+
+  &:only-child {
+    width: 72px;
+    height: 72px;
+  }
+
+  &--placeholder {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(255, 255, 255, 0.12);
+    color: _palette(fg);
+    font-weight: _font(weight-bold);
+    font-size: 0.9em;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+
+    &:only-child {
+      width: 72px;
+      height: 72px;
+      font-size: 1.4em;
+    }
+  }
 }
 
 /* Body */
