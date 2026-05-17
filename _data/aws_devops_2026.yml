@@ -22,10 +22,10 @@ sessions:
     speakers:
       - name: "Dudy Cohen"
         role: "AWS"
-        photo: /assets/images/sponsor-logos/AWS-SQ.png
+        photo: "/assets/images/sponsor-logos/AWS-SQ.png"
       - name: "Sharone Zitzman"
         role: "RTFM Please"
-        photo: /assets/images/sponsor-logos/RTFM-SQ.png
+        photo: "/assets/images/sponsor-logos/RTFM-SQ.png"
 
 
   - title: "Your Agent Built It. Who the 🤬 Runs It?"
@@ -312,7 +312,7 @@ sessions:
         photo: "/assets/images/speakers/itamar-syn-hershko.jpg"
     description: "In this talk, we'll dive deep into the heart of OpenSearch and higlight common mistakes but also not so common gotchas that'd help you optimize and stabilize your deployment too. This talk is based on 15 years of cluster maintenance in production - at every vertical, any scale, all use-cases you can think of. From Elasticsearch 0.10 to OpenSearch 3.0, I've seen it all and survived to tell the story."
 
-  - title: "SPECIAL HAPPY HOUR SESSION - Promethouse: Transforming Your metrics into house music + More Mingling & Networking"
+  - title: "SPECIAL HAPPY HOUR SESSION - Promethouse: Transforming Your metrics into house music + 🍻 snacks & drinks"
     track: "FOYER"
     track_color: "#00bfa5"
     time_start: "2026-06-11T15:20"
@@ -324,4 +324,4 @@ sessions:
       - name: "Edan Shahmoon"
         role: "Data Scientist and DevOps Engineer"
         photo: "/assets/images/speakers/edan-shahmoon.png"
-    description: "Closing talk followed by mingling and networking."
+    description: "Closing talk followed by mingling and networking.<br/><br/>Have you ever wondered what your infrastructure sounds like? In this talk, I’ll introduce 'Promethouse,' a lighthearted side project that turns system observability into house music. We'll start by diving under the hood of the Prometheus pull-based scraping protocol to understand how it ingests massive amounts of time-series data. But instead of building another Grafana dashboard, we'll route that data to the dancefloor. I will walk through the core engineering challenge: applying dimensionality reduction algorithms to distill thousands of chaotic, high-dimensional service metrics into a unified 'tempo' for each microservice. By the end of this session, you'll see (and hear!) how mathematical transformations can turn the noise of CPU spikes and memory leaks into a surprisingly groovy, cohesive musical track."
