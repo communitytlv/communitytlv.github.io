@@ -22,10 +22,10 @@ sessions:
     speakers:
       - name: "Dudy Cohen"
         role: "AWS"
-        photo: "/assets/images/sponsor-logos/AWS-SQ.png"
+        photo: "/assets/images/sponsor-logos/aws-SQ.png"
       - name: "Sharone Zitzman"
         role: "RTFM Please"
-        photo: "/assets/images/sponsor-logos/RTFM-SQ.png"
+        photo: "/assets/images/sponsor-logos/rtfm-SQ.png"
 
 
   - title: "Your Agent Built It. Who the 🤬 Runs It?"
@@ -123,9 +123,9 @@ sessions:
     location: "Track 1 – AWS Experience"
     type: "talk"
     speakers:
-      - name: "TBD"
+      - name: ""
         role: "Harmony"
-        photo: "/assets/images/speakers/placeholder.jpg"
+        photo: "/assets/images/sponsor-logos/harmony-SQ.png"
     description: "Most AI agents start the same way: a single prompt, a growing list of tools, and increasingly fragile behavior as complexity creeps in. Ours did too - until it became unmaintainable. In this talk, I'll show how we refactored our production IT helpdesk agent into a composable toolkit architecture using AWS Bedrock, where each capability - password resets, app provisioning, device recovery, knowledge base search, ticket management - is an independent, self-contained module with its own tools, prompts, dependencies, and runtime activation gates. Skills assemble dynamically per-request based on tenant configuration, user roles, and identity provider capabilities. I'll cover the engineering patterns that made it work: runtime gating, lazy dependency injection, streaming responses, and how we keep a multi-tenant agent from doing things it shouldn't. Real production code, real lessons learned."
 
   - title: "We Tried OSS Model Routing Tools So You Don’t Have To"
@@ -142,7 +142,7 @@ sessions:
         photo: "/assets/images/speakers/niv-yungelson.png"
       - name: "Hai Rozencwajg"
         role: "Founding Team, Member of Technical Staff, Accomplish"
-        photo: "/assets/images/speakers/hai-rosencwajg.png"
+        photo: "/assets/images/speakers/hai-rozencwajg.png"
     description: "Modern AI applications are no longer single prompts. They are pipelines of decisions: retrieval, reasoning, tool use, and execution. However, most systems still default to a single model across all steps, leading to unnecessary cost, latency, and failure modes.<br/><br/>This talk presents a hands-on evaluation of open-source model routing tools in the context of multi-step AI workflows. Instead of comparing models in isolation, we examine how routing decisions change when facing a multi-step pipeline as part of computer-use task execution.<br/><br/>We’ll cover real experiments, architectural patterns, and common pitfalls, and provide a practical approach to step-aware routing that improves both performance and cost efficiency."
       
   #Tracks 3
