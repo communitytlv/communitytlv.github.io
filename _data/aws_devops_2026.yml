@@ -123,9 +123,9 @@ sessions:
     location: "Track 1 – AWS Experience"
     type: "talk"
     speakers:
-      - name: ""
-        role: "Harmony"
-        photo: "/assets/images/sponsor-logos/harmony-SQ.png"
+      - name: "Haim Raitsev"
+        role: "Software Engineer, Harmony"
+        photo: "/assets/images/speakers/haim-raitsev.jpg"
     description: "Most AI agents start the same way: a single prompt, a growing list of tools, and increasingly fragile behavior as complexity creeps in. Ours did too - until it became unmaintainable. In this talk, I'll show how we refactored our production IT helpdesk agent into a composable toolkit architecture using AWS Bedrock, where each capability - password resets, app provisioning, device recovery, knowledge base search, ticket management - is an independent, self-contained module with its own tools, prompts, dependencies, and runtime activation gates. Skills assemble dynamically per-request based on tenant configuration, user roles, and identity provider capabilities. I'll cover the engineering patterns that made it work: runtime gating, lazy dependency injection, streaming responses, and how we keep a multi-tenant agent from doing things it shouldn't. Real production code, real lessons learned."
 
   - title: "We Tried OSS Model Routing Tools So You Don’t Have To"
