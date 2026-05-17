@@ -18,7 +18,7 @@ sessions:
     time_end: "2026-06-11T10:00"
     time_display: "9:45 AM – 10:00 AM"
     location: "Main Stage"
-    type: "opening"
+    type: "talk"
     speakers:
       - name: "Dudy Cohen"
         role: "AWS"
