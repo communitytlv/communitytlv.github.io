@@ -142,7 +142,7 @@ sessions:
         photo: "/assets/images/speakers/niv-yungelson.png"
       - name: "Hai Rozencwajg"
         role: "Founding Team, Member of Technical Staff, Accomplish"
-        photo: "/assets/images/speakers/hai-rosencwajg.jpg"
+        photo: "/assets/images/speakers/hai-rosencwajg.png"
     description: "Modern AI applications are no longer single prompts. They are pipelines of decisions: retrieval, reasoning, tool use, and execution. However, most systems still default to a single model across all steps, leading to unnecessary cost, latency, and failure modes.<br/><br/>This talk presents a hands-on evaluation of open-source model routing tools in the context of multi-step AI workflows. Instead of comparing models in isolation, we examine how routing decisions change when facing a multi-step pipeline as part of computer-use task execution.<br/><br/>We’ll cover real experiments, architectural patterns, and common pitfalls, and provide a practical approach to step-aware routing that improves both performance and cost efficiency."
       
   #Tracks 3
