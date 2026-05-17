@@ -18,7 +18,7 @@ custom_tiers:
     items:
       - name: "RTFM Please"
         url: "https://rtfmplease.dev"
-        logo: "/assets/images/sponsor-logos/RTFM.png"
+        logo: "/assets/images/sponsor-logos/rtfm-SQ.png"
 
 host:
   - name: "AWS"
