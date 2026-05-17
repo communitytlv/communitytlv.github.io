@@ -14,7 +14,7 @@ sessions:
   - title: "Opening Words"
     track: "Main Stage"
     track_color: "#e74c5e"
-    time_start: "2026-06-11T9:45"
+    time_start: "2026-06-11T09:45"
     time_end: "2026-06-11T10:00"
     time_display: "9:45 AM – 10:00 AM"
     location: "Main Stage"
@@ -71,7 +71,7 @@ sessions:
       - name: "Itay Shakury"
         role: "CNCF Ambassador, Trivy Core Maintainer, Engineering Leader"
         photo: "/assets/images/speakers/itay-shakury.jpg"
-        description: "Open Source in the Age of AI"
+    description: "Open Source in the Age of AI"
 
   - title: "Break – Split to Tracks"
     track: "FOYER"
@@ -274,7 +274,7 @@ sessions:
       - name: "Asaf Savich"
         role: "AI Engineering Group Manager, Komodor"
         photo: "/assets/images/speakers/asaf-savich.jpg"
-    description: We've analyzed over 1 million production K8s failures across thousands of clusters. The data reveals something striking - the vast majority of incidents fall into predictable, preventable categories. By the law of large numbers, if we address these recurring issues, we can drastically improve production reliability. <br/><br/>This talk presents the most common K8s failure patterns backed by real data at scale. We'll cover 6 major categories - Resource Exhaustion (OOMKilled pods, memory leaks, GPU thermal throttling), Image & Deployment Issues (ImagePullBackOff, stuck rollouts), Config & Secret Management (rotation breaking apps, ConfigMap drift), Cascading Failures (missing ConfigMaps triggering multi-pod failures, dependency chains), Storage & Persistence (PVC conflicts, CSI driver issues), & App vs Infra Debugging (CrashLoopBackOff mysteries, GPU XID errors).<br/><br/>For each category, we'll show real K8s events, explain why these failures are so common, and provide actionable prevention strategies."
+    description: "We've analyzed over 1 million production K8s failures across thousands of clusters. The data reveals something striking - the vast majority of incidents fall into predictable, preventable categories. By the law of large numbers, if we address these recurring issues, we can drastically improve production reliability. <br/><br/>This talk presents the most common K8s failure patterns backed by real data at scale. We'll cover 6 major categories - Resource Exhaustion (OOMKilled pods, memory leaks, GPU thermal throttling), Image & Deployment Issues (ImagePullBackOff, stuck rollouts), Config & Secret Management (rotation breaking apps, ConfigMap drift), Cascading Failures (missing ConfigMaps triggering multi-pod failures, dependency chains), Storage & Persistence (PVC conflicts, CSI driver issues), & App vs Infra Debugging (CrashLoopBackOff mysteries, GPU XID errors).<br/><br/>For each category, we'll show real K8s events, explain why these failures are so common, and provide actionable prevention strategies."
 
   - title: "10 Min Break"
     track: "FOYER"
