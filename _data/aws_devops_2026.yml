@@ -54,12 +54,12 @@ sessions:
       - name: "Anton Weiss"
         role: "Developer Advocate, DoIT"
         photo: "/assets/images/sponsor-logos/doit-SQ.png"
-      - name: ""
+      - name: "Or Plavnik & Michael Isayev"
         role: "Innocom"
         photo:  "/assets/images/sponsor-logos/innocom-SQ.png"
-    description: "<em>DoIT: Leaner K8s with PSI metrics</em></br></br>PSI metrics have graduated to beta in K8s v1.34. It may be a small feature but it can matter a lot for your application performance and efficiency. Let's understand how they can make your clusters and autoscaling leaner."
+    description: "<em>Innocom: MTTR Vertigo: The Power of Consolidation.</em><br/><br/>2 AM. Service down. You're flipping between seven tools trying to figure out where to start -that's MTTR vertigo. This talk shows how consolidating your entire stack onto one platform removes the silos that turn 5-minute investigations into hour-long ones. You'll see what root cause analysis looks like when metrics, logs, traces, and ownership all live in one database, queryable in one language. Walk in skeptical. Leave with a clear answer to why silos cost more than every observability license combined.<br/><br/><em>DoIT: Leaner K8s with PSI metrics</em></br></br>PSI metrics have graduated to beta in K8s v1.34. It may be a small feature but it can matter a lot for your application performance and efficiency. Let's understand how they can make your clusters and autoscaling leaner."
 
-  - title: "Open Source in the Age of AI"
+  - title: "What's happening to Open Source?"
     track: "Main Stage"
     track_color: "#e74c5e"
     time_start: "2026-06-11T10:40"
@@ -69,9 +69,9 @@ sessions:
     type: "talk"
     speakers:
       - name: "Itay Shakury"
-        role: "CNCF Ambassador, Trivy Core Maintainer, Engineering Leader"
+        role: "OSS Maintainer, Engineering Leader"
         photo: "/assets/images/speakers/itay-shakury.jpg"
-    description: "Open Source in the Age of AI"
+    description: "Open Source has always been a delicate ecosystem, a rare coexistence of interests, passion and opportunity. That delicate balance is being tested now, and the first signs are starting to show. You might have felt it, I know I have, a gradual change in my own experience as user and maintainer. Small things that only when combined reveal a larger pattern. I can now see four clear trends that I believe are happening right now, and are fundamentally changing the open source landscape. In this talk, I will share my observations and insights about what and how the open source experience is changing, and also why it's happening now (spoiler alert: AI). You will learn to navigate the new open source landscape, the new practices and culture that is emerging, the tools and policies that are in use, and the way it affects you, as an open source user, contributor, or maintainer."
 
   - title: "Break – Split to Tracks"
     track: "FOYER"
