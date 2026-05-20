@@ -13,6 +13,9 @@ custom_tiers:
       - name: "Innocom"
         url: "https://innocom.co.il"
         logo: "/assets/images/sponsor-logos/innocom-SQ.png"
+      - name: "Grafana Labs"
+        url: "https://grafana.com/"
+        logo: "/assets/images/sponsor-logos/grafan-SQ.png"
   - label: "Organized By"
     style: sm
     items:
