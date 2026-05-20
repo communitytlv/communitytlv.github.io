@@ -20,11 +20,13 @@
 		{% for page in site.html_pages %}
 		    {% if page.layout != "home" and page.nav-menu == true %}
 		        <li><a href="{{ page.url | absolute_url }}">{{ page.menu_title }}</a></li>
+				<li><a href="/aws-devops-2026" target="_blank" class="button special fit"> AWS x DevOps: The 2026 Stack</a></li>
+
 		    {% endif %}
 		{% endfor %}
 	</ul>
 	<ul class="actions vertical">
-		<li><a href="/devopsdays/agenda-2025" target="_blank" class="button special fit"> DEVOPSDAYS 2025 AGENDA</a></li>
+		<li><a href="/aws-devops-2026" target="_blank" class="button special fit"> AWS x DevOps: The 2026 Stack</a></li>
 	</ul>
 	</nav>
 
