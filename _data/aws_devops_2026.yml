@@ -186,9 +186,9 @@ sessions:
     location: "Track 1 – AWS Experience"
     type: "talk"
     speakers:
-      - name: "Boaz Touito"
-        role: "CTO, Impala AI"
-        photo: "/assets/images/speakers/boaz-touito.jpeg"
+      - name: "Sharon Dahan"
+        role: "Chief Architect, Impala AI"
+        photo: "/assets/images/speakers/sharon-dahan.jpeg"
     description: "This session is a technical customer story about running a 100M-image multimodal inference workload on Amazon EKS with vLLM under real GPU capacity constraints. It starts with a straightforward capacity plan based on B200 machines and a GPU-hour calculation, then shows why that plan breaks down in practice when ideal capacity is not consistently available. From there, the talk explains how the hardware strategy expands across multiple AWS GPU families, why NVFP4 changes the economics, and why vLLM serving strategy has to be adapted to the topology of each machine type. The session closes with the final architecture and an additional slide on how Impala productizes this approach for production workloads."
 
   - title: "RAG on Your Data Lake"
