@@ -138,7 +138,7 @@ sessions:
     type: "talk"
     speakers:
       - name: "Niv Yungelson"
-        role: "Engineering Team, Accomplish"
+        role: "Founding Team, Member of Technical Staff, Accomplish"
         photo: "/assets/images/speakers/niv-yungelson.png"
       - name: "Hai Rozencwajg"
         role: "Founding Team, Member of Technical Staff, Accomplish"
