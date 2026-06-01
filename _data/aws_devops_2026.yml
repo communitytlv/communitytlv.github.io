@@ -215,7 +215,7 @@ sessions:
 
 #Tracks 5
 
-  - title: "Raising the Signal: Improving SNR with Automated Root Cause Analysis on AWS"
+  - title: "Raising the Signal: Predicting Performance Degradation with Automated RCA on AWS"
     track: "Track 1 - AWS Experience"
     track_color: "#f5a623"
     time_start: "2026-06-11T14:00"
@@ -227,9 +227,6 @@ sessions:
       - name: "Assaf Peleg"
         role: "Cato Networks"
         photo: "/assets/images/speakers/assaf-peleg.jpg"
-      - name: "Tomer Doitshman"
-        role: "Cato Networks"
-        photo: "/assets/images/speakers/tomer-doitshman.jpeg"
     description: "SOC & NOC teams aren't short on data - they're short on signal. With overwhelming alerts & logs, the challenge is improving Signal-to-Noise Ratio (SNR): isolating what truly matters. <br/><br/> This session presents an automated RCA framework running on Amazon EKS that amplifies signal from network and security incidents. By combining trend detection with GenAI on Amazon Bedrock, the framework transforms complex network and security data into clear, actionable explanations of why incidents occur—and what is likely to happen next.<br/><br/> Our customizable, tool-driven architecture builds tailored RCA workflows per story type, increasing SNR precision. Amazon Bedrock AgentCore provides secure runtime, contextual memory, observability, operationalizing high-SNR insights into RCA-driven actions.<br/> Detection creates data. RCA creates signal."
     
   - title: "What Production Knows: Closing the Loop Between AI Agents and the Systems They Build"
@@ -294,7 +291,7 @@ sessions:
     type: "ignite"
     speakers:
       - name: "Miki Manor"
-        role: "Director of Infrastructure Engineering, Skai.ai"
+        role: "Director of Infrastructure Engineering, Skai"
         photo: "/assets/images/speakers/miki-manor.png"
     description: "Eliminating toil is one of the SRE community's most sacred goals. AI agents are finally delivering on that promise — handling first-line incident response, running runbooks, auto-remediating known failure modes. Page volume is down. Mean time to resolution is down. On-call burden is down. This is unambiguously good. And it's also hiding a slow-moving crisis. SREs have always learned production systems by living with them — by being paged at 2am, clicking through runbook steps that felt tedious, noticing that this particular service always spikes after a deploy to that downstream dependency. That pattern recognition didn't live in documentation. It lived in the repetition. It lived in the toil. <br/> When AI agents absorb all of that, the humans who remain are faster, less burned out, and increasingly de-calibrated from their own systems. The first time something genuinely novel breaks — outside the agent's training distribution, no runbook applicable — you need a human who deeply knows the system. That human may no longer exist because they haven't been paged in eighteen months. This talk is about the expertise debt accumulating silently in every org embracing agentic operations — and the engineering practices that can help you not wake up to it the hard way."
 
