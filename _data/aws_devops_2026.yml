@@ -227,9 +227,6 @@ sessions:
       - name: "Assaf Peleg"
         role: "Cato Networks"
         photo: "/assets/images/speakers/assaf-peleg.jpg"
-      - name: "Tomer Doitshman"
-        role: "Cato Networks"
-        photo: "/assets/images/speakers/tomer-doitshman.jpeg"
     description: "SOC & NOC teams aren't short on data - they're short on signal. With overwhelming alerts & logs, the challenge is improving Signal-to-Noise Ratio (SNR): isolating what truly matters. <br/><br/> This session presents an automated RCA framework running on Amazon EKS that amplifies signal from network and security incidents. By combining trend detection with GenAI on Amazon Bedrock, the framework transforms complex network and security data into clear, actionable explanations of why incidents occur—and what is likely to happen next.<br/><br/> Our customizable, tool-driven architecture builds tailored RCA workflows per story type, increasing SNR precision. Amazon Bedrock AgentCore provides secure runtime, contextual memory, observability, operationalizing high-SNR insights into RCA-driven actions.<br/> Detection creates data. RCA creates signal."
     
   - title: "What Production Knows: Closing the Loop Between AI Agents and the Systems They Build"
