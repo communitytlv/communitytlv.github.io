@@ -57,6 +57,9 @@ sessions:
       - name: "Or Plavnik & Michael Isayev"
         role: "Innocom"
         photo:  "/assets/images/sponsor-logos/innocom-SQ.png"
+      - name: "Grafana Team"
+        role: "Grafana"
+        photo:  "/assets/images/sponsor-logos/grafana-SQ.png"
     description: "<em><strong>Innocom: MTTR Vertigo: The Power of Consolidation.</strong></em><br/><br/>2 AM. Service down. You're flipping between seven tools trying to figure out where to start -that's MTTR vertigo. This talk shows how consolidating your entire stack onto one platform removes the silos that turn 5-minute investigations into hour-long ones. You'll see what root cause analysis looks like when metrics, logs, traces, and ownership all live in one database, queryable in one language. Walk in skeptical. Leave with a clear answer to why silos cost more than every observability license combined.<br/><br/><em><strong>DoIT: Leaner K8s with PSI metrics</strong></em><br/><br/>PSI metrics have graduated to beta in K8s v1.34. It may be a small feature but it can matter a lot for your application performance and efficiency. Let's understand how they can make your clusters and autoscaling leaner."
 
   - title: "What's happening to Open Source?"
@@ -84,7 +87,7 @@ sessions:
 
 #Tracks 1
 
-  - title: "Building a Multi-Agent Research System on AWS"
+  - title: "Your AI Agent Is a Monolith — Here's How We Made Ours Modular"
     track: "Track 1 - AWS Experience"
     track_color: "#f5a623"
     time_start: "2026-06-11T11:10"
@@ -93,10 +96,10 @@ sessions:
     location: "Track 1 – AWS Experience"
     type: "talk"
     speakers:
-      - name: "Din Shor"
-        role: "Director of DevOps, Tavily"
-        photo: "/assets/images/speakers/din-shor.jpg"
-    description: "Building a multi-agent research system on AWS - our LangGraph-based research agent with parallel sub-agents, async SQS processing, triple-layer model fallbacks, S3 storage, LangSmith observability. Architecture deep dive."
+      - name: "Haim Raitsev"
+        role: "Software Engineer, Harmony"
+        photo: "/assets/images/speakers/haim-raitsev.jpg"
+    description: "Most AI agents start the same way: a single prompt, a growing list of tools, and increasingly fragile behavior as complexity creeps in. Ours did too - until it became unmaintainable. In this talk, I'll show how we refactored our production IT helpdesk agent into a composable toolkit architecture using AWS Bedrock, where each capability - password resets, app provisioning, device recovery, knowledge base search, ticket management - is an independent, self-contained module with its own tools, prompts, dependencies, and runtime activation gates. Skills assemble dynamically per-request based on tenant configuration, user roles, and identity provider capabilities. I'll cover the engineering patterns that made it work: runtime gating, lazy dependency injection, streaming responses, and how we keep a multi-tenant agent from doing things it shouldn't. Real production code, real lessons learned."
 
   - title: "Agentic Chaos - What 86K+ Agent Codebases Reveal About 700K+ Exposed AI Systems"
     track: "Track 2 - TLVCommunity"
@@ -110,11 +113,11 @@ sessions:
       - name: "Bar Kaduri"
         role: "Principal Researcher, Capsule Security"
         photo: "/assets/images/speakers/bar-kaduri.png"
-    description: "Over the past two years, AI agents have been stealthily becoming the new backbone of the global internet infrastructure. Autonomous systems capable of invoking tools, executing code, orchestrating workflows, and interacting with external services are now being built and deployed across production environments, developer workflows and tools, automation platforms, data pipelines, and enterprise systems as a whole.<br/><br/>What’s become glaringly obvious is that despite the speed of this adoption, almost nothing is known about how these systems are actually built or secured in the wild.<br/>To answer that question, we conducted one of the largest first-of-its-kind empirical studies of the agent ecosystem. We analyzed more than 86,000 public repositories implementing agent logic across frameworks including LangChain, LangGraph, CrewAI, AutoGen, and Model Context Protocol (MCP). We examined prompt construction patterns, tool implementations, authentication models, execution capabilities, and permission boundaries to understand how developers are building agents in practice.<br/><br/>We paired this code-level analysis with internet-wide infrastructure measurement using Shodan, Censys, and ShadowServer to map where agent platforms are actually running in the wild. The research surfaced more than 700,000 exposed agent-related systems on the public internet, including Ollama inference servers, Ray clusters, n8n automation platforms, and MCP tool servers. Many of these systems were directly exposed to the internet with little or no authentication and, in numerous cases, were vulnerable to known high-impact CVEs.<br/>Together, these two datasets reveal a striking pattern. The same architectural assumptions and security shortcuts visible in agent codebases appear repeatedly in real deployments at internet scale.<br/><br/>This talk presents the data, visualizations, and insights produced from this research.<br/><br/>Using examples drawn directly from the dataset, we reconstruct several representative attack paths created by common agent design patterns. We show how seemingly harmless implementation choices, such as tool exposure, prompt construction shortcuts, and weak capability boundaries - can cascade into exploitable conditions once agents are deployed in real environments. We’ll wrap up with practical architectural changes that agent frameworks and platform teams can adopt to prevent these patterns from becoming the next generation of supply-chain vulnerabilities."
+    description: "Over the past two years, AI agents have been stealthily becoming the new backbone of the global internet infrastructure. Autonomous systems capable of invoking tools, executing code, orchestrating workflows, and interacting with external services are now being built and deployed across production environments, developer workflows and tools, automation platforms, data pipelines, and enterprise systems as a whole.<br/><br/>What's become glaringly obvious is that despite the speed of this adoption, almost nothing is known about how these systems are actually built or secured in the wild.<br/>To answer that question, we conducted one of the largest first-of-its-kind empirical studies of the agent ecosystem. We analyzed more than 86,000 public repositories implementing agent logic across frameworks including LangChain, LangGraph, CrewAI, AutoGen, and Model Context Protocol (MCP). We examined prompt construction patterns, tool implementations, authentication models, execution capabilities, and permission boundaries to understand how developers are building agents in practice.<br/><br/>We paired this code-level analysis with internet-wide infrastructure measurement using Shodan, Censys, and ShadowServer to map where agent platforms are actually running in the wild. The research surfaced more than 700,000 exposed agent-related systems on the public internet, including Ollama inference servers, Ray clusters, n8n automation platforms, and MCP tool servers. Many of these systems were directly exposed to the internet with little or no authentication and, in numerous cases, were vulnerable to known high-impact CVEs.<br/>Together, these two datasets reveal a striking pattern. The same architectural assumptions and security shortcuts visible in agent codebases appear repeatedly in real deployments at internet scale.<br/><br/>This talk presents the data, visualizations, and insights produced from this research.<br/><br/>Using examples drawn directly from the dataset, we reconstruct several representative attack paths created by common agent design patterns. We show how seemingly harmless implementation choices, such as tool exposure, prompt construction shortcuts, and weak capability boundaries - can cascade into exploitable conditions once agents are deployed in real environments. We'll wrap up with practical architectural changes that agent frameworks and platform teams can adopt to prevent these patterns from becoming the next generation of supply-chain vulnerabilities."
 
 #Tracks 2
 
-  - title: "Your AI Agent Is a Monolith — Here's How We Made Ours Modular"
+  - title: "From Black Box to Glass Box: Observability for LLMs"
     track: "Track 1 - AWS Experience"
     track_color: "#f5a623"
     time_start: "2026-06-11T11:35"
@@ -123,12 +126,12 @@ sessions:
     location: "Track 1 – AWS Experience"
     type: "talk"
     speakers:
-      - name: "Haim Raitsev"
-        role: "Software Engineer, Harmony"
-        photo: "/assets/images/speakers/haim-raitsev.jpg"
-    description: "Most AI agents start the same way: a single prompt, a growing list of tools, and increasingly fragile behavior as complexity creeps in. Ours did too - until it became unmaintainable. In this talk, I'll show how we refactored our production IT helpdesk agent into a composable toolkit architecture using AWS Bedrock, where each capability - password resets, app provisioning, device recovery, knowledge base search, ticket management - is an independent, self-contained module with its own tools, prompts, dependencies, and runtime activation gates. Skills assemble dynamically per-request based on tenant configuration, user roles, and identity provider capabilities. I'll cover the engineering patterns that made it work: runtime gating, lazy dependency injection, streaming responses, and how we keep a multi-tenant agent from doing things it shouldn't. Real production code, real lessons learned."
+      - name: "Aviv Zohari"
+        role: "Field CTO, groundcover"
+        photo: "/assets/images/speakers/aviv-zohari.png"
+    description: "In just a few years, LLMs have gone from research curiosities to the backbone of new software experiences. Organizations are rapidly productionizing LLM workflows because of their immense value, but often without observability guardrails. This introduces new layers of fragility and complexity: performance volatility, quality drift, and security risks. In this talk, we explore how to monitor and troubleshoot LLM applications with zero instrumentation. Whether on commercial LLM stacks or AWS Bedrock, we'll break open the LLM black box and learn how to track token usage, response latency, data exposure risks, and model execution failures."
 
-  - title: "We Tried OSS Model Routing Tools So You Don’t Have To"
+  - title: "We Tried OSS Model Routing Tools So You Don't Have To"
     track: "Track 2 - TLVCommunity"
     track_color: "#e91e90"
     time_start: "2026-06-11T11:35"
@@ -143,11 +146,11 @@ sessions:
       - name: "Hai Rozencwajg"
         role: "Founding Team, Member of Technical Staff, Accomplish"
         photo: "/assets/images/speakers/hai-rozencwajg.png"
-    description: "Modern AI applications are no longer single prompts. They are pipelines of decisions: retrieval, reasoning, tool use, and execution. However, most systems still default to a single model across all steps, leading to unnecessary cost, latency, and failure modes.<br/><br/>This talk presents a hands-on evaluation of open-source model routing tools in the context of multi-step AI workflows. Instead of comparing models in isolation, we examine how routing decisions change when facing a multi-step pipeline as part of computer-use task execution.<br/><br/>We’ll cover real experiments, architectural patterns, and common pitfalls, and provide a practical approach to step-aware routing that improves both performance and cost efficiency."
+    description: "Modern AI applications are no longer single prompts. They are pipelines of decisions: retrieval, reasoning, tool use, and execution. However, most systems still default to a single model across all steps, leading to unnecessary cost, latency, and failure modes.<br/><br/>This talk presents a hands-on evaluation of open-source model routing tools in the context of multi-step AI workflows. Instead of comparing models in isolation, we examine how routing decisions change when facing a multi-step pipeline as part of computer-use task execution.<br/><br/>We'll cover real experiments, architectural patterns, and common pitfalls, and provide a practical approach to step-aware routing that improves both performance and cost efficiency."
       
   #Tracks 3
 
-  - title: "From Black Box to Glass Box: Observability for LLMs"
+  - title: "Running 100M prompts on EC2 under GPU capacity constraints"
     track: "Track 1 - AWS Experience"
     track_color: "#f5a623"
     time_start: "2026-06-11T12:00"
@@ -156,10 +159,10 @@ sessions:
     location: "Track 1 – AWS Experience"
     type: "talk"
     speakers:
-      - name: "Aviv Zohari"
-        role: "Field CTO, groundcover"
-        photo: "/assets/images/speakers/aviv-zohari.png"
-    description: "In just a few years, LLMs have gone from research curiosities to the backbone of new software experiences. Organizations are rapidly productionizing LLM workflows because of their immense value, but often without observability guardrails. This introduces new layers of fragility and complexity: performance volatility, quality drift, and security risks. In this talk, we explore how to monitor and troubleshoot LLM applications with zero instrumentation. Whether on commercial LLM stacks or AWS Bedrock, we’ll break open the LLM black box and learn how to track token usage, response latency, data exposure risks, and model execution failures."
+      - name: "Sharon Dahan"
+        role: "Chief Architect, Impala AI"
+        photo: "/assets/images/speakers/sharon-dahan.jpeg"
+    description: "This session is a technical customer story about running a 100M-image multimodal inference workload on Amazon EKS with vLLM under real GPU capacity constraints. It starts with a straightforward capacity plan based on B200 machines and a GPU-hour calculation, then shows why that plan breaks down in practice when ideal capacity is not consistently available. From there, the talk explains how the hardware strategy expands across multiple AWS GPU families, why NVFP4 changes the economics, and why vLLM serving strategy has to be adapted to the topology of each machine type. The session closes with the final architecture and an additional slide on how Impala productizes this approach for production workloads."
 
   - title: "The Agentic Era: Microservices, Reimagined?"
     track: "Track 2 - TLVCommunity"
@@ -177,7 +180,7 @@ sessions:
 
 #Tracks 4
 
-  - title: "Running 100M prompts on EC2 under GPU capacity constraints"
+  - title: "\"I Am the Law\": How AI made rule-writing the most important skill in engineering"
     track: "Track 1 - AWS Experience"
     track_color: "#f5a623"
     time_start: "2026-06-11T12:25"
@@ -186,10 +189,10 @@ sessions:
     location: "Track 1 – AWS Experience"
     type: "talk"
     speakers:
-      - name: "Sharon Dahan"
-        role: "Chief Architect, Impala AI"
-        photo: "/assets/images/speakers/sharon-dahan.jpeg"
-    description: "This session is a technical customer story about running a 100M-image multimodal inference workload on Amazon EKS with vLLM under real GPU capacity constraints. It starts with a straightforward capacity plan based on B200 machines and a GPU-hour calculation, then shows why that plan breaks down in practice when ideal capacity is not consistently available. From there, the talk explains how the hardware strategy expands across multiple AWS GPU families, why NVFP4 changes the economics, and why vLLM serving strategy has to be adapted to the topology of each machine type. The session closes with the final architecture and an additional slide on how Impala productizes this approach for production workloads."
+      - name: "Daniel Avital"
+        role: "Co-Founder & CEO, Pandorian"
+        photo: "/assets/images/speakers/daniel-avital.jpg"
+    description: "Nobody ever cared about writing rules well. You'd drop some standards in a Confluence doc, maybe an onboarding wiki, and move on. It didn't really matter how precise they were because nobody was reading them anyway. As long as you had strong engineers and a decent review culture, the codebase held together well enough.<br/><br/>AI changed the math. When code volume explodes and the author is increasingly a model, every other propagation mechanism breaks down. What's left is the rule. How precisely you can define it, scope it, and enforce it is now the difference between a codebase that reflects your judgment and one that slowly stops being yours.<br/><br/>This talk is about that shift."
 
   - title: "RAG on Your Data Lake"
     track: "Track 2 - TLVCommunity"
@@ -203,7 +206,7 @@ sessions:
       - name: "Haggai Zohar"
         role: "Data Tech Lead, TeraSky"
         photo: "/assets/images/speakers/haggai-zohar.jpg"
-    description: "Most data lakes aren’t LLM-ready. Without structure, metadata, and governance, connecting generative AI to S3 data creates risk, cost, and unreliable results. This session walks through an end-to-end Retrieval-Augmented Generation (RAG) architecture on AWS. We’ll cover ingestion and preprocessing of structured and unstructured data from Amazon S3, building embeddings with Amazon Bedrock or SageMaker, and choosing vector storage with OpenSearch or Aurora pgvector. You’ll see how retrieval orchestration and inference run securely with Bedrock, alongside IAM, PII, and governance controls. We’ll also examine cost, latency, freshness trade-offs—and when RAG beats fine-tuning or search-only approaches."
+    description: "Most data lakes aren't LLM-ready. Without structure, metadata, and governance, connecting generative AI to S3 data creates risk, cost, and unreliable results. This session walks through an end-to-end Retrieval-Augmented Generation (RAG) architecture on AWS. We'll cover ingestion and preprocessing of structured and unstructured data from Amazon S3, building embeddings with Amazon Bedrock or SageMaker, and choosing vector storage with OpenSearch or Aurora pgvector. You'll see how retrieval orchestration and inference run securely with Bedrock, alongside IAM, PII, and governance controls. We'll also examine cost, latency, freshness trade-offs—and when RAG beats fine-tuning or search-only approaches."
 
   - title: "Lunch"
     track: "FOYER"
@@ -321,4 +324,4 @@ sessions:
       - name: "Edan Shahmoon"
         role: "Data Scientist and DevOps Engineer"
         photo: "/assets/images/speakers/edan-shahmoon.png"
-    description: "Closing talk followed by mingling and networking.<br/><br/>Have you ever wondered what your infrastructure sounds like? In this talk, I’ll introduce 'Promethouse,' a lighthearted side project that turns system observability into house music. We'll start by diving under the hood of the Prometheus pull-based scraping protocol to understand how it ingests massive amounts of time-series data. But instead of building another Grafana dashboard, we'll route that data to the dancefloor. I will walk through the core engineering challenge: applying dimensionality reduction algorithms to distill thousands of chaotic, high-dimensional service metrics into a unified 'tempo' for each microservice. By the end of this session, you'll see (and hear!) how mathematical transformations can turn the noise of CPU spikes and memory leaks into a surprisingly groovy, cohesive musical track."
+    description: "Closing talk followed by mingling and networking.<br/><br/>Have you ever wondered what your infrastructure sounds like? In this talk, I'll introduce 'Promethouse,' a lighthearted side project that turns system observability into house music. We'll start by diving under the hood of the Prometheus pull-based scraping protocol to understand how it ingests massive amounts of time-series data. But instead of building another Grafana dashboard, we'll route that data to the dancefloor. I will walk through the core engineering challenge: applying dimensionality reduction algorithms to distill thousands of chaotic, high-dimensional service metrics into a unified 'tempo' for each microservice. By the end of this session, you'll see (and hear!) how mathematical transformations can turn the noise of CPU spikes and memory leaks into a surprisingly groovy, cohesive musical track."
