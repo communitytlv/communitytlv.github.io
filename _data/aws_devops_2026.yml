@@ -27,7 +27,6 @@ sessions:
         role: "RTFM Please"
         photo: "/assets/images/sponsor-logos/rtfm-SQ.png"
 
-
   - title: "Your Agent Built It. Who the 🤬 Runs It?"
     track: "Main Stage"
     track_color: "#e74c5e"
@@ -46,8 +45,8 @@ sessions:
     track: "Main Stage"
     track_color: "#e74c5e"
     time_start: "2026-06-11T10:30"
-    time_end: "2026-06-11T10:40"
-    time_display: "10:30 AM – 10:40 AM"
+    time_end: "2026-06-11T10:45"
+    time_display: "10:30 AM – 10:45 AM"
     location: "Main Stage"
     type: "ignite"
     speakers:
@@ -56,18 +55,18 @@ sessions:
         photo: "/assets/images/sponsor-logos/doit-SQ.png"
       - name: "Or Plavnik & Michael Isayev"
         role: "Innocom"
-        photo:  "/assets/images/sponsor-logos/innocom-SQ.png"
-      - name: "Grafana Team"
-        role: "Grafana"
-        photo:  "/assets/images/sponsor-logos/grafana-SQ.png"
-    description: "<em><strong>Innocom: MTTR Vertigo: The Power of Consolidation.</strong></em><br/><br/>2 AM. Service down. You're flipping between seven tools trying to figure out where to start -that's MTTR vertigo. This talk shows how consolidating your entire stack onto one platform removes the silos that turn 5-minute investigations into hour-long ones. You'll see what root cause analysis looks like when metrics, logs, traces, and ownership all live in one database, queryable in one language. Walk in skeptical. Leave with a clear answer to why silos cost more than every observability license combined.<br/><br/><em><strong>DoIT: Leaner K8s with PSI metrics</strong></em><br/><br/>PSI metrics have graduated to beta in K8s v1.34. It may be a small feature but it can matter a lot for your application performance and efficiency. Let's understand how they can make your clusters and autoscaling leaner."
+        photo: "/assets/images/sponsor-logos/innocom-SQ.png"
+      - name: "Danny Parizada"
+        role: "Solution Engineer, Grafana Labs"
+        photo: "/assets/images/sponsor-logos/grafana-SQ.png"
+    description: "<em><strong>Innocom: MTTR Vertigo: The Power of Consolidation.</strong></em><br/><br/>2 AM. Service down. You're flipping between seven tools trying to figure out where to start -that's MTTR vertigo. This talk shows how consolidating your entire stack onto one platform removes the silos that turn 5-minute investigations into hour-long ones. You'll see what root cause analysis looks like when metrics, logs, traces, and ownership all live in one database, queryable in one language. Walk in skeptical. Leave with a clear answer to why silos cost more than every observability license combined.<br/><br/><em><strong>DoIT: Leaner K8s with PSI metrics</strong></em><br/><br/>PSI metrics have graduated to beta in K8s v1.34. It may be a small feature but it can matter a lot for your application performance and efficiency. Let's understand how they can make your clusters and autoscaling leaner.<br/><br/><em><strong>Grafana: AI Makes Observability Conversational. Grafana Makes It Correct.</strong></em><br/><br/>Everyone is exposing an MCP server onto their observability stack. That's the easy part. Wiring an LLM to your metrics, logs, and traces takes an afternoon. The hard part is making the answers true, so that when you ask \"why is service slow at 3am,\" you get a real root cause instead of a confident hallucination built on whatever the model happened to retrieve. This talk is about what separates a demo from something you'd trust during an incident: a deterministic foundation underneath the AI. Grafana pairs generative AI with a Knowledge Graph that holds ground truth, the real relationships between your services, pods, traces, logs, and the teams that own them. The AI doesn't guess at your topology. It reasons over a verified map of it. Same idea on the data layer: open standards, real telemetry, no black box.<br/><br/><em>Danny Parizada, Solution Engineer, Grafana Labs</em>"
 
   - title: "What's happening to Open Source?"
     track: "Main Stage"
     track_color: "#e74c5e"
-    time_start: "2026-06-11T10:40"
-    time_end: "2026-06-11T11:00"
-    time_display: "10:40 AM – 11:00 AM"
+    time_start: "2026-06-11T10:45"
+    time_end: "2026-06-11T11:05"
+    time_display: "10:45 AM – 11:05 AM"
     location: "Main Stage"
     type: "talk"
     speakers:
@@ -79,9 +78,9 @@ sessions:
   - title: "Break – Split to Tracks"
     track: "FOYER"
     track_color: "#6fc3df"
-    time_start: "2026-06-11T11:00"
-    time_end: "2026-06-11T11:10"
-    time_display: "11:00 AM – 11:10 AM"
+    time_start: "2026-06-11T11:05"
+    time_end: "2026-06-11T11:15"
+    time_display: "11:05 AM – 11:15 AM"
     type: "break"
     description: "10-minute break before splitting into parallel tracks."
 
@@ -90,9 +89,9 @@ sessions:
   - title: "Your AI Agent Is a Monolith — Here's How We Made Ours Modular"
     track: "Track 1 - AWS Experience"
     track_color: "#f5a623"
-    time_start: "2026-06-11T11:10"
-    time_end: "2026-06-11T11:35"
-    time_display: "11:10 AM – 11:35 AM"
+    time_start: "2026-06-11T11:15"
+    time_end: "2026-06-11T11:40"
+    time_display: "11:15 AM – 11:40 AM"
     location: "Track 1 – AWS Experience"
     type: "talk"
     speakers:
@@ -104,9 +103,9 @@ sessions:
   - title: "Agentic Chaos - What 86K+ Agent Codebases Reveal About 700K+ Exposed AI Systems"
     track: "Track 2 - TLVCommunity"
     track_color: "#e91e90"
-    time_start: "2026-06-11T11:10"
-    time_end: "2026-06-11T11:35"
-    time_display: "11:10 AM – 11:35 AM"
+    time_start: "2026-06-11T11:15"
+    time_end: "2026-06-11T11:40"
+    time_display: "11:15 AM – 11:40 AM"
     location: "Track 2 – TLVCommunity"
     type: "talk"
     speakers:
@@ -120,9 +119,9 @@ sessions:
   - title: "From Black Box to Glass Box: Observability for LLMs"
     track: "Track 1 - AWS Experience"
     track_color: "#f5a623"
-    time_start: "2026-06-11T11:35"
-    time_end: "2026-06-11T12:00"
-    time_display: "11:35 AM – 12:00 PM"
+    time_start: "2026-06-11T11:40"
+    time_end: "2026-06-11T12:05"
+    time_display: "11:40 AM – 12:05 PM"
     location: "Track 1 – AWS Experience"
     type: "talk"
     speakers:
@@ -134,9 +133,9 @@ sessions:
   - title: "We Tried OSS Model Routing Tools So You Don't Have To"
     track: "Track 2 - TLVCommunity"
     track_color: "#e91e90"
-    time_start: "2026-06-11T11:35"
-    time_end: "2026-06-11T12:00"
-    time_display: "11:35 AM – 12:00 PM"
+    time_start: "2026-06-11T11:40"
+    time_end: "2026-06-11T12:05"
+    time_display: "11:40 AM – 12:05 PM"
     location: "Track 2 – TLVCommunity"
     type: "talk"
     speakers:
@@ -147,15 +146,15 @@ sessions:
         role: "Founding Team, Member of Technical Staff, Accomplish"
         photo: "/assets/images/speakers/hai-rozencwajg.png"
     description: "Modern AI applications are no longer single prompts. They are pipelines of decisions: retrieval, reasoning, tool use, and execution. However, most systems still default to a single model across all steps, leading to unnecessary cost, latency, and failure modes.<br/><br/>This talk presents a hands-on evaluation of open-source model routing tools in the context of multi-step AI workflows. Instead of comparing models in isolation, we examine how routing decisions change when facing a multi-step pipeline as part of computer-use task execution.<br/><br/>We'll cover real experiments, architectural patterns, and common pitfalls, and provide a practical approach to step-aware routing that improves both performance and cost efficiency."
-      
-  #Tracks 3
+
+#Tracks 3
 
   - title: "Running 100M prompts on EC2 under GPU capacity constraints"
     track: "Track 1 - AWS Experience"
     track_color: "#f5a623"
-    time_start: "2026-06-11T12:00"
-    time_end: "2026-06-11T12:25"
-    time_display: "12:00 PM – 12:25 PM"
+    time_start: "2026-06-11T12:05"
+    time_end: "2026-06-11T12:30"
+    time_display: "12:05 PM – 12:30 PM"
     location: "Track 1 – AWS Experience"
     type: "talk"
     speakers:
@@ -167,9 +166,9 @@ sessions:
   - title: "The Agentic Era: Microservices, Reimagined?"
     track: "Track 2 - TLVCommunity"
     track_color: "#e91e90"
-    time_start: "2026-06-11T12:00"
-    time_end: "2026-06-11T12:25"
-    time_display: "12:00 PM – 12:25 PM"
+    time_start: "2026-06-11T12:05"
+    time_end: "2026-06-11T12:30"
+    time_display: "12:05 PM – 12:30 PM"
     location: "Track 2 – TLVCommunity"
     type: "talk"
     speakers:
@@ -183,9 +182,9 @@ sessions:
   - title: "\"I Am the Law\": How AI made rule-writing the most important skill in engineering"
     track: "Track 1 - AWS Experience"
     track_color: "#f5a623"
-    time_start: "2026-06-11T12:25"
-    time_end: "2026-06-11T12:50"
-    time_display: "12:25 PM – 12:50 PM"
+    time_start: "2026-06-11T12:30"
+    time_end: "2026-06-11T12:55"
+    time_display: "12:30 PM – 12:55 PM"
     location: "Track 1 – AWS Experience"
     type: "talk"
     speakers:
@@ -197,9 +196,9 @@ sessions:
   - title: "RAG on Your Data Lake"
     track: "Track 2 - TLVCommunity"
     track_color: "#e91e90"
-    time_start: "2026-06-11T12:25"
-    time_end: "2026-06-11T12:50"
-    time_display: "12:25 PM – 12:50 PM"
+    time_start: "2026-06-11T12:30"
+    time_end: "2026-06-11T12:55"
+    time_display: "12:30 PM – 12:55 PM"
     location: "Track 2 – TLVCommunity"
     type: "talk"
     speakers:
@@ -211,9 +210,9 @@ sessions:
   - title: "Lunch"
     track: "FOYER"
     track_color: "#6fc3df"
-    time_start: "2026-06-11T12:50"
+    time_start: "2026-06-11T12:55"
     time_end: "2026-06-11T14:00"
-    time_display: "12:50 PM – 2:00 PM"
+    time_display: "12:55 PM – 2:00 PM"
     type: "break"
 
 #Tracks 5
@@ -231,7 +230,7 @@ sessions:
         role: "Cato Networks"
         photo: "/assets/images/speakers/assaf-peleg.jpg"
     description: "SOC & NOC teams aren't short on data - they're short on signal. With overwhelming alerts & logs, the challenge is improving Signal-to-Noise Ratio (SNR): isolating what truly matters. <br/><br/> This session presents an automated RCA framework running on Amazon EKS that amplifies signal from network and security incidents. By combining trend detection with GenAI on Amazon Bedrock, the framework transforms complex network and security data into clear, actionable explanations of why incidents occur—and what is likely to happen next.<br/><br/> Our customizable, tool-driven architecture builds tailored RCA workflows per story type, increasing SNR precision. Amazon Bedrock AgentCore provides secure runtime, contextual memory, observability, operationalizing high-SNR insights into RCA-driven actions.<br/> Detection creates data. RCA creates signal."
-    
+
   - title: "What Production Knows: Closing the Loop Between AI Agents and the Systems They Build"
     track: "Track 2 - TLVCommunity"
     track_color: "#e91e90"
@@ -246,7 +245,7 @@ sessions:
         photo: "/assets/images/speakers/may-walter.jpg"
     description: "Most of the AI-for-engineering conversation runs in one direction: humans tell agents what to do, and agents produce code. But for high-velocity teams, the more interesting flow runs the other way,  production telling the agents what is actually happening, so they can fix, refactor, and keep shipping without drifting away from reality.<br/><br/>This talk is about that reverse loop. It looks at what changes when the systems we operate start moving faster than the people who own them, the failure modes that quietly become normal when agents work without ground truth, and the durable plumbing that keeps them honest: traces, error budgets, customer signal, SLO breaches, incident timelines, all fed back as first-class inputs to the tools doing the writing.<br/><br/>If the broader AI shift is changing what it means to author code, this is the operational half of that story: the feedback infrastructure that makes the new way of working actually safe to run."
 
-  #Tracks 6
+#Tracks 6
 
   - title: "AI-Driven DevOps: From Operational Overload to Continuous Optimization (Cost, Security, Reliability)"
     track: "Track 1 - AWS Experience"
@@ -261,7 +260,7 @@ sessions:
         role: "Director of DevOps, Coro"
         photo: "/assets/images/speakers/asia-salner.jpg"
     description: "We operate a multi-account AWS environment (12 accounts, 4 regions) on EKS, Terraform, GitLab CI, and ArgoCD. The primary constraint was not infrastructure scale, but operational overload: growing backlog, missed cost optimizations, delayed risk detection, and constant reactive work.<br/><br/> This session presents how AI is embedded into both DevOps workflows and the platform layer to shift from reactive operations to continuous optimization,<br/>--Cost & hygiene — continuous scanning across AWS accounts to detect unused resources, redundant services, orphaned assets, and cost inefficiencies, with fixes generated as code<br/>--Security & compliance — identifying over-permissioned access, configuration drift, and policy violations, with controlled remediation via pipelines<br/>--Production signal analysis — logs, metrics, and code analyzed to surface hidden issues such as memory leaks and abnormal patterns missed during development<br/>--Shift-left review — AI-assisted code review for Terraform, Kubernetes, and CI/CD to prevent misconfigurations before deployment<br/>--Autonomous task execution — DevOps tasks from Jira translated into reviewed, GitOps-driven changes<br/>--Impact-based prioritization — operational work ranked by cost, reliability, and security impact, reducing backlog and eliminating low-value manual triage<br/><br/> All actions are enforced through GitOps and review. No direct production mutations.<br/><br/> Focus: architecture, integration patterns, control mechanisms, and measurable impact on cost, MTTR, and operational load."
-  
+
   - title: "Why Your Kubernetes Cluster Will Fail: Lessons from 1 Million Real-World Incidents"
     track: "Track 2 - TLVCommunity"
     track_color: "#e91e90"
