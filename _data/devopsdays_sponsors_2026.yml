@@ -98,29 +98,25 @@ gold:
   #  logo: "/assets/images/sponsor-logos/minimus-SQ.png"
 
 community:
-  - name: "AWS Israel"
-    url: "https://aws.amazon.com/local/israel/"
-    logo: "/assets/images/sponsor-logos/aws-SQ.png"
+  - name: "Cloud Native OSS"
+    url: "#"
+    logo: "/assets/images/cloudnative-oss-SQ.png"
+  - name: "Israel Tech"
+    url: "https://www.israeltech.com/"
+    logo: "/assets/images/sponsor-logos/israeltech-SQ.png"
+  - name: "Statscraft"
+    url: "https://statscraft.org.il"
+    logo: "/assets/images/statscraft-SQ.png"
+  - name: "OpsSchool"
+    url: "https://opsschool.org.il"
+    logo: "/assets/images/sponsor-logos/opsschool-circ.png"
+  - name: "WIDO"
+    url: "https://www.facebook.com/groups/womenindevopsisrael"
+    logo: "/assets/images/sponsor-logos/WIDO-SQ.png"
   - name: "DevOps Leaders"
     url: "https://open.spotify.com/show/1D8xJvi6UMANmutW63FoNI?si=d36eb8fa4df14723"
     logo: "/assets/images/sponsor-logos/devops_leaders_SQ.jpeg"
  
-custom_tiers:
-  - label: "Event Partners"
-    style: sm
-    items:
-      - name: "Cloud Native OSS"
-        url: "#"
-        logo: "/assets/images/cloudnative-oss-SQ.png"
-      - name: "Israel Tech"
-        url: "https://www.israeltech.com/"
-        logo: "/assets/images/sponsor-logos/israeltech-SQ.png"
-      - name: "Statscraft"
-        url: "https://statscraft.org.il"
-        logo: "/assets/images/statscraft-SQ.png"
-      - name: "OpsSchool"
-        url: "https://opsschool.org.il"
-        logo: "/assets/images/sponsor-logos/opsschool-circ.png"
-      - name: "WIDO"
-        url: "https://www.facebook.com/groups/womenindevopsisrael"
-        logo: "/assets/images/sponsor-logos/WIDO-SQ.png"
+
+   
+      
