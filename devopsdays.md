@@ -16,7 +16,7 @@ nav-menu: true
     <div class="box" style="width: 100%; text-align: center;">
     <img src="assets/images/devopsdays-SQ.png" width="200">
     <h1 style="text-transform: uppercase;" class="text-gradient-sunset">DEVOPSDAYS TEL AVIV 2026</h1>
-    <h2 style="text-transform: uppercase; color: #8d82c4;">December 22, 2025 at the David Intercontinental!</h2>
+    <h2 style="text-transform: uppercase; color: #8d82c4;">December 22, 2026 at the David Intercontinental!</h2>
 
 {% include videos/video.html video_id="5o5es2A18CU" title="This is DevOpsDays TLV" %}
 
