@@ -1,468 +1,137 @@
-{% assign sponsors = include.data | default: site.data.sponsors %}
+<section id="sponsors">
+  <div class="sponsors__inner">
 
-{% if sponsors %}
-<section id="sponsors" class="sponsors">
-  <div class="inner">
+    {% assign sd = include.data | default: site.data.sponsors %}
 
-    {% comment %}
-      Custom tier insertion point:
-      before_host
-    {% endcomment %}
-    {% if sponsors.custom_tiers %}
-      {% for custom_tier in sponsors.custom_tiers %}
-        {% if custom_tier.position == "before_host" %}
-          {% assign custom_style = custom_tier.style | default: "md" %}
-
-          {% if custom_style == "lg" %}
-            {% assign custom_logo_class = "sponsors__logo--lg" %}
-          {% elsif custom_style == "sm" %}
-            {% assign custom_logo_class = "sponsors__logo--sm" %}
-          {% else %}
-            {% assign custom_logo_class = "sponsors__logo--md" %}
-          {% endif %}
-
-          {% if custom_tier.items and custom_tier.items.size > 0 %}
-            <div class="sponsors__tier sponsors__tier--custom sponsors__tier--custom-{{ custom_style }}">
-              <h3 class="sponsors__heading">{{ custom_tier.label }}</h3>
-
-              <div class="sponsors__grid sponsors__grid--custom sponsors__grid--{{ custom_style }}">
-                {% for s in custom_tier.items %}
-                  {% if s.logo %}
-                    {% if s.url %}
-                      <a class="sponsors__logo {{ custom_logo_class }}" href="{{ s.url }}" target="_blank" rel="noopener noreferrer" aria-label="{{ s.name }}">
-                        <img src="{{ s.logo | relative_url }}" alt="{{ s.name }}" loading="lazy">
-                      </a>
-                    {% else %}
-                      <div class="sponsors__logo {{ custom_logo_class }}" aria-label="{{ s.name }}">
-                        <img src="{{ s.logo | relative_url }}" alt="{{ s.name }}" loading="lazy">
-                      </div>
-                    {% endif %}
-                  {% endif %}
-                {% endfor %}
-              </div>
-            </div>
-          {% endif %}
-        {% endif %}
+    <!-- Host -->
+    {% if sd.host and sd.host.size > 0 %}
+    <div class="sponsors__tier-header">
+      <div class="sponsors__tier-line"></div>
+      <h3 class="sponsors__tier-label">Host</h3>
+      <div class="sponsors__tier-line"></div>
+    </div>
+    <div class="sponsors__grid sponsors__grid--lg">
+      {% for s in sd.host %}
+      <a href="{{ s.url }}" target="_blank" rel="noopener noreferrer" class="sponsors__card sponsors__card--lg">
+        <img src="{{ s.logo }}" alt="{{ s.name }}" class="sponsors__logo sponsors__logo--lg" loading="lazy" />
+      </a>
       {% endfor %}
+    </div>
     {% endif %}
 
-
-    {% comment %}
-      Event Host
-    {% endcomment %}
-    {% if sponsors.host and sponsors.host.size > 0 %}
-      <div class="sponsors__tier sponsors__tier--host">
-        <h3 class="sponsors__heading">Event Host</h3>
-
-        <div class="sponsors__grid sponsors__grid--host">
-          {% for s in sponsors.host %}
-            {% if s.logo %}
-              {% if s.url %}
-                <a class="sponsors__logo sponsors__logo--lg" href="{{ s.url }}" target="_blank" rel="noopener noreferrer" aria-label="{{ s.name }}">
-                  <img src="{{ s.logo | relative_url }}" alt="{{ s.name }}" loading="lazy">
-                </a>
-              {% else %}
-                <div class="sponsors__logo sponsors__logo--lg" aria-label="{{ s.name }}">
-                  <img src="{{ s.logo | relative_url }}" alt="{{ s.name }}" loading="lazy">
-                </div>
-              {% endif %}
-            {% endif %}
+    <!-- Custom Tiers (supports multiple, each with style: lg | md | sm) -->
+    {% if sd.custom_tiers %}
+      {% for tier in sd.custom_tiers %}
+        {% assign sz = tier.style | default: "sm" %}
+        {% if sz == "lg" or sz == "md" %}
+          {% assign grid_class = "sponsors__grid sponsors__grid--lg" %}
+        {% else %}
+          {% assign grid_class = "sponsors__grid" %}
+        {% endif %}
+        {% if tier.items and tier.items.size > 0 %}
+        <div class="sponsors__tier-header">
+          <div class="sponsors__tier-line"></div>
+          <h3 class="sponsors__tier-label">{{ tier.label }}</h3>
+          <div class="sponsors__tier-line"></div>
+        </div>
+        <div class="{{ grid_class }}">
+          {% for s in tier.items %}
+          <a href="{{ s.url }}" target="_blank" rel="noopener noreferrer" class="sponsors__card sponsors__card--{{ sz }}">
+            <img src="{{ s.logo }}" alt="{{ s.name }}" class="sponsors__logo sponsors__logo--{{ sz }}" loading="lazy" />
+          </a>
           {% endfor %}
         </div>
-      </div>
-    {% endif %}
-
-
-    {% comment %}
-      Custom tier insertion point:
-      after_host
-    {% endcomment %}
-    {% if sponsors.custom_tiers %}
-      {% for custom_tier in sponsors.custom_tiers %}
-        {% if custom_tier.position == "after_host" %}
-          {% assign custom_style = custom_tier.style | default: "md" %}
-
-          {% if custom_style == "lg" %}
-            {% assign custom_logo_class = "sponsors__logo--lg" %}
-          {% elsif custom_style == "sm" %}
-            {% assign custom_logo_class = "sponsors__logo--sm" %}
-          {% else %}
-            {% assign custom_logo_class = "sponsors__logo--md" %}
-          {% endif %}
-
-          {% if custom_tier.items and custom_tier.items.size > 0 %}
-            <div class="sponsors__tier sponsors__tier--custom sponsors__tier--custom-{{ custom_style }}">
-              <h3 class="sponsors__heading">{{ custom_tier.label }}</h3>
-
-              <div class="sponsors__grid sponsors__grid--custom sponsors__grid--{{ custom_style }}">
-                {% for s in custom_tier.items %}
-                  {% if s.logo %}
-                    {% if s.url %}
-                      <a class="sponsors__logo {{ custom_logo_class }}" href="{{ s.url }}" target="_blank" rel="noopener noreferrer" aria-label="{{ s.name }}">
-                        <img src="{{ s.logo | relative_url }}" alt="{{ s.name }}" loading="lazy">
-                      </a>
-                    {% else %}
-                      <div class="sponsors__logo {{ custom_logo_class }}" aria-label="{{ s.name }}">
-                        <img src="{{ s.logo | relative_url }}" alt="{{ s.name }}" loading="lazy">
-                      </div>
-                    {% endif %}
-                  {% endif %}
-                {% endfor %}
-              </div>
-            </div>
-          {% endif %}
         {% endif %}
       {% endfor %}
     {% endif %}
 
-
-    {% comment %}
-      Organizer
-    {% endcomment %}
-    {% if sponsors.organizer and sponsors.organizer.size > 0 %}
-      <div class="sponsors__tier sponsors__tier--organizer">
-        <h3 class="sponsors__heading">Organized by</h3>
-
-        <div class="sponsors__grid sponsors__grid--organizer">
-          {% for s in sponsors.organizer %}
-            {% if s.logo %}
-              {% if s.url %}
-                <a class="sponsors__logo sponsors__logo--lg" href="{{ s.url }}" target="_blank" rel="noopener noreferrer" aria-label="{{ s.name }}">
-                  <img src="{{ s.logo | relative_url }}" alt="{{ s.name }}" loading="lazy">
-                </a>
-              {% else %}
-                <div class="sponsors__logo sponsors__logo--lg" aria-label="{{ s.name }}">
-                  <img src="{{ s.logo | relative_url }}" alt="{{ s.name }}" loading="lazy">
-                </div>
-              {% endif %}
-            {% endif %}
-          {% endfor %}
-        </div>
-      </div>
-    {% endif %}
-
-
-    {% comment %}
-      Custom tier insertion point:
-      after_organizer
-    {% endcomment %}
-    {% if sponsors.custom_tiers %}
-      {% for custom_tier in sponsors.custom_tiers %}
-        {% if custom_tier.position == "after_organizer" %}
-          {% assign custom_style = custom_tier.style | default: "md" %}
-
-          {% if custom_style == "lg" %}
-            {% assign custom_logo_class = "sponsors__logo--lg" %}
-          {% elsif custom_style == "sm" %}
-            {% assign custom_logo_class = "sponsors__logo--sm" %}
-          {% else %}
-            {% assign custom_logo_class = "sponsors__logo--md" %}
-          {% endif %}
-
-          {% if custom_tier.items and custom_tier.items.size > 0 %}
-            <div class="sponsors__tier sponsors__tier--custom sponsors__tier--custom-{{ custom_style }}">
-              <h3 class="sponsors__heading">{{ custom_tier.label }}</h3>
-
-              <div class="sponsors__grid sponsors__grid--custom sponsors__grid--{{ custom_style }}">
-                {% for s in custom_tier.items %}
-                  {% if s.logo %}
-                    {% if s.url %}
-                      <a class="sponsors__logo {{ custom_logo_class }}" href="{{ s.url }}" target="_blank" rel="noopener noreferrer" aria-label="{{ s.name }}">
-                        <img src="{{ s.logo | relative_url }}" alt="{{ s.name }}" loading="lazy">
-                      </a>
-                    {% else %}
-                      <div class="sponsors__logo {{ custom_logo_class }}" aria-label="{{ s.name }}">
-                        <img src="{{ s.logo | relative_url }}" alt="{{ s.name }}" loading="lazy">
-                      </div>
-                    {% endif %}
-                  {% endif %}
-                {% endfor %}
-              </div>
-            </div>
-          {% endif %}
-        {% endif %}
+    <!-- Event Organizer -->
+    {% if sd.organizer and sd.organizer.size > 0 %}
+    <div class="sponsors__tier-header">
+      <div class="sponsors__tier-line"></div>
+      <h3 class="sponsors__tier-label">Event Organizer</h3>
+      <div class="sponsors__tier-line"></div>
+    </div>
+    <div class="sponsors__grid sponsors__grid--lg">
+      {% for s in sd.organizer %}
+      <a href="{{ s.url }}" target="_blank" rel="noopener noreferrer" class="sponsors__card sponsors__card--organizer">
+        <img src="{{ s.logo }}" alt="{{ s.name }}" class="sponsors__logo sponsors__logo--organizer" loading="lazy" />
+      </a>
       {% endfor %}
+    </div>
     {% endif %}
 
-
-    {% comment %}
-      Diamond Sponsors
-    {% endcomment %}
-    {% if sponsors.diamond and sponsors.diamond.size > 0 %}
-      <div class="sponsors__tier sponsors__tier--diamond">
-        <h3 class="sponsors__heading">Diamond Sponsors</h3>
-
-        <div class="sponsors__grid sponsors__grid--diamond">
-          {% for s in sponsors.diamond %}
-            {% if s.logo %}
-              {% if s.url %}
-                <a class="sponsors__logo sponsors__logo--lg" href="{{ s.url }}" target="_blank" rel="noopener noreferrer" aria-label="{{ s.name }}">
-                  <img src="{{ s.logo | relative_url }}" alt="{{ s.name }}" loading="lazy">
-                </a>
-              {% else %}
-                <div class="sponsors__logo sponsors__logo--lg" aria-label="{{ s.name }}">
-                  <img src="{{ s.logo | relative_url }}" alt="{{ s.name }}" loading="lazy">
-                </div>
-              {% endif %}
-            {% endif %}
-          {% endfor %}
-        </div>
-      </div>
-    {% endif %}
-
-
-    {% comment %}
-      Custom tier insertion point:
-      after_diamond
-    {% endcomment %}
-    {% if sponsors.custom_tiers %}
-      {% for custom_tier in sponsors.custom_tiers %}
-        {% if custom_tier.position == "after_diamond" %}
-          {% assign custom_style = custom_tier.style | default: "md" %}
-
-          {% if custom_style == "lg" %}
-            {% assign custom_logo_class = "sponsors__logo--lg" %}
-          {% elsif custom_style == "sm" %}
-            {% assign custom_logo_class = "sponsors__logo--sm" %}
-          {% else %}
-            {% assign custom_logo_class = "sponsors__logo--md" %}
-          {% endif %}
-
-          {% if custom_tier.items and custom_tier.items.size > 0 %}
-            <div class="sponsors__tier sponsors__tier--custom sponsors__tier--custom-{{ custom_style }}">
-              <h3 class="sponsors__heading">{{ custom_tier.label }}</h3>
-
-              <div class="sponsors__grid sponsors__grid--custom sponsors__grid--{{ custom_style }}">
-                {% for s in custom_tier.items %}
-                  {% if s.logo %}
-                    {% if s.url %}
-                      <a class="sponsors__logo {{ custom_logo_class }}" href="{{ s.url }}" target="_blank" rel="noopener noreferrer" aria-label="{{ s.name }}">
-                        <img src="{{ s.logo | relative_url }}" alt="{{ s.name }}" loading="lazy">
-                      </a>
-                    {% else %}
-                      <div class="sponsors__logo {{ custom_logo_class }}" aria-label="{{ s.name }}">
-                        <img src="{{ s.logo | relative_url }}" alt="{{ s.name }}" loading="lazy">
-                      </div>
-                    {% endif %}
-                  {% endif %}
-                {% endfor %}
-              </div>
-            </div>
-          {% endif %}
-        {% endif %}
+    <!-- Diamond -->
+    {% if sd.diamond and sd.diamond.size > 0 %}
+    <div class="sponsors__tier-header">
+      <div class="sponsors__tier-line"></div>
+      <h3 class="sponsors__tier-label">Diamond Sponsor</h3>
+      <div class="sponsors__tier-line"></div>
+    </div>
+    <div class="sponsors__grid sponsors__grid--lg">
+      {% for s in sd.diamond %}
+      <a href="{{ s.url }}" target="_blank" rel="noopener noreferrer" class="sponsors__card sponsors__card--diamond">
+        <img src="{{ s.logo }}" alt="{{ s.name }}" class="sponsors__logo sponsors__logo--diamond" loading="lazy" />
+      </a>
       {% endfor %}
+    </div>
     {% endif %}
 
-
-    {% comment %}
-      Platinum Sponsors
-    {% endcomment %}
-    {% if sponsors.platinum and sponsors.platinum.size > 0 %}
-      <div class="sponsors__tier sponsors__tier--platinum">
-        <h3 class="sponsors__heading">Platinum Sponsors</h3>
-
-        <div class="sponsors__grid sponsors__grid--platinum">
-          {% for s in sponsors.platinum %}
-            {% if s.logo %}
-              {% if s.url %}
-                <a class="sponsors__logo sponsors__logo--md" href="{{ s.url }}" target="_blank" rel="noopener noreferrer" aria-label="{{ s.name }}">
-                  <img src="{{ s.logo | relative_url }}" alt="{{ s.name }}" loading="lazy">
-                </a>
-              {% else %}
-                <div class="sponsors__logo sponsors__logo--md" aria-label="{{ s.name }}">
-                  <img src="{{ s.logo | relative_url }}" alt="{{ s.name }}" loading="lazy">
-                </div>
-              {% endif %}
-            {% endif %}
-          {% endfor %}
-        </div>
-      </div>
-    {% endif %}
-
-
-    {% comment %}
-      Custom tier insertion point:
-      after_platinum
-    {% endcomment %}
-    {% if sponsors.custom_tiers %}
-      {% for custom_tier in sponsors.custom_tiers %}
-        {% if custom_tier.position == "after_platinum" %}
-          {% assign custom_style = custom_tier.style | default: "md" %}
-
-          {% if custom_style == "lg" %}
-            {% assign custom_logo_class = "sponsors__logo--lg" %}
-          {% elsif custom_style == "sm" %}
-            {% assign custom_logo_class = "sponsors__logo--sm" %}
-          {% else %}
-            {% assign custom_logo_class = "sponsors__logo--md" %}
-          {% endif %}
-
-          {% if custom_tier.items and custom_tier.items.size > 0 %}
-            <div class="sponsors__tier sponsors__tier--custom sponsors__tier--custom-{{ custom_style }}">
-              <h3 class="sponsors__heading">{{ custom_tier.label }}</h3>
-
-              <div class="sponsors__grid sponsors__grid--custom sponsors__grid--{{ custom_style }}">
-                {% for s in custom_tier.items %}
-                  {% if s.logo %}
-                    {% if s.url %}
-                      <a class="sponsors__logo {{ custom_logo_class }}" href="{{ s.url }}" target="_blank" rel="noopener noreferrer" aria-label="{{ s.name }}">
-                        <img src="{{ s.logo | relative_url }}" alt="{{ s.name }}" loading="lazy">
-                      </a>
-                    {% else %}
-                      <div class="sponsors__logo {{ custom_logo_class }}" aria-label="{{ s.name }}">
-                        <img src="{{ s.logo | relative_url }}" alt="{{ s.name }}" loading="lazy">
-                      </div>
-                    {% endif %}
-                  {% endif %}
-                {% endfor %}
-              </div>
-            </div>
-          {% endif %}
-        {% endif %}
+    <!-- Platinum -->
+    {% if sd.platinum and sd.platinum.size > 0 %}
+    <div class="sponsors__tier-header">
+      <div class="sponsors__tier-line"></div>
+      <h3 class="sponsors__tier-label">Platinum Sponsors</h3>
+      <div class="sponsors__tier-line"></div>
+    </div>
+    <div class="sponsors__grid sponsors__grid--lg">
+      {% for s in sd.platinum %}
+      <a href="{{ s.url }}" target="_blank" rel="noopener noreferrer" class="sponsors__card sponsors__card--platinum">
+        <img src="{{ s.logo }}" alt="{{ s.name }}" class="sponsors__logo sponsors__logo--platinum" loading="lazy" />
+      </a>
       {% endfor %}
+    </div>
     {% endif %}
 
-
-    {% comment %}
-      Gold Sponsors
-    {% endcomment %}
-    {% if sponsors.gold and sponsors.gold.size > 0 %}
-      <div class="sponsors__tier sponsors__tier--gold">
-        <h3 class="sponsors__heading">Gold Sponsors</h3>
-
-        <div class="sponsors__grid sponsors__grid--gold">
-          {% for s in sponsors.gold %}
-            {% if s.logo %}
-              {% if s.url %}
-                <a class="sponsors__logo sponsors__logo--sm" href="{{ s.url }}" target="_blank" rel="noopener noreferrer" aria-label="{{ s.name }}">
-                  <img src="{{ s.logo | relative_url }}" alt="{{ s.name }}" loading="lazy">
-                </a>
-              {% else %}
-                <div class="sponsors__logo sponsors__logo--sm" aria-label="{{ s.name }}">
-                  <img src="{{ s.logo | relative_url }}" alt="{{ s.name }}" loading="lazy">
-                </div>
-              {% endif %}
-            {% endif %}
-          {% endfor %}
-        </div>
-      </div>
-    {% endif %}
-
-
-    {% comment %}
-      Custom tier insertion point:
-      after_gold
-    {% endcomment %}
-    {% if sponsors.custom_tiers %}
-      {% for custom_tier in sponsors.custom_tiers %}
-        {% if custom_tier.position == "after_gold" %}
-          {% assign custom_style = custom_tier.style | default: "md" %}
-
-          {% if custom_style == "lg" %}
-            {% assign custom_logo_class = "sponsors__logo--lg" %}
-          {% elsif custom_style == "sm" %}
-            {% assign custom_logo_class = "sponsors__logo--sm" %}
-          {% else %}
-            {% assign custom_logo_class = "sponsors__logo--md" %}
-          {% endif %}
-
-          {% if custom_tier.items and custom_tier.items.size > 0 %}
-            <div class="sponsors__tier sponsors__tier--custom sponsors__tier--custom-{{ custom_style }}">
-              <h3 class="sponsors__heading">{{ custom_tier.label }}</h3>
-
-              <div class="sponsors__grid sponsors__grid--custom sponsors__grid--{{ custom_style }}">
-                {% for s in custom_tier.items %}
-                  {% if s.logo %}
-                    {% if s.url %}
-                      <a class="sponsors__logo {{ custom_logo_class }}" href="{{ s.url }}" target="_blank" rel="noopener noreferrer" aria-label="{{ s.name }}">
-                        <img src="{{ s.logo | relative_url }}" alt="{{ s.name }}" loading="lazy">
-                      </a>
-                    {% else %}
-                      <div class="sponsors__logo {{ custom_logo_class }}" aria-label="{{ s.name }}">
-                        <img src="{{ s.logo | relative_url }}" alt="{{ s.name }}" loading="lazy">
-                      </div>
-                    {% endif %}
-                  {% endif %}
-                {% endfor %}
-              </div>
-            </div>
-          {% endif %}
-        {% endif %}
+    <!-- Gold -->
+    {% if sd.gold and sd.gold.size > 0 %}
+    <div class="sponsors__tier-header">
+      <div class="sponsors__tier-line"></div>
+      <h3 class="sponsors__tier-label">Gold Sponsors</h3>
+      <div class="sponsors__tier-line"></div>
+    </div>
+    <div class="sponsors__grid">
+      {% for s in sd.gold %}
+      <a href="{{ s.url }}" target="_blank" rel="noopener noreferrer" class="sponsors__card">
+        <img src="{{ s.logo }}" alt="{{ s.name }}" class="sponsors__logo sponsors__logo--gold" loading="lazy" />
+      </a>
       {% endfor %}
+    </div>
     {% endif %}
 
-
-    {% comment %}
-      Community Sponsors
-    {% endcomment %}
-    {% if sponsors.community and sponsors.community.size > 0 %}
-      <div class="sponsors__tier sponsors__tier--community">
-        <h3 class="sponsors__heading">Community Sponsors</h3>
-
-        <div class="sponsors__grid sponsors__grid--community">
-          {% for s in sponsors.community %}
-            {% if s.logo %}
-              {% if s.url %}
-                <a class="sponsors__logo sponsors__logo--sm" href="{{ s.url }}" target="_blank" rel="noopener noreferrer" aria-label="{{ s.name }}">
-                  <img src="{{ s.logo | relative_url }}" alt="{{ s.name }}" loading="lazy">
-                </a>
-              {% else %}
-                <div class="sponsors__logo sponsors__logo--sm" aria-label="{{ s.name }}">
-                  <img src="{{ s.logo | relative_url }}" alt="{{ s.name }}" loading="lazy">
-                </div>
-              {% endif %}
-            {% endif %}
-          {% endfor %}
-        </div>
-      </div>
-    {% endif %}
-
-
-    {% comment %}
-      Custom tier insertion point:
-      after_community
-
-      This also catches custom tiers with no position,
-      so existing custom_tiers do not disappear.
-    {% endcomment %}
-    {% if sponsors.custom_tiers %}
-      {% for custom_tier in sponsors.custom_tiers %}
-        {% if custom_tier.position == "after_community" or custom_tier.position == nil or custom_tier.position == "" %}
-          {% assign custom_style = custom_tier.style | default: "md" %}
-
-          {% if custom_style == "lg" %}
-            {% assign custom_logo_class = "sponsors__logo--lg" %}
-          {% elsif custom_style == "sm" %}
-            {% assign custom_logo_class = "sponsors__logo--sm" %}
-          {% else %}
-            {% assign custom_logo_class = "sponsors__logo--md" %}
-          {% endif %}
-
-          {% if custom_tier.items and custom_tier.items.size > 0 %}
-            <div class="sponsors__tier sponsors__tier--custom sponsors__tier--custom-{{ custom_style }}">
-              <h3 class="sponsors__heading">{{ custom_tier.label }}</h3>
-
-              <div class="sponsors__grid sponsors__grid--custom sponsors__grid--{{ custom_style }}">
-                {% for s in custom_tier.items %}
-                  {% if s.logo %}
-                    {% if s.url %}
-                      <a class="sponsors__logo {{ custom_logo_class }}" href="{{ s.url }}" target="_blank" rel="noopener noreferrer" aria-label="{{ s.name }}">
-                        <img src="{{ s.logo | relative_url }}" alt="{{ s.name }}" loading="lazy">
-                      </a>
-                    {% else %}
-                      <div class="sponsors__logo {{ custom_logo_class }}" aria-label="{{ s.name }}">
-                        <img src="{{ s.logo | relative_url }}" alt="{{ s.name }}" loading="lazy">
-                      </div>
-                    {% endif %}
-                  {% endif %}
-                {% endfor %}
-              </div>
-            </div>
-          {% endif %}
-        {% endif %}
+    <!-- Community & Media Partners -->
+    {% if sd.community and sd.community.size > 0 %}
+    <div class="sponsors__tier-header">
+      <div class="sponsors__tier-line"></div>
+      <h3 class="sponsors__tier-label">Community &amp; Media Partners</h3>
+      <div class="sponsors__tier-line"></div>
+    </div>
+    <div class="sponsors__grid">
+      {% for s in sd.community %}
+      <a href="{{ s.url }}" target="_blank" rel="noopener noreferrer" class="sponsors__card">
+        <img src="{{ s.logo }}" alt="{{ s.name }}" class="sponsors__logo sponsors__logo--community" loading="lazy" />
+      </a>
       {% endfor %}
+    </div>
     {% endif %}
+
+    <!-- CTA -->
+    <div class="sponsors__cta">
+      <h3>And Many More Who Make Our Amazing Community Possible</h3>
+      <ul class="actions">
+        <li><a href="/sponsor" class="button next">Become a Sponsor</a></li>
+      </ul>
+    </div>
 
   </div>
 </section>
-{% endif %}
