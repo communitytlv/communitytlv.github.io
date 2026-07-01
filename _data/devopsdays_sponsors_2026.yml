@@ -2,7 +2,7 @@
 # Grouped by tier. Just add/remove entries under each tier.
 # The include loops through each group directly — no filters needed.
 
-year: 2025
+year: 2026
 
 organizer:
   - name: "RTFM Please"
@@ -107,7 +107,7 @@ community:
  
 custom_tiers:
   - label: "Event Partners"
-    style: lg
+    style: sm
     items:
       - name: "Cloud Native OSS"
         url: "#"
