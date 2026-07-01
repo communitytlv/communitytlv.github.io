@@ -58,7 +58,7 @@ image: assets/images/pic13.jpg
 <br/>
 <br/>
 
-<h3> Coffee Sponsor [<span style="font-weight: 800; color:rgb(175, 11, 11);">SOLD OUT</span>]</h3>
+<h3> Coffee Sponsor</h3>
 <br/>
 <img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/coffee-1.JPG?raw=true" width="500">&nbsp;<img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/Coffee-2.JPG?raw=true" width="500">
 
