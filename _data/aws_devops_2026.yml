@@ -89,7 +89,6 @@ sessions:
     time_display: "11:05 AM – 11:15 AM"
     type: "break"
     description: "10-minute break before splitting into parallel tracks."
-    video_url: ""
 
 
 #Tracks 1
@@ -107,7 +106,7 @@ sessions:
         role: "Software Engineer, Harmony"
         photo: "/assets/images/speakers/haim-raitsev.jpg"
     description: "Most AI agents start the same way: a single prompt, a growing list of tools, and increasingly fragile behavior as complexity creeps in. Ours did too - until it became unmaintainable. In this talk, I'll show how we refactored our production IT helpdesk agent into a composable toolkit architecture using AWS Bedrock, where each capability - password resets, app provisioning, device recovery, knowledge base search, ticket management - is an independent, self-contained module with its own tools, prompts, dependencies, and runtime activation gates. Skills assemble dynamically per-request based on tenant configuration, user roles, and identity provider capabilities. I'll cover the engineering patterns that made it work: runtime gating, lazy dependency injection, streaming responses, and how we keep a multi-tenant agent from doing things it shouldn't. Real production code, real lessons learned."
-    video_url: ""
+    video_url: "https://www.youtube.com/watch?v=2j-QvA9wvjc"
 
 
   - title: "Agentic Chaos - What 86K+ Agent Codebases Reveal About 700K+ Exposed AI Systems"
@@ -141,7 +140,7 @@ sessions:
         role: "Field CTO, groundcover"
         photo: "/assets/images/speakers/aviv-zohari.png"
     description: "In just a few years, LLMs have gone from research curiosities to the backbone of new software experiences. Organizations are rapidly productionizing LLM workflows because of their immense value, but often without observability guardrails. This introduces new layers of fragility and complexity: performance volatility, quality drift, and security risks. In this talk, we explore how to monitor and troubleshoot LLM applications with zero instrumentation. Whether on commercial LLM stacks or AWS Bedrock, we'll break open the LLM black box and learn how to track token usage, response latency, data exposure risks, and model execution failures."
-    video_url: ""
+    video_url: "https://www.youtube.com/watch?v=93pYYoEPivo"
 
 
   - title: "We Tried OSS Model Routing Tools So You Don't Have To"
@@ -178,7 +177,7 @@ sessions:
         role: "Chief Architect, Impala AI"
         photo: "/assets/images/speakers/sharon-dahan.jpeg"
     description: "This session is a technical customer story about running a 100M-image multimodal inference workload on Amazon EKS with vLLM under real GPU capacity constraints. It starts with a straightforward capacity plan based on B200 machines and a GPU-hour calculation, then shows why that plan breaks down in practice when ideal capacity is not consistently available. From there, the talk explains how the hardware strategy expands across multiple AWS GPU families, why NVFP4 changes the economics, and why vLLM serving strategy has to be adapted to the topology of each machine type. The session closes with the final architecture and an additional slide on how Impala productizes this approach for production workloads."
-    video_url: ""
+    video_url: "https://www.youtube.com/watch?v=dqijndot4-8"
 
 
   - title: "The Agentic Era: Microservices, Reimagined?"
@@ -212,7 +211,7 @@ sessions:
         role: "Co-Founder & CEO, Pandorian"
         photo: "/assets/images/speakers/daniel-avital.jpg"
     description: "Nobody ever cared about writing rules well. You'd drop some standards in a Confluence doc, maybe an onboarding wiki, and move on. It didn't really matter how precise they were because nobody was reading them anyway. As long as you had strong engineers and a decent review culture, the codebase held together well enough.<br/><br/>AI changed the math. When code volume explodes and the author is increasingly a model, every other propagation mechanism breaks down. What's left is the rule. How precisely you can define it, scope it, and enforce it is now the difference between a codebase that reflects your judgment and one that slowly stops being yours.<br/><br/>This talk is about that shift."
-    video_url: ""
+    video_url: "https://www.youtube.com/watch?v=3xr9nE_tL4c"
 
 
   - title: "RAG on Your Data Lake"
@@ -254,7 +253,7 @@ sessions:
         role: "Cato Networks"
         photo: "/assets/images/speakers/assaf-peleg.jpg"
     description: "SOC & NOC teams aren't short on data - they're short on signal. With overwhelming alerts & logs, the challenge is improving Signal-to-Noise Ratio (SNR): isolating what truly matters. <br/><br/> This session presents an automated RCA framework running on Amazon EKS that amplifies signal from network and security incidents. By combining trend detection with GenAI on Amazon Bedrock, the framework transforms complex network and security data into clear, actionable explanations of why incidents occur—and what is likely to happen next.<br/><br/> Our customizable, tool-driven architecture builds tailored RCA workflows per story type, increasing SNR precision. Amazon Bedrock AgentCore provides secure runtime, contextual memory, observability, operationalizing high-SNR insights into RCA-driven actions.<br/> Detection creates data. RCA creates signal."
-    video_url: ""
+    video_url: "https://www.youtube.com/watch?v=qX71-dlrlts"
 
 
   - title: "What Production Knows: Closing the Loop Between AI Agents and the Systems They Build"
@@ -288,7 +287,7 @@ sessions:
         role: "Director of DevOps, Coro"
         photo: "/assets/images/speakers/asia-salner.jpg"
     description: "We operate a multi-account AWS environment (12 accounts, 4 regions) on EKS, Terraform, GitLab CI, and ArgoCD. The primary constraint was not infrastructure scale, but operational overload: growing backlog, missed cost optimizations, delayed risk detection, and constant reactive work.<br/><br/> This session presents how AI is embedded into both DevOps workflows and the platform layer to shift from reactive operations to continuous optimization,<br/>--Cost & hygiene — continuous scanning across AWS accounts to detect unused resources, redundant services, orphaned assets, and cost inefficiencies, with fixes generated as code<br/>--Security & compliance — identifying over-permissioned access, configuration drift, and policy violations, with controlled remediation via pipelines<br/>--Production signal analysis — logs, metrics, and code analyzed to surface hidden issues such as memory leaks and abnormal patterns missed during development<br/>--Shift-left review — AI-assisted code review for Terraform, Kubernetes, and CI/CD to prevent misconfigurations before deployment<br/>--Autonomous task execution — DevOps tasks from Jira translated into reviewed, GitOps-driven changes<br/>--Impact-based prioritization — operational work ranked by cost, reliability, and security impact, reducing backlog and eliminating low-value manual triage<br/><br/> All actions are enforced through GitOps and review. No direct production mutations.<br/><br/> Focus: architecture, integration patterns, control mechanisms, and measurable impact on cost, MTTR, and operational load."
-    video_url: ""
+    video_url: "https://www.youtube.com/watch?v=t-x7rWc8LV4"
 
 
   - title: "Why Your Kubernetes Cluster Will Fail: Lessons from 1 Million Real-World Incidents"
@@ -328,7 +327,7 @@ sessions:
         role: "Director of Infrastructure Engineering, Skai"
         photo: "/assets/images/speakers/miki-manor.png"
     description: "Eliminating toil is one of the SRE community's most sacred goals. AI agents are finally delivering on that promise — handling first-line incident response, running runbooks, auto-remediating known failure modes. Page volume is down. Mean time to resolution is down. On-call burden is down. This is unambiguously good. And it's also hiding a slow-moving crisis. SREs have always learned production systems by living with them — by being paged at 2am, clicking through runbook steps that felt tedious, noticing that this particular service always spikes after a deploy to that downstream dependency. That pattern recognition didn't live in documentation. It lived in the repetition. It lived in the toil. <br/> When AI agents absorb all of that, the humans who remain are faster, less burned out, and increasingly de-calibrated from their own systems. The first time something genuinely novel breaks — outside the agent's training distribution, no runbook applicable — you need a human who deeply knows the system. That human may no longer exist because they haven't been paged in eighteen months. This talk is about the expertise debt accumulating silently in every org embracing agentic operations — and the engineering practices that can help you not wake up to it the hard way."
-    video_url: ""
+    video_url: "https://www.youtube.com/watch?v=2Cyd6dgrtTI"
 
 
   - title: "Thousands of Clusters Maintained: Lessons Learned and Tales to Tell"
@@ -344,7 +343,7 @@ sessions:
         role: "CTO & Founder, BigData Boutique"
         photo: "/assets/images/speakers/itamar-syn-hershko.jpg"
     description: "In this talk, we'll dive deep into the heart of OpenSearch and higlight common mistakes but also not so common gotchas that'd help you optimize and stabilize your deployment too. This talk is based on 15 years of cluster maintenance in production - at every vertical, any scale, all use-cases you can think of. From Elasticsearch 0.10 to OpenSearch 3.0, I've seen it all and survived to tell the story."
-    video_url: ""
+    video_url: "https://www.youtube.com/watch?v=78SjPN00_RY"
 
 
   - title: "SPECIAL HAPPY HOUR SESSION - Promethouse: Transforming Your metrics into house music + 🍻 snacks & drinks"
