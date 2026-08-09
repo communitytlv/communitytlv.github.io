@@ -9,13 +9,13 @@ organizer:
     url: "https://rtfmplease.dev"
     logo: "/assets/images/sponsor-logos/RTFM.png"
 
-# diamond:
+diamond:
 #  - name: "ScyllaDB"
  #   url: "https://scylladb.com"
  #   logo: "/assets/images/sponsor-logos/scylla-SQ.png"
- # - name: "DoiT"
- #   url: "https://doit.com"
- #   logo: "/assets/images/sponsor-logos/doit-SQ.png"
+  - name: "DoiT"
+    url: "https://doit.com"
+    logo: "/assets/images/sponsor-logos/doit-SQ.png"
 
 platinum:
   - name: "Robusta"
@@ -24,9 +24,9 @@ platinum:
   - name: "AWS"
     url: "https://aws.amazon.com/local/israel/"
     logo: "/assets/images/sponsor-logos/aws-SQ.png"
- # - name: "groundcover"
- #   url: "https://groundcover.com"
- #  logo: "/assets/images/sponsor-logos/groundcover-SQ.png"
+  - name: "groundcover"
+    url: "https://groundcover.com"
+    logo: "/assets/images/sponsor-logos/groundcover-SQ.png"
  # - name: "Binat"
  #   url: "https://www.binat.net.il/"
  #   logo: "/assets/images/sponsor-logos/binat-SQ.png"
@@ -63,9 +63,9 @@ gold:
   # - name: "ControlMonkey"
   # url: "https://controlmonkey.io/about-us/"
   #  logo: "/assets/images/sponsor-logos/controlmonkey-SQ.png"
-  - name: "Aerospike"
-    url: "https://aerospike.com/"
-    logo: "/assets/images/sponsor-logos/aerospike-SQ.png"
+  # - name: "Aerospike"
+  #  url: "https://aerospike.com/"
+  #  logo: "/assets/images/sponsor-logos/aerospike-SQ.png"
  #- name: "CloudBees"
   #  url: "https://doit.com"
   #  logo: "/assets/images/sponsor-logos/cloudbees-SQ.png"
