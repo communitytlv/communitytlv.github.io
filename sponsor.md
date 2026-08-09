@@ -22,11 +22,11 @@ image: assets/images/pic13.jpg
 
 <strong>We greatly value sponsors for our community events.</strong>
 
-<strong> You are also welcome to view our <a href="https://drive.google.com/file/d/18MCIMUhiArIp0pa1VF4FQh9GtxUz4X7Z/view?usp=sharing" target="_blank">sponsorship brochure</a>, and if you are interested in sponsoring, please drop us an email at <a href="mailto:tel-aviv@devopsdays.org?subject=I would like to learn more about sponsoring DevOpsDays">tel-aviv@devopsdays.org</a></strong>.
+<strong> You are also welcome to view our sponsorship opportunities below, and if you are interested in sponsoring, please drop us an email at <a href="mailto:tel-aviv@devopsdays.org?subject=I would like to learn more about sponsoring DevOpsDays">tel-aviv@devopsdays.org</a></strong>.
 
 <hr>
 
-<h3> Diamond Booth Sample <!--[<span style="font-weight: 800; color:rgb(175, 11, 11);">SOLD OUT</span> >> THANKS <a href="https://scylladb.com" target="_blank">SCYLLADB</a>!]--></h3> 
+<h3> Diamond Booth Sample <span style="font-weight: 800; color:rgb(175, 11, 11);">SOLD OUT</span> >> THANKS <a href="https://doit.com" target="_blank">DOIT</a></h3> 
 <br/>
 
 <img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/Diamond-Booth.JPG?raw=true" width="500">
@@ -34,7 +34,7 @@ image: assets/images/pic13.jpg
 <br/>
 <br/>
 
-<h3>Platinum Booth Sample</h3>
+<h3>Platinum Booth Sample <span style="font-weight: 800; color:rgb(206, 205, 200);">40,000ILS</span> </h3>
 <br/>
 
 <img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/Platinum-1.JPG?raw=true" width="500">&nbsp;<img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/Platinum-3.JPG?raw=true" width="500">&nbsp;<img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/Platinum-2.JPG?raw=true" width="500">
@@ -43,7 +43,7 @@ image: assets/images/pic13.jpg
 <br/>
 
 
-<h3> Gold Booth Sample</h3>
+<h3> Gold Booth Sample  <span style="font-weight: 800; color:rgb(213, 180, 12);">28,000ILS</span> </h3>
 <br/>
 
 <img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/Gold.JPG?raw=true" width="500">
@@ -51,7 +51,7 @@ image: assets/images/pic13.jpg
 <br/>
 <br/>
 
-<h3>Demo Theater</h3>
+<h3>Demo Theater  <span style="font-weight: 800; color:rgb(229, 14, 75);">5,000ILS</span> </h3>
 <br/>
 <img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/Demo-Theater.JPG?raw=true" width="500">
 
@@ -65,7 +65,7 @@ image: assets/images/pic13.jpg
 <br/>
 <br/>
 
-<h3> Happy Hour Sponsor</h3>
+<h3> Happy Hour Sponsor <span style="font-weight: 800; color:rgb(175, 11, 11);">SOLD OUT</span> >> THANKS <a href="https://doit.com" target="_blank">DOIT</a></h3>
 <br/>
 <img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/Happy-Hour-Sponsor.JPG?raw=true" width="500">
 

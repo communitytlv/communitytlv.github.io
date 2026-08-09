@@ -70,22 +70,19 @@ nav-menu: true
          <ul class="actions"><li><a href="/sponsor" target="_blank" class="button fit"> CHECK OUT THE SPONSORSHIP OPPS</a></li></ul> 
     </div> 
 
-  <hr class="major">
-
   <a id="cfp"></a>
-    <div class="box" style="width: 100%; text-align: center;">
-   <h2 style="tex-transform: uppercase; color: ;"> CALL FOR PAPERS IS OPEN</h2>
+    <div class="box" style="width: 100%;">
+   <h2 style="tex-transform: uppercase;" class="text-gradient-sunset"> CALL FOR PAPERS IS OPEN</h2>
 
-   <h3 class="text-gradient-sunset">CFP Schedule</h3>
+   <h3>CFP Schedule</h3>
    <ul>
    <li><strong style="color: #d95374;">CFP OPENS:</strong> AUGUST 9, 2026</li>
-  <li><strong style="color: color: #c0d44f;" >CFP CLOSES:</strong> SEPTEMBER 25, 2026 - 23:59 GMT +2:00</li>
+  <li><strong style="color: #c0d44f;" >CFP CLOSES:</strong> SEPTEMBER 25, 2026 - 23:59 GMT +2:00</li>
   <li><strong style="color: turquoise;" >CFP NOTIFICATIONS:</strong> END OF OCTOBER</li>
   </ul>
    <ul class="actions"><li><a href="https://in10t.ai/cfp/devopsdays-tlv-2026" target="_blank" class="button fit"> Submit Talk</a></li></ul> 
     </div> 
 
-  <hr class="major">
 
     <a id="videos"></a>
 <div class="box" style="width: 100%; text-align: center;">
