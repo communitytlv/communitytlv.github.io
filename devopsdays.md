@@ -77,7 +77,7 @@ nav-menu: true
    <h3>CFP Schedule</h3>
    <ul>
    <li><strong style="color: #d95374;">CFP OPENS:</strong> AUGUST 9, 2026</li>
-  <li><strong style="color: #c0d44f;" >CFP CLOSES:</strong> SEPTEMBER 25, 2026 - 23:59 GMT +2:00</li>
+  <li><strong style="color: #c0d44f;" >CFP CLOSES:</strong> Extended >> October 5, 2026 - 23:59 GMT +2:00</li>
   <li><strong style="color: turquoise;" >CFP NOTIFICATIONS:</strong> END OF OCTOBER</li>
   </ul>
    <ul class="actions"><li><a href="https://in10t.ai/cfp/devopsdays-tlv-2026" target="_blank" class="button fit"> Submit Talk</a></li></ul> 
