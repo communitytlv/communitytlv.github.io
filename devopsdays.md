@@ -62,6 +62,13 @@ nav-menu: true
 
     </div>
 
+    
+  <h1 style="text-transform: uppercase;" class="text-gradient-sunset">GET TICKETS TO DEVOPSDAYS TEL AVIV 2026</h1>
+
+
+    <div data-in10t-event="jhezff"></div>
+<script src="https://in10t.ai/embed.js" async></script>
+
   
 
 <a id="sponsor"></a>
