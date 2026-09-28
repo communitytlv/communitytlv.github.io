@@ -57,8 +57,10 @@ nav-menu: true
 </section> -->
 <div class="inner">
 <p>DevOpsDays Tel-Aviv is back for its <span style="font-weight: 800; color: #d95374;">BAZILLIONTH EVENT</span> (seriously event we lost count bvetween the pandemics and other stuff - but we assure you, it's been a while) to celebrate our <span style="font-weight: 600; color: #c0d44f;">AWESOME TLVCOMMUNITY</span> representing all topics from DevOps Tel Aviv to Cloud Native & OSS Day Tel Aviv, Serverless TLV, and Statscraft.</p>
-            <p>DevOpsDays Tel Aviv is part of the global <a href="https://devopsdays.org/tel-aviv" target="_blank">devopsdays event series</a>, bringing in participants from the entire global devopsdays community.  To learn more, you can visit our event on the main <a href="https://devopsdays.org/" target="_blank">devopsdays.org</a> website.</p>
-            <p style="text-align: left; ">Join leading industry speakers along with DevOps, SRE, platform, production and operations engineers for two full days of sessions focusing on best practices in modern  engineering - from the infrastructure and operations to the systems and processes.</p>    
+
+<p>DevOpsDays Tel Aviv is part of the global <a href="https://devopsdays.org/tel-aviv" target="_blank">devopsdays event series</a>, bringing in participants from the entire global devopsdays community.  To learn more, you can visit our event on the main <a href="https://devopsdays.org/" target="_blank">devopsdays.org</a> website.</p>
+
+<p style="text-align: left; ">Join leading industry speakers along with DevOps, SRE, platform, production and operations engineers for a full day of sessions focusing on best practices in modern  engineering - from the infrastructure and operations to the systems and processes.</p>    
 
     </div>
 
