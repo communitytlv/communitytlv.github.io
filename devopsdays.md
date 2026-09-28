@@ -69,7 +69,8 @@ nav-menu: true
     <div data-in10t-event="jhezff" data-theme="dark" style="max-width: 640px; margin: 0 auto;"></div>
 <script src="https://in10t.ai/embed.js" async></script>
 
-  
+<br/>
+  <hr />
 
 <a id="sponsor"></a>
     <div class="box" style="width: 100%; text-align: center;">
