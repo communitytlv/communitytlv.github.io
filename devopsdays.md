@@ -72,7 +72,6 @@ nav-menu: true
 <script src="https://in10t.ai/embed.js" async></script>
 
 <br/>
-  <hr />
 
 <a id="sponsor"></a>
     <div class="box" style="width: 100%; text-align: center;">
