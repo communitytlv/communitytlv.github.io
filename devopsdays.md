@@ -3,7 +3,7 @@ title: DevOpsDays Tel Aviv ○ December 22, 2026 ○ David Intercontinental
 menu_title: DevOpsDays TLV 2026
 layout: landing
 description: 
-cta: <br/><ul class="actions"><li><a href="/devopsdays/agenda-2025" class="button fit" target="_blank"> 2025 AGENDA</a></li></ul><ul class="actions"><li><a href="#videos" class="button special fit" target="_blank"> Watch 2025 Videos</a></li></ul>
+cta: <br/><ul class="actions"><li><a href="https://in10t.ai/devopsdays-tlv-2026" class="button fit" target="_blank"> REGISTER</a></li></ul><ul class="actions"><li><a href="#cfp" class="button special fit" target="_blank"> SUBMIT TALK</a></li></ul>
 image: assets/images/pic08-3.jpg
 nav-menu: true
 ---
@@ -57,10 +57,41 @@ nav-menu: true
 </section> -->
 <div class="inner">
 <p>DevOpsDays Tel-Aviv is back for its <span style="font-weight: 800; color: #d95374;">BAZILLIONTH EVENT</span> (seriously event we lost count bvetween the pandemics and other stuff - but we assure you, it's been a while) to celebrate our <span style="font-weight: 600; color: #c0d44f;">AWESOME TLVCOMMUNITY</span> representing all topics from DevOps Tel Aviv to Cloud Native & OSS Day Tel Aviv, Serverless TLV, and Statscraft.</p>
-            <p>DevOpsDays Tel Aviv is part of the global <a href="https://devopsdays.org/tel-aviv" target="_blank">devopsdays event series</a>, bringing in participants from the entire global devopsdays community.  To learn more, you can visit our event on the main <a href="https://devopsdays.org/" target="_blank">devopsdays.org</a> website.</p>
-            <p style="text-align: left; ">Join leading industry speakers along with DevOps, SRE, platform, production and operations engineers for two full days of sessions focusing on best practices in modern  engineering - from the infrastructure and operations to the systems and processes.</p>    
+
+<p>DevOpsDays Tel Aviv is part of the global <a href="https://devopsdays.org/tel-aviv" target="_blank">devopsdays event series</a>, bringing in participants from the entire global devopsdays community.  To learn more, you can visit our event on the main <a href="https://devopsdays.org/" target="_blank">devopsdays.org</a> website.</p>
+
+<p style="text-align: left; ">Join leading industry speakers along with DevOps, SRE, platform, production and operations engineers for a full day of sessions focusing on best practices in modern  engineering - from the infrastructure and operations to the systems and processes.</p>    
 
     </div>
+
+    
+  <h1 style="text-transform: uppercase;" class="text-gradient-sunset">GET TICKETS TO DEVOPSDAYS TEL AVIV 2026</h1>
+
+
+    <div data-in10t-event="jhezff" data-theme="dark" style="max-width: 640px; margin: 0 auto;"></div>
+<script src="https://in10t.ai/embed.js" async></script>
+
+<br/>
+
+<a id="sponsor"></a>
+    <div class="box" style="width: 100%; text-align: center;">
+   <h2 style="tex-transform: uppercase; color: #c0d44f;"> SPONSOR THE EVENT</h2>
+         <ul class="actions"><li><a href="/sponsor" target="_blank" class="button fit"> CHECK OUT THE SPONSORSHIP OPPS</a></li></ul> 
+    </div> 
+
+  <a id="cfp"></a>
+    <div class="box" style="width: 100%;">
+   <h2 style="tex-transform: uppercase;" class="text-gradient-sunset"> CALL FOR PAPERS IS OPEN</h2>
+
+   <h3>CFP Schedule</h3>
+   <ul>
+   <li><strong style="color: #d95374;">CFP OPENS:</strong> AUGUST 9, 2026</li>
+  <li><strong style="color: #c0d44f;" >CFP CLOSES:</strong> Extended >> October 5, 2026 - 23:59 GMT +2:00</li>
+  <li><strong style="color: turquoise;" >CFP NOTIFICATIONS:</strong> END OF OCTOBER</li>
+  </ul>
+   <ul class="actions"><li><a href="https://in10t.ai/cfp/devopsdays-tlv-2026" target="_blank" class="button fit"> Submit Talk</a></li></ul> 
+    </div> 
+
 
     <a id="videos"></a>
 <div class="box" style="width: 100%; text-align: center;">
@@ -72,11 +103,7 @@ nav-menu: true
 
 </div>
 
-<!-- <a id="sponsor"></a>
-    <div class="box" style="width: 100%; text-align: center;">
-   <h2 style="tex-transform: uppercase; color: #c0d44f;"> SPONSOR THE EVENT</h2>
-         <ul class="actions"><li><a href="/sponsor" target="_blank" class="button fit"> CHECK OUT THE SPONSORSHIP OPPS</a></li></ul> 
-    </div> -->
+
 
 
 <!-- <a id="speakers"></a> -->
