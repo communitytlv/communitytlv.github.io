@@ -20,15 +20,10 @@
 		{% for page in site.html_pages %}
 		    {% if page.layout != "home" and page.nav-menu == true %}
 		        <li><a href="{{ page.url | absolute_url }}">{{ page.menu_title }}</a></li>
-				<li><a href="/devopsdays" target="_blank" class="button special fit"> DevOpsDays TLV 2026</a></li>
-
 		    {% endif %}
 		{% endfor %}
 	</ul>
 	<ul class="actions vertical">
 		<li><a href="/devopsdays" target="_blank" class="button special fit"> DevOpsDays TLV 2026</a></li>
 	</ul>
-	</nav>
-
-	
-
+</nav>

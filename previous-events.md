@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Previous Events
+menu_title: Previous Events
 description: Find Videos & Pictures from Previous Community Events
 image: assets/images/pic14.jpg
 nav-menu: true
