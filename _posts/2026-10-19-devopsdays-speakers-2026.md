@@ -24,7 +24,7 @@ nav-menu: true
 				<p>&nbsp;</p>
 	</header>
                
-<div data-in10t-event="jhezff" data-in10t-widget="speakers" data-theme="dark"></div>
+<div data-in10t-event="jhezff" data-in10t-widget="speakers" data-theme="site"></div>
 <script src="https://in10t.ai/embed.js" async></script>
 
 </div>
