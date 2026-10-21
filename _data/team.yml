@@ -10,16 +10,7 @@ team:
     social:
       twitter: "https://twitter.com/shar1z"
       linkedin: "https://www.linkedin.com/in/sharonez/"
-      github: "https://github.com/shar1z"
-
-  - name: "Jeremy Hess"
-    role: "Marketing Cookie"
-    photo: "/assets/images/jeremy.jpg"
-    bio: ""
-    social:
-      twitter: "https://twitter.com/jphess2"
-      linkedin: "https://www.linkedin.com/in/jeremyphess/"
-      github: "https://github.com/yeshess"
+      github: "https://github.com/shar1z"  
 
   - name: "Hila Fish"
     role: "AWS"
@@ -74,22 +65,6 @@ team:
       twitter: "https://twitter.com/talkimhi"
       linkedin: "https://www.linkedin.com/in/talkimhi/"
       github: "https://github.com/talkimhi"
-
-  - name: "Irit Garin"
-    role: "Done4U with RTFM Please"
-    photo: "/assets/images/irit.jpeg"
-    bio: ""
-    social:
-      linkedin: "https://www.linkedin.com/in/irit-garin-621445a7/"
-
-  - name: "Or Cohen"
-    role: "Melio Payments"
-    photo: "/assets/images/or-cohen.png"
-    bio: ""
-    social:
-      twitter: "https://twitter.com/lightpriest"
-      linkedin: "https://www.linkedin.com/in/lightpriest/"
-      github: "https://github.com/lightpriest"
     
   - name: "Arthur Berezin"
     role: "PerfectScale"
@@ -100,8 +75,36 @@ team:
       linkedin: "https://www.linkedin.com/in/arthurberezin/"
       github: "https://github.com/rtpro"
 
+  - name: "Issac Goldstand"
+    role: "CloudX"
+    photo: "/assets/images/speakers/issac-goldstand.jpg"
+    bio: ""
+    social:
+      twitter: ""
+      linkedin: "https://www.linkedin.com/in/margol/"
+      github: "https://github.com/rtpro"
+
+
+
+  - name: "Irit Garin"
+    role: "Done4U with RTFM Please"
+    photo: "/assets/images/irit.jpeg"
+    bio: ""
+    social:
+      linkedin: "https://www.linkedin.com/in/irit-garin-621445a7/"
+   
+  
 
 emeritus:
+  - name: "Jeremy Hess"
+    role: "Marketing Cookie"
+    photo: "/assets/images/jeremy.jpg"
+    bio: ""
+    social:
+      twitter: "https://twitter.com/jphess2"
+      linkedin: "https://www.linkedin.com/in/jeremyphess/"
+      github: "https://github.com/yeshess"
+ 
   - name: "Nati Cohen"
     role: "AWS"
     photo: "/assets/images/nati.jpg"
@@ -109,6 +112,15 @@ emeritus:
       twitter: "https://twitter.com/nocoot"
       linkedin: "https://www.linkedin.com/in/natict/"
       github: "https://github.com/natict"
+
+  - name: "Or Cohen"
+    role: "Melio Payments"
+    photo: "/assets/images/or-cohen.png"
+    bio: ""
+    social:
+      twitter: "https://twitter.com/lightpriest"
+      linkedin: "https://www.linkedin.com/in/lightpriest/"
+      github: "https://github.com/lightpriest"
 
   - name: "Shahar Kedar"
     role: "Riseup"
@@ -196,3 +208,5 @@ emeritus:
       twitter: "https://twitter.com/zenoujohn"
       linkedin: "https://www.linkedin.com/in/jonathann-zenou-7b384727/"
       github: "https://github.com/johnyzed"
+
+    
