@@ -45,12 +45,12 @@ nav-menu: true
 
 <a id="sponsor"></a>
     <div class="box" style="width: 100%; text-align: center;">
-   <h2 style="tex-transform: uppercase; color: #c0d44f;"> SPONSOR THE EVENT</h2>
+   <h2 style="text-transform: uppercase; color: #c0d44f;"> SPONSOR THE EVENT</h2>
          <ul class="actions"><li><a href="/sponsor" target="_blank" class="button fit"> CHECK OUT THE SPONSORSHIP OPPS</a></li></ul> 
     </div> 
 
   <a id="cfp"></a>
-   <h2 style="tex-transform: uppercase;" class="text-gradient-sunset"> CALL FOR PAPERS HAS CLOSED. AND FIRST SPEAKERS ARE ANNOUNCED - CHECK THEM OUT!</h2>
+   <h2 style="text-transform: uppercase; text-align: center;" class="text-gradient-sunset"> CALL FOR PAPERS HAS CLOSED. AND FIRST SPEAKERS ARE ANNOUNCED - CHECK THEM OUT!</h2>
 
    <!-- <h3>CFP Schedule</h3>
    <ul>
@@ -70,7 +70,7 @@ nav-menu: true
 <div data-in10t-event="jhezff" data-in10t-widget="speakers" data-theme="site"></div>
 <script src="https://in10t.ai/embed.js" async></script>
 
-<h3>We're starting to gradually roll out the agenda, as speaker confirmations come in, so check it out!</h3>
+<h3 style="text-align: center;">We're starting to gradually roll out the agenda, as speaker confirmations come in, so check it out!</h3>
 <a href="/devopsdays/agenda-2026" class="button next scrolly">AGENDA</a>
 
 </div>
