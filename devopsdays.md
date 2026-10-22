@@ -35,7 +35,7 @@ nav-menu: true
     </div>
 
     
-  <h1 style="text-transform: uppercase;" class="text-gradient-sunset">GET TICKETS TO DEVOPSDAYS TEL AVIV 2026</h1>
+  <h1 style="text-transform: uppercase; text-align: center;" class="text-gradient-sunset">GET TICKETS TO DEVOPSDAYS TEL AVIV 2026</h1>
 
 
     <div data-in10t-event="jhezff" data-theme="dark" style="max-width: 640px; margin: 0 auto;"></div>
@@ -64,14 +64,14 @@ nav-menu: true
 
     
 <a id="speakers"></a> 
-<div class="box" style="width: 100%;">
+<div class="box" style="width: 100%; text-align: center;">
 
 <h2 class="text-gradient-sunset">&#9733; Our 2026 Speakers &#9733;</h2>
 <div data-in10t-event="jhezff" data-in10t-widget="speakers" data-theme="site"></div>
 <script src="https://in10t.ai/embed.js" async></script>
 
-<h3 style="text-align: center;">We're starting to gradually roll out the agenda, as speaker confirmations come in, so check it out!</h3>
-<a href="/devopsdays/agenda-2026" class="button next scrolly">AGENDA</a>
+<h3>We're starting to gradually roll out the agenda, as speaker confirmations come in, so check it out!</h3>
+<a href="/devopsdays/agenda-2026" class="button next scrolly;">AGENDA</a>
 
 </div>
 
