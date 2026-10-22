@@ -17,13 +17,12 @@ nav-menu: true
     <img src="assets/images/devopsdays-SQ.png" width="200">
     <h1 style="text-transform: uppercase;" class="text-gradient-sunset">DEVOPSDAYS TEL AVIV 2026</h1>
     <h2 style="text-transform: uppercase; color: #8d82c4;">December 22, 2026 at the David Intercontinental!</h2>
-
-{% include videos/video.html video_id="5o5es2A18CU" title="This is DevOpsDays TLV" %}
-
 </div>
         </div>
 <a id="keynote"></a>
 {% include /home/keynote.html %}
+
+{% include videos/video.html video_id="5o5es2A18CU" title="This is DevOpsDays TLV" %}
 
 <div class="inner">
 <p>DevOpsDays Tel-Aviv is back for its <span style="font-weight: 800; color: #d95374;">BAZILLIONTH EVENT</span> (seriously event we lost count bvetween the pandemics and other stuff - but we assure you, it's been a while) to celebrate our <span style="font-weight: 600; color: #c0d44f;">AWESOME TLVCOMMUNITY</span> representing all topics from DevOps Tel Aviv to Cloud Native & OSS Day Tel Aviv, Serverless TLV, and Statscraft.</p>
@@ -82,10 +81,6 @@ nav-menu: true
 
 </div>
 
-<div class="box" style="width: 100%;">
-              {% include /home/videos.html %}
-
-</div>
 
 <a id="videos"></a>
 <div class="box" style="width: 100%; text-align: center;">
@@ -96,6 +91,12 @@ nav-menu: true
 
 
 </div>
+
+<div class="box" style="width: 100%;">
+              {% include /home/videos.html %}
+
+</div>
+
 <!--  <hr class="major">
 
  <div class="row" style="text-align: center;">
