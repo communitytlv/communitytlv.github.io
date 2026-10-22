@@ -28,7 +28,7 @@ nav-menu: true
       <h2 class="text-gradient-sunset">&#9733; Keynote Speaker &#9733;</h2>
     <img src="/assets/images/speakers/ofer-shacham-keynote.png" 
          alt="Ofer Shacham, PhD — CEO and Co-Founder, Majestic Labs"
-         width="450" loading="lazy"
+         width="650" loading="lazy"
          style="margin-bottom: 1.5em;" />
     <ul class="icons" style="justify-content: center; margin-bottom: 1em;">
       <li><a href="https://x.com/Majestic_Labs" target="_blank" rel="noopener noreferrer"
