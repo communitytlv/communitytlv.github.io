@@ -77,7 +77,6 @@ nav-menu: true
     </div> 
 
   <a id="cfp"></a>
-    <div class="box" style="width: 100%;">
    <h2 style="tex-transform: uppercase;" class="text-gradient-sunset"> CALL FOR PAPERS HAS CLOSED. AND FIRST SPEAKERS ARE ANNOUNCED - CHECK THEM OUT!</h2>
 
    <!-- <h3>CFP Schedule</h3>
