@@ -51,7 +51,7 @@ nav-menu: true
       </li>
     </ul>
   </div>
-</section> -->
+</section> 
 <div class="inner">
 <p>DevOpsDays Tel-Aviv is back for its <span style="font-weight: 800; color: #d95374;">BAZILLIONTH EVENT</span> (seriously event we lost count bvetween the pandemics and other stuff - but we assure you, it's been a while) to celebrate our <span style="font-weight: 600; color: #c0d44f;">AWESOME TLVCOMMUNITY</span> representing all topics from DevOps Tel Aviv to Cloud Native & OSS Day Tel Aviv, Serverless TLV, and Statscraft.</p>
 
