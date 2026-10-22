@@ -39,10 +39,12 @@ nav-menu: true
              class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>
     </ul>
     <h2 class="text-gradient-sunset">Dr. Ofer Shacham</h2>
-    <h3>CEO & Co-Founder <strong>Majestic Labs</h3>
+    <h3>CEO & Co-Founder <strong>Majestic Labs </strong></h3>
     <p>We are thrilled to announce Dr. Ofer Shacham as the keynote speaker at
-       <strong>DevOpsDays TLV 2026</strong>! It is few and far between we have the opportunity to have someone <em>of global renown</em> from our very own community. So we are doubly priveleged to have Dr. Shacham join us on our stage, as one of the leading silicon researchers holding a PhD from Standford, previously VP and Head of Silicon at Meta Reality Labs, as well as Google where he led Silicon Design and Implementation for the Consumer Hardware Silicon.<br />
+       <strong>DevOpsDays TLV 2026</strong>! </p>
+         <p>It is few and far between we have the opportunity to have someone <em>of global renown</em> from our very own community. So we are doubly priveleged to have Dr. Shacham join us on our stage, as one of the leading silicon researchers holding a PhD from Standford, previously VP and Head of Silicon at Meta Reality Labs, as well as Google where he led Silicon Design and Implementation for the Consumer Hardware Silicon.<br />
        Tickets are on sale — register now and let's get excited about our upcoming event!</p>
+
    <ul class="actions"><li><a href="https://in10t.ai/devopsdays-tlv-2026" class="button fit" target="_blank"> REGISTER</a>
         <a href="{{ site.hero.register_url | default: 'https://www.youtube.com/watch?v=huRfsLMK5sA&list=PL8tivQAdoavMttbcb875zvINwJOqAEYCD' }}"
            class="button next" target="_blank" rel="noopener noreferrer">
