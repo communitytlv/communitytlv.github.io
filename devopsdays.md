@@ -25,9 +25,7 @@ nav-menu: true
 <a id="keynote"></a>
    <section id="keynote" class="glass" style="margin: 2em 0; padding: 3em 2em; text-align: center;">
   <div class="inner"> 
-  <header class="major">
       <h2 class="text-gradient-sunset">&#9733; Keynote Speaker &#9733;</h2>
-    </header> 
     <img src="/assets/images/speakers/ofer-shacham-keynote.png" 
          alt="Ofer Shacham, PhD — CEO and Co-Founder, Majestic Labs"
          width="450" loading="lazy"
@@ -92,19 +90,7 @@ nav-menu: true
     </div> -->
 
 
-    <a id="videos"></a>
-<div class="box" style="width: 100%; text-align: center;">
-
-<br/>
-     <h3 style="text-transform: uppercase; color: text-gradient-sunset; text-align: center;"> <span style="color: turquoise;">IT'S A WRAP ON DEVOPSDAYS TEL AVIV 2025! </span></h3>
-{% include videos/video.html video_id="huRfsLMK5sA" playlist_id="PL8tivQAdoavMttbcb875zvINwJOqAEYCD" title="DevOpsDays TLV 2025" %}
-
-
-</div>
-
-
-
-
+    
 <a id="speakers"></a> 
 <div class="box" style="width: 100%;">
 
@@ -129,6 +115,15 @@ nav-menu: true
 
 </div>
 
+<a id="videos"></a>
+<div class="box" style="width: 100%; text-align: center;">
+
+<br/>
+     <h3 style="text-transform: uppercase; color: text-gradient-sunset; text-align: center;"> <span style="color: turquoise;">IT'S A WRAP ON DEVOPSDAYS TEL AVIV 2025! </span></h3>
+{% include videos/video.html video_id="huRfsLMK5sA" playlist_id="PL8tivQAdoavMttbcb875zvINwJOqAEYCD" title="DevOpsDays TLV 2025" %}
+
+
+</div>
 <!--  <hr class="major">
 
  <div class="row" style="text-align: center;">
