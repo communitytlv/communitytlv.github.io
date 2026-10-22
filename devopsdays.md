@@ -22,31 +22,28 @@ nav-menu: true
 
 </div>
         </div>
-<!-- <a id="keynote"></a>
+<a id="keynote"></a>
    <section id="keynote" class="glass" style="margin: 2em 0; padding: 3em 2em; text-align: center;">
   <div class="inner"> 
   <header class="major">
       <h2 class="text-gradient-sunset">&#9733; Keynote Speaker &#9733;</h2>
     </header> 
-    <img src="/assets/images/speakers/solomon-hykes.png"
-         alt="Solomon Hykes — Creator of Docker, CEO of Dagger"
+    <img src="/assets/images/speakers/ofer-shacham-keynote.png">
+         alt="Ofer Shacham, PhD — CEO and Co-Founder, Majestic"
          width="200" loading="lazy"
          style="border-radius: 50%; margin-bottom: 1.5em;" />
     <ul class="icons" style="justify-content: center; margin-bottom: 1em;">
-      <li><a href="https://x.com/solomonstre" target="_blank" rel="noopener noreferrer"
+      <li><a href="https://x.com/Majestic_Labs" target="_blank" rel="noopener noreferrer"
              class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-      <li><a href="https://www.linkedin.com/in/solomonhykes/" target="_blank" rel="noopener noreferrer"
+      <li><a href="" target="_blank" rel="noopener noreferrer"
              class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>
-      <li><a href="https://github.com/shykes" target="_blank" rel="noopener noreferrer"
-             class="icon fa-github"><span class="label">GitHub</span></a></li>
     </ul>
-    <h3>Solomon Hykes</h3>
-    <p>Creator of <strong>Docker</strong>, CEO &amp; Co-Founder of <strong>Dagger</strong></p>
-    <p>We are thrilled to announce Solomon Hykes as the keynote speaker at
-       <strong>DevOpsDays TLV 2025</strong>!<br />
-       Tickets are on sale — register now and let's show him some TLV hospitality!</p>
-    <ul class="actions" style="justify-content: center;">
-      <li>
+    <h3>Dr. Ofer Shacham</h3>
+    <p>CEO & Co-Founder <strong>Majestic Labs</strong></p>
+    <p>We are thrilled to announce Dr. Ofer Shacham as the keynote speaker at
+       <strong>DevOpsDays TLV 2026</strong>! It is few and far between we have the opportunity to have someone <em>of global renown</em> from our very own community. So we are doubly priveleged to have Dr. Shacham join us on our stage, as one of the leading silicon researchers holding a PhD from Standford, previously VP and Head of Silicon at Meta Reality Labs, as well as Google where he led Silicon Design and Implementation for the Consumer Hardware Silicon.<br />
+       Tickets are on sale — register now and let's get excited about our upcoming event!</p>
+    <ul class="actions" style="justify-content: center;"><a href="https://in10t.ai/devopsdays-tlv-2026" class="button fit" target="_blank"> REGISTER</a><li>
         <a href="{{ site.hero.register_url | default: 'https://www.youtube.com/watch?v=huRfsLMK5sA&list=PL8tivQAdoavMttbcb875zvINwJOqAEYCD' }}"
            class="button next" target="_blank" rel="noopener noreferrer">
           Watch Videos
