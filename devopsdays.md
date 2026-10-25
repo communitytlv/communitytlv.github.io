@@ -45,7 +45,13 @@ nav-menu: true
 <a id="sponsor"></a>
     <div class="box" style="width: 100%; text-align: center;">
    <h2 style="text-transform: uppercase; color: #c0d44f;"> SPONSOR THE EVENT</h2>
-         <ul class="actions"><li><a href="https://drive.google.com/file/d/1-hWXpVCVL1KIcv6FwIWkEtsMUvZ3EBXF/view?usp=sharing" target="_blank" class="button fit"> CHECK OUT THE SPONSORSHIP OPPS</a></li></ul> 
+         <ul class="actions"><li><a href="https://drive.google.com/file/d/1-hWXpVCVL1KIcv6FwIWkEtsMUvZ3EBXF/view?usp=sharing" target="_blank" class="button fit"> SPONSORSHIP PROSPECTUS</a></li>&nbsp;<li>
+        <a href="/sponsor"
+           class="button next" target="_blank" rel="noopener noreferrer">
+          SPONSORSHIP OPPS
+        </a>
+      </li>
+    </ul>
     </div> 
 
   <a id="cfp"></a>
