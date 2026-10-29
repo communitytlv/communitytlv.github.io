@@ -20,7 +20,7 @@ tiers:
         url: "https://doit.com"
         logo: "/assets/images/sponsor-logos/doit-SQ.png"
   
-   - label: "Emerald Sponsor"
+  - label: "Emerald Sponsor"
     size: platinum
     items:
       - name: "dave.io"
