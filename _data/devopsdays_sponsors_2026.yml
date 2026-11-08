@@ -59,6 +59,13 @@ tiers:
         url: "https://komodor.com"
         logo: "/assets/images/sponsor-logos/komodor-SQ.png"
 
+  - label: "Silver Sponsor"
+    size: community
+    items:
+      - name: "dash0"
+        url: "https://dash0.com"
+        logo: "/assets/images/sponsor-logos/dash0-SQ.png"
+
   - label: "Community & Media Partners"
     size: community
     items:
