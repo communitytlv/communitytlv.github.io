@@ -8,7 +8,7 @@ team:
     photo: "/assets/images/shar.jpg"
     bio: ""
     social:
-      twitter: "https://twitter.com/shar1z"
+      twitter: "https://x.com/shar1z"
       linkedin: "https://www.linkedin.com/in/sharonez/"
       github: "https://github.com/shar1z"  
 
@@ -17,7 +17,7 @@ team:
     photo: "/assets/images/hila.jpg"
     bio: ""
     social:
-      twitter: "https://twitter.com/hilafish1"
+      twitter: "https://x.com/hilafish1"
       linkedin: "https://www.linkedin.com/in/hila-fish/"
       github: "https://github.com/hilafish"
 
@@ -26,7 +26,7 @@ team:
     photo: "/assets/images/erik.jpg"
     bio: ""
     social:
-      twitter: "https://twitter.com/erikzaadi"
+      twitter: "https://x.com/erikzaadi"
       linkedin: "https://www.linkedin.com/in/erikzaadi/"
       github: "https://github.com/erikzaadi"
 
@@ -35,7 +35,7 @@ team:
     photo: "/assets/images/gil.jpg"
     bio: ""
     social:
-      twitter: "https://twitter.com/Heathenaspargus"
+      twitter: "https://x.com/Heathenaspargus"
       linkedin: "https://www.linkedin.com/in/gilzellner/"
       github: "https://github.com/gilzellner/sessions-and-bio"
 
@@ -44,7 +44,7 @@ team:
     photo: "/assets/images/andrei.jpg"
     bio: ""
     social:
-      twitter: "https://twitter.com/burdandrei"
+      twitter: "https://x.com/burdandrei"
       linkedin: "https://www.linkedin.com/in/burdandrei/"
       github: "https://github.com/burdandrei"
 
@@ -57,12 +57,20 @@ team:
       linkedin: "https://www.linkedin.com/in/cherkaskyb/"
       github: "https://github.com/borischerkasky"
 
+  - name: "Julia Volvovsky"
+    role: "Alice"
+    photo: "/assets/images/julia.jpg"
+    bio: ""
+    social:
+      twitter: "https://x.com/JuliaVolvo"
+      linkedin: "https://www.linkedin.com/in/julia-shub-72418842/"
+
   - name: "Tal Kimhi"
     role: "Draftt"
     photo: "/assets/images/tal.jpg"
     bio: ""
     social:
-      twitter: "https://twitter.com/talkimhi"
+      twitter: "https://x.com/talkimhi"
       linkedin: "https://www.linkedin.com/in/talkimhi/"
       github: "https://github.com/talkimhi"
     
@@ -71,7 +79,7 @@ team:
     photo: "/assets/images/speakers/arthur-berezin.png"
     bio: ""
     social:
-      twitter: "https://twitter.com/arthurberezin"
+      twitter: "https://x.com/arthurberezin"
       linkedin: "https://www.linkedin.com/in/arthurberezin/"
       github: "https://github.com/rtpro"
 
@@ -82,8 +90,7 @@ team:
     social:
       twitter: ""
       linkedin: "https://www.linkedin.com/in/margol/"
-      github: "https://github.com/rtpro"
-
+      github: ""
 
 
   - name: "Irit Garin"
@@ -101,7 +108,7 @@ emeritus:
     photo: "/assets/images/jeremy.jpg"
     bio: ""
     social:
-      twitter: "https://twitter.com/jphess2"
+      twitter: "https://x.com/jphess2"
       linkedin: "https://www.linkedin.com/in/jeremyphess/"
       github: "https://github.com/yeshess"
  
@@ -109,7 +116,7 @@ emeritus:
     role: "AWS"
     photo: "/assets/images/nati.jpg"
     social:
-      twitter: "https://twitter.com/nocoot"
+      twitter: "https://x.com/nocoot"
       linkedin: "https://www.linkedin.com/in/natict/"
       github: "https://github.com/natict"
 
@@ -118,7 +125,7 @@ emeritus:
     photo: "/assets/images/or-cohen.png"
     bio: ""
     social:
-      twitter: "https://twitter.com/lightpriest"
+      twitter: "https://x.com/lightpriest"
       linkedin: "https://www.linkedin.com/in/lightpriest/"
       github: "https://github.com/lightpriest"
 
@@ -126,7 +133,7 @@ emeritus:
     role: "Riseup"
     photo: "/assets/images/shahar_kedar.jpg"
     social:
-      twitter: "https://twitter.com/shahar_kedar"
+      twitter: "https://x.com/shahar_kedar"
       linkedin: "https://www.linkedin.com/in/shaharke/"
       github: "https://github.com/shaharke"
 
@@ -134,7 +141,7 @@ emeritus:
     role: "Wilco (now Booking.com)"
     photo: "/assets/images/eti.png"
     social:
-      twitter: "https://twitter.com/etinoked"
+      twitter: "https://x.com/etinoked"
       linkedin: "https://www.linkedin.com/in/eti-dahan-noked/"
       github: "https://github.com/etinoked"
 
@@ -148,7 +155,7 @@ emeritus:
     role: "Logz.io"
     photo: "/assets/images/dotan.jpg"
     social:
-      twitter: "https://twitter.com/horovits"
+      twitter: "https://x.com/horovits"
       linkedin: "https://www.linkedin.com/in/horovits/"
       github: "https://github.com/horovits"
 
