@@ -45,6 +45,10 @@ tiers:
       - name: "ProfiSea"
         url: "https://www.profisea.com/"
         logo: "/assets/images/sponsor-logos/profisea-SQ.png"
+      - name: "Cast AI"
+        url: "https://www.cast.ai/"
+        logo: "/assets/images/sponsor-logos/cast-SQ.png"
+
 
   - label: "Gold Sponsors"
     size: gold
