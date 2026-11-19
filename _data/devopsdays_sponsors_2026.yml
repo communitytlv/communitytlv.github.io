@@ -69,7 +69,7 @@ tiers:
         url: "https://dash0.com"
         logo: "/assets/images/sponsor-logos/dash0-SQ.png"
       - name: "harness"
-        url: "https://harness.com"
+        url: "https://www.harness.io/"
         logo: "/assets/images/sponsor-logos/harness-SQ.png"
 
   - label: "Community & Media Partners"
