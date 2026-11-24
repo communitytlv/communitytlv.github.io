@@ -48,6 +48,10 @@ tiers:
       - name: "Cast AI"
         url: "https://www.cast.ai/"
         logo: "/assets/images/sponsor-logos/cast-SQ.png"
+      - name: "AppsFlyer"
+        url: "https://www.appsflyer.com/"
+        logo: "/assets/images/sponsor-logos/appsflyer-SQ.png"
+
 
 
   - label: "Gold Sponsors"
@@ -65,6 +69,9 @@ tiers:
       - name: "Komodor"
         url: "https://komodor.com"
         logo: "/assets/images/sponsor-logos/komodor-SQ.png"
+      - name: "Echo"
+        url: "https://echo.ai"
+        logo: "/assets/images/sponsor-logos/echo-SQ.png"
 
   - label: "Silver Sponsor"
     size: community
