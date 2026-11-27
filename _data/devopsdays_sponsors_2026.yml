@@ -82,14 +82,21 @@ tiers:
       - name: "harness"
         url: "https://www.harness.io/"
         logo: "/assets/images/sponsor-logos/harness-SQ.png"
+      - name: "radar"
+        url: "https://www.radarhq.io/"
+        logo: "/assets/images/sponsor-logos/radar-SQ.png"
 
   - label: "Community & Media Partners"
     size: community
     items:
+      - name: "IOD
+        url: "https://iamondemand.com"
+        logo: "/assets/images/sponsor-logos/IOD-SQ.png"
+      - name: "IOD"
       - name: "Cloud Native OSS"
         url: "#"
         logo: "/assets/images/cloudnative-oss-SQ.png"
-      - name: "Israel Tech"
+      - name: "Cloud Native IL"
         url: "https://www.israeltech.com/"
         logo: "/assets/images/sponsor-logos/israeltech-SQ.png"
       - name: "Statscraft"
