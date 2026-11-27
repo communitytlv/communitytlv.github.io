@@ -95,7 +95,7 @@ tiers:
       - name: "Cloud Native OSS"
         url: "#"
         logo: "/assets/images/cloudnative-oss-SQ.png"
-      - name: "Cloud Native IL"
+      - name: "Israel Tech"
         url: "https://www.israeltech.com/"
         logo: "/assets/images/sponsor-logos/israeltech-SQ.png"
       - name: "Statscraft"
