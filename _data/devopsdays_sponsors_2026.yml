@@ -92,7 +92,6 @@ tiers:
       - name: "IOD
         url: "https://iamondemand.com"
         logo: "/assets/images/sponsor-logos/IOD-SQ.png"
-      - name: "IOD"
       - name: "Cloud Native OSS"
         url: "#"
         logo: "/assets/images/cloudnative-oss-SQ.png"
